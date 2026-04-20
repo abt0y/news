@@ -8,5 +8,5 @@ topics: ['AI', 'Creative']
 
 Article URL: https://awesomeagents.ai/news/github-fake-stars-investigation/
 Comments URL: https://news.ycombinator.com/item?id=47831621
-Points: 137
-# Comments: 90
+Points: 227
+# Comments: 127
