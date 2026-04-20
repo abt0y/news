@@ -1,0 +1,1751 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/12",
+    "title": "List of Source articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/000647e28388e9ed",
+    "crawlTimeMsec": "1767888055233",
+    "timestampUsec": "1767888055233005",
+    "published": 1767884400,
+    "title": "Microsoft propels retail forward with agentic AI capabilities that power intelligent automation for every retail function",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Press releases"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23265\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n\t<header data-sanitized-class=\"mssrc-block-post-header is-style-text has-high-density has-text-align-left\">\n\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<div data-sanitized-class=\"wp-block-column flex-basis-100\">\n\t\t\t\t<div data-sanitized-class=\"post-header__content has-text-align-left\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/\" data-sanitized-class=\"kicker\"><time datetime=\"1767884405\">January 8, 2026</time></a><ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/topics/company-news/\" data-sanitized-class=\"kicker post__meta--category\"><span data-sanitized-class=\"sr-only\">Category: </span>Company News</a></li></ul>\n\t\t\t\t\t<h1 data-sanitized-class=\"h2\">Microsoft propels retail forward with agentic AI capabilities that power intelligent automation for every retail function</h1>\n\n\t\t\t\t\t\t\t\t\t\t\t<h2 data-sanitized-class=\"h3\"><em>Built for the full retail value chain, Microsoft’s agentic AI streamlines critical workflows to accelerate decisions and outcomes</em> <em>by augmenting human expertise across the enterprise</em></h2>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author\">\n\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author__bylines\"><ul data-sanitized-class=\"post-header__author__list\"><li data-sanitized-class=\"post-header__author__list__item\"><span data-sanitized-class=\"post-header__author__name\"><a href=\"https://news.microsoft.com/source/author/microsoft-source/\">Microsoft Source</a></span></li></ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\t\n<div data-sanitized-class=\"post__content\">\n\n\t\n\n<section data-sanitized-class=\"mssrc-block-content-block\">\n\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t<div data-sanitized-class=\"wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n<p><strong>REDMOND, Wash. — Jan. 8, 2026 —</strong> Microsoft Corp. on Thursday announced agentic AI solutions designed to bring intelligent automation to every part of the retail business. These new capabilities help retailers move faster, serve shoppers with greater relevance, and operate with resilience and efficiency, delivering a modern foundation for growth in a highly competitive market.</p>\n\n\n\n<p>Across merchandising, marketing, store operations and fulfillment, these solutions bring a connected layer of intelligence that transforms fragmented workflows into coordinated execution. By equipping teams with context-aware tools that can anticipate and act, Microsoft is accelerating the industry’s move toward a unified, intelligence-driven operating system built for the pace of modern retail.</p>\n\n\n\n<p>“The retailers that thrive will be the ones that unify their business with intelligence that reaches every corner of the value chain,” said Kathleen Mitford, Corporate Vice President of Global Industry at Microsoft. “With Microsoft’s agentic AI, retailers can automate what slows them down and amplify what sets them apart, enabling faster decisions and stronger customer relationships while building operations ready for whatever comes next.”</p>\n\n\n\n<p><strong>Turning inspiration into action with agentic commerce</strong> </p>\n\n\n\n<p>AI is significantly changing how consumers shop for gifts. <a href=\"https://business.adobe.com/resources/holiday-shopping-report.html\">Adobe </a>unveiled that AI‑driven ecommerce traffic for the 2025 holiday season has surged by 693% compared to 2024. This increase illustrates the importance of connecting authentic brand engagement with frictionless checkout, helping retailers capture value at the exact moment of intent. </p>\n\n\n\n<p><a href=\"https://about.ads.microsoft.com/en/blog/post/january-2026/conversations-that-convert-copilot-checkout-and-brand-agents\">Copilot Checkout</a> will enable merchants to reach shoppers as they complete purchases discovered directly within Copilot without being redirected to external sites. Copilot Checkout turns conversations into conversions — instantly. No redirect, no friction, and merchants stay the merchant of record. Copilot Checkout is now available in the U.S. on <a href=\"https://www.copilot.com/\">Copilot.com</a>. Trusted partners enabling this experience include PayPal, Shopify and Stripe. Shoppers will be able to purchase from leading retail brands such as Urban Outfitters, Anthropologie and Ashley Furniture, and discover unique and handmade items from Etsy sellers with many more joining soon. </p>\n\n\n\n<p>“At Etsy, our job is to make it simple for people to discover the special things our sellers create. By bringing Etsy’s unique inventory to Copilot Checkout, we’re meeting buyers at the moment intent becomes action,” said Rafe Colburn, Chief Product and Technology Officer at Etsy. “With one integration, we open the door for our sellers to show up across new surfaces without extra work. It’s a straightforward way to connect their creativity to high-intent buyers — and to keep commerce human as shopping evolves.”</p>\n\n\n\n<p>Shopify merchants will automatically be enrolled in Copilot Checkout following an opt-out window. “Copilot Checkout can move a customer from intent to transaction in seconds, all without leaving the conversation. It’s the merchant’s checkout powered by Shopify, seamlessly fitting into the customer’s experience,” said Mani Fazeli, VP of Product at Shopify. “This is the modern power of Agentic Storefronts: personalization and relevance, trust and accuracy, speed and convenience.”</p>\n\n\n\n<p>Merchants wanting to onboard using PayPal or Stripe can apply <a href=\"https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbRwJj5YTRStlBtPZTFWtq3-xUQjJPSFhPUDlIVlhWTUtTRUw4NFI3TUYxSS4u&amp;route=shorturl\">here</a>.</p>\n\n\n\n<p><strong>Driving loyalty and conversions through intelligent shopping agents</strong> </p>\n\n\n\n<p>Microsoft is introducing two solutions that bring agentic commerce to life across the digital experiences retailers own: <a href=\"https://clarity.microsoft.com/brand-agents\">Brand Agents</a>, now available for merchants on the Shopify platform, and the <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcopilotstudio.microsoft.com%2F&amp;data=05%7C02%7Callyhigdon%40microsoft.com%7C287bcdd2baed482d1d6908de3cf23f2a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639015208405423470%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=PHhp7C9e89zHS452A2MpQagGQUsMZ96jy2pbs3KI%2B6M%3D&amp;reserved=0\">personalized shopping agent template in Copilot Studio.</a> Both enable personalized, conversational shopping experiences, helping retailers guide customers, boost engagement and drive conversions.</p>\n\n\n\n<p>Brand Agents is a turnkey solution for brands to bring their authentic voice into every digital interaction on their website. Trained on a brand’s product catalog, it answers detailed product questions, engages shoppers in natural, brand-aligned conversations, and is ready for Shopify customers to deploywith minimal setup. </p>\n\n\n\n<p>The personalized shopping agent template provides a fully customizable framework for retailers wanting to tailor experiences more deeply. In addition to real-time, context-aware product discovery and recommendations across web, mobile and in-store experiences, it includes advanced capabilities such as outfit building and more, giving retailers flexibility to craft unique engaging shopping journeys. </p>\n\n\n\n<p>“Microsoft’s personalized shopping agent template gives us a flexible foundation to explore AI-powered guidance in a way that fits our brands, improves the customer experience and helps customers get inspired,” said Jenny Jidborn, IT Manager at Kappahl Group. “It supports our ambition to improve conversion while also reducing returns through better decision support at the product level — ultimately helping customers feel more confident and satisfied with their choices.”</p>\n\n\n\n<p><strong>Enabling smarter discovery and recommendations through catalog enrichment </strong> </p>\n\n\n\n<p>Microsoft is also launching in public preview the <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcopilotstudio.microsoft.com%2F&amp;data=05%7C02%7Callyhigdon%40microsoft.com%7C287bcdd2baed482d1d6908de3cf23f2a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639015208405423470%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=PHhp7C9e89zHS452A2MpQagGQUsMZ96jy2pbs3KI%2B6M%3D&amp;reserved=0\">catalog enrichment agent template </a>in Copilot Studio, an intelligent assistant that extracts product attributes from images, enriches them with social insights, and automates catalog tasks such as product onboarding, categorization and error resolution. Serving as a foundation for agentic commerce and a new lever for merchants, this customizable template transforms product data into enriched, structured data that fuels discovery, recommendations and hyper-personalized shopping experiences across channels. </p>\n\n\n\n<p> “With Microsoft’s catalog enrichment agent template forming the backbone of our personalized shopping experiences, we can turn product details into meaningful insights that help shoppers discover styles in real time, receive tailored recommendations and explore complete looks,” said David Torrecilla, Head of Innovation at Guess. “It’s a powerful step forward in our commitment to delivering service that’s as dynamic as our brand.” </p>\n\n\n\n<p><strong>Empowering store associates and streamlining store operations for faster service and better customer experiences</strong> </p>\n\n\n\n<p>Retailers continue to grapple with <a href=\"https://www.fountain.com/posts/frontline-workforce-trends-2025\">high turnover and a shortage of skilled frontline staff</a>. Many employees lack access to digital tools that could help them serve customers more effectively and efficiently. Microsoft’s new agentic AI solution is designed to change that by empowering employees with intuitive, on-demand assistance. </p>\n\n\n\n<p><a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcopilotstudio.microsoft.com%2F&amp;data=05%7C02%7Callyhigdon%40microsoft.com%7C287bcdd2baed482d1d6908de3cf23f2a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639015208405423470%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=PHhp7C9e89zHS452A2MpQagGQUsMZ96jy2pbs3KI%2B6M%3D&amp;reserved=0\">Store operations agent template</a> in Copilot Studio, now in public preview, empowers store leaders and associates with a natural language interface for quick answers on inventory availability and store policies, while autonomously orchestrating workflows, flagging exceptions and recommending next best actions. By analyzing internal signals like sales trends and foot traffic alongside external factors such as weather, local events and holidays, it delivers contextual recommendations for staffing, KPIs and operational priorities. The intelligent agent helps leaders make smarter, faster decisions. </p>\n\n\n\n<p>“With the store operations agent template, we’re advancing our AI strategy by enabling teams to act on live store insights,” said John Khoury, Group CTO at Strandbags. “The flexibility to shape the agent around our specific needs ensures our teams can focus on delivering exceptional service while we stay ahead in a fastmoving retail world.” </p>\n\n\n\n<p>Microsoft’s new agentic AI solutions mark a turning point in the era of agentic AI for retailers, giving them the tools to anticipate change, operate more efficiently and deliver experiences that truly reflect their brand values. Intelligent agents help automate critical retail workflows from inventory management and product onboarding to real-time merchandising insights, freeing teams to focus on strategy and innovation while driving measurable business outcomes. By combining deep enterprise integration with responsible innovation, Microsoft is helping retailers build stronger businesses and lasting customer relationships for the future. </p>\n\n\n\n<p>Start by exploring retail agent solutions in <a href=\"https://marketplace.microsoft.com/en-us/marketplace/apps?industry=retail-and-consumer-goods\">Microsoft Marketplace</a> and learn more about Microsoft for Retail <a href=\"https://www.microsoft.com/en-us/industry/retail/microsoft-cloud-for-retail\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>. To experience these solutions in action, visit Microsoft and its customers and partners at NRF 2026 at booth #4503. </p>\n\n\n\n<p>Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.</p>\n\n\n\n<p><strong>For more information, press only:</strong> </p>\n\n\n\n<p>Microsoft Media Relations, <strong>We. Communications,</strong> (425) 638-7777, <a href=\"mailto:rapidresponse@we-communications.com\">rapidresponse@we-communications.com</a><em> </em></p>\n\n\n\n<p><em>Note to editors:</em>  For more information, news and perspectives from Microsoft, please visit Microsoft Source at <a href=\"https://news.microsoft.com/source\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/source</a>. Web links, telephone numbers and titles were correct at time of publication but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at <a href=\"https://news.microsoft.com/microsoft-public-relations-contacts\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/microsoft-public-relations-contacts</a>. </p>\n\n</div>\t\t</div>\n\t</div>\n</section>\n\n</div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/press-releases/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Press releases</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t<p>The post <a href=\"https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/\">Microsoft propels retail forward with agentic AI capabilities that power intelligent automation for every retail function</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p></div></article>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23265",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647e28388e9fb",
+    "crawlTimeMsec": "1767888055233",
+    "timestampUsec": "1767888055233019",
+    "published": 1767885360,
+    "title": "Microsoft propels retail forward with agentic AI capabilities that power intelligent automation",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23303\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/2026/01/08/microsoft-propels-retail-forward-with-agentic-ai-capabilities-that-power-intelligent-automation-for-every-retail-function/\">Microsoft propels retail forward with agentic AI capabilities that power intelligent automation</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23303",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647e28388ea03",
+    "crawlTimeMsec": "1767888055233",
+    "timestampUsec": "1767888055233027",
+    "published": 1767886140,
+    "title": "AI adoption rises as digital divide widens",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/08/global-ai-adoption-in-2025/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/08/global-ai-adoption-in-2025/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23306\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/01/08/global-ai-adoption-in-2025/\">AI adoption rises as digital divide widens</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23306",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647e49b891ae7",
+    "crawlTimeMsec": "1767897047833",
+    "timestampUsec": "1767897047833319",
+    "published": 1767894420,
+    "title": "Xbox Developer_Direct broadcast returns Jan. 22",
+    "canonical": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23311\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/gaming/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Gaming</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/\">Xbox Developer_Direct broadcast returns Jan. 22</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23311",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064833327c1072",
+    "crawlTimeMsec": "1768234587787",
+    "timestampUsec": "1768234587787378",
+    "published": 1768231200,
+    "title": "From Signal magazine: Why Microsoft’s CTO says the future belongs to the builders",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-02/#bold-new-future"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-02/#bold-new-future",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23348\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signalmagazine/issue/issue-02/#bold-new-future\">From Signal magazine: Why Microsoft’s CTO says the future belongs to the builders</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23348",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648343d6626d7",
+    "crawlTimeMsec": "1768239065867",
+    "timestampUsec": "1768239065867991",
+    "published": 1768236480,
+    "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23363\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/\">Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23363",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006484719ce4c1c",
+    "crawlTimeMsec": "1768320073092",
+    "timestampUsec": "1768320073092124",
+    "published": 1768318320,
+    "title": "Announcing LinkedIn’s first book: Open to Work: How to Get Ahead in the Age of AI",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/blog/2026/01/13/announcing-open-to-work-how-to-get-ahead-in-the-age-of-ai/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/blog/2026/01/13/announcing-open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23382\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/13/announcing-open-to-work-how-to-get-ahead-in-the-age-of-ai/\">Announcing LinkedIn’s first book: Open to Work: How to Get Ahead in the Age of AI</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23382",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648482594abc0",
+    "crawlTimeMsec": "1768324565609",
+    "timestampUsec": "1768324565609408",
+    "published": 1768322460,
+    "title": "As we continue to expand our AI infrastructure, we’re committed to being a good neighbor in the communities where we build and operate our datacenters. Today we’re sharing new steps we’ll take to partner with local communities across the U.S.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_building-community-first-ai-infrastructure-activity-7416834810364551168-VnDs"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_building-community-first-ai-infrastructure-activity-7416834810364551168-VnDs",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23386\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_building-community-first-ai-infrastructure-activity-7416834810364551168-VnDs\">As we continue to expand our AI infrastructure, we’re committed to being a good neighbor in the communities where we build and operate our datacenters. Today we’re sharing new steps we’ll take to partner with local communities across the U.S.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23386",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648482594abc7",
+    "crawlTimeMsec": "1768324565609",
+    "timestampUsec": "1768324565609415",
+    "published": 1768322820,
+    "title": "Microsoft’s commitment to building community-first AI infrastructure",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23387\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/\">Microsoft’s commitment to building community-first AI infrastructure</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23387",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006484b49e65dd1",
+    "crawlTimeMsec": "1768338059845",
+    "timestampUsec": "1768338059845073",
+    "published": 1768335120,
+    "title": "CES 2026: Showcasing new Windows 11 PC innovations across the ecosystem",
+    "canonical": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/13/ces-2026-showcasing-new-windows-11-pc-innovations-across-the-ecosystem/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/13/ces-2026-showcasing-new-windows-11-pc-innovations-across-the-ecosystem/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Product development"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23389\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/product-development/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Product development</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.windows.com/windowsexperience/2026/01/13/ces-2026-showcasing-new-windows-11-pc-innovations-across-the-ecosystem/\">CES 2026: Showcasing new Windows 11 PC innovations across the ecosystem</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23389",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006485b028f8177",
+    "crawlTimeMsec": "1768405582446",
+    "timestampUsec": "1768405582446967",
+    "published": 1768403940,
+    "title": "From Signal magazine: Inside the global hunt to shut down a criminal malware network",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-02/#the-takedown"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-02/#the-takedown",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Security"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23391\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/security/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Security</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signalmagazine/issue/issue-02/#the-takedown\">From Signal magazine: Inside the global hunt to shut down a criminal malware network</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23391",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006485c0e134685",
+    "crawlTimeMsec": "1768410070599",
+    "timestampUsec": "1768410070599301",
+    "published": 1768405740,
+    "title": "Microsoft’s latest cybercrime effort disrupts global fraud service",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/14/microsoft-disrupts-cybercrime/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/14/microsoft-disrupts-cybercrime/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "On the issues"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23394\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/on-the-issues/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">On the issues</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/01/14/microsoft-disrupts-cybercrime/\">Microsoft’s latest cybercrime effort disrupts global fraud service</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23394",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006485d19e12c30",
+    "crawlTimeMsec": "1768414563609",
+    "timestampUsec": "1768414563609648",
+    "published": 1768410660,
+    "title": "Update to shared commitment to safer gaming",
+    "canonical": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23403\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/gaming/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Gaming</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/\">Update to shared commitment to safer gaming</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23403",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006485d19e12c32",
+    "crawlTimeMsec": "1768414563609",
+    "timestampUsec": "1768414563609650",
+    "published": 1768410900,
+    "title": "4 ways AI is reshaping discovery, health, work and responsibility",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/4-ways-ai-is-reshaping-discovery-health-work-and-responsibility/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/4-ways-ai-is-reshaping-discovery-health-work-and-responsibility/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23401\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signal/articles/4-ways-ai-is-reshaping-discovery-health-work-and-responsibility/\">4 ways AI is reshaping discovery, health, work and responsibility</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23401",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648689f6a3faa",
+    "crawlTimeMsec": "1768464048603",
+    "timestampUsec": "1768464048603050",
+    "published": 1768460820,
+    "title": "The digital medicine for pharmacies: How AI is powering Kenya’s chemists",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/emea/features/microsoft-copilot-zendawa-ai-kenya-pharmacies/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/emea/features/microsoft-copilot-zendawa-ai-kenya-pharmacies/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23406\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/emea/features/microsoft-copilot-zendawa-ai-kenya-pharmacies/\">The digital medicine for pharmacies: How AI is powering Kenya’s chemists</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23406",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006486ff5b5699a",
+    "crawlTimeMsec": "1768495561140",
+    "timestampUsec": "1768495561140634",
+    "published": 1768492800,
+    "title": "Microsoft expands its commitment to education with Elevate for Educators Program and new AI-powered tools",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Press releases"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23346\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n\t<header data-sanitized-class=\"mssrc-block-post-header is-style-text has-high-density has-text-align-left\">\n\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<div data-sanitized-class=\"wp-block-column flex-basis-100\">\n\t\t\t\t<div data-sanitized-class=\"post-header__content has-text-align-left\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/\" data-sanitized-class=\"kicker\"><time datetime=\"1768492804\">January 15, 2026</time></a><ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/topics/company-news/\" data-sanitized-class=\"kicker post__meta--category\"><span data-sanitized-class=\"sr-only\">Category: </span>Company News</a></li></ul>\n\t\t\t\t\t<h1 data-sanitized-class=\"h2\">Microsoft expands its commitment to education with Elevate for Educators Program and new AI-powered tools</h1>\n\n\t\t\t\t\t\t\t\t\t\t\t<h2 data-sanitized-class=\"h3\"><em>Empowering education systems, educators and students with responsible AI tools in Microsoft 365 Copilot app and global programs that strengthen educator confidence and support learning and career pathways</em></h2>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author\">\n\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author__bylines\"><ul data-sanitized-class=\"post-header__author__list\"><li data-sanitized-class=\"post-header__author__list__item\"><span data-sanitized-class=\"post-header__author__name\"><a href=\"https://news.microsoft.com/source/author/microsoft-source/\">Microsoft Source</a></span></li></ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\t\n<div data-sanitized-class=\"post__content\">\n\n\t\n\n<section data-sanitized-class=\"mssrc-block-content-block\">\n\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t<div data-sanitized-class=\"wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n<p><strong>REDMOND, Wash. — Jan. 15, 2026</strong> <strong>—</strong> Microsoft Corp. on Thursday announced Microsoft Elevate for Educators, a new comprehensive program connecting educators with community, resources and in-demand credentials and new AI-powered capabilities at no additional cost to help schools worldwide prepare educators and students for an AI-driven future.</p>\n\n\n\n<p>Today’s announcements are aligned with Microsoft’s mission to support education in the AI era. Unveiled ahead of Bett UK 2026, these innovations put trusted, education-specific AI tools in the hands of educators and students while ensuring they have the skills, support and confidence to use them effectively and responsibly.</p>\n\n\n\n<p>“As AI becomes part of everyday learning, our responsibility is to ensure it supports educators and earns the confidence of students and families,” said Justin Spelhaug, President of Microsoft Elevate. “For Microsoft, that means building responsible AI-powered solutions for education in the Microsoft 365 Copilot app secure and grounded in the values that make learning human, while ensuring our educators and schools have the skills and resources through programs like Elevate for Educators to use these tools effectively.”<strong></strong></p>\n\n\n\n<p><strong>Introducing Microsoft Elevate for Educators</strong></p>\n\n\n\n<p>The Microsoft Elevate for Educators program is part of the <a href=\"https://blogs.microsoft.com/on-the-issues/2025/07/09/elevate/\">company’s broader Microsoft Elevate commitment</a> to help schools and educators build skills, expand opportunity and ensure everyone benefits from AI. The program equips educators and school leaders with access to one of the world’s largest and most connected peer educator networks, and offers free professional development resources and access to in-demand credentials to confidently integrate AI into the classroom. Microsoft Elevate for Educators is available today at <a href=\"https://aka.ms/MicrosoftElevateforEducators\">https://aka.ms/MicrosoftElevateforEducators</a> and includes:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li><strong>Industry-recognized credentials</strong> <strong>for educators.</strong> A new, free Microsoft Elevate Educator Credential, developed in partnership with ISTE + ASCD, and aligned to the AI Literacy Framework, helps educators gain confidence and expertise in integrating AI into their teaching and learning. Educators worldwide will also have access to a new Microsoft Certified Instructional Technologist and Coach certification, which will be made available to educators in coming months.</li>\n\n\n\n<li><strong>New global communities for K-12 educators and schools. </strong>Educators and schools worldwide face the challenge of integrating AI in ways that truly benefit every student. In response, Microsoft is launching significant updates to its global educator community to help educators strengthen skills, gain recognition and collaborate globally on best practices in AI-powered teaching. The new Microsoft Elevate Educators and Microsoft Elevate Schools communities now offer year-round membership, expanded training opportunities and resources, and a progressive achievement system for educators to advance as they learn. For the first time, school districts, systems and ministries can gain special recognition for supporting educators’ professional growth and demonstrating measurable impact in classrooms and across education systems.</li>\n\n\n\n<li><strong>Free professional development</strong> <strong>for all educators globally. </strong>Professional development training and credentials can help educators keep current on certifications, or qualify for salary increases or career advancement. To help educators learn new skills and achieve more, the new Microsoft Elevate for Educators program offers a suite of new self-paced courses, live sessions and AI-powered simulations, available globally and in more than 13 languages through the <a href=\"https://aiskillsnavigator.microsoft.com/\">AI Skills Navigator</a>.</li>\n</ul>\n\n\n\n<p><strong>Announcing a limited time Copilot and LinkedIn promotion for students</strong></p>\n\n\n\n<p>Microsoft <a href=\"https://aka.ms/M365PremiumPlusLinkedInPremium-StudentOffer\">introduced a new offer</a> to empower college students with the tools they need to succeed in today’s AI-powered workplace. Beginning today, eligible college students can get <strong>12 months of Microsoft 365 Premium and LinkedIn Premium Career subscriptions for free,</strong> <a href=\"https://www.microsoft.com/microsoft-365/college-student-pricing?ocid=cmmnf3oysde\">available directly through Microsoft</a>. This limited-time promotion provides students with powerful productivity tools — including Researcher and Analyst agents, extensive AI usage limits, and productivity apps like Word, Excel and PowerPoint with Copilot built in — plus career resources to help build skills, network and prepare for future opportunities.<strong></strong></p>\n\n\n\n<p><strong>Designed for education: Personalized AI that puts educators and students first</strong></p>\n\n\n\n<p>Microsoft also introduced new AI-powered capabilities purpose-built for education, available at no additional cost for Microsoft 365 Education customers. Building on existing education‑specific tools, these capabilities are designed to amplify teaching and learning while maintaining security and trust.</p>\n\n\n\n<p><strong><em>Giving educators more time for what matters most</em></strong><em></em></p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li><strong>Teach in the Microsoft 365 Copilot app </strong>helps educators streamline class preparation and personalize instruction in one place. Available today, new features in Teach enable educators to quickly plan high‑quality, standards‑aligned lessons and learning activities, giving them more time to focus on teaching. Built‑in AI tools make it easy to adapt instruction to different learning needs, adjust reading levels and differentiate content across diverse classrooms, while AI‑powered assessment support helps educators evaluate understanding and provide timely, actionable feedback.</li>\n\n\n\n<li>Available now, <strong>Microsoft Learning Zone</strong> is a free, AI-powered learning app and the first Copilot+ PC experience built for educators to create personalized, adaptive learning activities</li>\n</ul>\n\n\n\n<p><strong><em>Empowering students to learn at their own pace</em></strong></p>\n\n\n\n<p>As AI increasingly shapes how students learn and prepare for the future, Microsoft is delivering tools that support more independent and engaging study. <strong>The Study and Learn Agent </strong>is an adaptive AI assistant that provides students with personalized support. Available in preview later this month, the Study and Learn Agent is designed to foster critical and reflective thinking, helping students learn independently while building confidence.</p>\n\n\n\n<p>For more information on Microsoft’s commitment to education, visit us at <a href=\"https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/#introducing-microsoft-elevate-for-educators\">aka.ms/AIforTeachingandLearning</a> or at the Microsoft stand (SM20) at Bett UK (Jan. 21-23).</p>\n\n\n\n<p>Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.</p>\n\n\n\n<p><strong>For more information, press only:</strong><br>Microsoft Media Relations, <strong>We. Communications,</strong> (425) 638-7777, <a href=\"mailto:rapidresponse@wecommunications.com\">rapidresponse@wecommunications.com</a></p>\n\n\n\n<p><em>Note to editors:</em> For more information, news and perspectives from Microsoft, please visit Microsoft Source at <a href=\"https://news.microsoft.com/source\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/source</a>. Web links, telephone numbers and titles were correct at time of publication but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at <a href=\"https://news.microsoft.com/microsoft-public-relations-contacts\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/microsoft-public-relations-contacts</a>. </p>\n\n</div>\t\t</div>\n\t</div>\n</section>\n\n</div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/press-releases/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Press releases</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t<p>The post <a href=\"https://news.microsoft.com/source/2026/01/15/microsoft-expands-its-commitment-to-education-with-elevate-for-educators-program-and-new-ai-powered-tools/\">Microsoft expands its commitment to education with Elevate for Educators Program and new AI-powered tools</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p></div></article>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23346",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006486ff5b5699f",
+    "crawlTimeMsec": "1768495561140",
+    "timestampUsec": "1768495561140639",
+    "published": 1768493340,
+    "title": "Microsoft introduces innovations and programs to support AI-powered teaching and learning",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Education"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23413\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/education/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Education</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/\">Microsoft introduces innovations and programs to support AI-powered teaching and learning</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23413",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648720df8dc08",
+    "crawlTimeMsec": "1768504558148",
+    "timestampUsec": "1768504558148616",
+    "published": 1768500780,
+    "title": "College students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career for free",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Education"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23416\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/education/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Education</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/01/15/college-students-now-get-12-months-of-microsoft-365-premium-and-linkedin-premium-career-on-us/\">College students now get 12 months of Microsoft 365 Premium and LinkedIn Premium Career for free</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23416",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064888e50e1d7d",
+    "crawlTimeMsec": "1768602655923",
+    "timestampUsec": "1768602655923581",
+    "published": 1768600560,
+    "title": "The Prompt: Use AI to hype you up",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/prompt-use-ai-to-hype-you-up/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/prompt-use-ai-to-hype-you-up/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23450\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signal/articles/prompt-use-ai-to-hype-you-up/\">The Prompt: Use AI to hype you up</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23450",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d3b4dbd2ac",
+    "crawlTimeMsec": "1768923969868",
+    "timestampUsec": "1768923969868460",
+    "published": 1768921680,
+    "title": "AI for social impact: Advancing AI skills to empower civil society and support sustainable growth",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/asia/2026/01/14/ai-for-social-impact-microsoft-escap-ccdkm-stou-depa-advance-ai-skills-training-to-empower-civil-society-and-support-sustainable-digital-growth/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/asia/2026/01/14/ai-for-social-impact-microsoft-escap-ccdkm-stou-depa-advance-ai-skills-training-to-empower-civil-society-and-support-sustainable-digital-growth/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23461\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/asia/2026/01/14/ai-for-social-impact-microsoft-escap-ccdkm-stou-depa-advance-ai-skills-training-to-empower-civil-society-and-support-sustainable-digital-growth/\">AI for social impact: Advancing AI skills to empower civil society and support sustainable growth</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23461",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d3b4dbd2c0",
+    "crawlTimeMsec": "1768923969868",
+    "timestampUsec": "1768923969868480",
+    "published": 1768923180,
+    "title": "How AI-powered collaborations are transforming healthcare and life sciences",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/startups/blog/how-ai-powered-collaborations-are-transforming-healthcare-and-life-sciences/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/startups/blog/how-ai-powered-collaborations-are-transforming-healthcare-and-life-sciences/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23463\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/health/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Health</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/startups/blog/how-ai-powered-collaborations-are-transforming-healthcare-and-life-sciences/\">How AI-powered collaborations are transforming healthcare and life sciences</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23463",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d4c1bf76ca",
+    "crawlTimeMsec": "1768928481081",
+    "timestampUsec": "1768928481081034",
+    "published": 1768919280,
+    "title": "From Signal magazine: Trevor Noah on the reasons to be cheerful about 2026 ",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-03/#trevor-noah-interview"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-03/#trevor-noah-interview",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23456\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signalmagazine/issue/issue-03/#trevor-noah-interview\">From Signal magazine: Trevor Noah on the reasons to be cheerful about 2026 </a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23456",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d5ce1a9985",
+    "crawlTimeMsec": "1768932983347",
+    "timestampUsec": "1768932983347589",
+    "published": 1768930800,
+    "title": "4 priorities for AI-powered identity and network access security in 2026",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Security"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23468\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/security/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Security</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/\">4 priorities for AI-powered identity and network access security in 2026</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23468",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d5ce1a999a",
+    "crawlTimeMsec": "1768932983347",
+    "timestampUsec": "1768932983347610",
+    "published": 1768932060,
+    "title": "Microsoft supports UN’s move into the AI era",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/20/a-renewed-commitment-to-strengthening-the-united-nations-for-its-next-era/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/on-the-issues/2026/01/20/a-renewed-commitment-to-strengthening-the-united-nations-for-its-next-era/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "On the issues"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23470\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/on-the-issues/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">On the issues</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/on-the-issues/2026/01/20/a-renewed-commitment-to-strengthening-the-united-nations-for-its-next-era/\">Microsoft supports UN’s move into the AI era</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23470",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e83dce907d",
+    "crawlTimeMsec": "1769012166824",
+    "timestampUsec": "1769012166824061",
+    "published": 1769009640,
+    "title": "Code of law: How AI is helping India’s lawyers work faster",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/asia/2026/01/21/code-of-law-how-ai-is-helping-indias-lawyers-work-faster/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/asia/2026/01/21/code-of-law-how-ai-is-helping-indias-lawyers-work-faster/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23495\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/asia/2026/01/21/code-of-law-how-ai-is-helping-indias-lawyers-work-faster/\">Code of law: How AI is helping India’s lawyers work faster</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23495",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e83dce908b",
+    "crawlTimeMsec": "1769012166824",
+    "timestampUsec": "1769012166824075",
+    "published": 1769010720,
+    "title": "Introducing Rho-alpha, the new robotics model from Microsoft Research",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23497\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/research/story/advancing-ai-for-the-physical-world/\">Introducing Rho-alpha, the new robotics model from Microsoft Research</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23497",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e83dce908e",
+    "crawlTimeMsec": "1769012166824",
+    "timestampUsec": "1769012166824078",
+    "published": 1769010900,
+    "title": "Introducing Rho-alpha, our newest robotics model from Microsoft Research. Rho-alpha turns natural language into precise control for bimanual robotic manipulation, adding new sensing modalities and learning from human feedback. Looking forward to what’s to come as we bring physical AI into the real world.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_introducing-rho-alpha-the-new-robotics-model-activity-7419757666660466688-jSpD"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_introducing-rho-alpha-the-new-robotics-model-activity-7419757666660466688-jSpD",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23499\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_introducing-rho-alpha-the-new-robotics-model-activity-7419757666660466688-jSpD\">Introducing Rho-alpha, our newest robotics model from Microsoft Research. Rho-alpha turns natural language into precise control for bimanual robotic manipulation, adding new sensing modalities and learning from human feedback. Looking forward to what’s to come as we bring physical AI into the real world.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23499",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e949f672da",
+    "crawlTimeMsec": "1769016665731",
+    "timestampUsec": "1769016665731802",
+    "published": 1769011980,
+    "title": "Exploring what AI means for education and the next generation",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/what-ai-means-for-higher-education/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signal/articles/what-ai-means-for-higher-education/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Education"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23500\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/education/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Education</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signal/articles/what-ai-means-for-higher-education/\">Exploring what AI means for education and the next generation</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23500",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e949f672e9",
+    "crawlTimeMsec": "1769016665731",
+    "timestampUsec": "1769016665731817",
+    "published": 1769012880,
+    "title": "Play more: Xbox app is now available on Arm-based Windows 11 PCs",
+    "canonical": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/21/play-more-xbox-app-is-now-available-on-arm-based-windows-11-pcs/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/21/play-more-xbox-app-is-now-available-on-arm-based-windows-11-pcs/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23503\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/gaming/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Gaming</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.windows.com/windowsexperience/2026/01/21/play-more-xbox-app-is-now-available-on-arm-based-windows-11-pcs/\">Play more: Xbox app is now available on Arm-based Windows 11 PCs</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23503",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ea55b8f80f",
+    "crawlTimeMsec": "1769021157996",
+    "timestampUsec": "1769021157996559",
+    "published": 1769020020,
+    "title": "How agentic AI robots are redefining retail store experiences",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/01/20/frontier-transformation-in-retail-how-agentic-ai-robots-are-redefining-store-experiences/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/01/20/frontier-transformation-in-retail-how-agentic-ai-robots-are-redefining-store-experiences/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23510\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/01/20/frontier-transformation-in-retail-how-agentic-ai-robots-are-redefining-store-experiences/\">How agentic AI robots are redefining retail store experiences</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23510",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648f67d247cd1",
+    "crawlTimeMsec": "1769073358961",
+    "timestampUsec": "1769073358961873",
+    "published": 1769070300,
+    "title": "Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation from factory to circuit",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Press releases"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23449\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n\t<header data-sanitized-class=\"mssrc-block-post-header is-style-text has-high-density has-text-align-left\">\n\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<div data-sanitized-class=\"wp-block-column flex-basis-100\">\n\t\t\t\t<div data-sanitized-class=\"post-header__content has-text-align-left\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/\" data-sanitized-class=\"kicker\"><time datetime=\"1769070328\">January 22, 2026</time></a><ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/topics/company-news/\" data-sanitized-class=\"kicker post__meta--category\"><span data-sanitized-class=\"sr-only\">Category: </span>Company News</a></li></ul>\n\t\t\t\t\t<h1 data-sanitized-class=\"h2\">Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation from factory to circuit</h1>\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author\">\n\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author__bylines\"><ul data-sanitized-class=\"post-header__author__list\"><li data-sanitized-class=\"post-header__author__list__item\"><span data-sanitized-class=\"post-header__author__name\"><a href=\"https://news.microsoft.com/source/author/microsoft-source/\">Microsoft Source</a></span></li></ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\t\n<div data-sanitized-class=\"post__content\">\n\n\t\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<figure data-sanitized-class=\"post__image wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/\" aria-label=\"Read the story titled Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation from factory to circuit\" data-sanitized-class=\"featured-image size-large default\"><img decoding=\"async\" src=\"https://news.microsoft.com/source/wp-content/uploads/2026/01/Microsoft-_-Mercedes-AMG-PETRONAS-F1-logo-lockupPR-1024x481.png\" alt=\"\" data-sanitized-class=\"attachment-large size-large wp-post-image\"></a>\t\t\t</figure>\n\t\t</div>\n\t\n\n<section data-sanitized-class=\"mssrc-block-content-block\">\n\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t<div data-sanitized-class=\"wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n<p><strong>REDMOND, Wash., and BRACKLEY, U.K. — Jan. 22, 2026</strong> <strong>—</strong> Microsoft Corp. and the Mercedes-AMG PETRONAS F1 Team on Thursday announced a multiyear partnership that puts Microsoft’s technologies at the heart of race team operations. Through this new collaboration, the companies aim to drive efficiencies and innovations that will help drive performance and amplify the excitement for the more than 800 million Formula 1 fans worldwide.</p>\n\n\n\n<p>The 2026 Formula 1 regulation changes usher in a new era of racing for the sport, with increased electrification, efficiency and sustainability, representing one of the most significant technical evolutions in modern Formula 1 history. As the Mercedes-AMG PETRONAS F1 Team prepares for this transformation, it is partnering with Microsoft to harness the power of its trusted cloud and enterprise AI technologies across the business, from the factory to the racetrack.</p>\n\n\n\n<figure data-sanitized-class=\"wp-block-image size-large\"><img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://news.microsoft.com/source/wp-content/uploads/2026/01/car-logo-1024x576.jpg\" alt=\"\" data-sanitized-class=\"wp-image-23516\"><figcaption data-sanitized-class=\"wp-element-caption\">Microsoft Logo on Mercedes-AMG PETRONAS Formula 1 Car</figcaption></figure>\n\n\n\n<p>“Our sport is driven by those who lead through innovation,” said Toto Wolff, CEO and Team Principal, Mercedes-AMG PETRONAS F1 Team. “We are delighted to partner with Microsoft, one of the world’s foremost technology leaders, whose name is synonymous with groundbreaking innovation. This partnership also reflects our commitment to staying at the forefront of performance and progress. By putting Microsoft’s technology at the center of how we operate as a team, we will create faster insights, smarter collaboration and new ways of working as we look ahead to the next generation in F1.”</p>\n\n\n\n<p>In a sport where races are decided by tenths of a second and every decision is data driven, Formula 1 represents the ultimate stress test for modern enterprise systems: extreme data volumes, real-time decision making, global operations and zero margin for error. United by the belief that technology is a competitive advantage, Microsoft and the Mercedes-AMG PETRONAS F1 Team will look to set a new standard for how enterprise technology drives performance at the highest levels of competition.</p>\n\n\n\n<p>“This partnership puts Microsoft’s cloud and enterprise AI technologies at the heart of racing performance, where milliseconds matter and data determines outcomes,” said Judson Althoff, CEO, Microsoft commercial business. “Together with the Mercedes-AMG PETRONAS F1 Team, we are harnessing data and turning it into real-time intelligence that powers faster decisions, smarter strategies and sustained competitive advantage — both on and off the track.”</p>\n\n\n\n<h3 data-sanitized-class=\"wp-block-heading\"><strong>Racing at the speed of data</strong></h3>\n\n\n\n<p>Modern Formula 1 cars are defined by precision and pace. Each Mercedes-AMG PETRONAS F1 Team car carries more than 400 sensors, generating over 1.1 million data points per second. From tire degradation and aerodynamic behavior to Energy Recovery System deployment and evolving track conditions, every variable must be interpreted in real time.</p>\n\n\n\n<p>Microsoft Azure and its AI capabilities will expand the Team’s existing high-performance computing and data capabilities, both the factory and trackside, with scalable cloud and AI resources supporting simulation workloads, performance analysis, race strategy modeling and cross-team analytics. The flexibility and agility of this platform will help ensure engineers and strategists have real-time insights available at the moments that matter most.</p>\n\n\n\n<p>“It is a privilege to welcome Microsoft into the Mercedes-AMG PETRONAS F1 Team partner ecosystem,” said Richard Sanders, Chief Commercial Officer, Mercedes-AMG PETRONAS F1 Team. “Microsoft’s technology already plays a central role in how we operate as a business, and this partnership opens new opportunities to innovate as we look toward the next era of technological development. I look forward to seeing how our teams collaborate to unlock new ways of working across the organization.” </p>\n\n\n\n<h3 data-sanitized-class=\"wp-block-heading\"><strong>Fueling human ambition</strong></h3>\n\n\n\n<p>Microsoft 365 and GitHub already underpin many of the Mercedes-AMG PETRONAS F1 Team’s engineering and operational workflows across its headquarters in Brackley and Brixworth, as well as trackside in the paddock. Building on this foundation, the team will expand its use of Microsoft 365 to unlock new levels of agility, accelerate innovation and enhance operational efficiency across the business.</p>\n\n\n\n<p>Microsoft’s GitHub development tools and platforms help engineers innovate faster, optimize performance and push the boundaries of design, modeling and simulation. Going forward, the team’s engineering, simulation and software development groups will deepen their integration of GitHub to modernize and accelerate development workflows enabling greater consistency, speed and efficiency.</p>\n\n\n\n<figure data-sanitized-class=\"wp-block-image size-large\"><img decoding=\"async\" width=\"911\" height=\"683\" src=\"https://news.microsoft.com/source/wp-content/uploads/2026/01/drivers_PR-911x683.jpg\" alt=\"\" data-sanitized-class=\"wp-image-23518\"><figcaption data-sanitized-class=\"wp-element-caption\">Kimi Antonelli and George Russell in Driver Kits with Microsoft Logo</figcaption></figure>\n\n\n\n<h3 data-sanitized-class=\"wp-block-heading\"><strong>Scaling for performance</strong></h3>\n\n\n\n<p>Working with Microsoft Azure to accelerate AI technology experimentation and scale, the Mercedes-AMG PETRONAS F1 Team used real-time sensor data and Azure cloud tools to pilot intelligent virtual sensors, enabling rapid testing without waiting for new on-premises infrastructure.</p>\n\n\n\n<p>With Azure Kubernetes Service (AKS), they were able to easily adjust computing power, scaling up when demand is high and down when it’s not, delivering meaningful technological advancements while meeting strict financial and regulatory requirements.</p>\n\n\n\n<h3 data-sanitized-class=\"wp-block-heading\"><strong>From road to track</strong></h3>\n\n\n\n<p>For more than 30 years, Microsoft and Mercedes-Benz have collaborated across the automotive value chain, from AI-powered smart factories and electric vehicle telemetry to onboard vehicle intelligence and cloud-enabled engineering systems. From the factory floor to Formula 1, this new partnership builds on that foundation, bringing the same innovative mindset and digital capabilities into the world’s premier motorsport.                                       <strong>           </strong></p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\"><strong>About the Mercedes-AMG PETRONAS F1 Team</strong> </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Mercedes was born to race — and we’ve been doing it since 1901. Today, the Mercedes-AMG PETRONAS F1 Team competes at the pinnacle of motorsport: the FIA Formula One World Championship. </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">The pioneering spirit of our company founders lives on in our commitment to innovation and performance. As the world’s original automobile manufacturer, Mercedes-Benz has defined the cutting edge of technology for over a century. Today, our F1 team exists to demonstrate the best of the brand’s performance on the global stage. </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Based in Brackley and Brixworth, UK, over 2,000 committed team members work with a singular mission: to win the world championship. From 2014 to 2021, we secured a record eight consecutive Constructors’ Championships, and we are hungry for more. </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Our journey is not just about performance on the track; we also strive to make a positive impact on the world and inspire future generations. We are proud signatories of the Climate Pledge, and we are leading the way in building a more sustainable and inclusive sport. </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">For more information, please visit <a href=\"http://www.mercedesamgf1.com/\">www.mercedesamgf1.com</a>. </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\"><strong>About Microsoft</strong></p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.</p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\"><strong>For more information, press only:</strong></p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Microsoft Media Relations, <strong>We. Communications</strong> for Microsoft, (425) 638-7777, <a href=\"mailto:rapidresponse@we-worldwide.com\">rapidresponse@wecommunications.com</a></p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\">Adam McDaid, Head of Media Relations &amp; Editorial, <a href=\"mailto:amcdaid@mercedesamgf1.com\" target=\"_blank\" rel=\"noreferrer noopener\">amcdaid@mercedesamgf1.com</a>, +44 (0) 7918 335 332 </p>\n\n\n\n<p data-sanitized-class=\"has-small-font-size\"><em>Note to editors:</em> For more information, news and perspectives from Microsoft, please visit Microsoft Source at <a href=\"https://news.microsoft.com/source\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/source</a>. Web links, telephone numbers and titles were correct at time of publication but may have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at <a href=\"https://news.microsoft.com/microsoft-public-relations-contacts\" target=\"_blank\" rel=\"noreferrer noopener\">https://news.microsoft.com/microsoft-public-relations-contacts</a>. </p>\n\n</div>\t\t</div>\n\t</div>\n</section>\n\n</div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/press-releases/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Press releases</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t<p>The post <a href=\"https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/\">Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation from factory to circuit</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p></div></article>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23449",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f78",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966712",
+    "published": 1769093340,
+    "title": "Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Cloud"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23523\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/cloud/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Cloud</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/2026/01/22/microsoft-and-mercedes-amg-petronas-f1-team-unite-to-drive-innovation-from-factory-to-circuit/\">Microsoft and Mercedes-AMG PETRONAS F1 Team unite to drive innovation</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23523",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f7c",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966716",
+    "published": 1769093640,
+    "title": "Excited to partner with the Mercedes-AMG PETRONAS F1 Team to apply our technology from factory to circuit, turning massive volumes of data into real-time insights that help drive performance at the highest level!",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_we-are-thrilled-to-announce-a-new-multi-year-activity-7420104610763317248-XAmj"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_we-are-thrilled-to-announce-a-new-multi-year-activity-7420104610763317248-XAmj",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23525\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_we-are-thrilled-to-announce-a-new-multi-year-activity-7420104610763317248-XAmj\">Excited to partner with the Mercedes-AMG PETRONAS F1 Team to apply our technology from factory to circuit, turning massive volumes of data into real-time insights that help drive performance at the highest level!</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23525",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fcc8278d32",
+    "crawlTimeMsec": "1769100387257",
+    "timestampUsec": "1769100387257650",
+    "published": 1769096580,
+    "title": "A new developer workflow and app paradigm is emerging, with an agentic execution loop at the core. With the GitHub Copilot SDK, you can embed the same production-tested runtime behind Copilot CLI—multi-model, multi-step planning, tools, MCP integration, auth, streaming—directly into your apps.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_build-an-agent-into-any-app-with-the-github-activity-7420126187286568961-TdW7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_build-an-agent-into-any-app-with-the-github-activity-7420126187286568961-TdW7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23528\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_build-an-agent-into-any-app-with-the-github-activity-7420126187286568961-TdW7\">A new developer workflow and app paradigm is emerging, with an agentic execution loop at the core. With the GitHub Copilot SDK, you can embed the same production-tested runtime behind Copilot CLI—multi-model, multi-step planning, tools, MCP integration, auth, streaming—directly into your apps.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23528",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fedf16cfb9",
+    "crawlTimeMsec": "1769109361971",
+    "timestampUsec": "1769109361971129",
+    "published": 1769105520,
+    "title": "New developer tools increase the versatility of the Microsoft Quantum platform",
+    "canonical": [
+        {
+            "href": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Technology"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23531\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/technology/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Technology</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/\">New developer tools increase the versatility of the Microsoft Quantum platform</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23531",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fedf16cfbd",
+    "crawlTimeMsec": "1769109361971",
+    "timestampUsec": "1769109361971133",
+    "published": 1769106780,
+    "title": "Windows 365 for Agents: The Cloud PC’s next chapter",
+    "canonical": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/22/windows-365-for-agents-the-cloud-pcs-next-chapter/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.windows.com/windowsexperience/2026/01/22/windows-365-for-agents-the-cloud-pcs-next-chapter/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Cloud"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23533\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/cloud/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Cloud</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.windows.com/windowsexperience/2026/01/22/windows-365-for-agents-the-cloud-pcs-next-chapter/\">Windows 365 for Agents: The Cloud PC’s next chapter</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23533",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064911507f11ca",
+    "crawlTimeMsec": "1769188574040",
+    "timestampUsec": "1769188574040522",
+    "published": 1769184900,
+    "title": "So much of dev work happens in the context of a larger team, and now you can bring all of that work context into the GitHub Copilot CLI with Work IQ. Try it out.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_so-much-of-dev-work-happens-in-the-context-activity-7420485585376620544-vudJ"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_so-much-of-dev-work-happens-in-the-context-activity-7420485585376620544-vudJ",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23537\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_so-much-of-dev-work-happens-in-the-context-activity-7420485585376620544-vudJ\">So much of dev work happens in the context of a larger team, and now you can bring all of that work context into the GitHub Copilot CLI with Work IQ. Try it out.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23537",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006494bfb2c35e7",
+    "crawlTimeMsec": "1769440545617",
+    "timestampUsec": "1769440545617383",
+    "published": 1769436360,
+    "title": "From Signal magazine: How Microsoft is pushing the frontier of climate innovation",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-03/#melanie-nakagawa-interview"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/signalmagazine/issue/issue-03/#melanie-nakagawa-interview",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Sustainability"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23535\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/sustainability/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Sustainability</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/signalmagazine/issue/issue-03/#melanie-nakagawa-interview\">From Signal magazine: How Microsoft is pushing the frontier of climate innovation</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23535",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006494d076f7bcd",
+    "crawlTimeMsec": "1769445046320",
+    "timestampUsec": "1769445046320077",
+    "published": 1769443260,
+    "title": "Introducing Maia 200: The AI accelerator built for inference",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/january-2026-news"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/january-2026-news",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23544\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/january-2026-news\">Introducing Maia 200: The AI accelerator built for inference</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23544",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006494d076f7bda",
+    "crawlTimeMsec": "1769445046320",
+    "timestampUsec": "1769445046320090",
+    "published": 1769444040,
+    "title": "Our newest AI accelerator Maia 200 is now online in Azure. Designed for industry-leading inference efficiency, it delivers 30% better performance per dollar than current systems. …It joins our broader portfolio of CPUs, GPUs and custom accelerators, giving customers more options to run advanced AI workloads faster and more cost-effectively on Azure. Read more.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_our-newest-ai-accelerator-maia-200-is-now-activity-7421583368754110465-tXQM"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_our-newest-ai-accelerator-maia-200-is-now-activity-7421583368754110465-tXQM",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23547\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_our-newest-ai-accelerator-maia-200-is-now-activity-7421583368754110465-tXQM\">Our newest AI accelerator Maia 200 is now online in Azure. Designed for industry-leading inference efficiency, it delivers 30% better performance per dollar than current systems. …It joins our broader portfolio of CPUs, GPUs and custom accelerators, giving customers more options to run advanced AI workloads faster and more cost-effectively on Azure. Read more.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23547",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064963090c0f61",
+    "crawlTimeMsec": "1769539562639",
+    "timestampUsec": "1769539562639201",
+    "published": 1769538420,
+    "title": "Grounded 2 update – The Toxic Tangle – now available",
+    "canonical": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/27/grounded-2-update-the-toxic-tangle-available-now/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/27/grounded-2-update-the-toxic-tangle-available-now/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23556\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/gaming/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Gaming</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.xbox.com/en-us/2026/01/27/grounded-2-update-the-toxic-tangle-available-now/\">Grounded 2 update – The Toxic Tangle – now available</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23556",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000649684683ade7",
+    "crawlTimeMsec": "1769562068725",
+    "timestampUsec": "1769562068725223",
+    "published": 1769561580,
+    "title": "How Microsoft is empowering Frontier Transformation with Intelligence + Trust",
+    "canonical": [
+        {
+            "href": "https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23560\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/\">How Microsoft is empowering Frontier Transformation with Intelligence + Trust</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23560",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006497a15f77656",
+    "crawlTimeMsec": "1769638563640",
+    "timestampUsec": "1769638563640918",
+    "published": 1769634480,
+    "title": "Microsoft Cloud and AI strength drives second quarter results",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/28/microsoft-cloud-and-ai-strength-drives-second-quarter-results-3/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/28/microsoft-cloud-and-ai-strength-drives-second-quarter-results-3/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Press releases"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23578\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n\t<header data-sanitized-class=\"mssrc-block-post-header is-style-text has-high-density has-text-align-left\">\n\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<div data-sanitized-class=\"wp-block-column flex-basis-100\">\n\t\t\t\t<div data-sanitized-class=\"post-header__content has-text-align-left\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/\" data-sanitized-class=\"kicker\"><time datetime=\"1769634496\">January 28, 2026</time></a><ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/topics/company-news/\" data-sanitized-class=\"kicker post__meta--category\"><span data-sanitized-class=\"sr-only\">Category: </span>Company News</a></li></ul>\n\t\t\t\t\t<h1 data-sanitized-class=\"h2\">Microsoft Cloud and AI strength drives second quarter results</h1>\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author\">\n\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author__bylines\"><ul data-sanitized-class=\"post-header__author__list\"><li data-sanitized-class=\"post-header__author__list__item\"><span data-sanitized-class=\"post-header__author__name\"><a href=\"https://news.microsoft.com/source/author/microsoft-source/\">Microsoft Source</a></span></li></ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\t\n<div data-sanitized-class=\"post__content\">\n\n\t\n\n<section data-sanitized-class=\"mssrc-block-content-block\">\n\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t<div data-sanitized-class=\"wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n<p><strong>REDMOND, Wash. — January 28, 2026 — </strong>Microsoft Corp. today announced the following results for the quarter ended December 31, 2025, as compared to the corresponding period of last fiscal year:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li>Revenue was $81.3 billion and increased 17% (up 15% in constant currency)</li>\n\n\n\n<li>Operating income was $38.3 billion and increased 21% (up 19% in constant currency)</li>\n\n\n\n<li>Net income on a GAAP basis was $38.5 billion and increased 60%, and on a non-GAAP basis was $30.9 billion and increased 23% (up 21% in constant currency)</li>\n\n\n\n<li>Diluted earnings per share on a GAAP basis was $5.16 and increased 60%, and on a non-GAAP basis was $4.14 and increased 24% (up 21% in constant currency)</li>\n\n\n\n<li>Non-GAAP results exclude the impact from investments in OpenAI, explained in the Non-GAAP Definition section below</li>\n</ul>\n\n\n\n<p>“We are only at the beginning phases of AI diffusion and already Microsoft has built an AI business that is larger than some of our biggest franchises,” said Satya Nadella, chairman and chief executive officer of Microsoft. “We are pushing the frontier across our entire AI stack to drive new value for our customers and partners.”</p>\n\n\n\n<p>“Microsoft Cloud revenue crossed $50 billion this quarter, reflecting the strong demand for our portfolio of services,” said Amy Hood, executive vice president and chief financial officer of Microsoft. “We exceeded expectations across revenue, operating income, and earnings per share.”</p>\n\n\n\n<p>The following table reconciles our financial results reported in accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last fiscal year.</p>\n\n\n\n<figure data-sanitized-class=\"wp-block-table\"><table data-sanitized-class=\"has-fixed-layout\"><tbody><tr><td> </td><td colspan=\"3\"><strong>Three Months Ended December 31,</strong></td></tr><tr><td colspan=\"2\"> ($ in millions, except per share amounts)</td><td><strong>Net Income</strong></td><td><strong>Diluted Earnings per Share</strong></td></tr><tr><td colspan=\"2\"><strong>2024 As Reported (GAAP)</strong></td><td><strong>$24,108</strong></td><td><strong>$3.23</strong></td></tr><tr><td colspan=\"2\">Impact from investments in OpenAI</td><td>939</td><td>0.12</td></tr><tr><td colspan=\"2\"><strong>2024 As Adjusted (non-GAAP)</strong></td><td><strong>$25,047</strong></td><td><strong>$3.35</strong></td></tr><tr><td colspan=\"2\"><strong>2025 As Reported (GAAP)</strong></td><td><strong>$38,458</strong></td><td><strong>$5.16</strong></td></tr><tr><td colspan=\"2\">Impact from investments in OpenAI</td><td>(7,583)</td><td>(1.02)</td></tr><tr><td colspan=\"2\"><strong>2025 As Adjusted (non-GAAP)</strong></td><td><strong>$30,875</strong></td><td><strong>$4.14</strong></td></tr><tr><td colspan=\"2\">Percentage Change Y/Y (GAAP)</td><td>60%</td><td>60%</td></tr><tr><td colspan=\"2\">Percentage Change Y/Y Constant Currency</td><td>57%</td><td>58%</td></tr><tr><td colspan=\"2\">Percentage Change Y/Y (non-GAAP)</td><td>23%</td><td>24%</td></tr><tr><td colspan=\"2\">Percentage Change Y/Y (non-GAAP) Constant Currency</td><td>21%</td><td>21%</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table></figure>\n\n\n\n<p><strong>Business Highlights</strong></p>\n\n\n\n<p>Microsoft Cloud revenue was $51.5 billion and increased 26% (up 24% in constant currency), and commercial remaining performance obligation increased 110% to $625 billion.</p>\n\n\n\n<p>Revenue in Productivity and Business Processes was $34.1 billion and increased 16% (up 14% in constant currency), with the following business highlights:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li>Microsoft 365 Commercial cloud revenue increased 17% (up 14% in constant currency)</li>\n\n\n\n<li>Microsoft 365 Consumer cloud revenue increased 29% (up 27% in constant currency)</li>\n\n\n\n<li>LinkedIn revenue increased 11% (up 10% in constant currency)</li>\n\n\n\n<li>Dynamics 365 revenue increased 19% (up 17% in constant currency)</li>\n</ul>\n\n\n\n<p>Revenue in Intelligent Cloud was $32.9 billion and increased 29% (up 28% in constant currency), with the following business highlights:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li>Azure and other cloud services revenue increased 39% (up 38% in constant currency)</li>\n</ul>\n\n\n\n<p>Revenue in More Personal Computing was $14.3 billion and decreased 3%, with the following business highlights:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li>Windows OEM and Devices revenue increased 1% (relatively unchanged in constant currency)</li>\n\n\n\n<li>Xbox content and services revenue decreased 5% (down 6% in constant currency)</li>\n\n\n\n<li>Search and news advertising revenue excluding traffic acquisition costs increased 10% (up 9% in constant currency)</li>\n</ul>\n\n\n\n<p>Microsoft returned $12.7 billion to shareholders in the form of dividends and share repurchases in the second quarter of fiscal year 2026, an increase of 32% compared to the second quarter of fiscal year 2025.</p>\n\n\n\n<p><strong>Business Outlook</strong></p>\n\n\n\n<p>Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement on its earnings conference call and webcast.</p>\n\n\n\n<p><strong>Quarterly Highlights, Product Releases, and Customer Stories</strong></p>\n\n\n\n<p>Every quarter Microsoft delivers hundreds of products, services, and enhancements. These releases are driven by years of significant research and development investments, to empower customers with greater productivity, security, and differentiated value.</p>\n\n\n\n<p>This momentum is reflected in stories that showcase how our technology is <a href=\"https://blogs.microsoft.com/?p=52562682\">shaping industries and driving customer success</a><a></a><a></a>. We share innovation updates on our product blogs across <a href=\"https://azure.microsoft.com/en-us/blog/\">Azure</a>, <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/\">Microsoft 365</a>, and more on our <a href=\"https://blogs.microsoft.com/\">Official Microsoft blog</a>.</p>\n\n\n\n<p><strong>Webcast Details</strong></p>\n\n\n\n<p>Satya Nadella, chairman and chief executive officer, Amy Hood, executive vice president and chief financial officer, Alice Jolla, chief accounting officer, Keith Dolliver, corporate secretary and deputy general counsel, and Jonathan Neilson, vice president of investor relations, will host a conference call and webcast at 2:30 p.m. Pacific time (5:30 p.m. Eastern time) today to discuss details of the company’s performance for the quarter and certain forward-looking information. The session may be accessed at <a href=\"http://www.microsoft.com/en-us/investor\">http://www.microsoft.com/en-us/investor</a>. Participants can also dial into the conference call at (877) 407-0666 or +1 (201) 689-8023 for international, no password required. The webcast will be available for replay through the close of business on January 28, 2027.</p>\n\n\n\n<p><strong>Non-GAAP Definition</strong></p>\n\n\n\n<p><em>Impact from investments in OpenAI.</em> In the second quarter of fiscal year 2026, net income and diluted earnings per share were impacted by net gains from investments in OpenAI, which resulted in an increase in net income and diluted earnings per share of $7.6 billion and $1.02, respectively. In the second quarter of fiscal year 2025, net income and diluted earnings per share were impacted by net losses from investments in OpenAI, which resulted in a decrease in net income and diluted earnings per share of $939 million and $0.12, respectively.</p>\n\n\n\n<p>Microsoft has provided non-GAAP financial measures related to the impact from investments in OpenAI to aid investors in better understanding our performance. Microsoft believes these non-GAAP measures assist investors by providing additional insight into its operational performance and help clarify trends affecting its business. For comparability of reporting, management considers non-GAAP measures in conjunction with GAAP financial results in evaluating business performance. The non-GAAP financial measures presented in this release should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.</p>\n\n\n\n<p><strong>Constant Currency</strong><strong></strong></p>\n\n\n\n<p>Microsoft presents constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars using the average exchange rates from the comparative period rather than the actual exchange rates in effect during the respective periods. All growth comparisons relate to the corresponding period in the last fiscal year. Microsoft has provided this non-GAAP financial information to aid investors in better understanding our performance. The non-GAAP financial measures presented in this release should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.</p>\n\n\n\n<p><strong>Financial Performance Constant Currency Reconciliation</strong></p>\n\n\n\n<figure data-sanitized-class=\"wp-block-table\"><table data-sanitized-class=\"has-fixed-layout\"><tbody><tr><td> </td><td colspan=\"4\"><strong>Three Months Ended December 31,</strong></td></tr><tr><td> ($ in millions, except per share amounts)</td><td><strong>Revenue</strong></td><td><strong>Operating Income</strong></td><td><strong>Net Income</strong></td><td><strong>Diluted Earnings per Share</strong></td></tr><tr><td><strong>2024 As Reported (GAAP)</strong></td><td><strong>$69,632</strong><strong></strong></td><td><strong>$31,653</strong><strong></strong></td><td><strong>$24,108</strong><strong></strong></td><td><strong>$3.23</strong><strong></strong></td></tr><tr><td><strong>2024 As Adjusted (non-GAAP)</strong></td><td><strong>$69,632</strong><strong></strong></td><td><strong>$31,653</strong><strong></strong></td><td><strong>$25,047</strong></td><td><strong>$3.35</strong></td></tr><tr><td><strong>2025 As Reported (GAAP)</strong><strong></strong></td><td><strong>$81,273</strong></td><td><strong>$38,275</strong></td><td><strong>$38,458</strong></td><td><strong>$5.16</strong></td></tr><tr><td><strong>2025 As Adjusted (non-GAAP)</strong></td><td><strong>$81,273</strong></td><td><strong>$38,275</strong></td><td><strong>$30,875</strong></td><td><strong>$4.14</strong></td></tr><tr><td>Percentage Change Y/Y (GAAP)</td><td>17%</td><td>21%</td><td>60%</td><td>60%</td></tr><tr><td>Percentage Change Y/Y (non-GAAP)</td><td>17%</td><td>21%</td><td>23%</td><td>24%</td></tr><tr><td><strong>Constant Currency Impact</strong></td><td><strong>$972</strong></td><td><strong>$596</strong></td><td><strong>$558</strong></td><td><strong>$0.07</strong></td></tr><tr><td>Percentage Change Y/Y Constant Currency</td><td>15%</td><td>19%</td><td>57%</td><td>58%</td></tr><tr><td>Percentage Change Y/Y (non-GAAP) Constant Currency</td><td>15%</td><td>19%</td><td>21%</td><td>21%</td></tr></tbody></table></figure>\n\n\n\n<p><strong>Segment Revenue Constant Currency Reconciliation</strong></p>\n\n\n\n<figure data-sanitized-class=\"wp-block-table\"><table data-sanitized-class=\"has-fixed-layout\"><tbody><tr><td> </td><td colspan=\"3\"><strong>Three Months Ended December 31,</strong></td></tr><tr><td> ($ in millions)</td><td><strong>Productivity and Business Processes</strong></td><td><strong>Intelligent Cloud</strong></td><td><strong>More Personal Computing</strong></td></tr><tr><td><strong>2024 As Reported (GAAP)</strong></td><td><strong>$29,437</strong></td><td><strong>$25,544</strong></td><td><strong>$14,651</strong></td></tr><tr><td><strong>2025 As Reported (GAAP)</strong><strong></strong></td><td><strong>$34,116</strong></td><td><strong>$32,907</strong></td><td><strong>$14,250</strong></td></tr><tr><td>Percentage Change Y/Y (GAAP)</td><td>16%</td><td>29%</td><td>(3)%</td></tr><tr><td><strong>Constant Currency Impact</strong></td><td><strong>$580</strong></td><td><strong>$292</strong></td><td><strong>$100</strong></td></tr><tr><td>Percentage Change Y/Y Constant Currency</td><td>14%</td><td>28%</td><td>(3)%</td></tr></tbody></table></figure>\n\n\n\n<p><strong>Selected Product and Service Revenue Constant Currency Reconciliation           </strong></p>\n\n\n\n<figure data-sanitized-class=\"wp-block-table\"><table data-sanitized-class=\"has-fixed-layout\"><tbody><tr><td> </td><td colspan=\"3\"><strong>Three Months Ended December 31, 2025</strong></td></tr><tr><td></td><td><strong>Percentage Change Y/Y (GAAP)</strong></td><td><strong>Constant Currency Impact</strong></td><td><strong>Percentage Change Y/Y Constant Currency</strong></td></tr><tr><td><strong>Microsoft Cloud</strong></td><td><strong>26%</strong></td><td><strong>(2)%</strong><strong></strong></td><td><strong>24%</strong></td></tr><tr><td><strong>Commercial remaining performance obligation</strong></td><td><strong>110%</strong></td><td><strong>0%</strong></td><td><strong>110%</strong></td></tr><tr><td><strong>Microsoft 365 Commercial cloud</strong></td><td><strong>17%</strong></td><td><strong>(3)%</strong></td><td><strong>14%</strong></td></tr><tr><td><strong>Microsoft 365 Consumer cloud</strong></td><td><strong>29%</strong></td><td><strong>(2)%</strong></td><td><strong>27%</strong></td></tr><tr><td><strong>LinkedIn</strong></td><td><strong>11%</strong></td><td><strong>(1)%</strong></td><td><strong>10%</strong></td></tr><tr><td><strong>Dynamics 365</strong></td><td><strong>19%</strong></td><td><strong>(2)%</strong></td><td><strong>17%</strong></td></tr><tr><td><strong>Azure and other cloud services</strong></td><td><strong>39%</strong></td><td><strong>(1)%</strong></td><td><strong>38%</strong></td></tr><tr><td><strong>Windows OEM and Devices</strong></td><td><strong>1%</strong></td><td><strong>(1)%</strong></td><td><strong>0%</strong></td></tr><tr><td><strong>Xbox content and services</strong></td><td><strong>(5)%</strong></td><td><strong>(1)%</strong></td><td><strong>(6)%</strong></td></tr><tr><td><strong>Search and news advertising excluding traffic acquisition costs</strong></td><td><strong>10%</strong></td><td><strong>(1)%</strong></td><td><strong>9%</strong></td></tr></tbody></table></figure>\n\n\n\n<p><strong>About Microsoft</strong><strong></strong></p>\n\n\n\n<p>Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.</p>\n\n\n\n<p><strong>Forward-Looking Statements</strong></p>\n\n\n\n<p>Statements in this release that are “forward-looking statements” are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially because of factors such as:</p>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li>intense competition in all of our markets that could adversely affect our results of operations;</li>\n\n\n\n<li>focus on cloud-based and AI services presenting execution and competitive risks;</li>\n\n\n\n<li>significant investments in products and services that may not achieve expected returns;</li>\n\n\n\n<li>acquisitions, joint ventures, and strategic alliances that could have an adverse effect on our business;</li>\n\n\n\n<li>cyberattacks and security vulnerabilities that could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position;</li>\n\n\n\n<li>disclosure and misuse of personal data that could cause liability and harm to our reputation;</li>\n\n\n\n<li>the possibility that we may not be able to protect information in our products and services from use by others;</li>\n\n\n\n<li>abuse of our advertising, professional, marketplace, or gaming platforms that may harm our reputation or user engagement;</li>\n\n\n\n<li>products and services, how they are used by customers, and how third-party products and services interact with them, presenting security, privacy, and execution risks;</li>\n\n\n\n<li>issues about the use of AI in our offerings that may result in reputational or competitive harm, or liability;</li>\n\n\n\n<li>excessive outages, data losses, and disruptions of our online services if we fail to maintain an adequate operations infrastructure;</li>\n\n\n\n<li>supply or quality problems;</li>\n\n\n\n<li>potential consequences of new, existing, and evolving legal and regulatory requirements;</li>\n\n\n\n<li>claims against us that could result in adverse outcomes in legal disputes;</li>\n\n\n\n<li>uncertainties relating to our business with government customers;</li>\n\n\n\n<li>additional tax liabilities;</li>\n\n\n\n<li>an inability to protect and utilize our intellectual property may harm our business and operating results;</li>\n\n\n\n<li>claims that Microsoft has infringed the intellectual property rights of others;</li>\n\n\n\n<li>damage to our reputation or our brands that may harm our business and results of operations;</li>\n\n\n\n<li>adverse economic or market conditions that could harm our business;</li>\n\n\n\n<li>catastrophic events or geopolitical conditions, such as the COVID-19 pandemic, that could disrupt our business;</li>\n\n\n\n<li>exposure to increased economic and operational uncertainties from operating a global business, including the effects of foreign currency exchange; and</li>\n\n\n\n<li>the dependence of our business on our ability to attract and retain talented employees.</li>\n</ul>\n\n\n\n<p>For more information about risks and uncertainties associated with Microsoft’s business, please refer to the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” sections of Microsoft’s SEC filings, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q, copies of which may be obtained by contacting Microsoft’s Investor Relations department at (800) 285-7772 or at Microsoft’s Investor Relations website at <a href=\"http://www.microsoft.com/en-us/investor\">http://www.microsoft.com/en-us/investor</a>.</p>\n\n\n\n<p>All information in this release is as of December 31, 2025. The company undertakes no duty to update any forward-looking statement to conform the statement to actual results or changes in the company’s expectations.</p>\n\n\n\n<p><strong>For more information, press only: </strong><strong></strong></p>\n\n\n\n<p>Microsoft Media Relations, WE Communications for Microsoft, (425) 638-7777, <a href=\"mailto:rrt@we-worldwide.com\">rrt@we-worldwide.com</a></p>\n\n\n\n<p><strong>For more information, financial analysts and investors only: </strong><strong></strong></p>\n\n\n\n<p>Jonathan Neilson, Vice President, Investor Relations, (425) 706-4400</p>\n\n\n\n<p>Note to editors: For more information, news and perspectives from Microsoft, please visit the Microsoft News Center at <a href=\"http://www.microsoft.com/news\">http://www.microsoft.com/news</a>. Web links, telephone numbers, and titles were correct at time of publication, but may since have changed. Shareholder and financial information, as well as today’s 2:30 p.m. Pacific time conference call with investors and analysts, is available at <a href=\"http://www.microsoft.com/en-us/investor\">http://www.microsoft.com/en-us/investor</a><a></a><a></a><a></a><a></a><a></a><a></a><a></a>.<a></a></p>\n\n</div>\t\t</div>\n\t</div>\n</section>\n\n</div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/press-releases/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Press releases</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t<p>The post <a href=\"https://news.microsoft.com/source/2026/01/28/microsoft-cloud-and-ai-strength-drives-second-quarter-results-3/\">Microsoft Cloud and AI strength drives second quarter results</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p></div></article>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23578",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006497a15f7765b",
+    "crawlTimeMsec": "1769638563640",
+    "timestampUsec": "1769638563640923",
+    "published": 1769634900,
+    "title": "Microsoft Cloud and AI strength drives second quarter results",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Investor Relations"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23577\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/investor-relations/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Investor Relations</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast\">Microsoft Cloud and AI strength drives second quarter results</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23577",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006497a15f7765c",
+    "crawlTimeMsec": "1769638563640",
+    "timestampUsec": "1769638563640924",
+    "published": 1769634900,
+    "title": "Microsoft earnings press release available on Investor Relations website",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/28/microsoft-earnings-press-release-available-on-investor-relations-website-28/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/2026/01/28/microsoft-earnings-press-release-available-on-investor-relations-website-28/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Press releases"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23448\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n\t<header data-sanitized-class=\"mssrc-block-post-header is-style-text has-low-density has-text-align-left\">\n\t\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t\t<div data-sanitized-class=\"wp-block-column flex-basis-100\">\n\t\t\t\t<div data-sanitized-class=\"post-header__content has-text-align-left\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://news.microsoft.com/source/2026/01/\" data-sanitized-class=\"kicker\"><time datetime=\"1769634958\">January 28, 2026</time></a><ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/topics/company-news/\" data-sanitized-class=\"kicker post__meta--category\"><span data-sanitized-class=\"sr-only\">Category: </span>Company News</a></li></ul>\n\t\t\t\t\t<h1 data-sanitized-class=\"h2\">Microsoft earnings press release available on Investor Relations website</h1>\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author\">\n\t\t\t\t\t\t\t<div data-sanitized-class=\"post-header__author__bylines\"><ul data-sanitized-class=\"post-header__author__list\"><li data-sanitized-class=\"post-header__author__list__item\"><span data-sanitized-class=\"post-header__author__name\"><a href=\"https://news.microsoft.com/source/author/microsoft-source/\">Microsoft Source</a></span></li></ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\t\n<div data-sanitized-class=\"post__content\">\n\n\t\n\n<section data-sanitized-class=\"mssrc-block-content-block\">\n\t<div data-sanitized-class=\"wp-block-columns\">\n\t\t<div data-sanitized-class=\"wp-block-column flex-basis-50 push--25 column--content\">\n\t\t\t<div data-sanitized-class=\"acf-innerblocks-container\">\n\n<p><strong>REDMOND, Wash. — Jan. 28, 2026 — </strong>Microsoft Corp. on Wednesday announced that fiscal year 2026 second-quarter financial results are available on its Investor Relations website. The direct link to the earnings press release is<a></a><a></a><a></a><a> </a><a href=\"https://protect.checkpoint.com/v2/r01/___https:/www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvOjM2YTJlNDg2YWZiMTAzYjIyMTJjY2YyYWViNGViNTdlOjc6MmQ4MTplOGExYjZlMDE0NmQ1YWFiNWM2NGUwNTViOWYxOTk5ZDcyOTUyOWY5NTQ3NTU1MzQ3ZWYyMTg4YWQwYmQyYWQ5OnA6VDpG\">https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast</a>.</p>\n\n\n\n<p>As previously announced, the company will host a conference call at 2:30 p.m. Pacific Time. A live webcast of the call can be accessed on Microsoft’s Investor Relations website at <a href=\"https://protect.checkpoint.com/v2/r01/___https:/www.microsoft.com/en-us/Investor/___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvOjM2YTJlNDg2YWZiMTAzYjIyMTJjY2YyYWViNGViNTdlOjc6NjljMjpjOWEyNWMxMjM3NWRjNTkyMDA1ZDg5MGQ1NmFkYTE1NGU3OTVkNWJlMjI2YzIwNGI5ZWJiNjRjYjViNmUyY2U1OnA6VDpG\">https://www.microsoft.com/en-us/Investor/</a>.   </p>\n\n\n\n<p>Microsoft (Nasdaq “MSFT” @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more.</p>\n\n\n\n<p><strong>For more information, press only:</strong></p>\n\n\n\n<p>Microsoft Media Relations, <strong>We. Communications,</strong> (425) 638-7777, <a href=\"mailto:rapidresponse@wecommunications.com\">rapidresponse@wecommunications.com</a></p>\n\n\n\n<p><strong>For more information, financial analysts and investors only:</strong></p>\n\n\n\n<p>Jonathan Neilson, Vice President, Investor Relations, (425) 706-4400</p>\n\n\n\n<p><em>Note to editors:</em> For more information, news and perspectives from Microsoft, please visit Microsoft Source at <a href=\"https://protect.checkpoint.com/v2/___https:/news.microsoft.com/source___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvOjE3MGVkZjFlNWExOTlkYzE1MGQ0YTczNGRhNzdjMWI4OjY6OGQyOTo3NzQzZDc1NTVjODc0NzQ4NTU5ZjEzODMzNTgwMDJjYmJhYjY4MjRlMzQzNGExOTFmZWUyN2UzMDdkMDY3NWY0OnA6RjpG\">https://news.microsoft.com/source</a>. Web links, telephone numbers and titles were correct at time of publication but may since have changed. Shareholder and financial information is available at <a href=\"https://protect.checkpoint.com/v2/___http:/www.microsoft.com/en-us/investor___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvOjE3MGVkZjFlNWExOTlkYzE1MGQ0YTczNGRhNzdjMWI4OjY6OWE1MTowMmEwYzgyNmM1MDEwOTdmMTZjY2E1MWM3MDEyOGZmMDIyMTY3YzYzODhmMmE1ZDc1NTU0NThiMzUxN2ZiNmM1OnA6RjpG\">http://www.microsoft.com/en-us/investor</a>.</p>\n\n</div>\t\t</div>\n\t</div>\n</section>\n\n</div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/press-releases/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Press releases</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t<p>The post <a href=\"https://news.microsoft.com/source/2026/01/28/microsoft-earnings-press-release-available-on-investor-relations-website-28/\">Microsoft earnings press release available on Investor Relations website</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p></div></article>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23448",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064988563e2b80",
+    "crawlTimeMsec": "1769699771558",
+    "timestampUsec": "1769699771558784",
+    "published": 1769653740,
+    "title": "Just reported our quarterly results. We are still in the beginning phases of AI diffusion and its broad GDP impact, and already we’ve built an AI business that is larger than some of our biggest franchises that took decades to build. …You can read more about our results here.",
+    "canonical": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_justreported-our-quarterly-results-we-activity-7422427227226742784-tAgT"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.linkedin.com/posts/satyanadella_justreported-our-quarterly-results-we-activity-7422427227226742784-tAgT",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "LinkedIn Post"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23584\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/linkedin-post/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">LinkedIn Post</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.linkedin.com/posts/satyanadella_justreported-our-quarterly-results-we-activity-7422427227226742784-tAgT\">Just reported our quarterly results. We are still in the beginning phases of AI diffusion and its broad GDP impact, and already we’ve built an AI business that is larger than some of our biggest franchises that took decades to build. …You can read more about our results here.</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23584",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064988563e2bdd",
+    "crawlTimeMsec": "1769699771558",
+    "timestampUsec": "1769699771558877",
+    "published": 1769698260,
+    "title": "Microsoft and SABC Plus set to unlock AI and digital skills for millions of South Africans",
+    "canonical": [
+        {
+            "href": "https://news.microsoft.com/source/emea/2026/01/microsoft-and-sabc-plus-set-to-unlock-ai-and-digital-skills-for-millions-of-south-africans/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.microsoft.com/source/emea/2026/01/microsoft-and-sabc-plus-set-to-unlock-ai-and-digital-skills-for-millions-of-south-africans/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "AI"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23585\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/ai/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">AI</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.microsoft.com/source/emea/2026/01/microsoft-and-sabc-plus-set-to-unlock-ai-and-digital-skills-for-millions-of-south-africans/\">Microsoft and SABC Plus set to unlock AI and digital skills for millions of South Africans</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23585",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006498a6d9ba5d1",
+    "crawlTimeMsec": "1769708753495",
+    "timestampUsec": "1769708753495505",
+    "published": 1769706240,
+    "title": "How AI is learning to write clearer, smarter medical imaging reports",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23587\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/health/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Health</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/\">How AI is learning to write clearer, smarter medical imaging reports</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23587",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006498b7a725d1b",
+    "crawlTimeMsec": "1769713263861",
+    "timestampUsec": "1769713263861019",
+    "published": 1769708760,
+    "title": "Indie Selects celebrates second anniversary with sale, top picks and more",
+    "canonical": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/28/indie-selects-anniversary/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.xbox.com/en-us/2026/01/28/indie-selects-anniversary/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23589\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/gaming/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Gaming</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://news.xbox.com/en-us/2026/01/28/indie-selects-anniversary/\">Indie Selects celebrates second anniversary with sale, top picks and more</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23589",
+    "author": "stclarke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006498b7a725d25",
+    "crawlTimeMsec": "1769713263861",
+    "timestampUsec": "1769713263861029",
+    "published": 1769709000,
+    "title": "New Microsoft report explores secure AI adoption to protect sensitive data",
+    "canonical": [
+        {
+            "href": "https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Company News",
+        "Security"
+    ],
+    "origin": {
+        "streamId": "feed/12",
+        "htmlUrl": "https://news.microsoft.com/source/",
+        "title": "Source",
+        "feedUrl": "https://news.microsoft.com/source/feed/"
+    },
+    "content": {
+        "content": "<article data-clarity-region=\"article\" data-sanitized-id=\"single-23591\" data-sanitized-class=\"mssrc-posts font-- has--theme\">\n\t<div data-sanitized-class=\"acf-innerblocks-container\"></div>\t\t\t<section data-sanitized-class=\"post-tags\">\n\t\t\t\t<div data-sanitized-class=\"post-tags__content wp-block-columns\">\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__header wp-block-column flex-basis-25 has-text-align-right\">\n\t\t\t\t\t\t<h4 data-sanitized-class=\"sr-only\">Tags: </h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div data-sanitized-class=\"post-tags__body wp-block-column flex-basis-60\">\n\t\t\t\t\t\t<ul data-sanitized-class=\"post-tags__list\"><li data-sanitized-class=\"post-tags__item\"><a href=\"https://news.microsoft.com/source/tag/security/\" data-sanitized-class=\"kicker inline-block post__meta--tags\">Security</a></li></ul>\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t\t</article><p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/\">New Microsoft report explores secure AI adoption to protect sensitive data</a> appeared first on <a href=\"https://news.microsoft.com/source\">Source</a>.</p>"
+    },
+    "guid": "https://news.microsoft.com/source/?p=23591",
+    "author": "stclarke"
+}
+]}

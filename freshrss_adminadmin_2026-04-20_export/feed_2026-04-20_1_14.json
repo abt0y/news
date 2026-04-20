@@ -1,0 +1,1944 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/14",
+    "title": "List of MachineLearningMastery.com articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/000647b9a72e660a",
+    "crawlTimeMsec": "1767712559621",
+    "timestampUsec": "1767712559621642",
+    "published": 1767697200,
+    "title": "Mastering LLM Tool Calling: The Complete Framework for Connecting Models to the Real World",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/mastering-llm-tool-calling-the-complete-framework-for-connecting-models-to-the-real-world/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/mastering-llm-tool-calling-the-complete-framework-for-connecting-models-to-the-real-world/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Most ChatGPT users don't know this, but when the model searches the web for current information or runs Python code to analyze data, it's using tool calling."
+    },
+    "guid": "https://machinelearningmastery.com/?p=22986",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-llm-tool-calling-framework-connecting-models-real-world-feature-2-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647c208b7d6c0",
+    "crawlTimeMsec": "1767748555757",
+    "timestampUsec": "1767748555757248",
+    "published": 1767741660,
+    "title": "A Gentle Introduction to Language Model Fine-tuning",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "This article is divided into four parts; they are: • The Reason for Fine-tuning a Model • Dataset for Fine-tuning • Fine-tuning Procedure • Other Fine-Tuning Techniques Once you train your decoder-only transformer model, you have a text generator."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23108",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/nick-night-8LTlfHL47Ac-unsplash-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Adrian Tam"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647cb77962923",
+    "crawlTimeMsec": "1767789070526",
+    "timestampUsec": "1767789070526755",
+    "published": 1767783600,
+    "title": "Supervised Learning: The Foundation of Predictive Modeling",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Editor’s note: This article is a part of our series on visualizing the foundations of machine learning."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23082",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-visualizing-foundations-ml-supervised-learning-feature-b.png",
+            "type": "image"
+        }
+    ],
+    "author": "Matthew Mayo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647e06bcc10f7",
+    "crawlTimeMsec": "1767879067046",
+    "timestampUsec": "1767879067046135",
+    "published": 1767870000,
+    "title": "Quantizing LLMs Step-by-Step: Converting FP16 Models to GGUF",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Large language models like LLaMA, Mistral, and Qwen have billions of parameters that demand a lot of memory and compute power."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23071",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-How-to-Quantize-Your-Own-Model-From-FP16-to-GGUF.png",
+            "type": "image"
+        }
+    ],
+    "author": "Kanwal Mehreen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648322489f9b7",
+    "crawlTimeMsec": "1768230058850",
+    "timestampUsec": "1768230058850743",
+    "published": 1768215600,
+    "title": "10 Ways to Use Embeddings for Tabular ML Tasks",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Embeddings — vector-based numerical representations of typically unstructured data like text — have been primarily popularized in the field of natural language processing (NLP)."
+    },
+    "guid": "https://machinelearningmastery.com/?p=22815",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-ipc-10-ways-use-embeddings-tabular-data.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064843f46d6380",
+    "crawlTimeMsec": "1768306561082",
+    "timestampUsec": "1768306561082240",
+    "published": 1768302000,
+    "title": "How to Read a Machine Learning Research Paper in 2026",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "When I first started reading machine learning research papers, I honestly thought something was wrong with me."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23076",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-how-to-read-research-paper-2026.png",
+            "type": "image"
+        }
+    ],
+    "author": "Kanwal Mehreen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064857dc77ced9",
+    "crawlTimeMsec": "1768392058457",
+    "timestampUsec": "1768392058457817",
+    "published": 1768388400,
+    "title": "Uncertainty in Machine Learning: Probability &amp; Noise",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Editor’s note: This article is a part of our series on visualizing the foundations of machine learning."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23089",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-visualizing-foundations-ml-uncertainty-feature.png",
+            "type": "image"
+        }
+    ],
+    "author": "Matthew Mayo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006486ff5b5693a",
+    "crawlTimeMsec": "1768495561140",
+    "timestampUsec": "1768495561140538",
+    "published": 1768474800,
+    "title": "The Beginner’s Guide to Computer Vision with Python",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Computer vision is an area of artificial intelligence that gives computer systems the ability to analyze, interpret, and understand visual data, namely images and videos."
+    },
+    "guid": "https://machinelearningmastery.com/?p=22835",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-ipc-beginners-guide-computer-vision-python.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064881916495c5",
+    "crawlTimeMsec": "1768571187533",
+    "timestampUsec": "1768571187533253",
+    "published": 1768561200,
+    "title": "The Complete Guide to Data Augmentation for Machine Learning",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Suppose you’ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong."
+    },
+    "guid": "https://machinelearningmastery.com/?p=22999",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/The-Complete-Guide-to-Data-Augmentation-for-Machine-Learning.png",
+            "type": "image"
+        }
+    ],
+    "author": "Kanwal Mehreen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648c0375c7d5d",
+    "crawlTimeMsec": "1768840259992",
+    "timestampUsec": "1768840259992925",
+    "published": 1768825020,
+    "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "I have been building a payment platform using vibe coding, and I do not have a frontend background."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23196",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-top-5-agentic-ai-website-builders-actually-ship-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Abid Ali Awan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d2aa1a22d9",
+    "crawlTimeMsec": "1768919494435",
+    "timestampUsec": "1768919494435545",
+    "published": 1768906800,
+    "title": "The Machine Learning Practitioner’s Guide to Model Deployment with FastAPI",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  If you’ve trained a machine learning model, a common question comes up: “How do we actually use it?” This is where many machine learning practitioners get stuck."
+    },
+    "guid": "https://machinelearningmastery.com/?p=22952",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/MLM-The-Machine-Learning-Practitioners-Guide-to-Model-Deployment-with-FastAPI.png",
+            "type": "image"
+        }
+    ],
+    "author": "Kanwal Mehreen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648e6245d292c",
+    "crawlTimeMsec": "1769003150027",
+    "timestampUsec": "1769003150027052",
+    "published": 1768993200,
+    "title": "Everything You Need to Know About How Python Manages Memory",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  In languages like C, you manually allocate and free memory."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23204",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/sta-chugani-everything-need-know-python-manages-memory-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648f9a2651393",
+    "crawlTimeMsec": "1769086868853",
+    "timestampUsec": "1769086868853651",
+    "published": 1769079600,
+    "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Most forecasting work involves building custom models for each dataset — fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23056",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-2026-time-series-foundation-models-autonomous-forecasting-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006494f20288b17",
+    "crawlTimeMsec": "1769454051035",
+    "timestampUsec": "1769454051035927",
+    "published": 1769447340,
+    "title": "Leveling Up Your Machine Learning: What To Do After Andrew Ng’s Course",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Finishing Andrew Ng's machine learning course <a href=\"https://www.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23228",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-leveling-up-machine-learning-after-andrew-ng-course-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Nahla Davies"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064963090c0f07",
+    "crawlTimeMsec": "1769539562639",
+    "timestampUsec": "1769539562639111",
+    "published": 1769527740,
+    "title": "The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Building a chatbot prototype takes hours."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23043",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-3-invisible-risks-llm-app-faces-guard-feature-2-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064972c06f0b24",
+    "crawlTimeMsec": "1769607063866",
+    "timestampUsec": "1769607063866148",
+    "published": 1769598000,
+    "title": "5 Ways to Use Cross-Validation to Improve Time Series Models",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Time series modeling <a href=\"https://machinelearningmastery.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23236",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-5-ways-use-cross-validation-improve-time-series-models-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Nahla Davies"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006498a6d9ba584",
+    "crawlTimeMsec": "1769708753495",
+    "timestampUsec": "1769708753495428",
+    "published": 1769694840,
+    "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23119",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-7-important-considerations-deploying-agentic-ai-production-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000649d6ead0905f",
+    "crawlTimeMsec": "1770037271629",
+    "timestampUsec": "1770037271629919",
+    "published": 1770030000,
+    "title": "A Beginner’s Reading List for Large Language Models for 2026",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23307",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-llm-beginners-reading-list-2026-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000649f54c387c10",
+    "crawlTimeMsec": "1770167754849",
+    "timestampUsec": "1770167754849296",
+    "published": 1770132360,
+    "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "You have mastered model."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23333",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-advanced-feature-engineering-llm-embeddings-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Shittu Olumide"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a02b62b30f7",
+    "crawlTimeMsec": "1770225366937",
+    "timestampUsec": "1770225366937847",
+    "published": 1770215700,
+    "title": "Export Your ML Model in ONNX Format",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "When building machine learning models, training is only half the journey."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23244",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/awan_export_ml_model_onnx_format_1.png",
+            "type": "image"
+        }
+    ],
+    "author": "Abid Ali Awan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a1591904000",
+    "crawlTimeMsec": "1770306357182",
+    "timestampUsec": "1770306357182464",
+    "published": 1770300960,
+    "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23179",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-agent-evaluation-agentic-ai-performance-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a642687e77c",
+    "crawlTimeMsec": "1770643863889",
+    "timestampUsec": "1770643863889788",
+    "published": 1770634800,
+    "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  AI agents are everywhere."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23358",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-ai-agents-misconceptions-why-they-matter-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a780d7c38bd",
+    "crawlTimeMsec": "1770729343039",
+    "timestampUsec": "1770729343039677",
+    "published": 1770721200,
+    "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23252",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-document-clustering-llm-embeddings-feature.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a8d01e56af5",
+    "crawlTimeMsec": "1770819342920",
+    "timestampUsec": "1770819342920437",
+    "published": 1770807600,
+    "title": "The Machine Learning Practitioner’s Guide to Speculative Decoding",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Large language models generate text one token at a time."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23407",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/bala-speculative-decoding.png",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a9fde277667",
+    "crawlTimeMsec": "1770900347647",
+    "timestampUsec": "1770900347647591",
+    "published": 1770894000,
+    "title": "Choosing Between PCA and t-SNE for Visualization",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "For data scientists, working with high-dimensional data is part of daily life."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23328",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-pca-vs-tsne-visualization-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Shittu Olumide"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064af08aea9133",
+    "crawlTimeMsec": "1771246843498",
+    "timestampUsec": "1771246843498803",
+    "published": 1771239600,
+    "title": "Top 7 Small Language Models You Can Run on a Laptop",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Powerful AI now runs on consumer hardware."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23404",
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b043e47b164",
+    "crawlTimeMsec": "1771331457102",
+    "timestampUsec": "1771331457102180",
+    "published": 1771326000,
+    "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is understandable by algorithms, models, and machines in a broader sense."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23291",
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b18257cf04f",
+    "crawlTimeMsec": "1771416940507",
+    "timestampUsec": "1771416940507215",
+    "published": 1771412400,
+    "title": "Agentify Your App with GitHub Copilot’s Agentic Coding SDK",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23398",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-agentify-app-github-copilot-agentic-coding-sdk-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Shittu Olumide"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b2c0dd3f1ee",
+    "crawlTimeMsec": "1771502442901",
+    "timestampUsec": "1771502442901998",
+    "published": 1771498800,
+    "title": "Building a Simple MCP Server in Python",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23481",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-building-simple-mcp-server-python-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b7d25e233ad",
+    "crawlTimeMsec": "1771850738840",
+    "timestampUsec": "1771850738840493",
+    "published": 1771844400,
+    "title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "AI agents , or autonomous systems powered by agentic AI, have reshaped the current landscape of AI systems and deployments."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23488",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-beyond-accuracy-5-metrics-actually-matter-ai-agents-feature.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b91e504b67f",
+    "crawlTimeMsec": "1771939844896",
+    "timestampUsec": "1771939844896383",
+    "published": 1771930800,
+    "title": "Introduction to Small Language Models: The Complete Guide for 2026",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  AI deployment is changing."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23384",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-small-language-models-complete-guide-2026-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ba4c26740b7",
+    "crawlTimeMsec": "1772020868530",
+    "timestampUsec": "1772020868530359",
+    "published": 1772017200,
+    "title": "How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Data fusion , or combining diverse pieces of data into a single pipeline, sounds ambitious enough."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23448",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-chugani-llm-embeddings-tf-idf-metadata-scikit-learn-pipeline-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bbcd9ce0510",
+    "crawlTimeMsec": "1772124340356",
+    "timestampUsec": "1772124340356368",
+    "published": 1772116980,
+    "title": "KV Caching in LLMs: A Guide for Developers",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Language models generate text one token at a time, reprocessing the entire sequence at each step."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23532",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-kv-caching-llms-eliminating-redundancy.png",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bd0c240cfac",
+    "crawlTimeMsec": "1772209844572",
+    "timestampUsec": "1772209844572076",
+    "published": 1772203200,
+    "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Using large language models (LLMs) — or their outputs, for that matter — for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long before language models emerged, has become something of a trend."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23461",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-ipc-improving-time-series-forecasting-llm-embeddings-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0c46485ecd",
+    "crawlTimeMsec": "1772465462730",
+    "timestampUsec": "1772465462730445",
+    "published": 1772458620,
+    "title": "Build Semantic Search with LLM Embeddings",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Traditional search engines have historically relied on keyword search."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23526",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-building-simple-semantic-search-engine-hero.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c1e1519b2b9",
+    "crawlTimeMsec": "1772541946999",
+    "timestampUsec": "1772541946999481",
+    "published": 1772535600,
+    "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "  You've built an AI agent that works well in development."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23256",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/01/mlm-chugani-ai-agents-production-deployment-roadmap-feature-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Vinod Chugani"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c373a456940",
+    "crawlTimeMsec": "1772649944803",
+    "timestampUsec": "1772649944803648",
+    "published": 1772645100,
+    "title": "5 Essential Security Patterns for Robust Agentic AI",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "<a href=\"https://machinelearningmastery.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23494",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-5-essential-security-patterns-for-robust-agentic-ai-2.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c45e4c022ef",
+    "crawlTimeMsec": "1772712934515",
+    "timestampUsec": "1772712934515439",
+    "published": 1772708400,
+    "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "<a href=\"https://machinelearningmastery.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23572",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-agentic-memory-vector-vs-graph.png",
+            "type": "image"
+        }
+    ],
+    "author": "Matthew Mayo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c969237d88e",
+    "crawlTimeMsec": "1773059442202",
+    "timestampUsec": "1773059442202766",
+    "published": 1773054000,
+    "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Memory helps <a href=\"https://www.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23580",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-bpc-6-agentic-ai-memory-frameworks-scaled.jpg",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cab51475cf1",
+    "crawlTimeMsec": "1773148547013",
+    "timestampUsec": "1773148547013873",
+    "published": 1773140400,
+    "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature engineering on complex datasets."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23510",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/02/mlm-turning-raw-text-into-ml-features-with-llms.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cb164ad50b2",
+    "crawlTimeMsec": "1773174642266",
+    "timestampUsec": "1773174642266290",
+    "published": 1773169200,
+    "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code before moving to production systems."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23587",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-ipc-setting-up-google-colab-ai-assisted-env.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd2eb86745d",
+    "crawlTimeMsec": "1773318638564",
+    "timestampUsec": "1773318638564445",
+    "published": 1773313200,
+    "title": "Building Smart Machine Learning in Low-Resource Settings",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Most people who want to build <a href=\"https://www.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23597",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-smart-ml-low-resource-settings.png",
+            "type": "image"
+        }
+    ],
+    "author": "Nate Rosidi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba2634b",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737419",
+    "published": 1773745200,
+    "title": "Everything You Need to Know About Recursive Language Models",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "If you are here, you have probably heard about recent work on recursive language models."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23608",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-everything-you-need-to-know-about-recursive-language-models.png",
+            "type": "image"
+        }
+    ],
+    "author": "Kanwal Mehreen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4e59f71dab",
+    "crawlTimeMsec": "1773848772418",
+    "timestampUsec": "1773848772418987",
+    "published": 1773842460,
+    "title": "7 Readability Features for Your Next Machine Learning Model",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23624",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-7-readability-features-for-your-next-machine-learning-model.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d6101dfe397",
+    "crawlTimeMsec": "1773928898880",
+    "timestampUsec": "1773928898880407",
+    "published": 1773926640,
+    "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Everyone's <a href=\"https://machinelearningmastery.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23676",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-davies-5-production-scaling-challenges-for-agentic-ai-2026.png",
+            "type": "image"
+        }
+    ],
+    "author": "Nahla Davies"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d76ff29f4eb",
+    "crawlTimeMsec": "1774023342683",
+    "timestampUsec": "1774023342683371",
+    "published": 1774015920,
+    "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent — with a certain degree of autonomy — works toward a goal."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23665",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-ipc-why-agents-fail-1.png",
+            "type": "image"
+        }
+    ],
+    "author": "Iván Palomares Carrascosa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064db0a162c535",
+    "crawlTimeMsec": "1774270877451",
+    "timestampUsec": "1774270877451573",
+    "published": 1774263600,
+    "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Memory is one of the most overlooked parts of agentic system design."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23716",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/bala-7-steps-memory-in-ai-agents.png",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc23d7f783b",
+    "crawlTimeMsec": "1774346511022",
+    "timestampUsec": "1774346511022139",
+    "published": 1774342800,
+    "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23753",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-mayo-vector-relational-1.png",
+            "type": "image"
+        }
+    ],
+    "author": "Matthew Mayo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dda5589fd00",
+    "crawlTimeMsec": "1774449993579",
+    "timestampUsec": "1774449993579776",
+    "published": 1774445940,
+    "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "My friend who is a developer once asked an LLM to generate documentation for a payment API."
+    },
+    "guid": "https://machinelearningmastery.com/?p=23698",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-olumide-reduce-rag-llm-hallucinations.png",
+            "type": "image"
+        }
+    ],
+    "author": "Shittu Olumide"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064def47cd0a66",
+    "crawlTimeMsec": "1774539957406",
+    "timestampUsec": "1774539957406310",
+    "published": 1774536900,
+    "title": "Vector Databases Explained in 3 Levels of Difficulty",
+    "canonical": [
+        {
+            "href": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/14",
+        "htmlUrl": "https://machinelearningmastery.com/",
+        "title": "MachineLearningMastery.com",
+        "feedUrl": "https://feeds.feedburner.com/MachineLearningMastery"
+    },
+    "content": {
+        "content": "Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.%3C/div%3E%3C/body%3E%3C/html%3E\"></a>"
+    },
+    "guid": "https://machinelearningmastery.com/?p=23765",
+    "enclosure": [
+        {
+            "href": "https://machinelearningmastery.com/wp-content/uploads/2026/03/mlm-bala-vector-db-3-levels.png",
+            "type": "image"
+        }
+    ],
+    "author": "Bala Priya C"
+}
+]}

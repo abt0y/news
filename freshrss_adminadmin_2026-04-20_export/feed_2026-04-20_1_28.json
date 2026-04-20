@@ -1,0 +1,2006 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/28",
+    "title": "List of Analytics Insight articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2824",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099812",
+    "published": 1619197200,
+    "title": "Exclusive Interview with Charlie Burgoyne, Founder &amp; CEO of Valkyrie",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/184195"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/184195",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Charlie Burgoyne, Founder &amp; CEO of <a href=\"https://www.valkyrie.ai/\" rel=\"noopener noreferrer nofollow\">Valkyrie</a>, a consulting group with domain expertise in applied science and strategy, to debunk more on the bias, myths, and ethical implications facing technology as algorithms tend to adopt the biases of their developers and of society as a whole.</p>"
+    },
+    "guid": "b6b5c27d-d345-f8a2-8915-3557ff045778",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210423_170012_f411ebe5a976f71ced5253fdeb41cf32.mp3",
+            "type": "audio/mpeg",
+            "length": 32344489
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2825",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099813",
+    "published": 1619197860,
+    "title": "Exclusive Interaction with Rajesh Gupta, Director, Country Manager – India Sales, Micron",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/184197"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/184197",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to <a href=\"https://www.linkedin.com/in/rajesh-gupta-86965738/\" rel=\"noopener noreferrer nofollow\">Rajesh Gupta</a>, Director, Country Manager – India Sales, <a href=\"https://in.micron.com/\" rel=\"noopener noreferrer nofollow\">Micron</a>, a global semiconductor brand and a world leader in Innovative Memory Solutions to understand the growing needs of computing and storage solutions and how Micron is playing an important role to address upcoming storage challenges. </p>"
+    },
+    "guid": "a8b4a264-686c-8d62-08de-d09f462dbb4a",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210423_171110_2dde150ead10e8441443f580e2f848d1.mp3",
+            "type": "audio/mpeg",
+            "length": 38455206
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2826",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099814",
+    "published": 1619519340,
+    "title": "Exclusive Interaction with Probal Lala, CEO, Fluent.ai",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/186672"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/186672",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Probal Lala, CEO of Fluent.ai, a voice recognition solutions company to understand the impact of AI-driven surveillance systems and voice recognition systems at workplaces as well as the need of ethical governance to regulate such systems.</p>"
+    },
+    "guid": "3040e400-6749-b130-5248-5defed5c6cfa",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210427_102917_973a2d05b2c997e3627f75a1abb01f13.mp3",
+            "type": "audio/mpeg",
+            "length": 28701576
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2827",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099815",
+    "published": 1619613540,
+    "title": "Exclusive Interaction with Glen Day, CEO and Founder, NVISNX",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/187441"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/187441",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Glen Day, CEO and Founder,  NVISNX, a leading SaaS Cybersecurity company to understand the current landscape of cyberseucity for companies undergoing digital transformation and how NVISNX is making a difference by helping them to change their outlook towards Hacktivism.</p>"
+    },
+    "guid": "d52fd848-a5de-0276-53f6-90f17bdbfabf",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210428_123919_e5f70db65586b70a83d76ecc4a1f0b82.mp3",
+            "type": "audio/mpeg",
+            "length": 28013942
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2828",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099816",
+    "published": 1620203820,
+    "title": "Exclusive Interaction with Ashwin Nayak, VP of Engineering, Zaloni",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/192385"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/192385",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Ashwin Nayak, VP of Engineering, Zaloni that offers end-to-end DataOps services to understand how data governance should be a cornerstone of data ethics and how a data management strategy can help organizations protect their customer’s data privacy.</p>"
+    },
+    "guid": "9a87d1b3-3478-0663-877d-f252ddf99021",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210505_083705_9ddbe667710b5299ff77d651da157e6c.mp3",
+            "type": "audio/mpeg",
+            "length": 34574603
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2829",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099817",
+    "published": 1620728160,
+    "title": "Exclusive Interaction with Roman Stanek, Founder and CEO, GoodData",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/196494"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/196494",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Roman Stanek, Founder and CEO GoodData, a leader in embedded analytics and intelligence to understand about the much-hyped ambiguous field of Data as a Service and how GoodData's new product update (GoodData.CN) is aligned with the next revolution in data analytics.</p>"
+    },
+    "guid": "99a53461-e660-4b51-737b-44c7de07c206",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210511_101630_aa652209621eaa1b7bca8c83945240cd.mp3",
+            "type": "audio/mpeg",
+            "length": 30527210
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282a",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099818",
+    "published": 1620821520,
+    "title": "Exclusive Interaction with Subram Natarajan, Chief Technology Officer and Director, Technical Sales, IBM",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/197280"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/197280",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Subram Natarajan, Chief Technology Officer and Director, Technical Sales, IBM Technology Sales, India/South Asia to understand how Intelligent Automation is the new era of innovation as it can synergistically work with humans to ensure the best productivity and how IBM will be driving this innovation to accelerate digital transformation.</p>"
+    },
+    "guid": "1a69ddda-a5b7-48ce-1912-c07243d5838f",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210512_121206_ddb7c8584bd52f6a491d788c5b40b23a.mp3",
+            "type": "audio/mpeg",
+            "length": 36294730
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282b",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099819",
+    "published": 1621325160,
+    "title": "Interview with Josh Jackson, Executive Director, The AI Association and Global Head, 6clicks",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/201366"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/201366",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Josh Jackson, Executive Director of The AI Association and Global Head of Government and Public Services at 6clicks to understand how regulations around AI is crucial to accelerate ethical AI but also how AI itself can be a part of the entire regulation process and ensure accurate decision-making.</p>"
+    },
+    "guid": "03ea6faf-eb5f-8ed3-5530-2ceb53bdf75c",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210518_080630_caf0423d85b0a222ec8a37d0ebeda07d.mp3",
+            "type": "audio/mpeg",
+            "length": 31842178
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282c",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099820",
+    "published": 1621505700,
+    "title": "Interview with Nick Jordan, Founder and CEO of Narrative",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/202823"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/202823",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Nick Jordan, Founder and CEO of Narrative, a leading Data Streaming Platform to understand how having good data is a challenge and how API-ization of the data science function can democratize the data science landscape.</p>"
+    },
+    "guid": "66da493d-e6f6-1815-c472-45379b95b5d2",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210520_101527_81893491fbf8b37e6945d9c015d0ff70.mp3",
+            "type": "audio/mpeg",
+            "length": 28105924
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282d",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099821",
+    "published": 1621603440,
+    "title": "Exclusive Interaction with Natasha Drapeau, Executive Vice President, BioSig",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/203620"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/203620",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Apoorva Komarraju, Senior Analyst, Analytics Insight speaks to Natasha Drapeau, Executive Vice President of BioSig Technologies to understand how disruptive technologies like artificial intelligence and machine learning are transforming the Biotech industry with innovative solutions and milestones that spearhead the future of patient care while easing the burden on the healthcare industry.</p>"
+    },
+    "guid": "00beedb6-67c1-2ab9-bafe-819c1f8d7a5f",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210521_132432_4c3e20c63c94caac2d6d2e39bd9521b0.mp3",
+            "type": "audio/mpeg",
+            "length": 23457041
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282e",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099822",
+    "published": 1622023920,
+    "title": "Exclusive Interaction with Sumit Mehra, Co-founder and CTO, Tredence",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/206566"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/206566",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Sumit Mehra, Co-founder and CTO of Tredence, a top AI engineering and analytics services company to understand Tredence's cutting-edge analytics services along with its new MLOps platform -MLWorks and how Tredence 2.0 will accelerate rapid expansion in terms of new partnerships and talent building.</p>"
+    },
+    "guid": "ddc20b30-1e51-2a8a-ab85-dc7974ef161f",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210526_101155_36f8db2c4f3a2db988edc007b992d3dc.mp3",
+            "type": "audio/mpeg",
+            "length": 35166765
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe282f",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099823",
+    "published": 1622454600,
+    "title": "Exclusive Interaction with Aurélie Hélouis, CEO, infinityQ",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/209643"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/209643",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Aurélie Hélouis, CEO, infinityQ, a leading quantum-analog device innovator to understand how quantum computing is set to be the game-changer for the entire world, how infinityQ is bringing quantum speed to enterprise with its technology to bring the computational power promised by quantum computing to the market.</p>"
+    },
+    "guid": "bde79a2d-163c-9c54-9894-59b4f750b0a5",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210531_094951_e2f49a0651828789c1bcdf4726e60183.mp3",
+            "type": "audio/mpeg",
+            "length": 29652633
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2830",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099824",
+    "published": 1622627040,
+    "title": "Exclusive Interaction with Paul Goldman, Founder and CEO, Muserk",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/211013"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/211013",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Paul Goldman, Founder and CEO of Muserk to understand how Muserk's platform BLUE MATTER™, an AI platform, solves global rights management service of music and the role of AI in global music streaming management.</p>"
+    },
+    "guid": "447c6d04-fee5-4b3e-12c8-c67f2005130b",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210602_094417_188081af6caf8e3cb2974251f6a998b9.mp3",
+            "type": "audio/mpeg",
+            "length": 41505630
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2831",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099825",
+    "published": 1622893500,
+    "title": "Exclusive Interaction with Varun Babbar, Managing Director, Qlik India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/213037"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/213037",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Apoorva Komarraju, Senior Analyst, Analytics Insight speaks to Varun Babbar, Managing Director of Qlik India to understand how disruptive technologies like Big Data Analytics and Business intelligence are helping Qlik carry on digital transformation smoothly for its clients.</p>"
+    },
+    "guid": "fa0262af-3b67-7ae7-1a43-924e93ceb5b7",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210605_114519_7bf2eeccb52e962ba9552b332d0730d2.mp3",
+            "type": "audio/mpeg",
+            "length": 24817903
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2832",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099826",
+    "published": 1623232800,
+    "title": "Exclusive Interaction with Sumit Prasad, Chief Innovation OfficerEl Salvado, Sagacious IP",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/215524"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/215524",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Sumit Prasad, Chief Innovation Officer and Group Manager, Sagacious IP to understand how AI will influence traditional intellectual property (IP) concepts and how the company's 'IT for IP’ program will play a key role in saving time and costs on various IP processes.</p>"
+    },
+    "guid": "389915df-5a54-e0b7-09b0-8de93be24b56",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210609_095959_8e69d6109de705b853c183c88fa4eccd.mp3",
+            "type": "audio/mpeg",
+            "length": 36813834
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2833",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099827",
+    "published": 1623662940,
+    "title": "Exclusive Interaction Huzefa Motivala, Director of Systems Engineering, India, and SAARC, Palo Alto Networks",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/218520"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/218520",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Apoorva Komarraju, Senior Analyst, Analytics Insight speaks to Huzefa Motivala, Director of Systems Engineering in India, and SAARC at Palo Alto Networks to understand how organizations can safeguard their intellectual data and business assets online through effective cybersecurity solutions, and keep hackers from breaking into the business's networks.</p>"
+    },
+    "guid": "f49c2957-4ddb-158a-8ee2-1ce040dafd34",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210614_092914_aee6a056d3b55563115c4d9ad94756a0.mp3",
+            "type": "audio/mpeg",
+            "length": 32209418
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2834",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099828",
+    "published": 1623919740,
+    "title": "Exclusive Interaction with Anna Green, Head of ISV and DNB Segment, Amazon Web Services",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/220686"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/220686",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Apoorva Komarraju, Senior Analyst, Analytics Insight speaks to Anna Green, Head of ISV and DNB Segment, Asia Pacific and Japan at Amazon Web Services to understand the growing need to bridge the skill gap in APAC regions and encouraging more women into the tech and STEM fields. We also discuss about the company’s new “She Builds” initiative that aims at helping young women start off in the tech industry.</p>"
+    },
+    "guid": "07a1647a-1a27-412e-f592-5891dac86f62",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210617_084851_8542cbb1cf1cfebd49698a60a7a525db.mp3",
+            "type": "audio/mpeg",
+            "length": 31962325
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2835",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099829",
+    "published": 1624875060,
+    "title": "Exclusive Interaction with Prashanth Kaddi, Partner, Deloitte India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/227589"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/227589",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Analytics Insight speaks to  Prashanth Kaddi, Partner, Deloitte India, to discuss the impact of quantum computing in the tech world and how edge computing is leveraging quantum computing capabilities. We also discuss Deloitte's AI institute and the challenges the company has faced in leveraging modern computing technologies.</p>"
+    },
+    "guid": "0c55840f-4ee0-5d79-a392-f8e949cf1b07",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210628_101052_0c08d301c648078a459616626dab5d72.mp3",
+            "type": "audio/mpeg",
+            "length": 25998208
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2836",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099830",
+    "published": 1625565600,
+    "title": "Exclusive Interaction with Rohan Vaidya, Managing Director, Cyberark India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/232342"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/232342",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast session, Analytics Insight is in conversation with Rohan Vaidya, Managing Director of Cyberark India to talk about the cybersecurity industry and innovative solutions. Rohan Vaidya also discusses about how cyber attacks are getting sophisticated with technology advancements and how organizations should be mindful about choosing the right security solution and strategizing ahead of time.</p>"
+    },
+    "guid": "eb3a6005-49a1-6704-96bc-86ae4d5c2270",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210706_100034_b2614ff6b85595500f77612cbfddaa3b.mp3",
+            "type": "audio/mpeg",
+            "length": 51451053
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2837",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099831",
+    "published": 1625821260,
+    "title": "Exclusive Interaction with Sean Hunter, Chief Information Officer, OakNorth",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/234254"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/234254",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dilani, Senior Editor, Analytics Insight, speaks to Sean Hunter, CIO, OakNorth, to understand how disruptive technologies including cloud are transforming the Fintech Industry with digital payment and helping banks build deeper relationships with their clients.</p>"
+    },
+    "guid": "7ebc444c-e204-2681-65d5-5d5c6b67b8ce",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210709_090107_f28a0496e943e530083e50e10fdf316e.mp3",
+            "type": "audio/mpeg",
+            "length": 29423564
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2838",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099832",
+    "published": 1626166380,
+    "title": "Exclusive Interaction with Mike Anand, CMO, Redis Labs",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/236468"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/236468",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In this podcast session, Analytics Insight is in conversation with Mike Anand, CMO of Redis Labs to discuss the current scenario of the data industry and disruptive technologies like AI. Listen to the podcast to get insights about the future of data-driven enterprises, how technology is shaping the role of modern leadership, and the trends data professionals should keep in mind.</p>"
+    },
+    "guid": "5facb339-54da-f4ae-112b-56087716a71f",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210713_085300_1be614e861cc6ac3767f13c698203185.mp3",
+            "type": "audio/mpeg",
+            "length": 16760357
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2839",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099833",
+    "published": 1627464180,
+    "title": "Exclusive Interaction with Ravi Jain and Afaq Siddiqui",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/245425"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/245425",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Ravi Jain, Director, Server Solutions, India South Asia, IBM and Afaq Siddiqui, President, Enterprise Business &amp; Global Strategic Alliances , Intense Technologies Ltd. to understand how an effective collaboration between startups and big tech players in terms of leveraging the power of AI can help boost Indian startup ecosystem and achieve competitive advantage.</p>"
+    },
+    "guid": "4c853a64-e191-c45e-fee6-7734742a76b3",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210728_092324_1e146f4444f357c8b464e56041920077.mp3",
+            "type": "audio/mpeg",
+            "length": 41959707
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283a",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099834",
+    "published": 1627553880,
+    "title": "Exclusive Interaction with Suvig Sharma, Senior Director- APAC, MongoDB",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/246092"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/246092",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Suvig Sharma, Senior Director – APAC, MongoDB to understand how data has become the key to building competitive advantage and the role of MongoDB, and how technical innovation and a relentless focus on developer experience is helping make MongoDB's app data platform the standard for modern applications.</p>"
+    },
+    "guid": "f7957391-92e1-4eed-0782-6a18a463bc82",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210729_101750_ece24277ec7973a814e15ec14bff48ec.mp3",
+            "type": "audio/mpeg",
+            "length": 42634402
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283b",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099835",
+    "published": 1627633680,
+    "title": "Exclusive Interaction with Piyush Gupta, President, Kestone",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/246701"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/246701",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast session, Analytics Insight joins Piyush Gupta, President of Kestone to discuss significant of the AI-bot industry. Piyush puts the spotlight on the need for bots to improve customer and user experience, and India’s first AI-powered Virtual Event Smart Assistant bot for the virtual events industry named Virsa. Listen to the podcast to understand the features of this bot, its market significance, current and potential scope for target sectors, and how going forward, for the first time ever, virtual events will have more power over sessions.</p>"
+    },
+    "guid": "a26968c6-6dc5-b997-8f59-2990f15581b7",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210730_082803_4a6f7a1bd1758000b0e0f6c9fd0c1960.mp3",
+            "type": "audio/mpeg",
+            "length": 28764978
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283c",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099836",
+    "published": 1627897380,
+    "title": "Exclusive Interview with Abhilash GK, BU Head-SDI, Lenovo ISG, Asia Pacific",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248278"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248278",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Shivani Muthyala, Content Analyst at Analytics Insight, speaks to Abhilash GK, BU Head, Software Defined Infrastructure at Lenovo Infrastructure Solutions Group, Asia Pacific. Abhilash who sheds light on how AI, Cloud Computing and Analytics are transforming Lenovo Infrastructure Solutions Group. He elaborates on the services and specializations that are unique to the company and how it is benefiting their clients. Abhilash explains about the Hybrid Clouds quoting the pandemic instances. Listen to the podcast to understand the future scenario of the industry and some interesting things about the Hybrid Clouds.</p>"
+    },
+    "guid": "08f80c6e-2567-bcdc-1693-d343030156fa",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210802_094330_7f166d580632c592056f0d5f29f2d890.mp3",
+            "type": "audio/mpeg",
+            "length": 28426941
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283d",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099837",
+    "published": 1627910160,
+    "title": "Exclusive Interaction with Dileep Mangsuli, Executive Director, Siemens Healthineers",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248333"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248333",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast session, Analytics Insight is in conversation with Dileep Mangsuli, Executive Director and Head of Development Centre at Siemens Healthineers, to shed light on how technological innovations are helping physicians, medical staff, and healthcare providers correctly diagnosis illnesses and determine the right treatment plans for faster recoveries. </p>"
+    },
+    "guid": "3251d058-faf1-3d8e-a87f-4b9586e03596",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210802_131342_4351bcb2e53955f72fd0d61ba71dc789.mp3",
+            "type": "audio/mpeg",
+            "length": 22610711
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283e",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099838",
+    "published": 1627993920,
+    "title": "Exclusive Interaction with Matt Robinson, CTO of Rahi Systems",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248996"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/248996",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In this latest podcast session, Analytics Insight is in conversation with Matt Robinson, CTO at Rahi Systems to discuss the inevitable role of disruptive technologies in healthcare and the importance of digital transformation to provide better patient care, diagnosis, and drug discovery. </p>"
+    },
+    "guid": "c405cd46-cd91-5ef0-09a7-fe6821ac47f0",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210803_122902_3bbead52d7b96c2329576c61e03c43f7.mp3",
+            "type": "audio/mpeg",
+            "length": 26356802
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe283f",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099839",
+    "published": 1628069700,
+    "title": "Interview with Satya Prakash Ranjan, Head– Analytics, Research and Data, Fidelity Investments India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/249570"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/249570",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Satya Prakash Ranjan, Head – Analytics, Research, and Data, Fidelity Investments India to understand what non-linear scaling is and why should large, diverse organizations leverage the power of data, analytics, and AI through non-linear scaling along with the role of Fidelity in it. </p>"
+    },
+    "guid": "f4bbf496-7f56-fbb4-1c73-df29ae649ca2",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210804_093443_f30dfafe8cbcdc5d1662378537a5c1c9.mp3",
+            "type": "audio/mpeg",
+            "length": 42231157
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2840",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099840",
+    "published": 1628499720,
+    "title": "Exclusive Interaction with Raghuraman Ramamurthy, Founder &amp; CEO of Rapid Acceleration Partners",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/252396"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/252396",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Dharmendar Passi, Sales Manager, Analytics Insight, speaks to Raghuraman Ramamurthy, Founder, and CEO of Rapid Acceleration Partners, to understand his perspectives and viewpoints on artificial intelligence and relative technologies and its impact on business growth.</p>"
+    },
+    "guid": "1c5a3c15-f56a-c51e-75e3-d68c0ac482fe",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210809_085543_a747eda88b9ecab6eb70b95dcab928c9.mp3",
+            "type": "audio/mpeg",
+            "length": 28313045
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2841",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099841",
+    "published": 1628856420,
+    "title": "Exclusive Interaction with Ganesh Gopalan, CEO and Co-founder of Gnani.ai",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/254931"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/254931",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the Podcast series, Priya Dialani, Senior Editor, Analytics Insight speaks to Ganesh Gopalan, CEO and Co-founder of Gnani.ai to understand how Conversational AI represents a whole new category of engagement for brands and why business leaders need to consider it when they serve their customers in today's digital world. </p>"
+    },
+    "guid": "c72f2dfc-d189-c686-752a-8381f3313471",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210813_120635_88d063fb67ad8f9f6f05f1bac3a4814b.mp3",
+            "type": "audio/mpeg",
+            "length": 34952008
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2842",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099842",
+    "published": 1629278640,
+    "title": "Exclusive Interaction with Manish Dangwal, Country Manager, Sales at OpenText",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/257583"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/257583",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In this latest podcast session, Analytics Insight is in conversation with Manish Dangwal, Country Manager, Sales at OpenText to discuss the role of effective business transformation with extreme automation and hyper connectivity powered by AI.</p>"
+    },
+    "guid": "430785d2-8b25-8e9c-8bc8-2133a212a514",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210818_092420_433a4c51393f08d32d7afda0d35c635e.mp3",
+            "type": "audio/mpeg",
+            "length": 39888037
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2843",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099843",
+    "published": 1629372660,
+    "title": "Exclusive Interaction with Krishnan Venkateswaran, Chief Digital &amp; Information Officer, Titan",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/258227"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/258227",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In this latest podcast session, Analytics Insight is in conversation with Krishnan Venkateswaran, Chief Digital and Information Officer, Titan Company Limited, to discuss how the company embraced digitization and technology to become an omnipresent platform and expand their product line to beyond watches. Listen to the full podcast here.</p>"
+    },
+    "guid": "0953f554-f982-713a-9ed9-6675f8beb5b2",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210819_112706_94217cc8ff5239f9ae68c5e3e360ca87.mp3",
+            "type": "audio/mpeg",
+            "length": 22567114
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2844",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099844",
+    "published": 1629794160,
+    "title": "Exclusive Interaction with Ranga Jagannath, Director of Growth at Agora",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/261148"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/261148",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest episode of the Podcast series, Shivani Muthyala, Content Analyst at Analytics Insight, speaks to Ranga Jagannath, Director of Growth at Agora. He elaborates on real-time management, live streaming, and interactive platforms which have been quite popular these days. Ranga also sheds light on digitalization and its growth during the pandemic. Listen to the podcast to understand how real-time engagement is transforming across industries.</p>"
+    },
+    "guid": "677922e3-0e89-dc63-0c3d-e4b389dcbf08",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210824_083604_6160bd30b2aa1d6f87b0c7772fff1039.mp3",
+            "type": "audio/mpeg",
+            "length": 28598996
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2845",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099845",
+    "published": 1630574640,
+    "title": "Exclusive Interaction with Richard Brown, Chief Technology Officer at R3",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/267015"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/267015",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of podcast series, Shivani Muthyala, Content Analyst at Analytics Insight, speaks to Richard Brown, Chief Technology Officer at R3. Richard sheds light on the importance of confidential cloud computing and how it can ensure the collaboration of organizations without data security concerns. He elaborates on the major pressing issues surrounding data security and how R3 is enabling digital trust with regard to security and privacy in a regulated market. Listen to the podcast to know more about R3 and confidential cloud computing. </p>"
+    },
+    "guid": "418188cf-4fbc-2098-6405-c3d72a2897db",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210902_092311_c5d1019dd4ed160d1f7f81b831117a58.mp3",
+            "type": "audio/mpeg",
+            "length": 32557599
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2846",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099846",
+    "published": 1630661160,
+    "title": "Exclusive Interaction with Sanjay Motwani, VP– APAC, Business Head of Legrand Data Center Solutions",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/267674"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/267674",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the podcast series, Shivani Muthyala, Content Analyst at Analytics Insight, speaks to Sanjay Motwani, VP – APAC, Business Head, Legrand Data Center Solutions. Sanjay sheds light on the importance of data center solutions and also on its future trends. He elaborates on microdata centers and the company’s outlook towards the technology in 2021. Listen to the podcast to understand more about data centers and the role of Go-To-Market in the present scenario especially in India.</p>"
+    },
+    "guid": "82af2876-a215-3d27-489f-3189270fa812",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210903_092539_3e8f89c94e5d3651ad8d0da0a263b9f0.mp3",
+            "type": "audio/mpeg",
+            "length": 26999405
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2847",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099847",
+    "published": 1631092560,
+    "title": "Exclusive Interaction with Akshaya Bhargava, Chairman and Founder, Bridgeweave",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/270702"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/270702",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In this podcast session, Analytics Insight is in conversation with Akshaya Bhargava, Chairman, and Founder at Bridgeweave, to know more about the company and its newest offering, Investor Ai, a one-of-its-kind platform for insightful trading. </p>"
+    },
+    "guid": "d4e6fb87-18fc-ac71-c1a1-50f25cabda7a",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210908_091619_ebd14c2c0d68ceaf56a6f476bf4f22ea.mp3",
+            "type": "audio/mpeg",
+            "length": 28558572
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2848",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099848",
+    "published": 1631778420,
+    "title": "Exclusive Interaction with V Chandrasekaran, Director and Co-Founder of Congruent Solutions",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/276222"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/276222",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>Analytics Insight speaks to V Chandrasekaran, Director and Co-Founder of Congruent Solutions to understand its holistic solutions to manage, administer and maintain retirement plans. As we are moving towards the hustle culture, having a good retirement plan is a comfort that many of us see. And for providers, giving a great customer experience is the key to the success of the plan. So let’s understand more in the words of the speaker in this podcast. </p>"
+    },
+    "guid": "3f422e26-c9ed-e995-6d14-9d33530869d3",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210916_074641_e87932f2aa7d5ab2badeb2fe955257bf.mp3",
+            "type": "audio/mpeg",
+            "length": 39034438
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2849",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099849",
+    "published": 1632910980,
+    "title": "Exclusive Interaction with Sachin Lala, Senior Director of Engineering at Blackhawk Network India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/285393"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/285393",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest podcast series, Shivani Muthyala, Content Analyst at Analytics Insight, talks to Sachin Lala, who is a Senior Director of Engineering at Blackhawk Network India. The speaker elaborates on the increase of digital payment methods during the pandemic and the future trends in the payment space. Sachin also briefs about the skills and professions to be in demand in the near future. Listen to the podcast to know more about Blackhawk and the payment technologies.</p>"
+    },
+    "guid": "0b41b188-f7aa-317c-ed64-431b9dd268dd",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210929_102255_2c2b16afc20eb9f835b1baeb3d1388bb.mp3",
+            "type": "audio/mpeg",
+            "length": 39649927
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284a",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099850",
+    "published": 1632993900,
+    "title": "Exclusive Interaction with Deepak Pargaonkar, Vice President of Solution Engineering, Salesforce",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/286158"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/286158",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Deepak Pargaonkar, who is a Vice President of Solution Engineering at Salesforce. Deepak sheds light on Low-code and how it is helpful in building apps in the near future. He also explains briefly the significance of low-code in the post-pandemic setting. Listen to the podcast to know more about Salesforce and low-code solutions right away! </p>"
+    },
+    "guid": "0cc05d93-42cc-7263-23b1-d62e233d56ed",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20210930_092443_fa0ab36d544fc28cb1a5f005ff423bfc.mp3",
+            "type": "audio/mpeg",
+            "length": 20918273
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284b",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099851",
+    "published": 1633603680,
+    "title": "Exclusive Interaction with Amit Nigam, CEO and Executive Director of BANKIT",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/291309"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/291309",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of podcast series, Shivani Muthyala, Content Analysts at Analytics Insight talks to Amit Nigam, who is a CEO &amp; Executive Director at BANKIT. Amit sheds light on how digitalization has changed the digital payment industry. He elaborates on the recent trends and the post-pandemic scenario which has revolutionized the modes of transactions. Listen to the podcast to know more about BANKIT and payment trends.  </p>"
+    },
+    "guid": "d3f874e7-f4b7-b21f-35e4-b9ef3d8c6d7c",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211007_104743_bba60e5b52492aa8bfa47336d350e338.mp3",
+            "type": "audio/mpeg",
+            "length": 27169109
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284c",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099852",
+    "published": 1633673880,
+    "title": "Exclusive Interaction with Robin Bhowmik, Chief Business Officer at Manipal Global",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/292009"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/292009",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of podcast series, Shivani Muthyala, Content Analysts at Analytics Insight talks to Robin Bhowmik, who is a Chief Business Officer at Manipal Global. Robin sheds light on how technology has been impacting the BFSI sector. He explains how blockchain is taking over the Banking Industry along with its benefits. Listen to the podcast to know how important it is to upskill employees in this sector to meet the demands of the future.</p>"
+    },
+    "guid": "ac8220ef-8a77-0e41-b0dd-d6a92b2f51ae",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211008_061816_459bf70e3a1e7698d292da3f6079d3b4.mp3",
+            "type": "audio/mpeg",
+            "length": 40159914
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284d",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099853",
+    "published": 1634547660,
+    "title": "Exclusive Interaction with Dhruv Agarwal, COO and Co-Founder of Shipsy",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/298770"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/298770",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the podcast series, Shivani Muthyala, Content Analysts at Analytics Insight talks to Dhruv Agarwal, who is a COO and Co-Founder of Shipsy. Dhruv elaborates on the importance of low-code saas platforms and how it can be used in the logistics industry. He also sheds light on how Artificial Intelligence and Big Data can be leveraged in adding value to this industry. Listen to this podcast to know more about it!</p>"
+    },
+    "guid": "96ea4e2b-f044-96c0-4474-5938c0299c26",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211018_085957_526b1c8d26264c24823f109eba9d2630.mp3",
+            "type": "audio/mpeg",
+            "length": 20638071
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284e",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099854",
+    "published": 1634714820,
+    "title": "Exclusive Interaction with Deepak Jha, General Manager of AI platform, NEC Corporation India",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/300283"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/300283",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest podcast series, Shivani Muthyala, Content Analyst, talks to Deepak Jha, who is a General Manager of Artificial Intelligence platform, NEC Corporation India. Deepak elaborates on how Artificial Intelligence, Machine Learning, and Analytics are transforming across industries. He also sheds light on how NEC is leveraging these new technologies and the future trends of the technologies. Listen to this podcast to know more about NEC and the present scenario of the tech industry.</p>"
+    },
+    "guid": "f2adfc4c-c93d-4ea2-1141-1e9c290e0aa8",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211020_072507_6d6525a51c269a9db005ebfc0dc35734.mp3",
+            "type": "audio/mpeg",
+            "length": 52678244
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe284f",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099855",
+    "published": 1635851160,
+    "title": "Exclusive Interaction with Kausambi Manjita, CEO and Co-Founder of Mason",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/309680"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/309680",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Kausambi Manjita, who is a CEO and Co-Founder of Mason. She elaborates more on how technology has disrupted the retail and e-commerce ecosystems and also about the importance of low code in the post-pandemic setting. Manjita talks about how Mason is helping the e-retail storefronts to scale up their businesses. She also sheds light upon the vital role of design thinking intervention in the current scenario. To know more, listen to this interesting podcast.</p>"
+    },
+    "guid": "67d6ef6d-49dd-fe63-8a58-0032dd634eb2",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211102_105823_b85696cf2b76b4ad889b8771b1e03242.mp3",
+            "type": "audio/mpeg",
+            "length": 30794100
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2850",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099856",
+    "published": 1636972200,
+    "title": "Exclusive Interaction with Ashwin Rajeeva, Co-Founder and CTO of Acceldata",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/318765"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/318765",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Ashwin Rajeeva, who is a Co-Founder and CTO of Acceldata, which is a deep-tech startup that built the world’s first enterprise data observability platform. He talks about the upcoming deep tech trends and the current scenario of deep tech startups in India. Ashwin also sheds light on how pandemic has accelerated the growth of deep tech adoption. Listen to the podcast to know more about deep tech and its future in India.</p>"
+    },
+    "guid": "13865e5d-fd37-2b5a-22ca-27076cffccff",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211115_102414_aa443de48e9de23ebc2df550a79c53db.mp3",
+            "type": "audio/mpeg",
+            "length": 29737446
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2851",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099857",
+    "published": 1637647440,
+    "title": "Exclusive Interaction with Punit Singh Soni, Founder and CEO of Suki AI",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/324455"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/324455",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest episode of the podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Punit Singh Soni, who is the Founder and CEO of Suki AI. He talks about the idea of setting up the company as Suki.ai came into his mind. Punit sheds some light on how AI and ML are taking over the healthcare sector. To know more about this interesting topic, quickly listen to our new podcast episode. </p>"
+    },
+    "guid": "450206a2-79b6-4efb-809e-9fdaa3aee227",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211123_061103_5be02bb14d2d68cf78c7cceea01c6f0d.mp3",
+            "type": "audio/mpeg",
+            "length": 27886540
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2852",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099858",
+    "published": 1638430500,
+    "title": "Exclusive Interaction with Bharat Raizada, Lead of Chief Technology Office at Wells Fargo",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/331397"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/331397",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In our latest podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Bharat Raizada, who is the Lead of Chief Technology Office at Wells Fargo, India and Philippines. Bharat elaborates upon how tech trends such as AI, ML, Automation and RPA are transforming the financial services industry. He sheds light on how these tech trends can enhance better customer experience and automate the processes on the other hand. Listen to this podcast to know more interesting things in this context.</p><p>24.41 MB file on MEGA</p><p><a href=\"https://mega.nz/\" rel=\"noopener noreferrer nofollow\">https://mega.nz</a></p>"
+    },
+    "guid": "b9ecbca7-4553-4e54-aca0-8259c138c4f2",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211202_071205_1cc295bfab7577bcbd6abad38c910e21.mp3",
+            "type": "audio/mpeg",
+            "length": 25597428
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2853",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099859",
+    "published": 1638791400,
+    "title": "Exclusive Interaction with Vivek Puri, Global Practice Lead for Customer Experience Solutions, Brillio",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/334423"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/334423",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast episode series, Shivani Muthyala, Content Analysts at Analytics Insight speaks to Vivek Puri, who is a Global Practice Lead for Customer Experience Solutions, Brillio. Vivek elaborates on how Artificial Intelligence is automating the processes as well as enhancing customer experiences. He also sheds light on how AI and Design thinking can go hand in hand providing better customer experiences. Listen to the podcast to know about this interesting topic.</p>"
+    },
+    "guid": "e411c960-c272-4b6b-b221-bc48d6d06b1e",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211206_111238_11c63896f5c723a9ef55a86f92a0d1b9.mp3",
+            "type": "audio/mpeg",
+            "length": 45615532
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2854",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099860",
+    "published": 1638862500,
+    "title": "Exclusive Interaction with Ranjith Mukandan, CEO and Co-Founder of Stellapps",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/335267"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/335267",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast series, Shivani Muthyala, Content Analyst at Analytics Insight talks to Ranjith Mukandan, who is a CEO and Co-Founder of Stellapps which is India's leading dairy-tech startup company. Ranjith sheds light on how AI based startups are changing the face of the agriculture industry in India by simplifying value chain processes and imparting traceability and transparency. He also elaborates on how cattle facial recognition boosts livestock coverage. Listen to the podcast to know more interesting things about it.</p>"
+    },
+    "guid": "00389c62-d4b8-4905-b3cb-a0cb08951929",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211207_071217_62e38340c609da6bc629f202d3847945.mp3",
+            "type": "audio/mpeg",
+            "length": 29036035
+        }
+    ],
+    "author": "Analytics Insight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165bb2fe2855",
+    "crawlTimeMsec": "1713432961099",
+    "timestampUsec": "1713432961099861",
+    "published": 1638950220,
+    "title": "Exclusive Interaction with Manish Thakwani, Head of Business Development at JuicyScore",
+    "canonical": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/336037"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rss.com/podcasts/analyticsinsightmagazine/336037",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/28",
+        "htmlUrl": "https://rss.com/podcasts/analyticsinsightmagazine",
+        "title": "Analytics Insight",
+        "feedUrl": "https://media.rss.com/analyticsinsightmagazine/feed.xml"
+    },
+    "content": {
+        "content": "<p>In the latest podcast series, Shivani Muthyala, Content Analyst at Analytics Insight speaks to Manish Thakwani, who is the Head of Business Development at JuicyScore. As transactions these days are becoming more digital in nature, frauds are also becoming the most vital aspect to focus on. Manish sheds light on frauds and how to tackle them using the latest tech trends. He elaborates on the benefits of using non-personal and consumer-sensitive data in today’s scenario. Listen to the podcast to know more about this interesting topic.</p>"
+    },
+    "guid": "7d51df30-f352-49bc-8a93-cac9e9ae0d64",
+    "enclosure": [
+        {
+            "href": "https://media.rss.com/analyticsinsightmagazine/20211208_071209_202ad70464119315a4a9cc351c8131fa.mp3",
+            "type": "audio/mpeg",
+            "length": 42823722
+        }
+    ],
+    "author": "Analytics Insight"
+}
+]}

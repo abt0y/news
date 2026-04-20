@@ -1,0 +1,2006 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/48",
+    "title": "List of The Hacker News articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d2e",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501678",
+    "published": 1774263300,
+    "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening"
+    },
+    "guid": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9fqlMd4OuFVtXiIjViNTGyYhyol3qoSCp1VC7Au7Zp3ccwTT2YriDd5iWY7vc67FF0inmVd16ko0WfG3C57cyOs-I3RNaQXnk2eyfKefaJajCkfjvD1rfZp1hnOqyICcY5-dPdADaKq7bl74F4bocmJHp1W3sI6ZBGKIXiOI-phZVHwwyqtDQz1kNQty/s1600/irs.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d2f",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501679",
+    "published": 1774266900,
+    "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful – but it’s also what makes Bedrock a target.\nWhen an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint"
+    },
+    "guid": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNP5vhVrLuEm9El_BgbLywUuexUg6KzaMreEfpqeSpQnonIKWfB4fcCX_bXrkxTwUoqXqxjrXZdZbppYseQBmTTSXeZT3PLsXoUIKdVUxawVdz4e33n_E6iPxNLCL3mAypW2di8w755oQGTcP1dFoBaOXV9D7LuASxn-43LJ1JCxtOtTFZ_qUsBzlY878/s1600/xmcyber.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d30",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501680",
+    "published": 1774271640,
+    "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers &amp; More",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks"
+    },
+    "guid": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d31",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501681",
+    "published": 1774289340,
+    "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) projects.\nThe use of VS Code \"tasks.json\" to distribute malware is a relatively new tactic adopted by the threat actor since December 2025, with the attacks"
+    },
+    "guid": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYRIy7X7XvfWs__-DS2yjU2mg0-f4TxESTTQnzRIgLaWPDe3Oe_25A0_pi_XHxryaqyz4YBRzci03kVa5TgSstslqpZdhUwBniNuYvx8N4pEZEI4mHGmZuh1QmnlhRcBXWTWLttZkuVU7aFvOrNg8sp0ODl4-sDi0q3X3XzBbCD0ppjxYihFwMxuMSHf4/s1600/northkorean.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d32",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501682",
+    "published": 1774331940,
+    "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application.\nThe vulnerabilities are listed below -\n\nCVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread\nCVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user"
+    },
+    "guid": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCnGCq_DsAE40JVqQy2HjOcbqucRBcpx0JOpEQM9SZplWbse_yzvfQGRG8Uux9NVkQhQrHYzTIlb3b58b47kkLOfIBcxeaMVT7SlUjBSr3URnME7qL5P3ZqJgVw3bGX0NY_hYsvhAbTTJ7PZk-mmpl949AALvrsV0JkZEQD82ah-B2jlOBz-oGC-P4xaY/s1600/citrix.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d33",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501683",
+    "published": 1774334940,
+    "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations.\nAccording to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the"
+    },
+    "guid": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVfjLGmDd5Mnjn0nKObBSns5Fi2_bm8nQV7byjMhN5C_mXRVoFHmNnjgUwsinDvclp6VzhMKGYrouaba9qJ45z-C-1K4eapplr_lstzTO9Q4edC5rj8Yh1A8gYk-AhgEnhJIAuFuXV-85r83BJHR-Lopyv1l1w3yb-9Qt3ws11HzPpRJZLv6aaT0kqQRrW/s1600/ransomware.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d34",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501684",
+    "published": 1774348680,
+    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack.\nThe workflows, both maintained by the supply chain security company Checkmarx, are listed below -\n\ncheckmarx/ast-github-action\ncheckmarx/kics-github-action\n\nCloud security"
+    },
+    "guid": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d35",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501685",
+    "published": 1774353600,
+    "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.\nThe activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below -\n\nreact-performance-suite\nreact-state-optimizer-core\nreact-fast-utilsa\nai-fast-auto-trader"
+    },
+    "guid": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh6CuYJhvsInqih03x9cvHFvmbF-F8DFJF_Y9VQMslT9g5yp_jhDewDUjcvUlAMzyKbfOHz0eMdFqHdIGwbtOY0MOHDGr_lA1TraO34SwYiKrieNnOQsAo5DbKhpJCp2X60_0epyBiBDs-KRgFjhR0QEPMmTRBCvJCiiQaJg7MaRCLf3EHcrIdluUrmJ-/s1600/1000062391.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d36",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501686",
+    "published": 1774353660,
+    "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. \nThese challenges do not"
+    },
+    "guid": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1600/cloud-network.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d37",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501687",
+    "published": 1774370100,
+    "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "An ongoing phishing campaign is targeting French-speaking corporate environments with fake resumes that lead to the deployment of cryptocurrency miners and information stealers.\n\"The campaign uses highly obfuscated VBScript files disguised as resume/CV documents, delivered through phishing emails,\" Securonix researchers Shikha Sangwan, Akshay Gaikwad, and Aaron Beardslee said in a report shared"
+    },
+    "guid": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbL1vWsuHhVXpRJ6YeAB7bUhrZmz7Ba3LRQ7MsrXsIVCXfxCMUs4nedbI26D5FpMqQ0uL6APhIlu12GJdDMWZ9AbGiz7qu5gUinMjsmh6yxiuqZvUzSrzj7Iy-Ax4UoCl1BZAGb6kRE_XPaTbmKHK6zTvsRWWeNcrhh4toMR5Fi2o4et0H938i6UPN1r8M/s1600/malware-resume.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d38",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501688",
+    "published": 1774370160,
+    "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position"
+    },
+    "guid": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlBFOfxbwROPKI6W1sccbKKW4Dx3IGIQi1AnDrQqKxY1xaVxZv9gip61deVh8UNN1xLX6l3fOEm8pKGrHLSddhT8WS7w70a5FDT3eyew3xxDjCOC8QCYK7hERW2ILTYMfS9Giq4asN2G4SvYITRiVeqlZcN53LG8OG7hkQ5C6J8bAVokCe0a0oBkuNMlS/s1600/Cover-v1.gif",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d39",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501689",
+    "published": 1774371900,
+    "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller to blind security programs using the bring your own vulnerable driver (BYOVD) technique.\n\"The campaign abuses Google Ads to serve rogue ScreenConnect ("
+    },
+    "guid": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHstwfvuhTqeOC7VWnSCBcxuxkGXQo_98_9hK16L_vSpzSRSYHXlBOeg2O61FYeF2rcfwnXFxzQHEkDyXYB6C_GtMIB-qEfIM_K3vMu-C_OHBNk5eOdwofhao0How3UZLVM1bQ4R5MzrGMSpIk74c_b0UI8ri7Itube7MGnrwEEoEHy-kOq1unklYy9zR5/s1600/tax-docs.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3a",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501690",
+    "published": 1774376460,
+    "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor.\nMultiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on March"
+    },
+    "guid": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj52VkG6lfgHeRYSGJwB7xAkCm5_4uKyAUtZ3NiyGrlOTFU_zejzA3uU0HPKiFCCvp1PSXhtiSqTROkqIvJ3kur9VTYMRRQRV4M9_0p2PVw28DxOUbH_3CnZBgsLtiv3_0BBmyP792ONBzcl_yEwteI6uQ2GkLkj59el1hZwmHJEyZLo5wwLgbr5rEDi-r6/s1600/litellm.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3b",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501691",
+    "published": 1774422660,
+    "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security.\nThe action was designed to safeguard Americans and the underlying communications networks the country relies on, FCC Chairman Brendan Carr said in a post on X. The development means that new models of"
+    },
+    "guid": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWdGgQ4RKWsSD83uBmdU0Vfi3E1vEi1qS7ImOYUXa9S6eDs5ShKP0tz3sZL5FPdt6lzwG4scb7HQPjGnsdPDFNWxZ2k8yK-whH4uU9_Ez3Nt5178ETgKceu4LpAPntUZZ7utBkHBd261B5Ltt2weQVT94qjY4wcRRGfSpv1sAZLjAVDc_oSNMPiISo4dU/s1600/routers.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3c",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501692",
+    "published": 1774438440,
+    "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany.\nThe activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages"
+    },
+    "guid": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3d",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501693",
+    "published": 1774439520,
+    "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies.\nIlya Angelov, 40, of Tolyatti, Russia, was also fined $100,000. Angelov, who went by the online aliases \"milan\" and \"okart,\" is said to have co-managed a Russia-based cybercriminal group known as TA551 (aka"
+    },
+    "guid": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFQsR3JgSCA44WGyYmcmFuACIlDkUDxOnRar3b3B-JHXTZq_dxARV6GEM5gvclJQktlfwnU88fV1Gzcr3HO7EJHoeE5kYA262Vv0SlCB6XPuyAiTSas8Iw0Ca5QkvnGaduv0Dt9euHjKn6A6lYWAHkpXPjbBRdmV1piwxsILM8wcfgT6mjtgQeEB4BUk/s1600/ransomware-russia.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3e",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501694",
+    "published": 1774439880,
+    "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.\nThis incident is worrying, but there's a scenario that should"
+    },
+    "guid": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxwugQQz3vBJ2pK2wCB_DYKIxoDHo60x7SHE5WQonARyDulZoAc7X7LDiThunfB_Q60swcE_gAMuqSwHykOcGvFnU3TRlGMbIiYJvAuJAStlKGb8m6wjPeQx62PsOMzAaF6RfDaK6G8sPzgMfzNOu1KZZ5AEUnjq5G9NusUMnMo5EEpIQWN9DyajDuCs/s1600/reco.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d3f",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501695",
+    "published": 1774448760,
+    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.\n\"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and"
+    },
+    "guid": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLAu4RdpX-vvdNOKVtvqBhpnDMoSdpatgQ3X32zeCmcAhOUZxJo37kHAf-0sBO3tTY8Pc6i4Jr9CWHwZ1nR7ikRy86CVMizlgDH40OF0kr3P7otHCE9-3ghivGFG1bBoRrWsW-gD-OAqt7DI6pRuPA_NtnUkoQbW_FPB1NdgNmQwdhiFLqiWo1dHnsu2P/s1600/main-s.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d40",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501696",
+    "published": 1774460100,
+    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.\nAccording to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen"
+    },
+    "guid": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d41",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501697",
+    "published": 1774507980,
+    "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls.\n\"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week.\nThe attack,"
+    },
+    "guid": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIJhct-gQspWhgoCYGYYTokFv7FUIEMJqaILu_8IfMO3siPXFxR9g6eek-vKmgpFFO5QKCLBvl7pK8gFOGf8ZQuR6wVxOeBOxDm43bCBdmLDhPTyIGhoFssJGBUn9in_jfKwIvcyf9TERfomsZOjcPs4CKnYsYyW_jLaX3jbgm-LT4TORzq4g3ik0cB10/s1600/cards.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d42",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501698",
+    "published": 1774523220,
+    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky.\n\"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation — shared"
+    },
+    "guid": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfaEjph6_gMDAtZu968xynsgU3AggksTWUUL37NpNq6eQdTXMgQcv4JLSpNNMHSFGkKoHV6K7vmqLZ7bXIkXrHB5jF98F_sN48HDQo0nligJdOjeJ5lOzlUFrVzCKwt2MZDSsOVdfmCAaJV5ofwJN_5yIpTSpAFaZ9GrrytaoivkIr27YA0xqj1DzmbPx/s1600/coruna.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d43",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501699",
+    "published": 1774525500,
+    "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits &amp; 20 More Stories",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching.\nThere’s a little bit of everything in this one, too. Weird delivery tricks, old problems coming back in slightly worse forms, shady infrastructure doing"
+    },
+    "guid": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuz5FhCwEEsebWV1fHdF2VE-lnNBee6FrzMYsTdEODBsw07F76vTo3-UJKUz7QENWIUU_J7IdNj2vlhZbbdL5Chz6Vt6SyEbIwH-vw3J76SlUT02eZwbGHG5egcJNFeaKBd3sdLrp7egajwLniaeBMwZdXAMv3la2Ywzxin4gLiZK6lHbdPSzUDFCuWHF/s1600/tday-main.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d44",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501700",
+    "published": 1774526280,
+    "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premier forger, passing off counterfeit masterworks of Picasso, Matisse, and Renoir to unsuspecting collectors and renowned museums. Over the next several decades,"
+    },
+    "guid": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYccGrhSqLyV14fb0UKZKIns-G-9cU181ytP5rPJvhMDJLPbmBBgiTIBALloFdEy_87wloWgNeE3zCfQEYoS7uPOLec7Uk40LT9KFOiov2psTWX4XIabr-UJql5ILHDQn0o8Tc8H7PwJSF9y8Yh3hR_iolMcCXBpGxgcwFtPAbYDtzXo26DZspMORcKs/s1600/core.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d45",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501701",
+    "published": 1774530660,
+    "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page.\nThe flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" Koi Security researcher Oren Yomtov said in a report shared with The Hacker News. \"No clicks, no"
+    },
+    "guid": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKbsVkCFVvziyQ564TDmmBjGzy6lzKUcC_rmt-GZWOiCshA_YGAhsMjib7OhvNS_8OX6micW6hWSY4lWh6IoGcyy_tCywr9Tr-qhyI4Wau32zV80zS3OJRVnbSZtHQqWO-RvoznJ34HjG6M5CDlKIXXTyAuZvVS235fZ9juweln5KS77w1w80Jk113rAW/s1600/claude.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d46",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501702",
+    "published": 1774530720,
+    "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control.\nBut one question usually stays unanswered: Would your defenses actually stop a real attack?\nThat’s where things get shaky. A control exists, so it’s assumed to work. A detection rule is active, so it’s expected to catch something. But very"
+    },
+    "guid": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d47",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501703",
+    "published": 1774546800,
+    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.\nThe strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,"
+    },
+    "guid": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsXRdaBMsOY-JUezvB02i5xzt_pSMJYGGGmt3ujh5C7VDZ7YLODicjiwDHF0vR9Y6P7XfPJJ-sIzu3aElQOfOExYn15O9tjCrOubY531cg1hKVN7U1aGCq5avhsEBdxu0qCTuwgXQEHS4mkHExgUQbsR8iU2CS7fBZAlTyXlD9o0hmU0oJ8jCip_fok4G/s1600/tower-hack.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d48",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501704",
+    "published": 1774598820,
+    "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history.\nBoth LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of"
+    },
+    "guid": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d49",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501705",
+    "published": 1774605840,
+    "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker.\n\"Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;"
+    },
+    "guid": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4a",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501706",
+    "published": 1774609200,
+    "title": "We Are At War",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/we-are-at-war.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/we-are-at-war.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. \nIntroduction: One tech power to rule them all is a thing of the past \nThe relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes"
+    },
+    "guid": "https://thehackernews.com/2026/03/we-are-at-war.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4b",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501707",
+    "published": 1774612980,
+    "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware.\n\"TikTok has been historically abused to distribute"
+    },
+    "guid": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSv7TxvzRXdcpb_tW0hSC0Jq5_7-VYEhbddL8im1K25nOcjSr0T3_Y2f9zG8Q9l7K3U_zOXBKWgnHAO9rWvYG9158OKLKcZif_lq7e5fpqwxrW3IdPWzgTko6ogQSQg77hmiWszgf3OOT7baBY8vI8XcPt0h8R_0p7oBX2WmVQUSgsJXfPQmCzOGTMX9/s1600/tiktok-b.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4c",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501708",
+    "published": 1774619820,
+    "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry.\n\"The pipeline had a single boolean return value that meant both 'no scanners are configured' and 'all scanners failed to run,'\" Koi"
+    },
+    "guid": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxyuzdQgdhyphenhyphenfWqx9GyfXC7_Bop28GdU7Bvyj3ZEvEBm8HbchBOMZFiLIGHSVFM9OdfCaKJSyAZzY3F3soB37-VtKEcY_KShCnzB2D-t8DJ5mbSl4MlbMgCV8uSMf9LaTds8vn_rccuiUIzq0mC5lxYK7HstyftiOEqYGCJC8PP5sCF_UariwUHXuvqYXkt/s1600/open-code.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4d",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501709",
+    "published": 1774630380,
+    "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nThe two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are"
+    },
+    "guid": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CMUCCEUOX5JczcW-qUC2Bw8_3GmKNoLItyUq-AeuCUvFrJJL0t6aW5EhyJzNT5OyQJulbqwy847fK_EEBieTmTHEKn33suBcHss0AflwRWkPdmqT7FUbX5Rahkwz09g0Fw2GDZr00dAqHeEouzWvFVKMLgNshyO2HQ6QcD5qtbNu59djr1cdm0iV_ksj/s1600/wave.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4e",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501710",
+    "published": 1774632120,
+    "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development was first reported by MacRumors.\n\"Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,\" the"
+    },
+    "guid": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d4f",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501711",
+    "published": 1774681620,
+    "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.\n\"When a"
+    },
+    "guid": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d50",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501712",
+    "published": 1774681620,
+    "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,"
+    },
+    "guid": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d51",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501713",
+    "published": 1774689060,
+    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.\nPer"
+    },
+    "guid": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwI3gfUe4wDxvIuUsVXUVcyiZ6TWg7HIh7UgKbWXN8e5p6VbJM5hHvR0gCKbVRD3tx311R5b9TWnt0OrLNfpoSBrP1tv06PBWrUXtwzAZAvHVHo8a1uZXzqZBDkpCeGgHWI9tRrk39_n_YZgO7CeX6MXHo4kFSu_lFd5ZmAuiTdrg-x8w0svB3lF-2U1LV/s1600/citrix-exploit.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d52",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501714",
+    "published": 1774712400,
+    "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.\nHandala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement"
+    },
+    "guid": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB5PedpQX_DQaCrJ76V6gQtAUKvDiV1udgR3vPrPp8k7dcP8jACbAPITTEwRpl7dS05Dz_hYFlt2v4H6KTukko0Sg8vRZpDGgWNbGzVqQDwcntdMVmhb3x5v0q3d0gRcbedgOxZLiVeiDCaxb8TNO8dEaE7Bn54TCqxKvbb7Ct_5Wxsxx5WSn2bqEIJqB4/s1600/iran-hacking.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d53",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501715",
+    "published": 1774854000,
+    "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL"
+    },
+    "guid": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVmr08UFvUwMkDRW62724LCJu5Z774vza7r8UADDdCZcBFNJTeJ9WPFkt4BLIknMuCpLYow39D0rgDkTkftiSLBxtPsG3YW6Y7CRiPRxye2Con9Z1lP77VcDv2PA4UJ4PP6nNSCLX0cOKLKJOTCnVerXQ4w5we9s3rMTBbUMMX2hZBB5MLu5t4Ll3YFPe/s1600/chinese-hackers.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d54",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501716",
+    "published": 1774870200,
+    "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.\nThis year's findings reveal three core trends: AI has"
+    },
+    "guid": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tVpFBDvdU-vz8vM1T6SJZwd3AiySFqEyonUutxGPNimXEqTVOKN-pCI_lF5Ti2GngFUPtEphVI4Qep03CBciF7NhaWEIKYdDfkVY-VleTTcqYJvcMTKrd-EJ4kh2zLk3cY7pqqxI7bfEghuxGAV7lwUPjTD6nTa5dKj5e8_RJD9UjHn12015puG8P4o/s1600/key.gif",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d55",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501717",
+    "published": 1774873080,
+    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling"
+    },
+    "guid": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d56",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501718",
+    "published": 1774875600,
+    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure"
+    },
+    "guid": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh5EaxE3C26MNKxziPoKvAK16f1ctGNYf_S1E7IY1tfyazizZwtmHaqHaTHSqBwWAMtENhtk5K1GzWLRln80K-vm2S9lkVeE3tpfQeVTaptm_T8kNoeCFLDbJLKMwqNsmD9y2iUDnLUJw4b6BQpST8M5h3dk7yRGyBcrl29nD8rw045i5roI91mRrEQs/s1600/soc.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d57",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501719",
+    "published": 1774878960,
+    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention.\nThere's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring"
+    },
+    "guid": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2e5F9xrNGflqGG3Z7UcoPHMKZnF1j1FJBpwnPfV0MBCUweDKegb97Kcry4OK2kQgx0bQ91Lhem0BdasOpiN9UoKz7rNTAVgBuJzbM9jCaF4APqUsXlkiZfbC35xNWAd0z7T0qZoTN3GdVW9exy7BcEIjV64hinG5pxmbX69KdF_u7qXUpuEZZX_R8vaMP/s1600/recapss.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d58",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501720",
+    "published": 1774885620,
+    "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad.\n\"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures passwords and sessions even if the primary loader is blocked,\" ReliaQuest researchers Thassanai"
+    },
+    "guid": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2icgdVOmzM5pZsm88HvvmzcWKRBBXvG94z4fSZMEVPzb7GDoJ_MGDckeaK2dYVEoId5bhMbBtB0bTc0xWJshdOQ-fJEUH5nPIo028Cpm1bmmR1Qlrv5M6atg6oMz0wc0hX4phKfXivitHkWqMiE_Rl7PaD0qIrGMyaq9D_QwAMm62Bw5iaMBlHvwAnIa_/s1600/deepload.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d59",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501721",
+    "published": 1774893900,
+    "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.\n\"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,\" the cybersecurity company said in"
+    },
+    "guid": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSleuSc-PdTH7u0CSOLasljqQ-HO4A5sIqzvVeeVlGlqynCVYSdgU1c-7zoVavi1OADQiN3-_KS93PbMbmc4daNULqCXV21ChjnRUvqXIPT9mnLRCmbHdVy0YeaMnRuzGBAo8JoJPE5Wnzl3Sf0b_3d1-OV6VB3PKhKy_olGs9mi1YLIOJnAl7uQkYkdjI/s1600/cpr.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5a",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501722",
+    "published": 1774937280,
+    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency.\nAccording to StepSecurity, the two"
+    },
+    "guid": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdY8iKA7o-K-4HkIjPMiBRWAn5vCvSNDu1sm09t10vWMzXO6cIblLHQyu1no-KBhq4W7EWS03zqvI4n_k9mYWCDsCVoiX4cwsV9T862WTq1yGb6VkX1ZGTa7MKZE43llbF9n2Py1mC2yhCIfRlXGkvya_NQ9lX7vZ32YW8pHZlw1dPZcI9eCrgysiWqSSR/s1600/Axios-attack.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5b",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501723",
+    "published": 1774957560,
+    "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.\n\"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating"
+    },
+    "guid": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQmoJ2iwUTLR-DicdD0xa7_oYXgpGalL3L_-4LyX9YMApiotQC-omFlhdcQByUQat1YJdd7ElMqhp8FDYpoaljcvVmCFPXS4yRRh0_KnKa6FgqoEpiaKHJhoecKKap1MgoPWw1a6H7LfJrYo9m_YXqh3BaoES1tPEmuCbgO3snV34jtkrK7j8t4Qk30jj/s1600/cyberattacks-asia.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5c",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501724",
+    "published": 1774957800,
+    "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.\nThis is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors"
+    },
+    "guid": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1600/ai-power.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5d",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501725",
+    "published": 1774962540,
+    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.\nAccording to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused"
+    },
+    "guid": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLtnrJRJvkUE-IMtV6DuDmg7t1XhaGyItG6cXmd2cz0-3sd8fgZi5jHZE9valO1-CdJjGcqkkeHxNPM2Y7lLK0lrtJXOEwXscylBbYfyCXtvvAfGeFR5Q7Zwv0Mxsg-iiEjbaN2junJWYJmJmUEBuFDjRXH_X9gYYwR4Jyu-79dMfL1MQPLpKU6O6PtN_R/s1600/google-vertex.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5e",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501726",
+    "published": 1774972980,
+    "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos.\nThe vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,"
+    },
+    "guid": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYf7jS0dDRAhfWGLbRiA4eQt-Q3BL8gcG_bDoNQ1dfcZt3Ike4qAlE9lUiSH__y3kdi-MI2kfu-O-PdDf6iCov7VIVBPEkRVJOhx88uNgXTuI-rztvbwFXE9BKwJEsNSKux0yynwxlsDMCzCwyngLOSxWTAZjDFYKvpjyEsnPbRYbGtmC6zGmrMpP-SnqA/s1600/trueconf.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e5dc4e48d5f",
+    "crawlTimeMsec": "1775014502501",
+    "timestampUsec": "1775014502501727",
+    "published": 1774981680,
+    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+    "canonical": [
+        {
+            "href": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/48",
+        "htmlUrl": "https://thehackernews.com/",
+        "title": "The Hacker News",
+        "feedUrl": "https://feeds.feedburner.com/TheHackersNews"
+    },
+    "content": {
+        "content": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\"\nThe development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.\nAs part of this"
+    },
+    "guid": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+    "enclosure": [
+        {
+            "href": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg",
+            "type": "image/jpeg",
+            "length": 12216320
+        }
+    ],
+    "author": "info@thehackernews.com (The Hacker News)"
+}
+]}

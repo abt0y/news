@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/34",
+    "title": "List of Google Alert - Neural network articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f513350fa58",
+    "crawlTimeMsec": "1776060032154",
+    "timestampUsec": "1776060032154200",
+    "published": 1776053700,
+    "title": "Neural Rendering in Computer Graphics – IJERT",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ijert.org/neural-rendering-in-computer-graphics-ijertv15is040531&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1JU_dw_1CfdNHkLeC8AWfL"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ijert.org/neural-rendering-in-computer-graphics-ijertv15is040531&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1JU_dw_1CfdNHkLeC8AWfL",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "The proposed methodology is based on theory-driven network design using group- equivariant <b>neural networks</b> within the neural rendering pipeline."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:16532718874778212957"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04547",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693191",
+    "published": 1776059340,
+    "title": "Study Warns AI Language Models May Homogenize Human Creativity - Los Angeles Today",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://nationaltoday.com/us/ca/los-angeles/news/2026/04/13/study-warns-ai-language-models-could-homogenize-human-creativity/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3bKgHbF4ThOajvtnOxvnpM"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://nationaltoday.com/us/ca/los-angeles/news/2026/04/13/study-warns-ai-language-models-could-homogenize-human-creativity/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3bKgHbF4ThOajvtnOxvnpM",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "A highly detailed, glowing 3D illustration of a complex <b>neural network</b> or data infrastructure, As AI language models become more prevalent ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11024351541627066374"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04550",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693200",
+    "published": 1776059940,
+    "title": "How an Uzbek is building the future of humanoid robots and attracting millions in Silicon Valley",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://the-tech.kz/how-an-uzbek-is-building-the-future-of-humanoid-robots-and-attracting-millions-in-silicon-valley/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3eBj-EiEkcwJOUBqmgwQaf"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://the-tech.kz/how-an-uzbek-is-building-the-future-of-humanoid-robots-and-attracting-millions-in-silicon-valley/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3eBj-EiEkcwJOUBqmgwQaf",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>neural network</b> training, and integration of the model into the backend. ... Here I gained deep fundamental knowledge in robot control, <b>neural networks</b>, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:10014663025334184550"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21babb",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422715",
+    "published": 1776064680,
+    "title": "Hybrid ML and metaheuristic optimization of slag-fly ash-gypsum modified solidified sludge ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-47428-3&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1VqG1VBMGDIXuh82Yjl1yN"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-47428-3&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1VqG1VBMGDIXuh82Yjl1yN",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "UCS: Unconfined compressive strength ; AI: Artificial intelligence ; ML: Machine learning ; ANN: Artificial <b>neural network</b> ; XGB: Extreme gradient ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:14500197331483070418"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21babc",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422716",
+    "published": 1776064680,
+    "title": "rbpCNN: a biophysics-informed deep learning model for predicting piRNA and mRNA interactions",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-48797-5&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3owSE2WCDKfYJYkRkmHqL0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-48797-5&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3owSE2WCDKfYJYkRkmHqL0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>neural network</b> (CNN) that augments nucleotide-pair encoding with biophysically motivated interaction channels prior to learning. By adding one ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:4214173645012405833"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab29",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148969",
+    "published": 1776044760,
+    "title": "Evaluation of Gram-Schmidt Pan-Sharpening Methods - ArcGIS StoryMaps",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://storymaps.arcgis.com/stories/ff0febab434746008b427fb89054fc92&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3VTYoc-P194lkXe7Df5PSg"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://storymaps.arcgis.com/stories/ff0febab434746008b427fb89054fc92&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3VTYoc-P194lkXe7Df5PSg",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "A flowchart outlining a <b>neural network</b>-based process for fusing upsampled multispectral and original panchromatic. Pan-sharpening combines ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:16796864017336772439"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab2c",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148972",
+    "published": 1776068880,
+    "title": "Pixel-level understanding of a world in motion within a neural encoding framework - Nature",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-025-34141-w&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3mMLOip-0PVXYiRpALKUBd"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-025-34141-w&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3mMLOip-0PVXYiRpALKUBd",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Extensive literature has drawn comparisons between recordings of the biological neurons in the brain and deep <b>neural networks</b>."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8446614253590462922"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab2d",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148973",
+    "published": 1776071820,
+    "title": "Global Regulators Express Concerns Over Anthropic's New AI Model | ForkLog",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://forklog.com/en/global-regulators-express-concerns-over-anthropics-new-ai-model/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0GExm16d276ZGyOXvqYeG3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://forklog.com/en/global-regulators-express-concerns-over-anthropics-new-ai-model/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0GExm16d276ZGyOXvqYeG3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "The new <b>neural network</b> proved so powerful that its creators decided against a public release. Instead, Project Glasswing was launched—a controlled ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:618090845356651340"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab2e",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148974",
+    "published": 1776074820,
+    "title": "Beyond Deployment: How MLOps Became the Trust Layer Every AI System Needs",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://entwickler.de/machine-learning/mlops-trust-layer-ai&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3KoiXLvf5IbIHqaENEEcte"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://entwickler.de/machine-learning/mlops-trust-layer-ai&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3KoiXLvf5IbIHqaENEEcte",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Building a <b>Neural Network</b> with Kotlin – Part 3. Image Classification with Deep <b>Neural Networks</b> in Kotlin. Michal Harakal. Social Media. Folge uns auf ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:9385659507388221666"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab2f",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148975",
+    "published": 1776077940,
+    "title": "Subarachnoid Hemorrhage Induces mPFC CRF Neuronal Dysfunction Leading to Anxiety ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ahajournals.org/doi/10.1161/STROKEAHA.125.054572&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0zcLeXxlV2pg60gdN1X_BM"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ahajournals.org/doi/10.1161/STROKEAHA.125.054572&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0zcLeXxlV2pg60gdN1X_BM",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "The medial prefrontal cortex (mPFC) acts as a top-down control center of various <b>neuronal networks</b>, mainly relevant to emotional and executive ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:654527937444654669"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab30",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148976",
+    "published": 1776080640,
+    "title": "Brain connectomics - Nature",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/collections/dbfficaiih&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw156TSsoolLxL-m3wI66734"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/collections/dbfficaiih&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw156TSsoolLxL-m3wI66734",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Its astonishing cognitive power comes not from the individual <b>neuron</b>, but from the <b>network</b> ... These <b>neural</b> activity <b>networks</b> enable brain function, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12499898057031768913"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab31",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148977",
+    "published": 1776082140,
+    "title": "Squishy Photonic Switches Promise Fast Low Power Logic - IEEE Spectrum",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://spectrum.ieee.org/amp/soft-photonics-2676697249&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3maU_NBZikbumCb2RJPy4x"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://spectrum.ieee.org/amp/soft-photonics-2676697249&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3maU_NBZikbumCb2RJPy4x",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>neural networks</b>. But, he ... “There's no way this technology can compete with current <b>neural network</b> implementation at all,” he admits."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6079792538782715303"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab33",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148979",
+    "published": 1776084840,
+    "title": "City's public transport upgrades multilingual services",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbayarea.org.cn/english/News/content/post_1324020.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3_FQtOGrf1OMR9jyy3klaF"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbayarea.org.cn/english/News/content/post_1324020.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3_FQtOGrf1OMR9jyy3klaF",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Over 5,000 of its yellow-topped taxis are now equipped with MossTalk, a cutting-edge multi-language AI translator. Powered by a deep <b>neural network</b> ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:4204170916883228007"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab34",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148980",
+    "published": 1776085020,
+    "title": "Embedded AI Isn't Enterprise AI, and That's a Good Thing",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://embeddedcomputing.com/technology/ai-machine-learning/embedded-ai-isnt-enterprise-ai-and-thats-a-good-thing&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2wG6-aCX1vx8euQhazIWzO"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://embeddedcomputing.com/technology/ai-machine-learning/embedded-ai-isnt-enterprise-ai-and-thats-a-good-thing&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2wG6-aCX1vx8euQhazIWzO",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>neural</b>-<b>network</b> inference alongside traditional firmware. Also, Renesas ... Developers can now train <b>neural networks</b> using familiar ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11261019661469237461"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab3a",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148986",
+    "published": 1776086940,
+    "title": "Russian AI model enables rapid assessment of human creativity | TV BRICS, 13.04.26",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://tvbrics.com/en/news/russian-ai-model-enables-rapid-assessment-of-human-creativity/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0_TgINq3uUSdjBbIbSyL04"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://tvbrics.com/en/news/russian-ai-model-enables-rapid-assessment-of-human-creativity/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0_TgINq3uUSdjBbIbSyL04",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Researchers develop patented databases and a <b>neural network</b> to deliver instant Torrance Test results for children and adults. Photo: sorn340 ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:14440067959816374569"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab44",
+    "crawlTimeMsec": "1776096045148",
+    "timestampUsec": "1776096045148996",
+    "published": 1776088200,
+    "title": "New Method Boosts Graph Neural Network Accuracy | Mirage News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.miragenews.com/new-method-boosts-graph-neural-network-accuracy-1654341/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3AGTZNdLai9BBEKfygB3T1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.miragenews.com/new-method-boosts-graph-neural-network-accuracy-1654341/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3AGTZNdLai9BBEKfygB3T1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Researchers have demonstrated a new training technique that significantly improves the accuracy of graph <b>neural networks</b> (GNNs) - AI systems used ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:1648537526935086535"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab53",
+    "crawlTimeMsec": "1776096045149",
+    "timestampUsec": "1776096045149011",
+    "published": 1776089160,
+    "title": "New Technique Improves Accuracy of Graph Neural Networks | NC State News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.ncsu.edu/2026/04/improving-graph-neural-network-accuracy/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2IJfGJPjTQyGroh578dvRe"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.ncsu.edu/2026/04/improving-graph-neural-network-accuracy/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2IJfGJPjTQyGroh578dvRe",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Researchers have demonstrated a new training technique that significantly improves the accuracy of graph <b>neural networks</b> – AI systems used in ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:14615026786824279586"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab5c",
+    "crawlTimeMsec": "1776096045149",
+    "timestampUsec": "1776096045149020",
+    "published": 1776090360,
+    "title": "Utilizing AI for Drug Discovery: Uncovering Needles in Haystacks - Contagion Live",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.contagionlive.com/view/utilizing-ai-for-drug-discovery-uncovering-needles-in-haystacks&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2vA3xR4cOUlbltp259DUTA"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.contagionlive.com/view/utilizing-ai-for-drug-discovery-uncovering-needles-in-haystacks&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2vA3xR4cOUlbltp259DUTA",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Graph <b>neural networks</b> were then used to ... (CME Track) The <b>Neural Network</b>: Exploring The Role of Neuromodulation in Dry Eye Disease Management."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8669713292479634088"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab79",
+    "crawlTimeMsec": "1776096045149",
+    "timestampUsec": "1776096045149049",
+    "published": 1776091980,
+    "title": "AI Supercharges Key NOAA Dataset, Ensuring Peak Accuracy | News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ncei.noaa.gov/news/ai-supercharges-key-noaa-dataset-ensuring-peak-accuracy&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0H19a_dSMOWOvATwCGRGBk"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ncei.noaa.gov/news/ai-supercharges-key-noaa-dataset-ensuring-peak-accuracy&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0H19a_dSMOWOvATwCGRGBk",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "They created an artificial <b>neural network</b> (ANN), a method in artificial intelligence that teaches computers to learn complex patterns so they can ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12447847858315192186"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5995dbab8a",
+    "crawlTimeMsec": "1776096045149",
+    "timestampUsec": "1776096045149066",
+    "published": 1776093840,
+    "title": "An algorithmic system for arabic fake news detection using neural networks and transformer ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-45653-4&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0oeuwVJ8A6TEy4rWawC1nQ"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-45653-4&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0oeuwVJ8A6TEy4rWawC1nQ",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>neural network</b> (NN) consistently outperformed the other models. This supported its selection as the core classifier in the proposed framework. The ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12471041600637287130"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5aa1dd6e37",
+    "crawlTimeMsec": "1776100541558",
+    "timestampUsec": "1776100541558327",
+    "published": 1776071700,
+    "title": "fairness and uncertainty estimation in text analysis tasks",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=http://www.hse.ru/data/2026/04/13/229967338/%25D0%259A%25D1%2583%25D0%25B7%25D1%258C%25D0%25BC%25D0%25B8%25D0%25BD%2520summary.pdf&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0Effh4Ex87pbB_MwAYtj7L"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=http://www.hse.ru/data/2026/04/13/229967338/%25D0%259A%25D1%2583%25D0%25B7%25D1%258C%25D0%25BC%25D0%25B8%25D0%25BD%2520summary.pdf&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0Effh4Ex87pbB_MwAYtj7L",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "1. An original uncertainty estimation method was developed based on combining the Mahalanobis distance with spectral normalization of <b>neural network</b> ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15995050831674707233"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5aa1dd6e3c",
+    "crawlTimeMsec": "1776100541558",
+    "timestampUsec": "1776100541558332",
+    "published": 1776092640,
+    "title": "RTX 5090 vs Path Tracing в PRAGMATA: First performance benchmarks",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/test-gpu/action-fps-tps/pragmata-obzor-i-test-dlss-4&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw24F01j18j5pzwQp7q3mSbD"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/test-gpu/action-fps-tps/pragmata-obzor-i-test-dlss-4&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw24F01j18j5pzwQp7q3mSbD",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "NVIDIA's <b>neural networks</b> not only confidently boost the frame rate to 195 FPS, but also restore the image significantly better than standard TAA, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:2208992336936551223"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5aa1dd6e71",
+    "crawlTimeMsec": "1776100541558",
+    "timestampUsec": "1776100541558385",
+    "published": 1776096120,
+    "title": "The largest orbital compute cluster is open for business - TechCrunch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0oqX0Mx8FOnlcXQ9XE4vXg"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0oqX0Mx8FOnlcXQ9XE4vXg",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "It wants to be a layer that provides <b>network</b> services for other satellites in space, or drones and aircraft in the sky below. Sophia, on the other ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6632311450210201410"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5aa1dd6e79",
+    "crawlTimeMsec": "1776100541558",
+    "timestampUsec": "1776100541558393",
+    "published": 1776096600,
+    "title": "The cost of losing the quantum computing race? Billions - Financial Post",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://financialpost.com/technology/cost-of-losing-quantum-billions-canadian-economy&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1o7Z3kNOwHfvWwV3Ttqqcc"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://financialpost.com/technology/cost-of-losing-quantum-billions-canadian-economy&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1o7Z3kNOwHfvWwV3Ttqqcc",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "He and a small band in Canada spent decades proving <b>neural networks</b> could work. ... Network Inc. Thanks for signing up! A welcome email is on its ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:14318359391020856364"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5aa1dd6e7b",
+    "crawlTimeMsec": "1776100541558",
+    "timestampUsec": "1776100541558395",
+    "published": 1776097080,
+    "title": "Hack at Anodot leaves over a dozen breached companies facing extortion | TechCrunch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1_FhlY7e7JqTR0ZOdOms8S"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1_FhlY7e7JqTR0ZOdOms8S",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... <b>network</b>. The group targets companies that store large amounts of data in cloud storage. In the past year, ShinyHunters has focused on companies ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12928145638365944821"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee029",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044073",
+    "published": 1776086400,
+    "title": "Enhancing glioma segmentation with tumor-aware reconstruction: A two-step prompt ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S092523122601060X&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2oX-r3WAa9PxUHXCMaE5Vz"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S092523122601060X&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2oX-r3WAa9PxUHXCMaE5Vz",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Deep learning (DL) methods, especially convolutional <b>neural networks</b> (CNNs), have significantly advanced medical image segmentation [10], [11], [12], ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12681401594392604361"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee02e",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044078",
+    "published": 1776094740,
+    "title": "Development of an international, large-scale database of thermal conductivity calculated by ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.t.u-tokyo.ac.jp/en/press/pr2026-04-13-001&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw12jIvEokD2lMGFms091mb3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.t.u-tokyo.ac.jp/en/press/pr2026-04-13-001&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw12jIvEokD2lMGFms091mb3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Using this database, the team developed a graph <b>neural network</b>-based machine learning model and discovered that a “scaling law” holds, whereby ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11435245010882960409"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee04b",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044107",
+    "published": 1776098280,
+    "title": "New technique improves accuracy of graph neural networks - EurekAlert!",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1123850&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3rEldh4JDTUtYwq0W79OeZ"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1123850&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3rEldh4JDTUtYwq0W79OeZ",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Researchers have demonstrated a new training technique that significantly improves the accuracy of graph <b>neural networks</b> (GNNs) – AI systems used ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:10556763518810345676"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee04f",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044111",
+    "published": 1776098460,
+    "title": "MC-Retention: Accelerating Liquid Chromatography Screening with Neural Network",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.chromatographyonline.com/view/mc-retention-accelerating-liquid-chromatography-screening-with-neural-network&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3wvcxz-lf5bl39wKu_pf1d"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.chromatographyonline.com/view/mc-retention-accelerating-liquid-chromatography-screening-with-neural-network&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3wvcxz-lf5bl39wKu_pf1d",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "A recent paper introduced what the authors described as “an uncertainty-aware graph-based <b>neural network</b> that predicts retention times across ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:4742512774232268234"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee055",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044117",
+    "published": 1776099000,
+    "title": "Neural Mechanism Underlying Sensory Behavior Revealed in C. elegans",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.genengnews.com/topics/translational-medicine/neural-mechanism-underlying-sensory-behavior-revealed-in-c-elegans/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw11isD9E29fh2qofx7B_mma"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.genengnews.com/topics/translational-medicine/neural-mechanism-underlying-sensory-behavior-revealed-in-c-elegans/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw11isD9E29fh2qofx7B_mma",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "NewsBehavioral geneticsCaenorhabditis elegansNematodes<b>Neural network</b> ... Aging Mice Share Features of Brain Network Decline with Humans · Plant ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6684557009219066502"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5badfee073",
+    "crawlTimeMsec": "1776105040044",
+    "timestampUsec": "1776105040044147",
+    "published": 1776101040,
+    "title": "Machine Learning As A Transformative Tool for (Exo-)Planetary Science - Astrobiology Web",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://astrobiology.com/2026/04/machine-learning-as-a-transformative-tool-for-exo-planetary-science.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1El1Ff9AFE_DJTjUhNVkBm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://astrobiology.com/2026/04/machine-learning-as-a-transformative-tool-for-exo-planetary-science.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1El1Ff9AFE_DJTjUhNVkBm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Exoplanet detection limits from the <b>neural network</b> framework in the case of HARPS-N solar spectra. Left: Detection limit map in the period ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17783721292807664565"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5cb9c48b0b",
+    "crawlTimeMsec": "1776109532515",
+    "timestampUsec": "1776109532515083",
+    "published": 1776107340,
+    "title": "Scale beautifully: how NVIDIA DLSS 4.5 works in games - Межа",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.ua/en/special-project/masshtabuysya-krasivo-yak-pracyuye-nvidia-dlss-4-5-v-igrah-310164/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2VW_0h7APrqR7fR4ojIKS7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.ua/en/special-project/masshtabuysya-krasivo-yak-pracyuye-nvidia-dlss-4-5-v-igrah-310164/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2VW_0h7APrqR7fR4ojIKS7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "The <b>neural network</b> on an NVIDIA supercomputer was \"trained\" on perfect frames in 16K resolution. It was shown low-quality frames and \"forced\" to guess ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:956870699625352258"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5dc62ac531",
+    "crawlTimeMsec": "1776114035508",
+    "timestampUsec": "1776114035508529",
+    "published": 1776100620,
+    "title": "Yoshiki Saito, a fourth-year undergraduate student, received the Outstanding Presentation ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.fun.ac.jp/en/48038/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2UNPbJOUOW14xHS0a2Exy3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.fun.ac.jp/en/48038/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2UNPbJOUOW14xHS0a2Exy3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Academic Exchange Network. Image of an academic exchange network ... <b>neural networks</b> into biological neural circuits— · About the university."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:892511539742887901"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5dc62ac535",
+    "crawlTimeMsec": "1776114035508",
+    "timestampUsec": "1776114035508533",
+    "published": 1776102300,
+    "title": "Enhancing Recommendation Systems through SVD-based collaborative filtering and ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0346579&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3LDTN8qs8sOGPIgYFdUo_g"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0346579&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3LDTN8qs8sOGPIgYFdUo_g",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Conversely, Graph <b>Neural Networks</b> (GNNs) are very accurate ... Graph <b>Neural Network</b> Recommendation Algorithm Based on Improved Dual-Tower Model."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12838706131947307935"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5ed296a9fb",
+    "crawlTimeMsec": "1776118538873",
+    "timestampUsec": "1776118538873339",
+    "published": 1776113040,
+    "title": "AI-powered surrogate models bring real-time simulation to composite manufacturing",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techxplore.com/news/2026-04-ai-powered-surrogate-real-simulation.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw21iNH8WmY4ov6TPNusWk5U"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techxplore.com/news/2026-04-ai-powered-surrogate-real-simulation.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw21iNH8WmY4ov6TPNusWk5U",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "\"These requirements are rarely satisfied simultaneously by existing <b>neural network</b> approaches.\" The researchers also introduced a multi-branched ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:7400355408388196869"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5fdf38aeaa",
+    "crawlTimeMsec": "1776123045785",
+    "timestampUsec": "1776123045785258",
+    "published": 1776113940,
+    "title": "Latham Advises on Closure of New Era Energy Multi Tranche Facility with Macquarie Group",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.lw.com/en/news/latham-advises-on-closure-of-new-era-energy-multi-tranche-facility-with-macquarie-group&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0-_TQ-RhaTWTe30OamD6my"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.lw.com/en/news/latham-advises-on-closure-of-new-era-energy-multi-tranche-facility-with-macquarie-group&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0-_TQ-RhaTWTe30OamD6my",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Computer <b>Neural Network</b> Concept Image. Our Work. Latham Advises on Closure of New Era Energy's Multi-Tranche US$290 Million Facility with Macquarie ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:13183861142088749018"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f651b7e4f79",
+    "crawlTimeMsec": "1776145531817",
+    "timestampUsec": "1776145531817849",
+    "published": 1776107760,
+    "title": "A fully spatio-temporal dense neural network for automatic modulation recognition",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/pii/S2090447926001310&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0GoWuNmT75JvkZLB-DNiDV"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/pii/S2090447926001310&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0GoWuNmT75JvkZLB-DNiDV",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Data-driven methods utilize deep <b>neural networks</b> to automatically extract features from raw signal data. O'Shea et al. [3] pioneered the use of CNNs ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:1020067003300852038"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f651b7e4f90",
+    "crawlTimeMsec": "1776145531817",
+    "timestampUsec": "1776145531817872",
+    "published": 1776139860,
+    "title": "From Satellite Signals to Neural Networks | HackerNoon",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://hackernoon.com/lang/es/from-satellite-signals-to-neural-networks&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1Pdj6OIY7zkcsTWjylGyfr"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://hackernoon.com/lang/es/from-satellite-signals-to-neural-networks&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1Pdj6OIY7zkcsTWjylGyfr",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "See how Andrei Shcherbinin built production-ready ML systems with 12x faster attribution, 95% chatbot automation, and stronger monitoring."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17543191389744477625"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa29",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161129",
+    "published": 1776136560,
+    "title": "AI enables major advance in ocean observation | News - ConnectSci",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://connectsci.au/news/news-parent/9185/AI-enables-major-advance-in-ocean-observation%3Fsearchresult%3D1&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2XS8l74XUhcty0seY4tAXz"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://connectsci.au/news/news-parent/9185/AI-enables-major-advance-in-ocean-observation%3Fsearchresult%3D1&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2XS8l74XUhcty0seY4tAXz",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "A <b>neural network</b> trained to recognise how patterns in sea-surface temperatures change due to underlying currents will help scientists to better ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12351109530973746787"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2a",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161130",
+    "published": 1776138300,
+    "title": "Rewiring the Brain: The AI Revolution in Epilepsy Treatment - Frontiers",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1781782/full&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2jz_RKLbH0zoW2XIsjpEDr"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1781782/full&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2jz_RKLbH0zoW2XIsjpEDr",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "artificial intelligence, CNN - convolutional <b>neural network</b>, EEG, Epilepsy, machine learning (ML), Surgical localization, wearable devices."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6017660604841725112"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2b",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161131",
+    "published": 1776153660,
+    "title": "In the Spotlight: April 13-17, 2026 - The NAU Review",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.nau.edu/in-the-spotlight-april-13-17-2026/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2nZ5CrJbBB-G1wUTs1J-gH"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.nau.edu/in-the-spotlight-april-13-17-2026/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2nZ5CrJbBB-G1wUTs1J-gH",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "... Network, titled “Are 'smart' tools ... Graduate anthropology student Kate Collette presented the paper “Applying Convolutional <b>Neural Networks</b> ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:16126171661164424048"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2c",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161132",
+    "published": 1776153780,
+    "title": "Laine Neural Network launches hybrid legal platform - Startupticker.ch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupticker.ch/en/news/laine-neural-network-launches-hybrid-legal-platform&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2JC7oSNuXRTwj1_N_zYpBv"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupticker.ch/en/news/laine-neural-network-launches-hybrid-legal-platform&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2JC7oSNuXRTwj1_N_zYpBv",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Laine <b>Neural Network</b> is launching a hybrid legal platform in Switzerland. Designed as the infrastructure layer for modern legal work, Laine solves ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:13515611849077884281"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2d",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161133",
+    "published": 1776157440,
+    "title": "This AI prediction model could help shield future lunar habitats against micrometeorites",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://aerospaceamerica.aiaa.org/this-ai-prediction-model-could-help-shield-future-lunar-habitats-against-micrometeorites/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3PT8WLQRfL4jL2jhXjDlcv"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://aerospaceamerica.aiaa.org/this-ai-prediction-model-could-help-shield-future-lunar-habitats-against-micrometeorites/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3PT8WLQRfL4jL2jhXjDlcv",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Funded by a $15 million NASA grant, they developed a deep learning model, known as an artificial <b>neural network</b> (ANN), that aims to save lunar ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:1638041548489875772"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2e",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161134",
+    "published": 1776161160,
+    "title": "Investigating performance and key factors for real-world deployment of grain image ... - Nature",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-45314-6&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3osO7jZWbnj5RtmF-BzF2y"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-45314-6&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3osO7jZWbnj5RtmF-BzF2y",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "That is the focus of this work. We present and demonstrate a structured approach for investigating convolutional <b>neural networks</b> (CNNs) and key ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3932245837433791103"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa2f",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161135",
+    "published": 1776161160,
+    "title": "TAGNN: topology-aware graph neural network framework for link prediction - Nature",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-48184-0&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1yQLxti8x3jGRzsEXWfI1c"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-48184-0&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1yQLxti8x3jGRzsEXWfI1c",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Link prediction is a fundamental task in graph machine learning. While Graph <b>Neural Network</b> (GNN)-based methods are mainstream, they exhibit ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11404947865925983273"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa30",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161136",
+    "published": 1776163500,
+    "title": "Robotics Engineering Master's Thesis Presentation: Samuel Honor | Worcester Polytechnic Institute",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.wpi.edu/news/calendar/events/robotics-engineering-masters-thesis-presentation-samuel-honor&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2bKPWpek8cySMEbZjx5yHj"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.wpi.edu/news/calendar/events/robotics-engineering-masters-thesis-presentation-samuel-honor&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2bKPWpek8cySMEbZjx5yHj",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Abstract: Graph <b>neural networks</b> (GNNs) are a well-regarded tool for learned control of networked dynamical systems due to their ability to be ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3320304852727515016"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa44",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161156",
+    "published": 1776167400,
+    "title": "Brown researchers model distinct animal gait patterns with singular neural network",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.browndailyherald.com/article/2026/04/brown-researchers-model-distinct-animal-gait-patterns-with-singular-neural-network&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2-9GNujhcz3WiVG6cj5bR1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.browndailyherald.com/article/2026/04/brown-researchers-model-distinct-animal-gait-patterns-with-singular-neural-network&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2-9GNujhcz3WiVG6cj5bR1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "In the past, researchers have modeled distinct gaits with separate <b>neural networks</b>. DSC05573.JPG. Professor of Applied Mathematics Carina Curto and ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:429886573964976800"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6b6541aa59",
+    "crawlTimeMsec": "1776172539161",
+    "timestampUsec": "1776172539161177",
+    "published": 1776169140,
+    "title": "How HESTA is rethinking portfolio construction at the human-AI nexus",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.investmentmagazine.com.au/2026/04/how-hesta-is-rethinking-portfolio-construction-at-the-human-ai-nexus/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1dEsSkZCQLapF8rXPlkw2E"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.investmentmagazine.com.au/2026/04/how-hesta-is-rethinking-portfolio-construction-at-the-human-ai-nexus/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1dEsSkZCQLapF8rXPlkw2E",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "The health industry super fund has incorporated an in-house <b>neural network</b> model into its scenario analysis which can compare characteristics of ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:18082600513880963985"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6c71c3befe",
+    "crawlTimeMsec": "1776177043980",
+    "timestampUsec": "1776177043980030",
+    "published": 1776107760,
+    "title": "Dynamic feature enhancement adversarial network for domain adaptive fault diagnosis of ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0952197626011085&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3siZYhXYwcuQPfuhGmWyOT"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0952197626011085&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3siZYhXYwcuQPfuhGmWyOT",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "proposed a deep generalized <b>neural network</b> during the source model training process, with a well-designed manifold Mixup module internally, and ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:13739108989021336357"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f6c71c3bf00",
+    "crawlTimeMsec": "1776177043980",
+    "timestampUsec": "1776177043980032",
+    "published": 1776144840,
+    "title": "Attaining physics-driven convolutional operators by architecture design - Nature",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s42005-026-02613-8&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1r9AeCn_wSEamA-yZvwd5-"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s42005-026-02613-8&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1r9AeCn_wSEamA-yZvwd5-",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/34",
+        "htmlUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156",
+        "title": "Google Alert - Neural network",
+        "feedUrl": "https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156"
+    },
+    "content": {
+        "content": "Physics-informed <b>neural networks</b>: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11795242778007173623"
+}
+]}

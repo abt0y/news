@@ -1,0 +1,1706 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/42",
+    "title": "List of 9to5Google articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064e6d02bbfc3f",
+    "crawlTimeMsec": "1775079964539",
+    "timestampUsec": "1775079964539967",
+    "published": 1775078040,
+    "title": "Google releases Wear OS 6.1 based on Android 16 QPR2",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/01/wear-os-6-1/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/01/wear-os-6-1/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2024/03/xiaomi-watch-wear-os-logo-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google today quietly <a href=\"https://developer.android.com/training/wearables/versions/6-1?hl=en\">released</a> Wear OS 6.1 and detailed two features.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"wear-os,wear-os-6\" data-layer-viewtype=\"unknown\" data-post-id=\"710352\" href=\"https://9to5google.com/2026/04/01/wear-os-6-1/#more-710352\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710352",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e6e0f16471b",
+    "crawlTimeMsec": "1775084466751",
+    "timestampUsec": "1775084466751259",
+    "published": 1775084280,
+    "title": "Google AI Pro now comes with 5 TB of storage, no price increase",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/01/google-ai-pro-5-tb/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/01/google-ai-pro-5-tb/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/07/google-ai-pro-logo.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google today announced that AI Pro subscriptions now come with 5 TB of storage. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-ai,google-one\" data-layer-viewtype=\"unknown\" data-post-id=\"710360\" href=\"https://9to5google.com/2026/04/01/google-ai-pro-5-tb/#more-710360\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710360",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7746cbfc57",
+    "crawlTimeMsec": "1775124056112",
+    "timestampUsec": "1775124056112215",
+    "published": 1775124000,
+    "title": "AAWireless TWO+, the wireless Android Auto &amp; CarPlay adapter, drops to $55 in first sale",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/aawireless-two-plus-android-auto-carplay-wireless-sale/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/aawireless-two-plus-android-auto-carplay-wireless-sale/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/10/aawireless-two-plus-android-auto-carplay-8.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>The AAWireless TWO+ adapter that supports both Android Auto and CarPlay in the same dongle is seeing its first big discount, with 15% off through an Easter sale.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"aawireless,android-auto\" data-layer-viewtype=\"unknown\" data-post-id=\"710091\" href=\"https://9to5google.com/2026/04/02/aawireless-two-plus-android-auto-carplay-wireless-sale/#more-710091\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710091",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7a6aea8c42",
+    "crawlTimeMsec": "1775137546996",
+    "timestampUsec": "1775137546996802",
+    "published": 1775137200,
+    "title": "This $3 ChromeOS Flex stick  revives old and outdated computers – where to buy [U]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/this-3-chromeos-stick-will-revive-old-and-outdated-computers/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/this-3-chromeos-stick-will-revive-old-and-outdated-computers/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/ChromeOSFlex-Hero_v2.width-1200.format-webp.webp?w=1200\"></div><p>ChromeOS is a very lightweight operating system and, on top of being a solid option for low-end computers, it’s also a great way to breathe new life into an older laptop or computer. A new partnership with Google will make that process even easier with an inexpensive $3 USB stick that can inject outdated machines with ChromeOS.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"chrome-os,chrome-os-flex\" data-layer-viewtype=\"unknown\" data-post-id=\"707761\" href=\"https://9to5google.com/2026/04/02/this-3-chromeos-stick-will-revive-old-and-outdated-computers/#more-707761\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=707761",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7b776c0a87",
+    "crawlTimeMsec": "1775142051777",
+    "timestampUsec": "1775142051777159",
+    "published": 1775139300,
+    "title": "Google Cast support rolling out to Samsung TVs, and not just the newest ones",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-cast-support-rolling-out-to-samsung-tvs-and-not-just-the-newest-ones/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-cast-support-rolling-out-to-samsung-tvs-and-not-just-the-newest-ones/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/samsung-s90-oled-tv.webp?w=1600\"></div><p>Google Cast is a useful feature in part because of how widely adopted it has been, but it’s never been baked into Samsung TVs. That’s finally changing on newer models but, as it turns out, the feature is also expanding to some older models too.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-cast,samsung\" data-layer-viewtype=\"unknown\" data-post-id=\"710431\" href=\"https://9to5google.com/2026/04/02/google-cast-support-rolling-out-to-samsung-tvs-and-not-just-the-newest-ones/#more-710431\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710431",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7b776c0a8d",
+    "crawlTimeMsec": "1775142051777",
+    "timestampUsec": "1775142051777165",
+    "published": 1775140500,
+    "title": "Google Fi gives some subscribers a $20 credit following brief service outage",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-fi-outage-credit-april-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-fi-outage-credit-april-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2023/04/google-fi-new-logo-2023-4.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Following a rare Google Fi outage on Tuesday, Google has sent some subscribers a $20 credit.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-fi\" data-layer-viewtype=\"unknown\" data-post-id=\"710436\" href=\"https://9to5google.com/2026/04/02/google-fi-outage-credit-april-2026/#more-710436\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710436",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7c835a5945",
+    "crawlTimeMsec": "1775146546911",
+    "timestampUsec": "1775146546911557",
+    "published": 1775142900,
+    "title": "The Weather Channel lets you embrace or ignore AI with new storm app and ‘retro’ revival [Gallery]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/weather-channel-retro-new-storm-radar-app/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/weather-channel-retro-new-storm-radar-app/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/weather-channel-storm-radar-retro.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>As AI continues to find its way into every piece of technology we use nowadays, The Weather Channel is both embracing the tech with a new AI-powered forecasting app, while also giving you the exact opposite in a “retro” experience elsewhere.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"the-weather-channel\" data-layer-viewtype=\"unknown\" data-post-id=\"710442\" href=\"https://9to5google.com/2026/04/02/weather-channel-retro-new-storm-radar-app/#more-710442\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710442",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7c835a5951",
+    "crawlTimeMsec": "1775146546911",
+    "timestampUsec": "1775146546911569",
+    "published": 1775144280,
+    "title": "Deals: Pixel Watch 4 Amazon low, IdeaPad Pro 5 OLED Copilot+ PC $500 off, Galaxy Book6 up to $500 off, more",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/deals-pixel-watch-4-ideapad-pro-5-galaxy-book6/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/deals-pixel-watch-4-ideapad-pro-5-galaxy-book6/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/9to5Google-Apr-2.webp?w=1600\"></div><p>Today’s <em>9to5Toys Lunch Break</em> is headlined by Amazon dropping the Obsidian <a href=\"https://9to5toys.com/2026/04/01/amazon-google-pixel-watch-4-all-time-low-pricing/\">Google Pixel Watch 4 back to all-time low pricing</a> alongside an ongoing discount on <a href=\"https://9to5toys.com/2026/04/02/google-tv-streamer-4k-deals/\">Google TV Streamer 4K</a>. You can now save a <a href=\"https://9to5toys.com/2026/04/02/lenovo-ideapad-pro-5-oled-copilot-pc-with-rtx-5050-gpu/\">whopping $500</a> on Lenovo’s <a href=\"https://9to5toys.com/2026/04/02/lenovo-ideapad-pro-5-oled-copilot-pc-with-rtx-5050-gpu/\">IdeaPad Pro 5 OLED Copilot+ PC</a> with RTX 5050 GPU as well as <a href=\"https://9to5toys.com/2026/04/02/save-up-to-500-on-samsung-2026-galaxy-book6-copilot-pcs/\">up to $500 on </a>Samsung’s 2026 <a href=\"https://9to5toys.com/2026/04/02/save-up-to-500-on-samsung-2026-galaxy-book6-copilot-pcs/\">Galaxy Book6 Copilot+ PCs with trade-ins</a> (plus FREE $50 gift card offers). We also have a <a href=\"https://9to5toys.com/2026/04/02/giant-price-drop-galaxy-buds-3-fe-deal/\">giant 73% price drop</a> on the regularly $150 <a href=\"https://9to5toys.com/2026/04/02/giant-price-drop-galaxy-buds-3-fe-deal/\">Galaxy Buds 3 FE at $40</a>. Head below for a closer look. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"9to5toys,9to5toys-lunch-break,deals\" data-layer-viewtype=\"unknown\" data-post-id=\"710457\" href=\"https://9to5google.com/2026/04/02/deals-pixel-watch-4-ideapad-pro-5-galaxy-book6/#more-710457\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710457",
+    "author": "Justin Kahn"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7c835a595a",
+    "crawlTimeMsec": "1775146546911",
+    "timestampUsec": "1775146546911578",
+    "published": 1775145600,
+    "title": "Google announces open Gemma 4 model with Apache 2.0 license",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-gemma-4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-gemma-4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Gemma-4-cover.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google today announced Gemma 4 as its latest <a href=\"https://9to5google.com/2025/03/12/google-gemma-3/\">open model</a>. It is “built from the same world-class research and technology as Gemini 3.”</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"gemma\" data-layer-viewtype=\"unknown\" data-post-id=\"710324\" href=\"https://9to5google.com/2026/04/02/google-gemma-4/#more-710324\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710324",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7c835a595b",
+    "crawlTimeMsec": "1775146546911",
+    "timestampUsec": "1775146546911579",
+    "published": 1775145600,
+    "title": "Google Vids adds AI avatars that you can customize &amp; direct, free Veo generation",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-vids-ai-avatars/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-vids-ai-avatars/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Google-Vids-Veo-3.1-cover.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google Vids is Workspace’s <a href=\"https://9to5google.com/2024/04/09/google-vids-workspace/\">video creation and editing suite</a> that can be used both personally and professionally. This week, Google is giving Vids a number of capability updates, especially around AI avatars. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-vids,google-workspace\" data-layer-viewtype=\"unknown\" data-post-id=\"710314\" href=\"https://9to5google.com/2026/04/02/google-vids-ai-avatars/#more-710314\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710314",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7c835a595f",
+    "crawlTimeMsec": "1775146546911",
+    "timestampUsec": "1775146546911583",
+    "published": 1775145780,
+    "title": "Pixel 11 Pro XL leak is the most boring one yet, very little changes [Gallery]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/pixel-11-pro-xl-leak/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/pixel-11-pro-xl-leak/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-11-Pro-XL-leak-1.jpg?quality=82&amp;strip=all&amp;w=1400\"></div><p>We’ve seen a handful of Pixel 11 leaks, being handed out in order from smallest to largest device. Where every other Pixel 11 iteration has changed in some way, the Pixel 11 Pro XL shows almost no alterations in this leak. This first look shows CAD renders of Google’s next largest release.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google,google-pixel,google-pixel-11-pro\" data-layer-viewtype=\"unknown\" data-post-id=\"710460\" href=\"https://9to5google.com/2026/04/02/pixel-11-pro-xl-leak/#more-710460\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710460",
+    "author": "Andrew Romero"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f5366",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628774",
+    "published": 1775146560,
+    "title": "Motorola’s next batch of Razr colors sound just as fun as you’d expect",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/motorola-moto-razr-2026-colors-leak/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/motorola-moto-razr-2026-colors-leak/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/01/motorola-razr-fifa-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Motorola’s Razr lineup offers one of the most robust flip phone experiences you can find today, but equally appealing is its multitude of colors and finishes. It looks like the company’s upcoming 2026 entry will follow suit, with Moto’s usual partnership with Pantone still on lock.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"motorola,motorola-razr\" data-layer-viewtype=\"unknown\" data-post-id=\"710438\" href=\"https://9to5google.com/2026/04/02/motorola-moto-razr-2026-colors-leak/#more-710438\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710438",
+    "author": "Will Sattelberg"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f5372",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628786",
+    "published": 1775147280,
+    "title": "Google Home expands Workspace support, including Nest migration &amp; sharing",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-home-workspace-support/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-home-workspace-support/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/09/google-home-fi-02-02.png?w=1600\"></div><p>Google Home is <a href=\"https://www.googlenestcommunity.com/t5/Blog/Expanding-Google-Workspace-account-support-in-the-Google-Home-app/ba-p/799204\">rolling out</a> a “highly requested update” for Workspace accounts that gives users “more flexibility to manage their homes and devices.”</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-home,google-workspace\" data-layer-viewtype=\"unknown\" data-post-id=\"710480\" href=\"https://9to5google.com/2026/04/02/google-home-workspace-support/#more-710480\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710480",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f5378",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628792",
+    "published": 1775147700,
+    "title": "Smartphone price hikes are ‘inevitable’ report says, entry-level phones are a risk",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/smartphone-price-hikes-report/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/smartphone-price-hikes-report/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-a17-4.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>As the ongoing RAM/storage crisis continues to send shockwaves through the tech industry, a new report says that smartphone price hikes are “inevitable” while also further pointing out that entry-level phones are the hardest hit.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android\" data-layer-viewtype=\"unknown\" data-post-id=\"710440\" href=\"https://9to5google.com/2026/04/02/smartphone-price-hikes-report/#more-710440\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710440",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f537a",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628794",
+    "published": 1775148300,
+    "title": "Gemini for Android Auto is rolling out more widely, but not everyone is happy about it",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/gemini-for-android-auto-is-rolling-out-more-widely-but-not-everyone-is-happy-about-it/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/gemini-for-android-auto-is-rolling-out-more-widely-but-not-everyone-is-happy-about-it/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/11/android-auto-gemini-live-3.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Months after it was first announced, Google appears to have opened the floodgates for Gemini on Android Auto, with a number of users reporting that, suddenly, the new voice assistant has arrived in their cars.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android-auto,gemini\" data-layer-viewtype=\"unknown\" data-post-id=\"710475\" href=\"https://9to5google.com/2026/04/02/gemini-for-android-auto-is-rolling-out-more-widely-but-not-everyone-is-happy-about-it/#more-710475\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710475",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f5381",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628801",
+    "published": 1775149200,
+    "title": "Google previews Gemini Nano 4 for Android AICore, coming this year",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/gemini-nano-4-android/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/gemini-nano-4-android/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-Nano-4-AICore-preview.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>In addition to <a href=\"https://9to5google.com/2026/04/02/google-gemma-4/\" type=\"post\" data-sanitized-id=\"710324\">Gemma 4</a>, Google today also <a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\">detailed</a> Gemini Nano 4 for Android.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android,gemini,gemma\" data-layer-viewtype=\"unknown\" data-post-id=\"710493\" href=\"https://9to5google.com/2026/04/02/gemini-nano-4-android/#more-710493\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710493",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f538f",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628815",
+    "published": 1775150400,
+    "title": "Today’s Android app deals and freebies: Summer Catchers, Minabo, Bendy Lone Wolf, more",
+    "canonical": [
+        {
+            "href": "https://9to5toys.com/2026/04/02/today-android-app-deals-freesummer-catchers-minabo/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5toys.com/2026/04/02/today-android-app-deals-freesummer-catchers-minabo/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Deals"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Google-Play-Apr-2.webp?w=1600\"></div><p>Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Summer Catchers, Minabo: A walk through life, Aces of the Luftwaffe Premium, Bendy: Lone Wolf, Bendy and the Dark Revival, Bendy and the Ink Machine, Pumped BMX 3, Endling Extinction is Forever, and more. Just be sure to scope out the return Amazon low on <a href=\"https://9to5toys.com/2026/04/01/amazon-google-pixel-watch-4-all-time-low-pricing/\">Google Pixel Watch 4</a>, up to <a href=\"https://9to5toys.com/2026/04/02/save-up-to-500-on-samsung-2026-galaxy-book6-copilot-pcs/\"><strong>$500 off</strong> Samsung’s 2026 Galaxy Book6 Copilot+ PCs</a>, and the <a href=\"https://9to5toys.com/2026/04/02/giant-price-drop-galaxy-buds-3-fe-deal/\">regularly $150 Galaxy Buds 3 FE down at $40</a>. Head below for the apps. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"\" data-layer-viewtype=\"unknown\" data-post-id=\"710512\" href=\"https://9to5toys.com/2026/04/02/today-android-app-deals-freesummer-catchers-minabo/#more-710512\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5toys.com/2026/04/02/today-android-app-deals-freesummer-catchers-minabo/",
+    "author": "9to5Toys"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7e9ba11ae7",
+    "crawlTimeMsec": "1775155544136",
+    "timestampUsec": "1775155544136423",
+    "published": 1775152980,
+    "title": "Google Meet now on Apple CarPlay, Android Auto coming ‘soon’ ",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-meet-carplay/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/google-meet-carplay/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Meet-logo-2.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google Meet is <a href=\"https://workspaceupdates.googleblog.com/2026/04/google-meet-is-now-available-on-carplay.html\">now available</a> on Apple CarPlay for iPhone users to “join meetings safely while on the road.”</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android-auto,google-meet,ios\" data-layer-viewtype=\"unknown\" data-post-id=\"710518\" href=\"https://9to5google.com/2026/04/02/google-meet-carplay/#more-710518\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710518",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7fa73c5689",
+    "crawlTimeMsec": "1775160033826",
+    "timestampUsec": "1775160033826441",
+    "published": 1775156400,
+    "title": "These solid Galaxy S26 Ultra cases are our favorites, and a few have hidden features",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/these-galaxy-s26-ultra-cases-are-our-favorite/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/these-galaxy-s26-ultra-cases-are-our-favorite/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Galaxy-S26-Ultra-cases-11.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>The Galaxy S26 Ultra is a premium phone – hands-down. What that means is it needs a case, and the excuse that Qi2 works without a case is useless in this instance, thanks to the Samsung. From cases with “Aaron” buttons to hidden visuals, these options are our favorites.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"samsung-galaxy-s26,samsung-galaxy-s26-ultra\" data-layer-viewtype=\"unknown\" data-post-id=\"710278\" href=\"https://9to5google.com/2026/04/02/these-galaxy-s26-ultra-cases-are-our-favorite/#more-710278\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710278",
+    "author": "Andrew Romero"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e80b3fed042",
+    "crawlTimeMsec": "1775164542865",
+    "timestampUsec": "1775164542865474",
+    "published": 1775161200,
+    "title": "YouTube will stream Coachella from Google Pixel phones, adding 4K",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/youtube-will-stream-coachella-from-google-pixel-phones-adding-multiview-4k/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/youtube-will-stream-coachella-from-google-pixel-phones-adding-multiview-4k/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/youtube-coachella-2026.png?w=1600\"></div><p>YouTube has just revealed details on how it will broadcast Coachella next week, including support for multiview, 4K streams, and even a feed shot by Google Pixel.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-pixel,youtube\" data-layer-viewtype=\"unknown\" data-post-id=\"710529\" href=\"https://9to5google.com/2026/04/02/youtube-will-stream-coachella-from-google-pixel-phones-adding-multiview-4k/#more-710529\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710529",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e80b3fed04d",
+    "crawlTimeMsec": "1775164542865",
+    "timestampUsec": "1775164542865485",
+    "published": 1775163600,
+    "title": "Pixelated 094: Whoop, there it is",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/pixelated-094-whoop-there-it-is/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/pixelated-094-whoop-there-it-is/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Welcome to episode 94 of Pixelated, a podcast by <em>9to5Google.</em> This week, Damien, Abner, and Will talk all about this week’s Pixel 11 leaks, granting everyone an early look at what appears to be a strikingly familiar smartphone launch on deck for later this year. After a brief dip into some Android 17 Beta 3 thoughts, the crew discusses Google’s upcoming display-less Fitbit band, clearly designed to take Whoop head-on with the help of Steph Curry.</p>\n\n\n\n<figure data-sanitized-class=\"wp-block-audio\"><audio controls=\"controls\" src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/94_mixdown.mp3\" preload=\"none\"></audio></figure>\n\n\n\n<h2 data-sanitized-id=\"h-subscribe\" data-sanitized-class=\"wp-block-heading\">Subscribe</h2>\n\n\n\n<ul data-sanitized-class=\"wp-block-list\">\n<li><a href=\"https://www.youtube.com/playlist?list=PLcKP282Ii48tKK_KUt1kq1Ist9FkYR6lO\" target=\"_blank\" rel=\"noreferrer noopener\">YouTube Podcasts</a></li>\n\n\n\n<li><a href=\"https://pca.st/podcast/ac8e6ce0-06b1-0136-c264-7d73a919276a\" target=\"_blank\" rel=\"noreferrer noopener\">Pocket Casts</a></li>\n\n\n\n<li><a href=\"https://open.spotify.com/show/7pMiADiw0KAEW9Tg9UAEnZ?si=y8-L9zobTTucmjDVvMJOoQ&amp;dl_branch=1\" target=\"_blank\" rel=\"noreferrer noopener\">Spotify</a></li>\n\n\n\n<li><a href=\"https://podcasts.apple.com/us/podcast/alphabet-scoop/id1359922601\" target=\"_blank\" rel=\"noreferrer noopener\">Apple Podcasts</a></li>\n\n\n\n<li><a href=\"https://overcast.fm/itunes1359922601/alphabet-scoop\" target=\"_blank\" rel=\"noreferrer noopener\">Overcast</a></li>\n</ul>\n\n\n\n<p><strong>Sponsored by Proton Unlimited</strong>: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by <a href=\"https://proton.me/9to5google\" target=\"_blank\" rel=\"noreferrer noopener\">signing up using our link</a>. Thanks to Proton Unlimited for sponsoring the podcast.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"pixelated,podcast\" data-layer-viewtype=\"unknown\" data-post-id=\"710300\" href=\"https://9to5google.com/2026/04/02/pixelated-094-whoop-there-it-is/#more-710300\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710300",
+    "author": "Will Sattelberg"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e81bfd3eed2",
+    "crawlTimeMsec": "1775169036349",
+    "timestampUsec": "1775169036349138",
+    "published": 1775167980,
+    "title": "Chrome for Android gets Material 3 Expressive Settings",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/02/chrome-material-3-expressive-settings/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/02/chrome-material-3-expressive-settings/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Chrome-generic-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google is giving Chrome for Android more Material 3 Expressive with a redesign of the Settings page.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"chrome-146,google-chrome,material-3-expressive,material-design\" data-layer-viewtype=\"unknown\" data-post-id=\"710540\" href=\"https://9to5google.com/2026/04/02/chrome-material-3-expressive-settings/#more-710540\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710540",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e8f5f15f38d",
+    "crawlTimeMsec": "1775227542827",
+    "timestampUsec": "1775227542827917",
+    "published": 1775225100,
+    "title": "These are the best Android Find Hub trackers for your wallet, and it’s not close",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/03/best-android-find-hub-wallet-trackers/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/03/best-android-find-hub-wallet-trackers/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/nomad-pebblebee-find-hub-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Item trackers are <em>everywhere</em> in the footsteps of the AirTag, and better options just keep appearing. Recently, a new Find Hub tracker from Nomad debuted for Android users, and I think it makes an argument for being the best option for your wallet – in more ways than one – right up against the Pebblebee Card 5 that launched last year.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"find-hub,nomad,pebblebee\" data-layer-viewtype=\"unknown\" data-post-id=\"710427\" href=\"https://9to5google.com/2026/04/03/best-android-find-hub-wallet-trackers/#more-710427\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710427",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e906b527a53",
+    "crawlTimeMsec": "1775232043088",
+    "timestampUsec": "1775232043088467",
+    "published": 1775228700,
+    "title": "Review: Nothing Phone (4a) Pro is the ‘something’ I wanted all along",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/03/nothing-phone-4a-pro-review/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/03/nothing-phone-4a-pro-review/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-review-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Nothing has really hit its stride with the whole budget smartphone thing, with two generations that really got the fundamentals right without breaking the bank. Throughout the company’s history, though, I’ve always felt like something was missing, and I think they’ve finally found it. The Nothing Phone (4a) Pro is the “something” I’ve been waiting for and, as it turns out, the formula was <em>really</em> quite simple.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"nothing,nothing-phone-4a\" data-layer-viewtype=\"unknown\" data-post-id=\"710280\" href=\"https://9to5google.com/2026/04/03/nothing-phone-4a-pro-review/#more-710280\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710280",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e906b527a58",
+    "crawlTimeMsec": "1775232043088",
+    "timestampUsec": "1775232043088472",
+    "published": 1775230440,
+    "title": "Deals: Galaxy Tab S11 $150 off + 30% off keyboard, Samsung and Alienware monitors up to 55% off, Anker chargers, more",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/03/deals-galaxy-tab-s11-samsung-and-alienware-monitors-anker/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/03/deals-galaxy-tab-s11-samsung-and-alienware-monitors-anker/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/9to5Google-Apr-3.webp?w=1600\"></div><p>Today’s <em>9to5Toys Lunch Break</em> is headlined by Samsung now offering <a href=\"https://9to5toys.com/2026/04/03/samsung-galaxy-tab-s11-deals-2/\">$150 off all Galaxy Tab S11 configs </a>alongside <a href=\"https://9to5toys.com/2026/04/03/samsung-galaxy-tab-s11-deals-2/\">30% off Book Cover Keyboard Slim</a> as well as the already affordable <a href=\"https://9to5toys.com/2026/04/03/samsung-already-affordable-galaxy-tab-a11-best-price/\">Galaxy Tab A11+ sitting at the $202</a> Amazon all-time low today. On to the monitors, we have <a href=\"https://9to5toys.com/2026/04/03/samsung-34-inch-viewfinity-ultrawide-qhd-monitor-down-to-210/\">Samsung’s 34-inch ViewFinity ultrawide QHD monitor</a> for your workstation <a href=\"https://9to5toys.com/2026/04/03/samsung-34-inch-viewfinity-ultrawide-qhd-monitor-down-to-210/\">down at $210</a> and the originally $650 <a href=\"https://9to5toys.com/2026/04/03/alienware-27-inch-280hz-qhd-gaming-monitor-50-off/\">Alienware 27-inch 280Hz QHD gaming monitor</a> for your battlestation <a href=\"https://9to5toys.com/2026/04/03/alienware-27-inch-280hz-qhd-gaming-monitor-50-off/\">at $290</a>, as well as Anker’s display-equipped <a href=\"https://9to5toys.com/2026/04/02/anker-display-250w-port-prime-charging-station/\">250W 6-port Prime Charging Station</a> returning to the Amazon low <a href=\"https://9to5toys.com/2026/04/02/anker-display-250w-port-prime-charging-station/\">at $100</a>. Head below for a closer look and more of this week’s best discounts. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"9to5toys,9to5toys-lunch-break,deals\" data-layer-viewtype=\"unknown\" data-post-id=\"710549\" href=\"https://9to5google.com/2026/04/03/deals-galaxy-tab-s11-samsung-and-alienware-monitors-anker/#more-710549\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710549",
+    "author": "Justin Kahn"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e9177ed5961",
+    "crawlTimeMsec": "1775236549532",
+    "timestampUsec": "1775236549532001",
+    "published": 1775588820,
+    "title": "Fitbit 4.66 for Android rolls out water, food, &amp; mood logging, more [U]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/07/fitbit-4-66-android/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/07/fitbit-4-66-android/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/fitbit-app-premium-health.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Fitbit is rolling out version 4.66 of the Android app with all the <a href=\"https://9to5google.com/2026/03/31/fitbit-app-redesign-free/\">new Public Preview features</a> announced earlier this week.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"fitbit\" data-layer-viewtype=\"unknown\" data-post-id=\"710566\" href=\"https://9to5google.com/2026/04/07/fitbit-4-66-android/#more-710566\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710566",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e9283c3b322",
+    "crawlTimeMsec": "1775241043096",
+    "timestampUsec": "1775241043096354",
+    "published": 1775237040,
+    "title": "Friday’s Android app deals and freebies: LUNA Shadow, Growbot, The Longing, Lara Croft GO, more",
+    "canonical": [
+        {
+            "href": "https://9to5toys.com/2026/04/03/fridays-android-app-deals-go/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5toys.com/2026/04/03/fridays-android-app-deals-go/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Deals"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Google-Play-Apr-3-2.webp?w=1600\"></div><p>Your Friday lineup of the best Android game and app deals is now ready to roll, including titles like Friend of a Slime: Survivors, LUNA The Shadow Dust, Growbot, Paths &amp; Danger, The Longing, Unforeseen Incidents, Terra Mystica, Lara Croft GO, Homo Machina, and more. We also have <a href=\"https://9to5toys.com/2026/04/03/samsung-galaxy-tab-s11-deals-2/\">$150 off all Galaxy Tab S11 configs</a> plus <a href=\"https://9to5toys.com/2026/04/03/samsung-galaxy-tab-s11-deals-2/\">30% off Book Cover Keyboard Slim</a> with purchase alongside Samsung’s already affordable <a href=\"https://9to5toys.com/2026/04/03/samsung-already-affordable-galaxy-tab-a11-best-price/\">Galaxy Tab A11+ at the $202 Amazon all-time low</a>, but all of the apps are waiting below. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"\" data-layer-viewtype=\"unknown\" data-post-id=\"710577\" href=\"https://9to5toys.com/2026/04/03/fridays-android-app-deals-go/#more-710577\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5toys.com/2026/04/03/fridays-android-app-deals-go/",
+    "author": "9to5Toys"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e949c064817",
+    "crawlTimeMsec": "1775250040047",
+    "timestampUsec": "1775250040047639",
+    "published": 1775249940,
+    "title": "Google releases first Pixel Now Playing app update",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/03/pixel-now-playing-update/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/03/pixel-now-playing-update/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-now-playing-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>After launching in early March, Google has released the first update to its new Now Playing app for Pixel phones.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"now-playing\" data-layer-viewtype=\"unknown\" data-post-id=\"710579\" href=\"https://9to5google.com/2026/04/03/pixel-now-playing-update/#more-710579\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710579",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e98cc916999",
+    "crawlTimeMsec": "1775268034341",
+    "timestampUsec": "1775268034341273",
+    "published": 1775266080,
+    "title": "Google rolling out Pixel Buds A-Series update",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/03/pixel-buds-a-series-update-2/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/03/pixel-buds-a-series-update-2/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2021/08/Google-Pixel-Buds-A-series-in-white-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google <a href=\"https://support.google.com/googlepixelbuds/thread/422178232/pixel-buds-a-series-what-s-included-in-the-latest-rollout?hl=en\">on Friday evening</a> announced a new firmware update for the original Pixel Buds A-Series.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-pixel-buds-a-series\" data-layer-viewtype=\"unknown\" data-post-id=\"710586\" href=\"https://9to5google.com/2026/04/03/pixel-buds-a-series-update-2/#more-710586\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710586",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ea5605ca54b",
+    "crawlTimeMsec": "1775322053518",
+    "timestampUsec": "1775322053518667",
+    "published": 1775318400,
+    "title": "Galaxy S26 cases from dbrand have something for everybody, and those missing magnets",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/04/dbrand-galaxy-s26-series-cases/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/04/dbrand-galaxy-s26-series-cases/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/dbrand-grip-s26-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>If you just picked up a shiny new Galaxy S26 series phone and want to keep it that way, dbrand has cases available for every need and want you might have.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"\" data-layer-viewtype=\"unknown\" data-post-id=\"708693\" href=\"https://9to5google.com/2026/04/04/dbrand-galaxy-s26-series-cases/#more-708693\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=708693",
+    "author": "Sponsored Post"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eacb576cd2e",
+    "crawlTimeMsec": "1775353546067",
+    "timestampUsec": "1775353546067246",
+    "published": 1775350500,
+    "title": "Samsung Messages will be discontinued in July as part of Google Messages upgrade ",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Samsung-Google-Messages-cover.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Samsung has shared an “<a href=\"https://www.samsung.com/us/apps/samsung-messages/\">End of Service Announcement</a>” for its Messages app in the US. Set for July 2026, Google Messages is the intended replacement, with Samsung offering a guided transition. This has been a <a href=\"https://9to5google.com/2024/07/20/samsung-google-messages-no-longer-pre-installing/\">long time coming</a>.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android,google-messages,samsung-messages\" data-layer-viewtype=\"unknown\" data-post-id=\"710590\" href=\"https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/#more-710590\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710590",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eb9486010ab",
+    "crawlTimeMsec": "1775407550435",
+    "timestampUsec": "1775407550435499",
+    "published": 1775404800,
+    "title": "There’s a new king of foldables, but will anyone follow the blueprint in time?",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/05/oppo-findn-n6-new-king-of-foldables/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/05/oppo-findn-n6-new-king-of-foldables/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/oppo-find-n6-1_e7505d.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Foldables have matured a lot since their debut less than a decade ago, and following last year’s big leap with the Galaxy Z Fold 7, there’s now a new king in the Oppo Find N6, but I’m not sure the market will follow this lead fast enough.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"9to5google-weekender,oppo-find-n6\" data-layer-viewtype=\"unknown\" data-post-id=\"710309\" href=\"https://9to5google.com/2026/04/05/oppo-findn-n6-new-king-of-foldables/#more-710309\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710309",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecb184da404",
+    "crawlTimeMsec": "1775484053332",
+    "timestampUsec": "1775484053332996",
+    "published": 1775480100,
+    "title": "Google Pixel teases ‘exclusive’ new model, and we might already know what it is",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-pixel-exclusive-teaser-japan-color/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-pixel-exclusive-teaser-japan-color/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-berry-7.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>We’re not due for any new Google Pixel phones in the near future, but a surprise teaser has just dropped with the reveal that an exclusive new model is hitting the market this week, and we might already have some idea of what that is.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-pixel,google-pixel-10a\" data-layer-viewtype=\"unknown\" data-post-id=\"710603\" href=\"https://9to5google.com/2026/04/06/google-pixel-exclusive-teaser-japan-color/#more-710603\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710603",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecb184da411",
+    "crawlTimeMsec": "1775484053333",
+    "timestampUsec": "1775484053333009",
+    "published": 1775482200,
+    "title": "Galaxy S27 ‘Pro’ reportedly packs Ultra specs, maybe cameras, as a fourth model",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/samsung-galaxy-s27-pro-report/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/samsung-galaxy-s27-pro-report/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-series-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>According to a new report, Samsung has plans for a fourth new Galaxy S27 series device in 2027, with the Galaxy S27 “Pro” packing specs from the Ultra, but without an S Pen.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"samsung,samsung-galaxy-s27\" data-layer-viewtype=\"unknown\" data-post-id=\"710614\" href=\"https://9to5google.com/2026/04/06/samsung-galaxy-s27-pro-report/#more-710614\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710614",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecb184da428",
+    "crawlTimeMsec": "1775484053333",
+    "timestampUsec": "1775484053333032",
+    "published": 1775483820,
+    "title": "Nothing’s limited-edition yellow headphones go live, $199",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/nothings-limited-edition-yellow-headphones-go-live-199/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/nothings-limited-edition-yellow-headphones-go-live-199/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-headphone-a-2.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>The budget-focused Nothing Headphone (a) series is now available in its yellow colorway. This limited-edition was advertised prior to release with every other colorway option, but was always going to be part of a special run.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"nothing,nothing-headphone-a\" data-layer-viewtype=\"unknown\" data-post-id=\"710618\" href=\"https://9to5google.com/2026/04/06/nothings-limited-edition-yellow-headphones-go-live-199/#more-710618\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710618",
+    "author": "Andrew Romero"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecc243fccd0",
+    "crawlTimeMsec": "1775488548719",
+    "timestampUsec": "1775488548719824",
+    "published": 1775486100,
+    "title": "Samsung’s updated Weather app is ready to tell you how horrible the pollen is outside",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/samsung-weather-app-updates-tweaks-pollen/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/samsung-weather-app-updates-tweaks-pollen/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/12/Samsung-Weather-pollen-count-2.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>As Spring has sprung, The Pollening has also arrived and, just in time, Samsung has made some welcome updates to its Weather app.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"samsung\" data-layer-viewtype=\"unknown\" data-post-id=\"710621\" href=\"https://9to5google.com/2026/04/06/samsung-weather-app-updates-tweaks-pollen/#more-710621\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710621",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecc243fccd1",
+    "crawlTimeMsec": "1775488548719",
+    "timestampUsec": "1775488548719825",
+    "published": 1775486160,
+    "title": "Galaxy Z Fold ‘Wide’ will be easier to handle as One UI 9 leaks spout",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/galaxy-z-fold-wide-one-ui-9-leaks/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/galaxy-z-fold-wide-one-ui-9-leaks/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-71.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Samsung’s Galaxy Z Fold “Wide” has been touched on in previous leaks, though recent One UI 9 screenshots add some more evidence that the company is pushing for a more substantial foldable, without adding more hinges.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"samsung,samsung-galaxy-z-fold-8\" data-layer-viewtype=\"unknown\" data-post-id=\"710620\" href=\"https://9to5google.com/2026/04/06/galaxy-z-fold-wide-one-ui-9-leaks/#more-710620\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710620",
+    "author": "Andrew Romero"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecc243fccdf",
+    "crawlTimeMsec": "1775488548719",
+    "timestampUsec": "1775488548719839",
+    "published": 1775487300,
+    "title": "Meta’s smart glasses will watch what you eat to track nutrition data",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/metas-smart-glasses-will-watch-what-you-eat-to-track-nutrition-data/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/metas-smart-glasses-will-watch-what-you-eat-to-track-nutrition-data/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/09/ray-ban-meta-gen-2-4.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Meta has revealed a new update for its smart glasses – Ray-Ban and Oakley – that allow you to track what you’re eating using the camera on your face.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"meta,meta-ray-ban\" data-layer-viewtype=\"unknown\" data-post-id=\"710622\" href=\"https://9to5google.com/2026/04/06/metas-smart-glasses-will-watch-what-you-eat-to-track-nutrition-data/#more-710622\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710622",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5bc",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956924",
+    "published": 1775489880,
+    "title": "Deals: Galaxy S26 Ultra $200 off, Galaxy Watch 8/Classic up to $280 off, Galaxy Z Fold 7 giant $520 discount, more",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/deals-galaxy-s26-ultra-watch-8-galaxy-z-fold-7/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/deals-galaxy-s26-ultra-watch-8-galaxy-z-fold-7/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/9to5Google-Apr-6-4.webp?w=1600\"></div><p>Today’s <em>9to5Toys Lunch Break</em> is headlined by Samsung now offering its <a href=\"https://9to5toys.com/2026/04/06/samsung-offering-first-cash-deals-s26-ultra/\">first cash deals</a> across the entire <a href=\"https://9to5toys.com/2026/04/06/samsung-offering-first-cash-deals-s26-ultra/\">S26 lineup</a> – S26 Ultra <a href=\"https://9to5toys.com/2026/04/06/samsung-offering-first-cash-deals-s26-ultra/\">$200 off</a> or <a href=\"https://9to5toys.com/2026/04/06/samsung-offering-first-cash-deals-s26-ultra/\">$720 off with trade</a>, and more. We also have <a href=\"https://9to5toys.com/2026/04/06/samsung-all-galaxy-watch-8-configs/\">Samsung Galaxy Watch 8/Classic at up to $280 off</a> and Amazon offering a gigantic <a href=\"https://9to5toys.com/2026/04/06/giant-unlocked-512gb-galaxy-z-fold-7/\">$520 off unlocked 512GB Galaxy Z Fold 7 units</a>. Those discounts join <a href=\"https://9to5toys.com/2026/04/06/google-latest-nest-doorbell-wired-3rd-gen-deal/\">Google’s latest Nest Doorbell (wired, 3rd gen)</a> at as much as <a href=\"https://9to5toys.com/2026/04/06/google-latest-nest-doorbell-wired-3rd-gen-deal/\">$94 off open-box</a> and launch deals bundles on the <a href=\"https://9to5toys.com/2026/04/06/samsung-next-gen-2026-the-frame-pro-tv/\">Samsung 2026 The Frame TVs</a> with up to <a href=\"https://9to5toys.com/2026/04/06/samsung-next-gen-2026-the-frame-pro-tv/\">$850 in savings</a>. Head below for a closer look at the details.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"9to5toys,9to5toys-lunch-break,deals\" data-layer-viewtype=\"unknown\" data-post-id=\"710644\" href=\"https://9to5google.com/2026/04/06/deals-galaxy-s26-ultra-watch-8-galaxy-z-fold-7/#more-710644\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710644",
+    "author": "Justin Kahn"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5c4",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956932",
+    "published": 1775490900,
+    "title": "LG killed its smartphones 5 years ago, but the ‘Rollable’ feels more real than ever [Video]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/lg-rollable-teardown-hands-on-video/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/lg-rollable-teardown-hands-on-video/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2021/01/lg_rollable_teaser_ces_1.jpg?quality=82&amp;strip=all&amp;w=1200\"></div><p>This past weekend was the 5-year anniversary of the death of LG’s smartphone business, and yet, we’re just now seeing a new look at the company’s unreleased “Rollable” that makes it more clear than ever before just how ready this device was.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"lg,lg-rollable\" data-layer-viewtype=\"unknown\" data-post-id=\"710639\" href=\"https://9to5google.com/2026/04/06/lg-rollable-teardown-hands-on-video/#more-710639\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710639",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5cc",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956940",
+    "published": 1775491200,
+    "title": "Pixel 10a after one month: More than the sum of its parts [Video]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/pixel-10a-after-one-month-more-than-the-sum-of-its-parts-video/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/pixel-10a-after-one-month-more-than-the-sum-of-its-parts-video/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-Obsidian-4.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>The Pixel 10a is a month old, but it’s just the Pixel 9a again, right? While that’s a fair assumption, there’s more to this phone than meets the eye.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-pixel-10a\" data-layer-viewtype=\"unknown\" data-post-id=\"708738\" href=\"https://9to5google.com/2026/04/06/pixel-10a-after-one-month-more-than-the-sum-of-its-parts-video/#more-708738\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=708738",
+    "author": "Damien Wilde"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5de",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956958",
+    "published": 1775492700,
+    "title": "Walmart’s new Chromecast with Google TV replacement starts showing up in stores, $30",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/walmart-google-tv-4k-stick-hits-stores-early/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/walmart-google-tv-4k-stick-hits-stores-early/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2021/06/walmart_onn_chromecast_1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>After leaking just last week, the new Chromecast with Google TV replacement from Walmart is already showing up in stores, kicking off the cycle of Walmart’s unorthodox launches.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-tv,walmart\" data-layer-viewtype=\"unknown\" data-post-id=\"710660\" href=\"https://9to5google.com/2026/04/06/walmart-google-tv-4k-stick-hits-stores-early/#more-710660\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710660",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ece3c4b530d",
+    "crawlTimeMsec": "1775497542062",
+    "timestampUsec": "1775497542062861",
+    "published": 1775494800,
+    "title": "‘Google AI Edge Eloquent’ is an offline, subscription-less voice dictation app",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-ai-edge-eloquent-app/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-ai-edge-eloquent-app/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Google-AI-Edge-Eloquent-cover.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google today released a new app on iOS called “<a href=\"https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519\">Google AI Edge Eloquent</a>” that’s rather curious. It’s somewhere between an experiment and a user-facing tool.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"gemini\" data-layer-viewtype=\"unknown\" data-post-id=\"710671\" href=\"https://9to5google.com/2026/04/06/google-ai-edge-eloquent-app/#more-710671\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710671",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecf48fff42c",
+    "crawlTimeMsec": "1775502050194",
+    "timestampUsec": "1775502050194476",
+    "published": 1775499300,
+    "title": "Play Store now lets you search Android app reviews, ditches ‘this device model’ filter",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/android-play-store-search-app-reviews/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/android-play-store-search-app-reviews/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-3.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google is rolling out some updates in the Play Store, with reviews now featuring a handy option to search, but losing the useful “device model” filter.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android,google-play-store\" data-layer-viewtype=\"unknown\" data-post-id=\"710692\" href=\"https://9to5google.com/2026/04/06/android-play-store-search-app-reviews/#more-710692\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710692",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed054b4924c",
+    "crawlTimeMsec": "1775506541548",
+    "timestampUsec": "1775506541548108",
+    "published": 1775503140,
+    "title": "Monday’s Android app deals and freebies: Lumino City, Greak, Conquistadorio, and more",
+    "canonical": [
+        {
+            "href": "https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Deals"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Google-Play-Apr-6-2.webp?w=1600\"></div><p>Your Monday afternoon lineup of the best Android game and app deals awaits below, including titles like Angelo and Deemon (Full), Conquistadorio, Greak: Memories of Azur, Hero of the Kingdom, Lumino City, and more. Just be sure to dive into the giant <a href=\"https://9to5toys.com/2026/04/06/giant-unlocked-512gb-galaxy-z-fold-7/\"><strong>$520 off</strong> unlocked 512GB Galaxy Z Fold 7 today</a>, Samsung’s first cash discounts <a href=\"https://9to5toys.com/2026/04/06/samsung-offering-first-cash-deals-s26-ultra/\">across entire Galaxy S26 lineup</a> – S26 Ultra at $200 off or $720 off with trades, plus more – as well as <a href=\"https://9to5toys.com/2026/04/06/samsung-all-galaxy-watch-8-configs/\">Galaxy Watch 8/Classic at up to <strong>$280 off</strong></a>. The apps are waiting after the jump. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"\" data-layer-viewtype=\"unknown\" data-post-id=\"710713\" href=\"https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/#more-710713\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/",
+    "author": "9to5Toys"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed054b4925f",
+    "crawlTimeMsec": "1775506541548",
+    "timestampUsec": "1775506541548127",
+    "published": 1775506200,
+    "title": "Google Photos adding ‘AI Enhance’ button and video playback speed controls, rolling out now",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-photos-adding-ai-enhance-video-playback-speed-control/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-photos-adding-ai-enhance-video-playback-speed-control/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-3.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Google announced two new additions to Google Photos for all Android users, and they’ve already begun rolling out.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-photos\" data-layer-viewtype=\"unknown\" data-post-id=\"710751\" href=\"https://9to5google.com/2026/04/06/google-photos-adding-ai-enhance-video-playback-speed-control/#more-710751\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710751",
+    "author": "Andrew Romero"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed379491f51",
+    "crawlTimeMsec": "1775520040165",
+    "timestampUsec": "1775520040165201",
+    "published": 1776123660,
+    "title": "What’s new in Android’s April 2026 Google System Updates [U]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/13/april-2026-google-system-updates/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/13/april-2026-google-system-updates/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>The monthly “<a href=\"https://support.google.com/product-documentation/answer/14343500\">Google System Release Notes</a>” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"android,google-play-services\" data-layer-viewtype=\"unknown\" data-post-id=\"710779\" href=\"https://9to5google.com/2026/04/13/april-2026-google-system-updates/#more-710779\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710779",
+    "author": "Abner Li"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed485feff62",
+    "crawlTimeMsec": "1775524548378",
+    "timestampUsec": "1775524548378466",
+    "published": 1775523300,
+    "title": "Google Pixel 10a finally launches in Japan with exclusive ‘Isai Blue’ color [Video]",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/pixel-10a-isai-blue-2.webp?w=1600\"></div><p>The Pixel 10a launched <a href=\"https://9to5google.com/2026/02/18/google-pixel-10a-announcement-hands-on/\" target=\"_blank\" rel=\"noreferrer noopener\">about a month ago</a> in most of the world, but has been absent in Japan despite <a href=\"https://9to5google.com/2024/03/06/japan-google-pixel-sales-increase-2023/\" target=\"_blank\" rel=\"noreferrer noopener\">prior success</a> for the Pixel in that region. That’s finally changing, though, as the Pixel 10a is now available for pre-order in Japan and, on top of that, it gets a special “Isai Blue” color that’s exclusive to the region.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"google-pixel,google-pixel-10a\" data-layer-viewtype=\"unknown\" data-post-id=\"710782\" href=\"https://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/#more-710782\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710782",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed485feff6a",
+    "crawlTimeMsec": "1775524548378",
+    "timestampUsec": "1775524548378474",
+    "published": 1775524500,
+    "title": "Anthropic inks deal with Google to power Claude with next-gen TPUs",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/06/anthropic-inks-deal-with-google-to-power-claude-with-next-gen-tpus/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/06/anthropic-inks-deal-with-google-to-power-claude-with-next-gen-tpus/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2024/07/anthrophic-claude-android-1.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>Anthropic has tonight announced a major deal that will see Google and Broadcom powering Claude through next-generation TPU capacity starting as soon as next year.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"claude,google-cloud\" data-layer-viewtype=\"unknown\" data-post-id=\"710788\" href=\"https://9to5google.com/2026/04/06/anthropic-inks-deal-with-google-to-power-claude-with-next-gen-tpus/#more-710788\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710788",
+    "author": "Ben Schoon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc70598b",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418763",
+    "published": 1775556000,
+    "title": "Google updates Gemini to improve mental health responses",
+    "canonical": [
+        {
+            "href": "https://9to5google.com/2026/04/07/gemini-mental-health-updates/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://9to5google.com/2026/04/07/gemini-mental-health-updates/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/42",
+        "htmlUrl": "https://9to5google.com/",
+        "title": "9to5Google",
+        "feedUrl": "https://9to5google.com/feed/"
+    },
+    "content": {
+        "content": "<div data-sanitized-class=\"feat-image\"><img src=\"https://9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-mental-health-updates.jpg?quality=82&amp;strip=all&amp;w=1600\"></div><p>In a reflection of one increasingly common AI use case, Google today announced a series of Gemini updates to help when users ask about mental health. The company believes that “responsible AI can play a positive role for people’s mental well-being.”</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"gemini,gemini-app\" data-layer-viewtype=\"unknown\" data-post-id=\"710764\" href=\"https://9to5google.com/2026/04/07/gemini-mental-health-updates/#more-710764\" data-sanitized-class=\"more-link\">more…</a>"
+    },
+    "guid": "https://9to5google.com/?p=710764",
+    "author": "Abner Li"
+}
+]}

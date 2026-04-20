@@ -1,0 +1,2184 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/24",
+    "title": "List of How-To Geek articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/000648ea1cee22a3",
+    "crawlTimeMsec": "1769020205179",
+    "timestampUsec": "1769020205179555",
+    "published": 1769016660,
+    "title": "Microsoft 365, Office apps, and Microsoft Teams are down right now",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/microsoft-365-office-apps-and-microsoft-teams-are-down-right-now/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/microsoft-365-office-apps-and-microsoft-teams-are-down-right-now/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Web",
+        "Microsoft 365"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>If you can't get Microsoft Teams, Outlook, or other Microsoft apps to work right now, you're not alone. There's an outage that has taken out several Microsoft 365 services, and a fix is in the works.</p>"
+    },
+    "guid": "https://www.howtogeek.com/microsoft-365-office-apps-and-microsoft-teams-are-down-right-now/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/10/microsoft-office-apps-standing-together-on-podiums-with-copilot-on-top.jpg",
+            "type": "image/jpeg",
+            "length": 49
+        }
+    ],
+    "author": "Corbin Davenport"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648faafae92a0",
+    "crawlTimeMsec": "1769091386741",
+    "timestampUsec": "1769091386741408",
+    "published": 1769090400,
+    "title": "Spotify is letting you control the algorithm with new Prompted Playlists",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/spotify-is-letting-you-control-the-algorithm-with-new-prompted-playlists/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/spotify-is-letting-you-control-the-algorithm-with-new-prompted-playlists/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Platforms",
+        "Spotify",
+        "Music Streaming",
+        "Apps & Web Apps"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It’s common knowledge that many apps use algorithms these days. However, years before “For You” timelines, Spotify subscribers were already <a href=\"https://www.howtogeek.com/847793/why-spotify-shuffle-is-not-truly-random/\" target=\"_blank\">complaining about the algorithm</a>. Well, the music service is finally giving you the keys to its recommendation engine with Prompted Playlists.</p>"
+    },
+    "guid": "https://www.howtogeek.com/spotify-is-letting-you-control-the-algorithm-with-new-prompted-playlists/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/spotify-prompted-playlists.jpg",
+            "type": "image/jpeg",
+            "length": 806
+        }
+    ],
+    "author": "Joe Fedewa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648faafae92a1",
+    "crawlTimeMsec": "1769091386741",
+    "timestampUsec": "1769091386741409",
+    "published": 1769090400,
+    "title": "Here's how I debug my Home Assistant automations",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/how-i-debug-my-home-assistant-automations/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/how-i-debug-my-home-assistant-automations/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Smart Home",
+        "Home Assistant",
+        "automation"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Sometimes, you can create an automation in Home Assistant, and it will work perfectly the first time. Sadly, this isn't always the case. If your automation isn't working as expected, you may be able to find the problem faster using traces.</p>"
+    },
+    "guid": "https://www.howtogeek.com/how-i-debug-my-home-assistant-automations/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a-trace-graph-in-home-assistant-on-a-desktop-computer.png",
+            "type": "image/jpeg",
+            "length": 4104
+        }
+    ],
+    "author": "Adam Davidson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f6e",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966702",
+    "published": 1769092200,
+    "title": "Here's every 2026 Oscar best picture nominee and where to stream them",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/oscars-2026-best-picture-nominees-streaming/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/oscars-2026-best-picture-nominees-streaming/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "The Oscars",
+        "Movies"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>After months of predictions, the nominations for the 2026 Oscars are live. While the true cinephiles will scour the list looking for snubs, the biggest headlines will come from the Best Picture category. Winning Best Picture is cinema’s version of the Super Bowl. It’s the most sought-after prize in cinema, and one of these 10 films will take it home on March 15, 2026. For now, catch up on the movies you missed and find out how to stream all 10 Best Picture nominees. Some of the streaming services you'll need to watch these movies include <a href=\"https://www.howtogeek.com/everything-coming-to-netflix-january-2026/\" target=\"_blank\">Netflix</a>, <a href=\"https://www.howtogeek.com/new-shows-and-movies-on-hbo-max-january-2026/\" target=\"_blank\">HBO Max</a>, and Peacock.</p>"
+    },
+    "guid": "https://www.howtogeek.com/oscars-2026-best-picture-nominees-streaming/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/michael-b-jordan-sinners.jpg",
+            "type": "image/jpeg",
+            "length": 320
+        }
+    ],
+    "author": "Dan Girolamo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f89",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966729",
+    "published": 1769094060,
+    "title": "Generate realistic test data in Python fast. No dataset required",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/no-dataset-generate-realistic-test-data-in-python-in-minutes/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/no-dataset-generate-realistic-test-data-in-python-in-minutes/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Programming",
+        "Python",
+        "Productivity",
+        "Open Source"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Sometimes I want to test out Python statistical libraries, but I can't find any datasets. Fortunately, it's easy to get around that by generating some of my own. Here's how I do it.</p>"
+    },
+    "guid": "https://www.howtogeek.com/no-dataset-generate-realistic-test-data-in-python-in-minutes/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/python-logo-charts.png",
+            "type": "image/jpeg",
+            "length": 374
+        }
+    ],
+    "author": "David Delony"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f94",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966740",
+    "published": 1769094960,
+    "title": "5 uncomfortable truths about public EV charging",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/uncomfortable-truths-about-public-ev-charging/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/uncomfortable-truths-about-public-ev-charging/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "EVs & Hybrids",
+        "Electric Vehicles",
+        "SUVs"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>There are many opinions and <a href=\"https://www.howtogeek.com/ev-myths-and-misconceptions-debunked/\" target=\"_blank\">misconceptions</a> about electric vehicles (EVs) and whether they're worth buying. And while it's pretty clear that we're seeing widespread adoption of EVs and <a href=\"https://www.howtogeek.com/most-fuel-efficient-toyota-2026/\" target=\"_blank\">excellent new hybrids</a> appearing by the day, it's not all good news.</p>"
+    },
+    "guid": "https://www.howtogeek.com/uncomfortable-truths-about-public-ev-charging/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/06/a-kia-niro-ev-charging-at-a-tesla-supercharger.jpg",
+            "type": "image/jpeg",
+            "length": 906
+        }
+    ],
+    "author": "Cory Gunther"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fbbc555f9d",
+    "crawlTimeMsec": "1769095893966",
+    "timestampUsec": "1769095893966749",
+    "published": 1769095440,
+    "title": "Save $200 on the new eufy Robot Vacuum S2 with this code",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/save-200-on-the-new-eufy-robot-vacuum-s2-with-our-exclusive-code/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/save-200-on-the-new-eufy-robot-vacuum-s2-with-our-exclusive-code/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cutting Edge",
+        "robot vacuum"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Eufy just released its new flagship robot vacuum, the Omni S2. The best part is that you can save $200 right now with the code <strong>EUFYS2FANS</strong>.</p>"
+    },
+    "guid": "https://www.howtogeek.com/save-200-on-the-new-eufy-robot-vacuum-s2-with-our-exclusive-code/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/eufy-robot-vacuum-omni-s2-going-around-a-living-room-1.jpg",
+            "type": "image/jpeg",
+            "length": 413
+        }
+    ],
+    "author": "Jorge A. Aguilar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fcc8278d21",
+    "crawlTimeMsec": "1769100387257",
+    "timestampUsec": "1769100387257633",
+    "published": 1769095800,
+    "title": "My favorite way to watch YouTube Shorts is on my TV",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/my-favorite-way-to-watch-youtube-shorts-is-on-my-tv/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/my-favorite-way-to-watch-youtube-shorts-is-on-my-tv/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Platforms",
+        "YouTube Shorts",
+        "YouTube"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It initially pained me to write this article. As I jokingly told my colleagues, I felt shame, and I felt I should feel shame. But it’s time I acknowledge the truth—I watch more YouTube Shorts on my TV than on my phone, and I know I’m not alone.</p>"
+    },
+    "guid": "https://www.howtogeek.com/my-favorite-way-to-watch-youtube-shorts-is-on-my-tv/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a-youtube-short-on-a-samsung-frame-tv.jpg",
+            "type": "image/jpeg",
+            "length": 3941
+        }
+    ],
+    "author": "Bertel King"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fcc8278d38",
+    "crawlTimeMsec": "1769100387257",
+    "timestampUsec": "1769100387257656",
+    "published": 1769097600,
+    "title": "Using Apple Home? You’re the perfect candidate for a Home Assistant upgrade",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/using-apple-home-youre-the-perfect-candidate-for-a-home-assistant-upgrade/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/using-apple-home-youre-the-perfect-candidate-for-a-home-assistant-upgrade/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Smart Home",
+        "Apple HomeKit & Apple HomePod",
+        "HomePod",
+        "HomePod mini",
+        "Home Assistant"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Apple Home is my favorite of the “big 4” proprietary smart home systems, with its focus on local control and tight integration with Apple’s devices. But it still pales in comparison to Home Assistant, a powerful open-source solution.</p>"
+    },
+    "guid": "https://www.howtogeek.com/using-apple-home-youre-the-perfect-candidate-for-a-home-assistant-upgrade/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/11/controlling-an-apple-smart-home-and-home-assistant-via-an-iphone.jpg",
+            "type": "image/jpeg",
+            "length": 12355
+        }
+    ],
+    "author": "Tim Brookes"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fcc8278d53",
+    "crawlTimeMsec": "1769100387257",
+    "timestampUsec": "1769100387257683",
+    "published": 1769099400,
+    "title": "The 'Velcro Trick' that finally silenced my hard drives",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/this-is-how-you-can-finally-silence-your-noisy-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/this-is-how-you-can-finally-silence-your-noisy-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS",
+        "SSD"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>A loud NAS is uniquely annoying, much more so than a regular PC or laptop, and that's simply because it's always on. When you have a sound machine that runs 24/7, you either learn to ignore it or grow to hate it, and a noisy NAS is essentially exactly that.</p>"
+    },
+    "guid": "https://www.howtogeek.com/this-is-how-you-can-finally-silence-your-noisy-nas/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a7304630-2.jpg",
+            "type": "image/jpeg",
+            "length": 557
+        }
+    ],
+    "author": "Monica J. White"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fcc8278d54",
+    "crawlTimeMsec": "1769100387257",
+    "timestampUsec": "1769100387257684",
+    "published": 1769099400,
+    "title": "Your smart TV has a USB port—here's what you can do with it",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/your-smart-tv-has-a-usb-so-what-you-can-do-with-it/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/your-smart-tv-has-a-usb-so-what-you-can-do-with-it/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Audio/Video",
+        "TVs",
+        "USB",
+        "DIY"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>If you ever take a look at the back of your smart TV, you'll notice one or more USB ports. These aren't just for show! There are several neat features that these unassuming USB connections unlock.</p>"
+    },
+    "guid": "https://www.howtogeek.com/your-smart-tv-has-a-usb-so-what-you-can-do-with-it/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/shutterstock_1427859833.jpg",
+            "type": "image/jpeg",
+            "length": 619
+        }
+    ],
+    "author": "Sydney Butler"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fdd36e99da",
+    "crawlTimeMsec": "1769104871430",
+    "timestampUsec": "1769104871430618",
+    "published": 1769101200,
+    "title": "If you buy one Raspberry Pi upgrade, make it this",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/if-you-buy-one-raspberry-pi-upgrade-make-it-this/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/if-you-buy-one-raspberry-pi-upgrade-make-it-this/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Single-Board Computers",
+        "Raspberry Pi",
+        "storage",
+        "SSD"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The ability to swap operating systems on a whim is one of the best things about single-board computers like the Raspberry Pi. You can write a new operating system to a memory card whenever you fancy, and keep a small collection of cards handy whenever you want to change.</p>"
+    },
+    "guid": "https://www.howtogeek.com/if-you-buy-one-raspberry-pi-upgrade-make-it-this/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a7304633.jpg",
+            "type": "image/jpeg",
+            "length": 640
+        }
+    ],
+    "author": "Tim Brookes"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fdd36e99e5",
+    "crawlTimeMsec": "1769104871430",
+    "timestampUsec": "1769104871430629",
+    "published": 1769102100,
+    "title": "From BEEF to Bridgerton: 6 Netflix shows you need to watch in 2026",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/the-best-netflix-shows-returning-to-your-screen-in-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/the-best-netflix-shows-returning-to-your-screen-in-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Netflix",
+        "TV Shows",
+        "Video Streaming"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The year may have just begun, but <a href=\"https://www.netflix.com/browse\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Netflix</a> is already gearing up for 2026 with new releases. Be it fresh stories or closure to cliffhangers and shocking reveals on your last binge-watched show, there's something for every day of the year.</p>"
+    },
+    "guid": "https://www.howtogeek.com/the-best-netflix-shows-returning-to-your-screen-in-2026/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/netflix-logo-icon-surrounded-by-black-film-strips-on-a-red-background.png",
+            "type": "image/jpeg",
+            "length": 306
+        }
+    ],
+    "author": "T.M. Amrita"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fdd36e99e6",
+    "crawlTimeMsec": "1769104871430",
+    "timestampUsec": "1769104871430630",
+    "published": 1769102160,
+    "title": "Need a good flash drive? Raspberry Pi made one for you",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/need-a-good-flash-drive-raspberry-pi-has-one-for-you/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/need-a-good-flash-drive-raspberry-pi-has-one-for-you/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Peripherals",
+        "Raspberry Pi"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Raspberry Pi is continuing its expansion into hardware accessories and components. In addition to SD cards and SSDs, you can now get an official Raspberry Pi Flash Drive. It's intended to be a boot drive for Pi boards, but you can use it like any other flash drive as well.</p>"
+    },
+    "guid": "https://www.howtogeek.com/need-a-good-flash-drive-raspberry-pi-has-one-for-you/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/raspberry-pi-flash-drive.jpg",
+            "type": "image/jpeg",
+            "length": 185
+        }
+    ],
+    "author": "Corbin Davenport"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fdd36e99ea",
+    "crawlTimeMsec": "1769104871430",
+    "timestampUsec": "1769104871430634",
+    "published": 1769102460,
+    "title": "This new Debian edition doesn't use Linux",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/this-new-debian-edition-doesnt-use-linux/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/this-new-debian-edition-doesnt-use-linux/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Linux"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The Debian project has just released a new snapshot of its alternative operating system, Debian GNU/Hurd 2025, which now includes a working 64-bit edition. This is a massive update for a project that many people forget exists, but you need to know right away that this is not a Linux distribution.</p>"
+    },
+    "guid": "https://www.howtogeek.com/this-new-debian-edition-doesnt-use-linux/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/the-linux-penguin-sad-on-the-street-corner-in-the-rain.jpg",
+            "type": "image/jpeg",
+            "length": 473
+        }
+    ],
+    "author": "Jorge A. Aguilar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fdd36e99fd",
+    "crawlTimeMsec": "1769104871430",
+    "timestampUsec": "1769104871430653",
+    "published": 1769104740,
+    "title": "Asana is down right now, it's not just you",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/asana-is-down-right-now-its-not-just-you/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/asana-is-down-right-now-its-not-just-you/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Applications"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It's not just you: the task management platform Asana is currently having an outage. It's affecting both the website and mobile apps, at least for some people.</p>"
+    },
+    "guid": "https://www.howtogeek.com/asana-is-down-right-now-its-not-just-you/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/12/ethernet-cables-plugged-into-a-ubiquiti-flex-mini-managed-network-switch-3.jpg",
+            "type": "image/jpeg",
+            "length": 186
+        }
+    ],
+    "author": "Corbin Davenport"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fea66a88a9",
+    "crawlTimeMsec": "1769108411156",
+    "timestampUsec": "1769108411156649",
+    "published": 1769104800,
+    "title": "Homelab projects to try this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/homelab-projects-to-try-this-weekend-january-23-25/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/homelab-projects-to-try-this-weekend-january-23-25/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Hobbies",
+        "Weekend",
+        "Homelab",
+        "Self Hosted",
+        "Linux"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It’s that time of the week again, the time when I showcase three pieces of homelab software for you to try out over the weekend. Today, I’m taking a look at both advanced and simple projects, from running a PXE server to playing retro games in your browser. Here are three homelab projects to try before Monday comes.</p>"
+    },
+    "guid": "https://www.howtogeek.com/homelab-projects-to-try-this-weekend-january-23-25/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52749873389_c412b7f85f_o.jpg",
+            "type": "image/jpeg",
+            "length": 178504
+        }
+    ],
+    "author": "Patrick Campanale"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648fea66a88aa",
+    "crawlTimeMsec": "1769108411156",
+    "timestampUsec": "1769108411156650",
+    "published": 1769106660,
+    "title": "Stop ignoring the USB port on your router (It's better than you think)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/dont-buy-a-nas-if-your-router-has-this-port/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/dont-buy-a-nas-if-your-router-has-this-port/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Networking",
+        "USB",
+        "storage",
+        "Wi-Fi Routers"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Yes, it's a USB port. Let's get that out of the way right off the bat, as if the big picture of a USB port on a router above wasn't enough to tip you off. In case you've never noticed, or thought to use it, if your router has a USB port on it there's a good chance you can actually use that router as a basic NAS.</p>"
+    },
+    "guid": "https://www.howtogeek.com/dont-buy-a-nas-if-your-router-has-this-port/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/shutterstock_2511491491.jpg",
+            "type": "image/jpeg",
+            "length": 442
+        }
+    ],
+    "author": "Sydney Butler"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ffb34e102d",
+    "crawlTimeMsec": "1769112922361",
+    "timestampUsec": "1769112922361901",
+    "published": 1769108400,
+    "title": "Why your iPhone apps keep uninstalling themselves (and what to do about it)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/iphone-keeps-removing-apps/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/iphone-keeps-removing-apps/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Iphone",
+        "iPhone",
+        "ios",
+        "Apps & Web Apps",
+        "Apple"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Ever unlocked your iPhone and wondered where a specific app went? Seeing apps disappear can raise alarms and make you feel suspicious. The truth is, your iPhone removes apps intentionally. But why does this happen? Let’s explore the common reasons behind it and what you can do to prevent it.</p>"
+    },
+    "guid": "https://www.howtogeek.com/iphone-keeps-removing-apps/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/iphone-home-screen-displaying-app-icons-overlaid-with-a-large-red-trash-can-symbol-and-a-black-alert-icon.png",
+            "type": "image/jpeg",
+            "length": 800
+        }
+    ],
+    "author": "Shan Abdul"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ffb34e1036",
+    "crawlTimeMsec": "1769112922361",
+    "timestampUsec": "1769112922361910",
+    "published": 1769109240,
+    "title": "Sony returns to vinyl with two new Bluetooth wireless decks",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/sony-returns-to-vinyl-with-two-new-bluetooth-wireless-decks/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/sony-returns-to-vinyl-with-two-new-bluetooth-wireless-decks/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Audio/Video",
+        "Vinyl"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Sony is jumping back into the vinyl game for the first time since 2019 with the introduction of two new Bluetooth-enabled turntables. The PS-LX3BT and the PS-LX5BT make the analog experience much more accessible by baking in modern wireless audio technology.</p>"
+    },
+    "guid": "https://www.howtogeek.com/sony-returns-to-vinyl-with-two-new-bluetooth-wireless-decks/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/ps-lx5bt-premium-bluetooth-turntable-with-full-auto-playback-with-case-closed-and-correct-size.jpg",
+            "type": "image/jpeg",
+            "length": 209
+        }
+    ],
+    "author": "Jorge A. Aguilar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ffb34e1037",
+    "crawlTimeMsec": "1769112922361",
+    "timestampUsec": "1769112922361911",
+    "published": 1769110200,
+    "title": "This 3-year-old sedan proves Lexus is still the king of reliability",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/3-year-old-sedan-lexus-still-king-of-reliability/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/3-year-old-sedan-lexus-still-king-of-reliability/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "ICE Vehicles",
+        "Luxury Cars",
+        "Lexus",
+        "Sedans",
+        "Sports Cars"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>In a market where long-term dependability matters just as much as comfort and refinement, one three-year-old sedan quietly proves that Lexus still sets the standard for reliability. While many competitors chase flashy tech or aggressive styling, this model continues to deliver the kind of trouble-free ownership that has made the brand a favorite among drivers who want peace of mind as much as prestige.</p>"
+    },
+    "guid": "https://www.howtogeek.com/3-year-old-sedan-lexus-still-king-of-reliability/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/lexus-is_500_f_sport_performance-2022-hd-a0d589911c1ed7084cffba7091bec1183c185154b.jpg",
+            "type": "image/jpeg",
+            "length": 354
+        }
+    ],
+    "author": "Tyler Dupont"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ffb34e1038",
+    "crawlTimeMsec": "1769112922361",
+    "timestampUsec": "1769112922361912",
+    "published": 1769110800,
+    "title": "Beloved Hulu hockey TV show renewed for season 6",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/shoresy-season-6-renewed-hulu/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/shoresy-season-6-renewed-hulu/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Hulu",
+        "Shoresy",
+        "Heated Rivalry"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>With hockey TV shows taking over pop culture, <a href=\"https://www.howtogeek.com/recent-hulu-shows-you-might-have-missed/\" target=\"_blank\">Hulu</a> is bringing back one of its staples for another season.</p>"
+    },
+    "guid": "https://www.howtogeek.com/shoresy-season-6-renewed-hulu/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/shoresy-hulu-hockey-show.jpg",
+            "type": "image/jpeg",
+            "length": 225
+        }
+    ],
+    "author": "Dan Girolamo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ffb34e1039",
+    "crawlTimeMsec": "1769112922361",
+    "timestampUsec": "1769112922361913",
+    "published": 1769111280,
+    "title": "Sling TV is quietly raising prices",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/sling-tv-is-quietly-raising-prices-again/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/sling-tv-is-quietly-raising-prices-again/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Audio/Video",
+        "Sling TV",
+        "Video Streaming"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Sling TV remains one of the most popular and affordable streaming services in the U.S., but we have some bad news. In a move that should surprise no one, Sling TV is raising prices on some of its plans. If there's a silver lining, not everyone will get hit with the price hike, at least not yet. </p>"
+    },
+    "guid": "https://www.howtogeek.com/sling-tv-is-quietly-raising-prices-again/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/the-sling-tv-logo-on-a-blue-gradient-background.jpg",
+            "type": "image/jpeg",
+            "length": 31
+        }
+    ],
+    "author": "Cory Gunther"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064900c1a08ca5",
+    "crawlTimeMsec": "1769117457616",
+    "timestampUsec": "1769117457616037",
+    "published": 1769113800,
+    "title": "Raspberry Pi projects to try this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/raspberry-pi-projects-to-try-this-weekend-january-23-25/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/raspberry-pi-projects-to-try-this-weekend-january-23-25/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Single-Board Computers",
+        "Weekend",
+        "DIY",
+        "Raspberry Pi"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Are you ready for a couple of challenging (and one more simple) Raspberry Pi projects? This weekend’s Raspberry Pi projects will put your hardware skills to the test with tasks like handling stepper motors and drivers, programming LEDs, and spinning up Docker containers.</p>"
+    },
+    "guid": "https://www.howtogeek.com/raspberry-pi-projects-to-try-this-weekend-january-23-25/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/10/52674931226_de362b9251_o-1.jpg",
+            "type": "image/jpeg",
+            "length": 372
+        }
+    ],
+    "author": "Patrick Campanale"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064900c1a08cb3",
+    "crawlTimeMsec": "1769117457616",
+    "timestampUsec": "1769117457616051",
+    "published": 1769115600,
+    "title": "3 Prime Video documentaries you'll actually watch this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/prime-video-documentaries-weekend-binge-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/prime-video-documentaries-weekend-binge-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Amazon Prime Video",
+        "Weekend",
+        "Week",
+        "Movies",
+        "TV Shows",
+        "Video Streaming"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>I spend a ton of time scrolling through the endless documentary titles on <a href=\"https://www.primevideo.com/offers/nonprimehomepage\" rel=\"noopener noreferrer\" target=\"_blank\">Prime Video</a>. And if you look hard enough, sometimes it has a way of serving up some perfect weekend (or weekday) doc gems. </p>"
+    },
+    "guid": "https://www.howtogeek.com/prime-video-documentaries-weekend-binge-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/prime-video-logo-with-a-clapperboard-against-a-blue-curtain-background.png",
+            "type": "image/jpeg",
+            "length": 2051
+        }
+    ],
+    "author": "Derek Malcolm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064900c1a08cb4",
+    "crawlTimeMsec": "1769117457616",
+    "timestampUsec": "1769117457616052",
+    "published": 1769115600,
+    "title": "We shouldn't need a $140 gadget to stop GPUs from melting",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/why-are-gpus-still-catching-fire/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/why-are-gpus-still-catching-fire/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC components",
+        "GPU",
+        "pc building",
+        "PC Optimization"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It seems like forever ago that we first read about melting GPU power connectors and small fires starting inside PCs as the wattage was cranked up to unbelievable levels. You'd think that, by now, this issue would be definitively solved, but it's <em>still</em> happening, and the \"fixes\" all seem like stopgaps. So what's happening?</p>"
+    },
+    "guid": "https://www.howtogeek.com/why-are-gpus-still-catching-fire/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/rtx-5090-engulfed-in-flames-against-a-dark-background.png",
+            "type": "image/jpeg",
+            "length": 2051
+        }
+    ],
+    "author": "Sydney Butler"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064901ce009aa0",
+    "crawlTimeMsec": "1769121960204",
+    "timestampUsec": "1769121960204960",
+    "published": 1769117400,
+    "title": "Inflation what? The 2026 Subaru WRX is more affordable!",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/2026-subaru-wrx-more-affordable/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/2026-subaru-wrx-more-affordable/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "ICE Vehicles",
+        "2025 Subaru WRX Sedan"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The 2026 Subaru WRX lineup offers a lot of choices if you’re ready to treat yourself to a sports car without going overboard. Similar to <a href=\"https://www.howtogeek.com/subaru-brz-versus-toyota-gr86-which-sports-coupe-delivers-most-thrills/\" target=\"_blank\">other beloved and affordable sports cars</a>, the 2026 WRX doubles as a daily driver and something fun for the weekend. Like a true driver’s car, a six-speed manual transmission is standard on five of the six trim levels.</p>"
+    },
+    "guid": "https://www.howtogeek.com/2026-subaru-wrx-more-affordable/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/2026-subaru-wrx-3.jpg",
+            "type": "image/jpeg",
+            "length": 1286
+        }
+    ],
+    "author": "Carl Anthony"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064901ce009aa5",
+    "crawlTimeMsec": "1769121960204",
+    "timestampUsec": "1769121960204965",
+    "published": 1769117640,
+    "title": "Find out how far Earth has travelled since you were born with this website",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/find-out-how-far-earth-has-travelled-since-you-were-born-with-this-website/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/find-out-how-far-earth-has-travelled-since-you-were-born-with-this-website/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Web",
+        "Astronomy",
+        "science",
+        "Apps & Web Apps"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Here’s a fun and somewhat terrifying fact: you’re on a planet right now. We all know this, but it’s hard to really visualize. The good news is there’s a website for that, and it can tell you exactly how far Earth has traveled through space since you arrived on it.</p>"
+    },
+    "guid": "https://www.howtogeek.com/find-out-how-far-earth-has-travelled-since-you-were-born-with-this-website/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/flying-through-space-on-earth.jpg",
+            "type": "image/jpeg",
+            "length": 1558
+        }
+    ],
+    "author": "Joe Fedewa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064901ce009aa9",
+    "crawlTimeMsec": "1769121960204",
+    "timestampUsec": "1769121960204969",
+    "published": 1769117820,
+    "title": "Google Home is fixing this annoying lights software bug",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/google-home-is-fixing-this-annoying-lights-software-bug/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/google-home-is-fixing-this-annoying-lights-software-bug/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Smart Home",
+        "Google Home"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>You have probably been greeted by the frustrating sight of your lights showing an error status in the Google Home app. Fortunately, the company is finally working on a fix for the annoying and widespread bug that causes smart lights and switches to incorrectly display as offline in its app.</p>"
+    },
+    "guid": "https://www.howtogeek.com/google-home-is-fixing-this-annoying-lights-software-bug/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/google-home-logo-on-a-blue-and-yellow-gradiant.jpg",
+            "type": "image/jpeg",
+            "length": 91
+        }
+    ],
+    "author": "Jorge A. Aguilar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064901ce009ab5",
+    "crawlTimeMsec": "1769121960204",
+    "timestampUsec": "1769121960204981",
+    "published": 1769119200,
+    "title": "Choose from these 3 Prime Video movies for this weekend’s date night (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/prime-video-movies-date-night-weekend-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/prime-video-movies-date-night-weekend-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Amazon Prime Video",
+        "Weekend",
+        "What to Watch",
+        "Movies"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>This month, we’re tackling something new and broaching the topic of—wait for it—date night. Woohoo! I don’t know about you, but my perfect date night is at home with my favorite person, in front of the TV, with our favorite snacks and a good movie or two.</p>"
+    },
+    "guid": "https://www.howtogeek.com/prime-video-movies-date-night-weekend-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/prime-video-date-night-banner-featuring-red-hearts-popcorn-a-movie-clapperboard-and-a-gift-box.png",
+            "type": "image/jpeg",
+            "length": 1632
+        }
+    ],
+    "author": "Keeley Brooks"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064901ce009ac7",
+    "crawlTimeMsec": "1769121960204",
+    "timestampUsec": "1769121960204999",
+    "published": 1769121000,
+    "title": "What it really costs to maintain a Lexus hybrid for 10 years",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/lexus-hybrid-10-year-maintenance-cost/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/lexus-hybrid-10-year-maintenance-cost/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "EVs & Hybrids",
+        "Hybrid Cars",
+        "Lexus",
+        "Luxury Cars"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p><a href=\"https://www.howtogeek.com/every-lexus-suv-2025-by-reliability/\" target=\"_blank\">Lexus</a> has always been the safe bet for people who want a luxury car without the German-car headaches. Their <a href=\"https://www.howtogeek.com/tag/hybrid-cars/\" target=\"_blank\">hybrids</a> live up to that reputation, staying reliable while keeping maintenance costs surprisingly low.</p>"
+    },
+    "guid": "https://www.howtogeek.com/lexus-hybrid-10-year-maintenance-cost/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/2026_lexus_rx_350h_luxury_iridium_2.jpg",
+            "type": "image/jpeg",
+            "length": 188
+        }
+    ],
+    "author": "Adam Gray"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064902d9d69ce4",
+    "crawlTimeMsec": "1769126453746",
+    "timestampUsec": "1769126453746916",
+    "published": 1769125320,
+    "title": "Rust 1.93 has arrived, here's what’s new",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/rust-193-has-arrived-heres-whats-new/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/rust-193-has-arrived-heres-whats-new/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Linux"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Rust 1.93.0 is now stable and was released today. It focuses on tightening up the compiler's safety guarantees while providing crucial new tools for performance-critical tasks. It is a solid release that makes the language feel more mature in areas that matter most.</p>"
+    },
+    "guid": "https://www.howtogeek.com/rust-193-has-arrived-heres-whats-new/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/07/the-linux-mascot-tux-peeking-from-behind-the-rust-logo-with-colorful-rust-gears-in-the-background.png",
+            "type": "image/jpeg",
+            "length": 264
+        }
+    ],
+    "author": "Jorge A. Aguilar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490d1f056208",
+    "crawlTimeMsec": "1769170564112",
+    "timestampUsec": "1769170564112904",
+    "published": 1769166000,
+    "title": "Anker Prime Wireless Charging Station (A25X7) review: Way too expensive",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/anker-prime-wireless-charging-station-a25x7-review/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/anker-prime-wireless-charging-station-a25x7-review/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Iphone",
+        "Anker Prime Wireless Charging Station (A25X7)",
+        "Wireless Chargers",
+        "iPhone"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Anker’s latest <a href=\"https://www.amazon.com/Anker-Compatible-Charging-Certified-Wireless/dp/B0F9L1PPPJ?th=1&amp;tag=hotoge-20&amp;ascsubtag=UUhtgUeUpU2019919&amp;asc_refurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-prime-wireless-charging-station-a25x7-review%2F&amp;asc_campaign=Authority\" rel=\"noopener noreferrer nofollow sponsored\" target=\"_blank\" data-sanitized-class=\"norewrite noskim\">Prime Wireless Charging Station</a> makes some bold claims—and lives up to them. I really love this wireless charging station, but I do have one thing about it that I don’t like. Is it worth $230 of your hard-earned money? I’m not quite sure.</p>"
+    },
+    "guid": "https://www.howtogeek.com/anker-prime-wireless-charging-station-a25x7-review/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a7303872.jpg",
+            "type": "image/jpeg",
+            "length": 415
+        }
+    ],
+    "author": "Patrick Campanale"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490d1f05621a",
+    "crawlTimeMsec": "1769170564112",
+    "timestampUsec": "1769170564112922",
+    "published": 1769167800,
+    "title": "ROW vs. ROWS in Excel: What's the difference?",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/microsoft-excel-row-vs-rows-whats-the-difference/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/microsoft-excel-row-vs-rows-whats-the-difference/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Applications",
+        "Microsoft Excel",
+        "Microsoft",
+        "Microsoft 365",
+        "Microsoft 365 Personal"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Don't let that extra \"S\" fool you—ROW and ROWS do completely different jobs in Excel. One tells you where you are, while the other tells you how much space you have. If you're tired of formulas breaking when you delete a row, it's time to master the difference between these two tools.</p>"
+    },
+    "guid": "https://www.howtogeek.com/microsoft-excel-row-vs-rows-whats-the-difference/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/an-illustration-featuring-the-excel-logo-function-symbols-and-a-formula-bar-showing-function-against-a-green-and-blue-abstract-background.png",
+            "type": "image/jpeg",
+            "length": 481
+        }
+    ],
+    "author": "Tony Phillips"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490d1f056233",
+    "crawlTimeMsec": "1769170564112",
+    "timestampUsec": "1769170564112947",
+    "published": 1769169600,
+    "title": "3 great shows to watch on Netflix this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/netflix-shows-weekend-watch-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/netflix-shows-weekend-watch-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Netflix",
+        "Stranger Things",
+        "Nobody Wants This",
+        "Outer Banks"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>If you live in the United States, this weekend is the perfect opportunity to crush that <a href=\"https://www.howtogeek.com/everything-coming-to-netflix-january-2026/\" target=\"_blank\">Netflix</a> series you've always wanted to watch. Nearly 30 states will get hit with snow, sleet, and freezing rain. As much as I love to get outside, the better move right now is to stay indoors and fire up some television.</p>"
+    },
+    "guid": "https://www.howtogeek.com/netflix-shows-weekend-watch-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/netflix-logo-with-a-clapperboard-against-a-red-curtain-background.png",
+            "type": "image/jpeg",
+            "length": 2017
+        }
+    ],
+    "author": "Dan Girolamo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490e2ba679f2",
+    "crawlTimeMsec": "1769175070964",
+    "timestampUsec": "1769175070964210",
+    "published": 1769171400,
+    "title": "This legendary game feature from 1996 is secretly hidden in Windows 11",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/windows-borrowed-this-feature-from-a-legendary-game/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/windows-borrowed-this-feature-from-a-legendary-game/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Windows",
+        "Quake",
+        "Doom (1993)",
+        "PC Optimization"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Good ideas can come from anywhere, so why not take UX inspiration from a video game? Well, if you're going to do it, it better be one of the best games created by certified geniuses, so what better choice than the still-legendary <em>Quake</em>?</p>"
+    },
+    "guid": "https://www.howtogeek.com/windows-borrowed-this-feature-from-a-legendary-game/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/desktop-monitor-with-windows-11-wallpaper-and-a-windows-powershell-terminal-window-dropping-down-from-the-top-1.png",
+            "type": "image/jpeg",
+            "length": 815
+        }
+    ],
+    "author": "Sydney Butler"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490e2ba67a05",
+    "crawlTimeMsec": "1769175070964",
+    "timestampUsec": "1769175070964229",
+    "published": 1769173200,
+    "title": "3 great Paramount+ TV shows to binge this weekend (January 23-25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/paramount-plus-shows-weekend-binge-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/paramount-plus-shows-weekend-binge-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Paramount Plus",
+        "Your Honor",
+        "The Challenge",
+        "Californication"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Contrary to popular belief, <a href=\"https://www.howtogeek.com/taylor-sheridan-paramount-plus-shows-streaming/\" target=\"_blank\">Paramount+ is not the Taylor Sheridan network</a>. While the <em>Mayor of Kingstown </em>creator undoubtedly drives ratings with his roster of shows, there are plenty of other programs to watch this weekend.</p>"
+    },
+    "guid": "https://www.howtogeek.com/paramount-plus-shows-weekend-binge-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/paramount-with-a-blurred-forest-in-the-background_.png",
+            "type": "image/jpeg",
+            "length": 999
+        }
+    ],
+    "author": "Dan Girolamo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490e2ba67a11",
+    "crawlTimeMsec": "1769175070964",
+    "timestampUsec": "1769175070964241",
+    "published": 1769174100,
+    "title": "3 open-source tools I use to take back control of Windows 11",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/3-open-source-tools-i-use-to-take-back-control-of-windows-11/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/3-open-source-tools-i-use-to-take-back-control-of-windows-11/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Windows",
+        "Open Source",
+        "Microsoft",
+        "PC Optimization"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Let’s be clear, I could use any OS but, for some reason, I always use Windows. It can be a great operating system, but lots of times it feels like it’s working against me instead of for me. Between privacy and telemetry collection, the constant nudges toward Edge and Bing, and the AI features I never asked for, a fresh Windows install rarely feels clean. Add in the pile of preinstalled apps I’ll never use, and it often feels like I’m undoing Windows before I can even start using it.</p>"
+    },
+    "guid": "https://www.howtogeek.com/3-open-source-tools-i-use-to-take-back-control-of-windows-11/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/11/windows-11-being-cleaned-with-a-mop-bucket-and-scrubbing-brush.png",
+            "type": "image/jpeg",
+            "length": 676
+        }
+    ],
+    "author": "Rich Hein"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490f38728464",
+    "crawlTimeMsec": "1769179580630",
+    "timestampUsec": "1769179580630116",
+    "published": 1769175000,
+    "title": "3 Netflix documentaries to watch this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/netflix-documentaries-weekend-binge-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/netflix-documentaries-weekend-binge-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Content",
+        "Netflix"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>A great documentary is good to watch any time of the week, but if you like to settle in on the weekend, too, I've got a trio of good ones on <a href=\"https://www.netflix.com/browse\" rel=\"noopener noreferrer\" target=\"_blank\">Netflix</a> for you that I think you'll like.</p>"
+    },
+    "guid": "https://www.howtogeek.com/netflix-documentaries-weekend-binge-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/netflix-logo-surrounded-by-a-documentaries-clapperboard-film-reel-and-film-strips-against-a-red-background.png",
+            "type": "image/jpeg",
+            "length": 992
+        }
+    ],
+    "author": "Derek Malcolm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490f3872846c",
+    "crawlTimeMsec": "1769179580630",
+    "timestampUsec": "1769179580630124",
+    "published": 1769176020,
+    "title": "Ford’s first 2026 recall warns of a risk you might not expect",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/ford-first-2026-recall-surprising-risk/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/ford-first-2026-recall-surprising-risk/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "ICE Vehicles",
+        "Ford"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>It’s only three weeks into 2026, and <a href=\"https://www.howtogeek.com/tag/ford/\" target=\"_blank\">Ford</a> is already leading the recall charts.</p>"
+    },
+    "guid": "https://www.howtogeek.com/ford-first-2026-recall-surprising-risk/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/ford_wallpaper_generic.jpg",
+            "type": "image/jpeg",
+            "length": 142
+        }
+    ],
+    "author": "Adam Gray"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490f38728475",
+    "crawlTimeMsec": "1769179580630",
+    "timestampUsec": "1769179580630133",
+    "published": 1769176800,
+    "title": "3 cool Linux apps to try this weekend (January 23 - 25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/3-cool-linux-apps-to-try-this-weekend-january-23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/3-cool-linux-apps-to-try-this-weekend-january-23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Linux",
+        "Apps & Web Apps",
+        "Open Source",
+        "Linux & macOS Terminal"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The world of Linux software is hard to navigate, but with there are a lot of good ones worth checking out if you know where to look. Have a look at this text drawing app, packet analyzer, and Wikipedia browser.</p>"
+    },
+    "guid": "https://www.howtogeek.com/3-cool-linux-apps-to-try-this-weekend-january-23/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/52971071687_d038f51da7_o.jpg",
+            "type": "image/jpeg",
+            "length": 163
+        }
+    ],
+    "author": "Jordan Gloor"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490f3872848a",
+    "crawlTimeMsec": "1769179580630",
+    "timestampUsec": "1769179580630154",
+    "published": 1769178600,
+    "title": "Stop blindly trusting GitHub Copilot: 4 reasons it’s failing as a coding agent",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/github-copilot-is-powerful-but-these-issues-kept-slowing-me-down/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/github-copilot-is-powerful-but-these-issues-kept-slowing-me-down/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Programming",
+        "GitHub",
+        "ai"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>I've tried many different AI coding tools both in my job and for personal projects. GitHub Copilot is the most recent addition to my toolbox. While it can be great for productivity sometimes, I've faced so many woes that I feel it does more harm than good.</p>"
+    },
+    "guid": "https://www.howtogeek.com/github-copilot-is-powerful-but-these-issues-kept-slowing-me-down/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/07/the-github-logo-on-top-of-a-blurred-out-repository.png",
+            "type": "image/jpeg",
+            "length": 496
+        }
+    ],
+    "author": "Zunaid Ali"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006490f3872848e",
+    "crawlTimeMsec": "1769179580630",
+    "timestampUsec": "1769179580630158",
+    "published": 1769178840,
+    "title": "Samsung Galaxy phones are about to get one of the best Pixel-exclusive features",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/samsung-galaxy-phones-are-about-to-get-one-of-the-best-pixel-exclusive-features/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/samsung-galaxy-phones-are-about-to-get-one-of-the-best-pixel-exclusive-features/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android",
+        "Samsung Phones & Tablets",
+        "Google Pixel",
+        "Android Phones & Tablets"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>While Pixel phones may not be able to compete with Samsung Galaxy phones in sheer number of features, they do have some powerful exclusives. One example is the excellent Scam Detection feature, but it may not be exclusive for much longer.</p>"
+    },
+    "guid": "https://www.howtogeek.com/samsung-galaxy-phones-are-about-to-get-one-of-the-best-pixel-exclusive-features/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-phone-call-with-google-scam-call-detection.jpg",
+            "type": "image/jpeg",
+            "length": 837
+        }
+    ],
+    "author": "Joe Fedewa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006491044926396",
+    "crawlTimeMsec": "1769184079012",
+    "timestampUsec": "1769184079012758",
+    "published": 1769180400,
+    "title": "Home Assistant projects to try this weekend (January 23-25)",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-january-23-25/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-january-23-25/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Smart Home",
+        "Home Assistant",
+        "automation"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The January weekends are already flying by. If you have a few hours to spare, here are some Home Assistant projects you could try, from creating your own weather display to making your smart home easier for guests to use.</p>"
+    },
+    "guid": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-january-23-25/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/an-iphone-displaying-a-home-assistant-notification-providing-information-about-devices-that-are-still-on-and-asking-if-the-user-wants-to-turn-them-off.png",
+            "type": "image/jpeg",
+            "length": 4320
+        }
+    ],
+    "author": "Adam Davidson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064910449263a1",
+    "crawlTimeMsec": "1769184079012",
+    "timestampUsec": "1769184079012769",
+    "published": 1769181300,
+    "title": "The crossover that feels like a BMW but is priced like a Honda",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/crossover-bmw-performance-honda-price/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/crossover-bmw-performance-honda-price/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "ICE Vehicles",
+        "SUVs",
+        "Luxury Cars",
+        "Mazda"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p><a href=\"https://www.howtogeek.com/affordable-compact-suvs-value-2026/\" target=\"_blank\">Compact crossovers</a> have become the go-to choice for millions of drivers, thanks to their practicality, fuel efficiency, and low hassle. But with so many options on the market, a lot of them start to feel samey—comfortable and <a href=\"https://www.howtogeek.com/evolution-of-automotive-tech-over-last-decade/\" target=\"_blank\">tech-packed</a>, but not exactly exciting to drive.</p>"
+    },
+    "guid": "https://www.howtogeek.com/crossover-bmw-performance-honda-price/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/2025cx-5-2.jpg",
+            "type": "image/jpeg",
+            "length": 431
+        }
+    ],
+    "author": "Adam Gray"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064910449263c0",
+    "crawlTimeMsec": "1769184079012",
+    "timestampUsec": "1769184079012800",
+    "published": 1769183940,
+    "title": "This experimental Rust-based browser engine just got a big update",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/servo-version-004-released/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/servo-version-004-released/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Applications",
+        "Open Source",
+        "Linux",
+        "Programming",
+        "web browsers"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>The Servo project developers have announced the release of version 0.0.4 of its Servo browser engine, bringing with it some crucial upgrades in the long-term goal of supporting a full browser experience.</p>"
+    },
+    "guid": "https://www.howtogeek.com/servo-version-004-released/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/10/servo-engine-on-a-mac.jpg",
+            "type": "image/jpeg",
+            "length": 241
+        }
+    ],
+    "author": "Jordan Gloor"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064911507f11bd",
+    "crawlTimeMsec": "1769188574040",
+    "timestampUsec": "1769188574040509",
+    "published": 1769184000,
+    "title": "I can’t resist this new $4 IKEA USB-C accessory",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/i-cant-resist-this-ikea-usb-c-accessory/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/i-cant-resist-this-ikea-usb-c-accessory/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Hobbies",
+        "USB-C",
+        "USB",
+        "Ikea"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>I hate buying USB adapters because I vividly remember the days when they’d come free with every smartphone or USB-powered device. Though it’s not free, IKEA’s new USB-C adapter offers fast charging at the unbeatable price of $4.</p>"
+    },
+    "guid": "https://www.howtogeek.com/i-cant-resist-this-ikea-usb-c-accessory/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/ikea-store-against-a-blue-sky.jpg",
+            "type": "image/jpeg",
+            "length": 9833
+        }
+    ],
+    "author": "Tim Brookes"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064911507f11c9",
+    "crawlTimeMsec": "1769188574040",
+    "timestampUsec": "1769188574040521",
+    "published": 1769184900,
+    "title": "You probably don't need a NAS: Why a DAS is better for most people",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/not-sold-on-a-nas-get-a-das-instead/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/not-sold-on-a-nas-get-a-das-instead/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC components",
+        "storage",
+        "SSD",
+        "PC Optimization"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>NASes are not for everyone. They can be expensive, and oftentimes, they provide features that, frankly, a lot of people don't need. A NAS is what you get when you want your own cloud storage of sorts, but if you don't need the cloud part, a DAS can be a better option.</p>"
+    },
+    "guid": "https://www.howtogeek.com/not-sold-on-a-nas-get-a-das-instead/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a7304630-2.jpg",
+            "type": "image/jpeg",
+            "length": 557
+        }
+    ],
+    "author": "Arol Wright"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064911507f11d1",
+    "crawlTimeMsec": "1769188574040",
+    "timestampUsec": "1769188574040529",
+    "published": 1769185800,
+    "title": "6 wacky things we had to do on old PCs",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/6-wacky-things-we-had-to-do-on-old-pcs/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/6-wacky-things-we-had-to-do-on-old-pcs/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Desktops",
+        "Desktop",
+        "Retro Gaming",
+        "PC Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>I've been using computers since before they had hard drives, and over the last thirty-odd years things have advanced at a breakneck speed. These days almost everything works as intended, but that has been very far from the reality for most of my personal computing history. Here's some of the weird stuff I used to do with my computers.</p>"
+    },
+    "guid": "https://www.howtogeek.com/6-wacky-things-we-had-to-do-on-old-pcs/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/shutterstock_1174882978.jpg",
+            "type": "image/jpeg",
+            "length": 2062
+        }
+    ],
+    "author": "Sydney Butler"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064911507f11d2",
+    "crawlTimeMsec": "1769188574040",
+    "timestampUsec": "1769188574040530",
+    "published": 1769185800,
+    "title": "How to prepare for the next big mobile outage",
+    "canonical": [
+        {
+            "href": "https://www.howtogeek.com/how-to-prepare-for-the-next-big-mobile-outage/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.howtogeek.com/how-to-prepare-for-the-next-big-mobile-outage/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cellular Carriers",
+        "Verizon",
+        "SIM Card",
+        "Starlink"
+    ],
+    "origin": {
+        "streamId": "feed/24",
+        "htmlUrl": "https://www.howtogeek.com/",
+        "title": "How-To Geek",
+        "feedUrl": "https://www.howtogeek.com/feed/"
+    },
+    "content": {
+        "content": "<p>Verizon recently suffered a significant outage that left millions across the US without calls, texts, or internet for an entire day. This was a huge hit, restricting friends’ and families’ ability to communicate and forcing some businesses to shut down for the day. What can you do to protect yourself from the next time a mobile network goes down?</p>"
+    },
+    "guid": "https://www.howtogeek.com/how-to-prepare-for-the-next-big-mobile-outage/",
+    "enclosure": [
+        {
+            "href": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/smartphone-illustration-with-red-warning-symbols-indicating-connection-failure-and-network-outage.png",
+            "type": "image/jpeg",
+            "length": 288
+        }
+    ],
+    "author": "Bertel King"
+}
+]}

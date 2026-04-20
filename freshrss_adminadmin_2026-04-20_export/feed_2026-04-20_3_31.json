@@ -1,0 +1,1734 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/31",
+    "title": "List of Общая по всем разделам articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064fcabce221c9",
+    "crawlTimeMsec": "1776582031188",
+    "timestampUsec": "1776582031188425",
+    "published": 1776607260,
+    "title": "[Обновлено] Своя игра (апрель 2026г.) [2026, Интеллектуальное шоу, WEB-DL 1080p] + 19.04.2026 [4.74 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6840844"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6840844",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Видео Юмор] Интеллектуальные игры и викторины"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6840844",
+    "author": "Дед Мороз"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcabce221cb",
+    "crawlTimeMsec": "1776582031188",
+    "timestampUsec": "1776582031188427",
+    "published": 1776607140,
+    "title": "WWE WrestleMania 42 - Saturday [2026, Рестлинг, WEB-DL/1080p/60fps, MP4/H.264] [14.48 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847473"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847473",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Professional Wrestling"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847473",
+    "author": "Romski"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcabce221cd",
+    "crawlTimeMsec": "1776582031188",
+    "timestampUsec": "1776582031188429",
+    "published": 1776604680,
+    "title": "[Обновлено] Кубок Испании 2025-2026 / Copa del Rey / Финал / Атлетико М (Мадрид) - Реал Сосьедад (Сан-Себастьян) / Club Atletico de Madrid - Real Sociedad / Матч! ТВ [18.04.2026, Футбол, WEB-DL/1080p/50fps, MKV/H.264, RUS/INT] + превью и награждение [14.23 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847475"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847475",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Испания"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847475",
+    "author": "hereisit"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcbc94b0df4",
+    "crawlTimeMsec": "1776586534358",
+    "timestampUsec": "1776586534358516",
+    "published": 1776586500,
+    "title": "[Обновлено] Рейнольдс Аластер (Аудиокниги)",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847518"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847518",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Авторы"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847518",
+    "author": "vv13"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcbc94b0dfc",
+    "crawlTimeMsec": "1776586534358",
+    "timestampUsec": "1776586534358524",
+    "published": 1776607080,
+    "title": "WWE WrestleMania 42 - Saturday [2026, Рестлинг, WEBRip/720p/60fps, MP4/H.264] [4.83 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847523"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847523",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Professional Wrestling"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847523",
+    "author": "Romski"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fccd5801f7d",
+    "crawlTimeMsec": "1776591034130",
+    "timestampUsec": "1776591034130301",
+    "published": 1776585180,
+    "title": "[Обновлено] (Love Metal, Gothic Rock) [CD] [WEB] HIM - Discography (245 releases) | Дискография (245 релизов) - 1996-2025, FLAC (tracks+.cue), (tracks), lossless [54.3 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=4262161"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=4262161",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gothic Rock & Dark Folk (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/4262161",
+    "author": "HIM PROJECT"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fceee1a0a2c",
+    "crawlTimeMsec": "1776600036805",
+    "timestampUsec": "1776600036805164",
+    "published": 1776634560,
+    "title": "[Обновлено] WSBK Superbike (WorldSBK), Supersport (WorldSSP) 2026 Этап 03 Netherlands (Assen) Полный уикэнд [1080p, 25fps, H.264, WEB-DL, Dorna, ENG] [20.64 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847606"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847606",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Мотоспорт"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847606",
+    "author": "everloving"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b48c",
+    "crawlTimeMsec": "1776604534649",
+    "timestampUsec": "1776604534649996",
+    "published": 1776598080,
+    "title": "(Alternative Rock / Indie Rock / Roots Rock) [WEB] Blue Water Highway - Дискография - 2015-2026, (12 CD), FLAC (tracks), lossless [2.59 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847633"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847633",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Alternative & Nu-metal (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847633",
+    "author": "TIDAL core"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b48d",
+    "crawlTimeMsec": "1776604534649",
+    "timestampUsec": "1776604534649997",
+    "published": 1776598140,
+    "title": "[Обновлено] [DL] Royal Revolt Survivors [P] [RUS + ENG + 9 / ENG] (2026, Arcade) (1.0.2) [Portable] [2.56 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6831667"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6831667",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Аркады"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6831667",
+    "author": "EsseCrew"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b48e",
+    "crawlTimeMsec": "1776604534649",
+    "timestampUsec": "1776604534649998",
+    "published": 1776598200,
+    "title": "NHL 25/26, SC. East / 1st Round - Game 1 / Ottawa Senators @ Carolina Hurricanes [18.04.2026, Хоккей, WEB-DL HD/720p/60fps, MKV/H.264, EN, SN] [5.76 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847634"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847634",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "НХЛ (с 2013)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847634",
+    "author": "baggo17879"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b48f",
+    "crawlTimeMsec": "1776604534649",
+    "timestampUsec": "1776604534649999",
+    "published": 1776598200,
+    "title": "(Pop/Electronic/Synth-Pop/Disco/Soul/R'n'B) 5 (Five) Star - Collection: 14 Albums, Box Set &amp; 20 Singles (1985-2019), MP3 (tracks), 320 kbps [5.64 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847635"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847635",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Disco",
+        "Italo-Disco",
+        "Euro-Disco",
+        "Hi-NRG (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847635",
+    "author": "benson26"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b490",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650000",
+    "published": 1776598260,
+    "title": "(Brutal Death Metal) [CD] Gathering Darkness - Beholders of the Pain Planet - 2005, FLAC (image+.cue), lossless [262.6 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847636"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847636",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Grind",
+        "Brutal Death (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847636",
+    "author": "Coroner1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b491",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650001",
+    "published": 1776598380,
+    "title": "Дяченко Марина, Дяченко Сергей - Стократ [Андрей Сидоров, 2026, 96 kbps, MP3] [471.9 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847637"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847637",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Аудио] Российская фантастика",
+        "фэнтези",
+        "мистика",
+        "ужасы",
+        "фанфики"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847637",
+    "author": "Brocken"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b492",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650002",
+    "published": 1776598440,
+    "title": "[Обновлено] FIA European Rally Championship (ERC) 2026 / Этап 1 / viju+ Sport HD [2026, Автоспорт, 1080p/50fps, IPTVRip, MP4/H.264, RU] [15.39 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847272"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847272",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Автоспорт"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847272",
+    "author": "FOX1725"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b493",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650003",
+    "published": 1776598500,
+    "title": "Жил-был полицейский / Il etait une fois un flic / Il était une fois un flic / Flic Story (Жорж Лотнер / Georges Lautner) [1972, Франция, Италия, Комедия, криминал, BDRemux 1080p] Dub (Мосфильм) + MVO (Фильмэкспорт) + MVO (Cinema Prestige) + MVO (Рег ТВ) + Sub Rus, Eng, Fra + Original Fra [24.51 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847638"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847638",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "HD Video"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847638",
+    "author": "sss777sss"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b494",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650004",
+    "published": 1776598560,
+    "title": "Череп / The Skull (Фредди Фрэнсис / Freddie Francis) [1965, Великобритания, триллер, ужасы, BDRemux 1080p] MVO + 2x VO + Sub Rus, Eng + Original Eng [21.98 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847639"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847639",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "HD Video"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847639",
+    "author": "tеko"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b495",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650005",
+    "published": 1776598680,
+    "title": "(Jazz fusion, Flamenco) [LP] [16/44.1] John McLaughlin, Al Di Meola, Paco De Lucía - Passion, Grace &amp; Fire (1983), (Phonogram Int. 811 334 - 2, W. Germany), FLAC (tracks) [173 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847640"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847640",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Джаз и блюз (оцифровки)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847640",
+    "author": "dimoha.k68"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b497",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650007",
+    "published": 1776598980,
+    "title": "[Обновлено] Корецкий Данил Аркадьевич - разные издания [1989-2012, DjVu, RUS] [125.5 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6584805"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6584805",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Детектив",
+        "боевик"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6584805",
+    "author": "thirteeпth"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b498",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650008",
+    "published": 1776599100,
+    "title": "Матисов Павел - Хозяин Оков. Книга VII [Александр Степной, 2026, 96 kbps, MP3] [332.2 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847641"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847641",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Аудио] Российская фантастика",
+        "фэнтези",
+        "мистика",
+        "ужасы",
+        "фанфики"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847641",
+    "author": "Brocken"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b499",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650009",
+    "published": 1776599220,
+    "title": "Двое меня / Mind on kaks / Two of Me (Раул Эско / Raul Esko, Ромет Эско / Romet Esko) [2024, Эстония, комедия, WEB-DL 1080p] VO + Sub Rus, Eng, Est + Original Est [6.05 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847642"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847642",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "HD Video"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847642",
+    "author": "Glowamy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b49a",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650010",
+    "published": 1776599220,
+    "title": "(Classical) [LP] [24/48] Паата Бурчуладзе (бас) - Сцены и арии из опер: Мусоргский, Verdi (Английский концертный оркестр, дир. Эдвард Даунс / Edward Downes) - 1991, FLAC (image+.cue) [491.1 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847643"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847643",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Классика и классика в современной обработке (оцифровки)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847643",
+    "author": "Ansent"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b49b",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650011",
+    "published": 1776599460,
+    "title": "[Обновлено] (Drum &amp; Bass) [WEB] Label: Neksus Sound (79 релизов), 2020-2026, FLAC (tracks), lossless [5.05 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6245157"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6245157",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Лейбл-паки (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6245157",
+    "author": "Swhite61"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b49c",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650012",
+    "published": 1776599520,
+    "title": "Жуткие создания / Беспомощные / The Uncanny (Дени Эру / Denis Héroux) [1977, США, Канада, ужасы, триллер, BDRemux 1080p] VO + Sub Eng + Original Eng [18.37 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847645"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847645",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "HD Video"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847645",
+    "author": "tеko"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b49d",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650013",
+    "published": 1776599760,
+    "title": "Дартс Павел - Крысиная башня 4. Крысиные гонки. Часть 1 [Проводник, 2026, 96 kbps, MP3] [465.6 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847646"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847646",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Аудио] Российская фантастика",
+        "фэнтези",
+        "мистика",
+        "ужасы",
+        "фанфики"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847646",
+    "author": "Brocken"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a0",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650016",
+    "published": 1776600060,
+    "title": "NHL 25/26, SC. East / 1st Round - Game 1 / Philadelphia Flyers @ Pittsburgh Penguins [18.04.2026, Хоккей, WEB-DL HD/720p/60fps, MKV/H.264, EN, SN-PIT] [6.24 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847647"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847647",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "НХЛ (с 2013)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847647",
+    "author": "baggo17879"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a1",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650017",
+    "published": 1776600060,
+    "title": "Вордс А. - Как говорить по-английски в повседневной жизни. Практические фразы и диалоги [2025, EPUB, RUS] [1 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847648"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847648",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Английский язык (для взрослых)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847648",
+    "author": "B6 7BB"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a3",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650019",
+    "published": 1776600360,
+    "title": "[Обновлено] Третий лишний / Тед / Ted / Сезон: 2 / Серии: 1-8 из 8 (Сет Макфарлейн) [2026, США, Комедия, HEVC, SDR, WEB-DL 2160p, 4k] 6 x MVO (HDRezka Studio, Red Head Sound, LostFilm, TVShows, LE-Production, Dragon Money Studio) + Original + Sub (Rus, Eng) [31.02 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847248"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847248",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Зарубежные сериалы (HD Video)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847248",
+    "author": "mazerator"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a4",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650020",
+    "published": 1776600420,
+    "title": "[Обновлено] (Heavy Metal) Telomyras - Discography (2023 - 2026), 4 releases, MP3, 320 kbps [110.8 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6840748"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6840748",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Heavy",
+        "Power",
+        "Progressive (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6840748",
+    "author": "vitalian12"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a5",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650021",
+    "published": 1776600480,
+    "title": "(Pop Rock, Soul, Symphonic Rock) [CD] VA - The Jack Nitzsche Story (Hearing Is Believing 1962-1979) - 2005, FLAC (tracks+.cue), lossless [447.6 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847649"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847649",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Сборники зарубежного рока (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847649",
+    "author": "sir.pere"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fcffa31b4a6",
+    "crawlTimeMsec": "1776604534650",
+    "timestampUsec": "1776604534650022",
+    "published": 1776600540,
+    "title": "Повседневная жизнь в Синьчуане / Xin Chuan Ri Chang / New Life Begins / Сезон: 1 / Серии: 1-40 из 40 (Чжао Ци Чэнь) [2022, Китай, Приключения, исторический, мелодрама, детектив, WEB-DL 1080p] MVO + Original [58.92 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847650"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847650",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Азиатские сериалы"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847650",
+    "author": "Edik1d1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef3d",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973565",
+    "published": 1776600600,
+    "title": "Путь меча среди снегов / Путь снежного меча / Xue Zhong Han Dao Xing / Sword Snow Stride / Сезон: 1 / Серии: 1-38 из 38 (Сун Сяо Фэй) [2021-2022, Китай, Исторический, приключения, боевые искусства, драма, WEB-DL 1080p] MVO + Original [54.14 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847651"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847651",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Азиатские сериалы"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847651",
+    "author": "Edik1d1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef3e",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973566",
+    "published": 1776600840,
+    "title": "Вордс А. - Бытовой английский. Диалоги и фразы для повседневных дел [2025, EPUB, RUS] [1 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847652"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847652",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Английский язык (для взрослых)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847652",
+    "author": "B6 7BB"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef3f",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973567",
+    "published": 1776600840,
+    "title": "The Cult - Pure Cult : Anthology 1984-1995 [2001, Rock, Glam, Gothic Rock, DVDRip] [2.23 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847653"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847653",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Rock (Видео)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847653",
+    "author": "J.Marf"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef40",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973568",
+    "published": 1776600960,
+    "title": "[Обновлено] Уилл Трент / Will Trent / Сезон: 4 / Серии: 1-15 из ? (Ховард Дойч, Оливер Бокельберг, Патрисия Кардосо) [2026, США, драма, криминал, WEB-DL 1080p] DVO (Pazl Voice) + 3 x MVO (LE-Production, RuDub, Dragon Money Studio) + Original + Sub (Rus, Eng) [49.85 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6804361"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6804361",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Новинки и сериалы в стадии показа (HD Video)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6804361",
+    "author": "mazerator"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef41",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973569",
+    "published": 1776601020,
+    "title": "IQ - Live From London: Camden Palace 1985 [2026, Prog Rock, Blu-ray, 1080i] [18.83 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847654"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847654",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Официальные апскейлы (Blu-ray",
+        "HDTV",
+        "WEB-DL)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847654",
+    "author": "oleg-1937"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef42",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973570",
+    "published": 1776601260,
+    "title": "[DL] I Am Jesus Christ [P] [RUS + ENG + 11 / ENG] (2026, Adventure) (1.2.2) [Portable] [12.22 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6839670"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6839670",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Приключения и квесты"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6839670",
+    "author": "EsseCrew"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef43",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973571",
+    "published": 1776601380,
+    "title": "[Обновлено] (Score) [WEB] Мой ангел-хранитель / My Sister's Keeper (Original Soundtrack) - (by Aaron Zigman) (2009), FLAC (tracks), lossless [159.8 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847655"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847655",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Саундтреки к зарубежным фильмам (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847655",
+    "author": "roaddrummer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef44",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973572",
+    "published": 1776601380,
+    "title": "(Progressive Rock) [WEB] Shallow Willow - Earendel - 2026, FLAC (tracks), lossless [181.7 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847656"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847656",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Progressive & Art-Rock (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847656",
+    "author": "Condrаt"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef45",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973573",
+    "published": 1776601380,
+    "title": "(Indie Rock) Go Four 3 - Go Four 3 - 1985/2020, MP3, 320 kbps [55.2 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847657"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847657",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Indie Rock",
+        "Indie Pop",
+        "Dream Pop",
+        "Brit-Pop (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847657",
+    "author": "mp3@320"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef46",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973574",
+    "published": 1776601440,
+    "title": "Milena Angioni, Ines Hälbig - Einfach gut!: Deutsch für die Integration A1, A2, B1 / Просто хорошо! Немецкий для интеграции A1, A2, B1 [2022, PDF, MP3] [2.13 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847659"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847659",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Немецкий язык"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847659",
+    "author": "ndiuf3"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef47",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973575",
+    "published": 1776601440,
+    "title": "(Pop Rock, Baroque Pop) VA - The Jack Nitzsche Story Volume 2 Hard Workin' Man - 2006, MP3, 320 kbps [203.6 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847660"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847660",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Сборники зарубежного рока (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847660",
+    "author": "sir.pere"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef49",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973577",
+    "published": 1776601920,
+    "title": "(Classic Rock/Blues) Blackwater Baptized - Sound Of Your Soul - 2026, MP3, 320 kbps [91.8 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847661"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847661",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Classic Rock & Hard Rock (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847661",
+    "author": "Dan Everon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef4a",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973578",
+    "published": 1776601920,
+    "title": "[Обновлено] [Журнал] Spotlight Verlag / Zeit Sprachen - Deutsch Perfekt / Plus / Audio / Deins! / Im Unterricht [2005-2026, PDF, MP3, DEU] [9.14 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6797289"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6797289",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Немецкий язык"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6797289",
+    "author": "Shmuma"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef4c",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973580",
+    "published": 1776602220,
+    "title": "Ха Ян - Галактика без тормозов. Бог из машины [Дмитрий Ладыченко, 2026, 96 kbps, MP3] [263.7 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847662"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847662",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Аудио] Российская фантастика",
+        "фэнтези",
+        "мистика",
+        "ужасы",
+        "фанфики"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847662",
+    "author": "Brocken"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef4d",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973581",
+    "published": 1776602280,
+    "title": "Саундтрек к государственному перевороту / Soundtrack to a Coup d'Etat (Йохан Гримонпре / Johan Grimonprez) [2024, документальный, история, музыка, BDRip 1080p] [24.24 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847663"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847663",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Документальные (HD Video)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847663",
+    "author": "Glowamy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef4e",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973582",
+    "published": 1776602280,
+    "title": "(Jazz, Swing) [WEB] VA - Stunt Records Compilation 2004, Vol. 12 - 2004, FLAC (tracks), lossless [440.1 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847664"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847664",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Сборники зарубежного джаза (lossless)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847664",
+    "author": "mid1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef4f",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973583",
+    "published": 1776602580,
+    "title": "[Обновлено] Легенды кино (Алексей Кременецкий) (186) [2015-2026, Документальный цикл, биография, искусство, кинематограф, WEBRip-AVC] [151.48 GB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=5300729"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=5300729",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "[Док] Кинематограф и мультипликация"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/5300729",
+    "author": "dean10"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef50",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973584",
+    "published": 1776603000,
+    "title": "(Rock &amp; Roll, Rhythm &amp; Blues) VA - The Jack Nitzsche Story Volume 3 Night Walker - 2014, MP3, 320 kbps [192.8 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847666"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847666",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Сборники зарубежного рока (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847666",
+    "author": "sir.pere"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef51",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973585",
+    "published": 1776603300,
+    "title": "[Обновлено] Кое-что для птиц / Something for the Birds (1952, США, комедия) - организация перевода у Мики Бондарика",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6845500"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6845500",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Подфорум для общих сборов"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6845500",
+    "author": "Магда"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fd1065fef52",
+    "crawlTimeMsec": "1776609033973",
+    "timestampUsec": "1776609033973586",
+    "published": 1776603360,
+    "title": "(Pop) Ashley Jane Welberry - Reborn - 2011, MP3, 320 kbps [31.6 MB]",
+    "canonical": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847667"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rutracker.org/forum/viewtopic.php?t=6847667",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Зарубежная поп-музыка (lossy)"
+    ],
+    "origin": {
+        "streamId": "feed/31",
+        "htmlUrl": "http://rutracker.org/forum/",
+        "title": "Общая по всем разделам",
+        "feedUrl": "https://feed.rutracker.cc/atom/f/0.atom"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "tag:rto.feed,2026-04-19:/t/6847667",
+    "author": "mp3@320"
+}
+]}

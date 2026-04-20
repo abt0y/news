@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/21",
+    "title": "List of Hacker News articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f8d8f2f92f7",
+    "crawlTimeMsec": "1776319271506",
+    "timestampUsec": "1776319271506679",
+    "published": 1776252540,
+    "title": "Show HN: SmallDocs – Markdown without the frustrations",
+    "canonical": [
+        {
+            "href": "https://news.ycombinator.com/item?id=47777633"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.ycombinator.com/item?id=47777633",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47777633\">Comments</a>"
+    },
+    "guid": "https://news.ycombinator.com/item?id=47777633"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f93d99142de",
+    "crawlTimeMsec": "1776346289226",
+    "timestampUsec": "1776346289226462",
+    "published": 1776345420,
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "canonical": [
+        {
+            "href": "https://blog.cloudflare.com/ai-platform/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blog.cloudflare.com/ai-platform/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47792538\">Comments</a>"
+    },
+    "guid": "https://blog.cloudflare.com/ai-platform/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f94e4299d72",
+    "crawlTimeMsec": "1776350761950",
+    "timestampUsec": "1776350761950578",
+    "published": 1776346560,
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "canonical": [
+        {
+            "href": "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47792764\">Comments</a>"
+    },
+    "guid": "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f95bb9bfa97",
+    "crawlTimeMsec": "1776354376546",
+    "timestampUsec": "1776354376546967",
+    "published": 1776349380,
+    "title": "Claude Opus 4.7",
+    "canonical": [
+        {
+            "href": "https://www.anthropic.com/news/claude-opus-4-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.anthropic.com/news/claude-opus-4-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47793411\">Comments</a>"
+    },
+    "guid": "https://www.anthropic.com/news/claude-opus-4-7"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f97d1bdb58d",
+    "crawlTimeMsec": "1776363337790",
+    "timestampUsec": "1776363337790861",
+    "published": 1776359520,
+    "title": "Codex for almost everything",
+    "canonical": [
+        {
+            "href": "https://openai.com/index/codex-for-almost-everything/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://openai.com/index/codex-for-almost-everything/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>"
+    },
+    "guid": "https://openai.com/index/codex-for-almost-everything/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f99ea461f26",
+    "crawlTimeMsec": "1776372339318",
+    "timestampUsec": "1776372339318566",
+    "published": 1776364740,
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "canonical": [
+        {
+            "href": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>"
+    },
+    "guid": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9af6d357bc",
+    "crawlTimeMsec": "1776376844867",
+    "timestampUsec": "1776376844867516",
+    "published": 1776367080,
+    "title": "Playdate’s handheld changed how Duke University teaches game design",
+    "canonical": [
+        {
+            "href": "https://news.play.date/news/duke-playdate-education/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://news.play.date/news/duke-playdate-education/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47798176\">Comments</a>"
+    },
+    "guid": "https://news.play.date/news/duke-playdate-education/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9af6d357bf",
+    "crawlTimeMsec": "1776376844867",
+    "timestampUsec": "1776376844867519",
+    "published": 1776367920,
+    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+    "canonical": [
+        {
+            "href": "https://clojure.org/about/documentary"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://clojure.org/about/documentary",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>"
+    },
+    "guid": "https://clojure.org/about/documentary"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9af6d357e3",
+    "crawlTimeMsec": "1776376844867",
+    "timestampUsec": "1776376844867555",
+    "published": 1776374040,
+    "title": "A Better R Programming Experience Thanks to Tree-sitter",
+    "canonical": [
+        {
+            "href": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47799573\">Comments</a>"
+    },
+    "guid": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9c031af2ff",
+    "crawlTimeMsec": "1776381345854",
+    "timestampUsec": "1776381345854207",
+    "published": 1776376560,
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "canonical": [
+        {
+            "href": "https://github.com/gainsec/autoprober"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/gainsec/autoprober",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>"
+    },
+    "guid": "https://github.com/gainsec/autoprober"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9de54acef7",
+    "crawlTimeMsec": "1776389435608",
+    "timestampUsec": "1776389435608823",
+    "published": 1776208800,
+    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "canonical": [
+        {
+            "href": "https://cadquery.github.io/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://cadquery.github.io/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>"
+    },
+    "guid": "https://cadquery.github.io/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9de54acf03",
+    "crawlTimeMsec": "1776389435608",
+    "timestampUsec": "1776389435608835",
+    "published": 1776386220,
+    "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+    "canonical": [
+        {
+            "href": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47801255\">Comments</a>"
+    },
+    "guid": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b848",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640328",
+    "published": 1776064320,
+    "title": "A Git helper tool that breaks large merges into parallelizable tasks",
+    "canonical": [
+        {
+            "href": "https://github.com/mwallner/mergetopus"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/mwallner/mergetopus",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47748733\">Comments</a>"
+    },
+    "guid": "https://github.com/mwallner/mergetopus"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b849",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640329",
+    "published": 1776080340,
+    "title": "ReBot-DevArm: open-source Robotic Arm",
+    "canonical": [
+        {
+            "href": "https://github.com/Seeed-Projects/reBot-DevArm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/Seeed-Projects/reBot-DevArm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47750600\">Comments</a>"
+    },
+    "guid": "https://github.com/Seeed-Projects/reBot-DevArm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b852",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640338",
+    "published": 1776394380,
+    "title": "Substrate AI Is Hiring Harness Engineers",
+    "canonical": [
+        {
+            "href": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47802016\">Comments</a>"
+    },
+    "guid": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa109cde191",
+    "crawlTimeMsec": "1776402933080",
+    "timestampUsec": "1776402933080465",
+    "published": 1776101100,
+    "title": "A Python Interpreter Written in Python",
+    "canonical": [
+        {
+            "href": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47755261\">Comments</a>"
+    },
+    "guid": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f18",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564568",
+    "published": 1776123900,
+    "title": "Reflections on 30 years of HPC programming",
+    "canonical": [
+        {
+            "href": "https://chapel-lang.org/blog/posts/30years/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://chapel-lang.org/blog/posts/30years/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47759436\">Comments</a>"
+    },
+    "guid": "https://chapel-lang.org/blog/posts/30years/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f1c",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564572",
+    "published": 1776398100,
+    "title": "Human Accelerated Region 1",
+    "canonical": [
+        {
+            "href": "https://en.wikipedia.org/wiki/Human_accelerated_region_1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47802312\">Comments</a>"
+    },
+    "guid": "https://en.wikipedia.org/wiki/Human_accelerated_region_1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa4314ed69e",
+    "crawlTimeMsec": "1776416480745",
+    "timestampUsec": "1776416480745118",
+    "published": 1776410400,
+    "title": "FIM – Linux framebuffer image viewer",
+    "canonical": [
+        {
+            "href": "https://www.nongnu.org/fbi-improved/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nongnu.org/fbi-improved/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47803323\">Comments</a>"
+    },
+    "guid": "https://www.nongnu.org/fbi-improved/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351242",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573122",
+    "published": 1776414720,
+    "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+    "canonical": [
+        {
+            "href": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47803745\">Comments</a>"
+    },
+    "guid": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c35124b",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573131",
+    "published": 1776415860,
+    "title": "Ada, its design, and the language that built the languages",
+    "canonical": [
+        {
+            "href": "https://www.iqiipi.com/the-quiet-colossus.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.iqiipi.com/the-quiet-colossus.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47803844\">Comments</a>"
+    },
+    "guid": "https://www.iqiipi.com/the-quiet-colossus.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb42",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048194",
+    "published": 1776083280,
+    "title": "中文 Literacy Speedrun II: Character Cyclotron",
+    "canonical": [
+        {
+            "href": "https://blog.kevinzwu.com/character-cyclotron/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blog.kevinzwu.com/character-cyclotron/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47751011\">Comments</a>"
+    },
+    "guid": "https://blog.kevinzwu.com/character-cyclotron/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa71eafee5e",
+    "crawlTimeMsec": "1776429053242",
+    "timestampUsec": "1776429053242974",
+    "published": 1776098160,
+    "title": "Average is all you need",
+    "canonical": [
+        {
+            "href": "https://rawquery.dev/blog/average-is-all-you-need"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://rawquery.dev/blog/average-is-all-you-need",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47754603\">Comments</a>"
+    },
+    "guid": "https://rawquery.dev/blog/average-is-all-you-need"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fef97",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051415",
+    "published": 1776360960,
+    "title": "Show HN: Stage – Putting humans back in control of code review",
+    "canonical": [
+        {
+            "href": "https://stagereview.app/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://stagereview.app/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47796818\">Comments</a>"
+    },
+    "guid": "https://stagereview.app/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fefac",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051436",
+    "published": 1776427260,
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "canonical": [
+        {
+            "href": "https://hex.ooo/library/last_question.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hex.ooo/library/last_question.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47804965\">Comments</a>"
+    },
+    "guid": "https://hex.ooo/library/last_question.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d2c",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466476",
+    "published": 1776087660,
+    "title": "The Utopia of the Family Computer",
+    "canonical": [
+        {
+            "href": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47751830\">Comments</a>"
+    },
+    "guid": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d2d",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466477",
+    "published": 1776166500,
+    "title": "The missing catalogue: why finding books in translation is still so hard",
+    "canonical": [
+        {
+            "href": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47764240\">Comments</a>"
+    },
+    "guid": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/04/13/the-missing-catalogue-why-finding-books-in-translation-is-still-so-hard/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d32",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466482",
+    "published": 1776417480,
+    "title": "Teddy Roosevelt and Abraham Lincoln in the same photo (2010)",
+    "canonical": [
+        {
+            "href": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47803992\">Comments</a>"
+    },
+    "guid": "https://prologue.blogs.archives.gov/2010/11/09/teddy-roosevelt-and-abraham-lincoln-in-the-same-photo/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d69",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466537",
+    "published": 1776434100,
+    "title": "Scan your website to see how ready it is for AI agents",
+    "canonical": [
+        {
+            "href": "https://isitagentready.com/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://isitagentready.com/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47805998\">Comments</a>"
+    },
+    "guid": "https://isitagentready.com/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d7c",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466556",
+    "published": 1776434940,
+    "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
+    "canonical": [
+        {
+            "href": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806116\">Comments</a>"
+    },
+    "guid": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d7e",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466558",
+    "published": 1776435900,
+    "title": "Ban the sale of precise geolocation",
+    "canonical": [
+        {
+            "href": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806304\">Comments</a>"
+    },
+    "guid": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d80",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466560",
+    "published": 1776436140,
+    "title": "Healthchecks.io now uses self-hosted object storage",
+    "canonical": [
+        {
+            "href": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806348\">Comments</a>"
+    },
+    "guid": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd20",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941920",
+    "published": 1776258780,
+    "title": "Designing the Transport Typeface",
+    "canonical": [
+        {
+            "href": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47778524\">Comments</a>"
+    },
+    "guid": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd38",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941944",
+    "published": 1776436320,
+    "title": "IETF draft-meow-mrrp-00",
+    "canonical": [
+        {
+            "href": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806379\">Comments</a>"
+    },
+    "guid": "https://www.ietf.org/archive/id/draft-meow-mrrp-00.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd3b",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941947",
+    "published": 1776436620,
+    "title": "Experiment with ICEYE Open Data",
+    "canonical": [
+        {
+            "href": "https://www.iceye.com/open-data-initiative"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.iceye.com/open-data-initiative",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806440\">Comments</a>"
+    },
+    "guid": "https://www.iceye.com/open-data-initiative"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd3e",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941950",
+    "published": 1776436860,
+    "title": "Middle schooler finds coin from Troy in Berlin",
+    "canonical": [
+        {
+            "href": "https://www.thehistoryblog.com/archives/75848"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.thehistoryblog.com/archives/75848",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806484\">Comments</a>"
+    },
+    "guid": "https://www.thehistoryblog.com/archives/75848"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd57",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941975",
+    "published": 1776438240,
+    "title": "Claude Design",
+    "canonical": [
+        {
+            "href": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806725\">Comments</a>"
+    },
+    "guid": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd5c",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941980",
+    "published": 1776438540,
+    "title": "NIST gives up enriching most CVEs",
+    "canonical": [
+        {
+            "href": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806777\">Comments</a>"
+    },
+    "guid": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd63",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941987",
+    "published": 1776439740,
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "canonical": [
+        {
+            "href": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47807006\">Comments</a>"
+    },
+    "guid": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c261b",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656411",
+    "published": 1776389880,
+    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+    "canonical": [
+        {
+            "href": "https://github.com/dacracot/Klondike3-Simulator"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/dacracot/Klondike3-Simulator",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47801639\">Comments</a>"
+    },
+    "guid": "https://github.com/dacracot/Klondike3-Simulator"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2629",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656425",
+    "published": 1776439200,
+    "title": "The Gregorio project – GPL tools for typesetting Gregorian chant",
+    "canonical": [
+        {
+            "href": "https://gregorio-project.github.io/index.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://gregorio-project.github.io/index.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47806899\">Comments</a>"
+    },
+    "guid": "https://gregorio-project.github.io/index.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c263f",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656447",
+    "published": 1776440820,
+    "title": "NASA Force",
+    "canonical": [
+        {
+            "href": "https://nasaforce.gov/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://nasaforce.gov/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47807209\">Comments</a>"
+    },
+    "guid": "https://nasaforce.gov/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2661",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656481",
+    "published": 1776442980,
+    "title": "Hyperscalers have already outspent most famous US megaprojects",
+    "canonical": [
+        {
+            "href": "https://twitter.com/finmoorhouse/status/2044933442236776794"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47807619\">Comments</a>"
+    },
+    "guid": "https://twitter.com/finmoorhouse/status/2044933442236776794"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2676",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656502",
+    "published": 1776445260,
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "canonical": [
+        {
+            "href": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47808047\">Comments</a>"
+    },
+    "guid": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22ead",
+    "crawlTimeMsec": "1776451534859",
+    "timestampUsec": "1776451534859949",
+    "published": 1776117060,
+    "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
+    "canonical": [
+        {
+            "href": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47758309\">Comments</a>"
+    },
+    "guid": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22eae",
+    "crawlTimeMsec": "1776451534859",
+    "timestampUsec": "1776451534859950",
+    "published": 1776245040,
+    "title": "Connie Converse was a folk-music genius. Then she vanished",
+    "canonical": [
+        {
+            "href": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47776663\">Comments</a>"
+    },
+    "guid": "https://www.bbc.com/culture/article/20260413-the-mystery-of-a-missing-folk-music-pioneer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22eb2",
+    "crawlTimeMsec": "1776451534859",
+    "timestampUsec": "1776451534859954",
+    "published": 1776442380,
+    "title": "Detecting DOSBox from Within the Box",
+    "canonical": [
+        {
+            "href": "https://datagirl.xyz/posts/dos_inside_the_box.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://datagirl.xyz/posts/dos_inside_the_box.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47807503\">Comments</a>"
+    },
+    "guid": "https://datagirl.xyz/posts/dos_inside_the_box.html"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22eba",
+    "crawlTimeMsec": "1776451534859",
+    "timestampUsec": "1776451534859962",
+    "published": 1776443880,
+    "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –&gt; password unlock",
+    "canonical": [
+        {
+            "href": "https://github.com/paniclock/paniclock/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/paniclock/paniclock/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47807809\">Comments</a>"
+    },
+    "guid": "https://github.com/paniclock/paniclock/"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22edc",
+    "crawlTimeMsec": "1776451534859",
+    "timestampUsec": "1776451534859996",
+    "published": 1776446280,
+    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+    "canonical": [
+        {
+            "href": "https://github.com/smol-machines/smolvm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://github.com/smol-machines/smolvm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47808268\">Comments</a>"
+    },
+    "guid": "https://github.com/smol-machines/smolvm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fac5ab22ef0",
+    "crawlTimeMsec": "1776451534860",
+    "timestampUsec": "1776451534860016",
+    "published": 1776449100,
+    "title": "NeoGeo AES+: SNK announces reissue of retro console without emulation",
+    "canonical": [
+        {
+            "href": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/21",
+        "htmlUrl": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "feedUrl": "https://news.ycombinator.com/rss"
+    },
+    "content": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=47808770\">Comments</a>"
+    },
+    "guid": "https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html"
+}
+]}

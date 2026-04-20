@@ -1,0 +1,1650 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/11",
+    "title": "List of Nature articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064e64a0b25f3a",
+    "crawlTimeMsec": "1775043960004",
+    "timestampUsec": "1775043960004410",
+    "published": 1775001600,
+    "title": "These advanced solar cells have an antique source: old bullets",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01001-0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01001-0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01001-0\">doi:10.1038/d41586-026-01001-0</a></p>Lead recycled from centuries-old ammunition provides raw materials for perovskite solar cells."
+    },
+    "guid": "doi:10.1038/d41586-026-01001-0"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8343",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256387",
+    "published": 1775001600,
+    "title": "AhR inhibition promotes axon regeneration via a stress–growth switch",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10295-z"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10295-z",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10295-z\">doi:10.1038/s41586-026-10295-z</a></p>AhR functions as a neuronal brake on axon regeneration, integrating environmental sensing, protein homeostasis and metabolic signalling to control the balance between stress adaptation and axonal repair."
+    },
+    "guid": "doi:10.1038/s41586-026-10295-z",
+    "author": "Dalia Halawani; Yiqun Wang; Jiaxi Li; Daniel Halperin; Haofei Ni; Molly Estill; Aarthi Ramakrishnan; Li Shen; Arthur Sefiani; Cédric G. Geoffroy; Roland H. Friedel; Hongyan Zou"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8344",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256388",
+    "published": 1775001600,
+    "title": "Expansion of outer cortical CUX2 neurons requires adaptations for DNA repair",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10290-4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10290-4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10290-4\">doi:10.1038/s41586-026-10290-4</a></p>The transcription factor ATF4 is shown to regulate double-stranded DNA repair within vulnerable CUX2+ upper-layer 2/3 cortical neurons, enabling their survival during development."
+    },
+    "guid": "doi:10.1038/s41586-026-10290-4",
+    "author": "Wenlong Xia; Laura Morcom; Zhaoyang Xu; I-Ling Lu; Qing Wang; Kimberly K. Hoi; Mingming Wei; Keying Zhu; Gregory Jordan; Xiao-Yan Tang; Julio Gonzalez-Maya; Vanesa S. Mattera; Sophia M. Panigrahi; Riki Kawaguchi; Ben Emery; Santos J. Franco; Daniel H. Geschwind; Brian Popko; David H. Rowitch; Stephen P. J. Fancy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8345",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256389",
+    "published": 1775001600,
+    "title": "Evidence of the pair-instability gap from black-hole masses",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10359-0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10359-0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10359-0\">doi:10.1038/s41586-026-10359-0</a></p>LIGO–Virgo–KAGRA’s fourth Gravitational-Wave Transient Catalog shows evidence of a clear pair-instability gap in the distribution of binary black-hole secondary masses but is absent in the larger primary masses."
+    },
+    "guid": "doi:10.1038/s41586-026-10359-0",
+    "author": "Hui Tong; Maya Fishbach; Eric Thrane; Matthew Mould; Thomas A. Callister; Amanda M. Farah; Nir Guttman; Sharan Banagiri; Daniel Beltran-Martinez; Ben Farr; Shanika Galaudage; Jaxen Godfrey; Jack Heinzel; Marios Kalomenopoulos; Simona J. Miller; Aditya Vijaykumar"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8346",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256390",
+    "published": 1775001600,
+    "title": "Electric dipole moment drives the dynamics of the TNFR1 complex I signalosome",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10304-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10304-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10304-1\">doi:10.1038/s41586-026-10304-1</a></p>Long-range interactions mediated by protein electric dipole moments have a role in driving the assembly and disassembly of super-signalling complex I for promoting NF-κB signalling."
+    },
+    "guid": "doi:10.1038/s41586-026-10304-1",
+    "author": "Jianping Liu; Jing Zhao; Jiayang Gao; Kun Zhao; Yaoyao Han; Jing Yang; Zefei Li; Jianyu Ye; Ziyu Sun; Fengyi Wang; Xinyi Liu; Zekai Li; Siyu Ji; Bo Liu; Cong Liu; Yixiao Zhang; Junying Yuan; James J. Chou"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8347",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256391",
+    "published": 1775001600,
+    "title": "Moiré engineering of Cooper-pair density modulation states",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10325-w"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10325-w",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10325-w\">doi:10.1038/s41586-026-10325-w</a></p>Researchers created a moiré superlattice in Sb2Te3/FeTe bilayers, producing spatially modulated superconducting gaps directly imaged with Josephson scanning tunnelling microscopy and spectroscopy, tunable by replacing Sb2Te3 with Bi2Te3."
+    },
+    "guid": "doi:10.1038/s41586-026-10325-w",
+    "author": "Zihao Wang; Bing Xia; Stephen Paolini; Zi-Jie Yan; Pu Xiao; Jiatao Song; Veer Gowda; Hongtao Rong; Di Xiao; Xiaodong Xu; Weida Wu; Ziqiang Wang; Cui-Zu Chang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8348",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256392",
+    "published": 1775001600,
+    "title": "A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10299-9"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10299-9",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10299-9\">doi:10.1038/s41586-026-10299-9</a></p>N-desethyl-fluornitrazene is a µ-opioid receptor agonist derived from nitazenes that has supramaximal intrinsic efficacy that produces analgesia with minimal adverse effects in rodent models."
+    },
+    "guid": "doi:10.1038/s41586-026-10299-9",
+    "author": "Juan L. Gomez; Emilya N. Ventriglia; Zachary J. Frangos; Agnieszka Sulima; Michael J. Robertson; Michael D. Sacco; Reece C. Budinich; Ilinca M. Giosan; Tongzhen Xie; Oscar Solis; Anna E. Tischer; Jennifer M. Bossert; Kiera E. Caldwell; Hannah Bonbrest; Amelie Essmann; Zelai M. Garçon-Poca; Shinbe Choi; Michael R. Noya; Feonil Limiac; Ali Arce; Grant C. Glatfelter; Margaret Robinson; Li Chen; Angelina A. Mullarkey; Dain R. Brademan; Garrett Enten; William Dunne; César Quiroz; Ingrid Schoenborn; Chae Bin Lee; Rana Rais; Daniel P. Holt; Robert F. Dannals; Lei Shi; Ruth Hüttenhain; Sergi Ferré; Eugene Kiyatkin; Jordi Bonaventura; Yavin Shaham; Venetia Zachariou; Michael H. Baumann; Georgios Skiniotis; Kenner C. Rice; Michael Michaelides"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8349",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256393",
+    "published": 1775001600,
+    "title": "Dopaminergic mechanisms of dynamical social specialization",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10301-4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10301-4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10301-4\">doi:10.1038/s41586-026-10301-4</a></p>Longitudinal tracking of mice reveals that stable, specialized social roles emerge spontaneously within groups during a foraging task, with dopaminergic activity in the ventral tegmental area driving sex-divergent patterns of specialization."
+    },
+    "guid": "doi:10.1038/s41586-026-10301-4",
+    "author": "C. Solié; A. Nicolson; R. Justo; Y. Layadi; B. Morin; C. Batifol; L. M. Reynolds; T. Le Borgne; S. L. Fayad; A. Gulmez; Y. Rodriguez Quevedo; J. Allegret-Vautrot; G. Centene Guglielmi; F. de Chaumont; S. Didienne; N. Debray; J.-P. Hardelin; B. Girard; A. Mourot; J. Naudé; C. Viollet; F. Marti; B. Delord; Ph. Faure"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834a",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256394",
+    "published": 1775001600,
+    "title": "Developmental organization of sensory and sympathetic ganglia",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10313-0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10313-0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10313-0\">doi:10.1038/s41586-026-10313-0</a></p>Findings suggest that neural crest fate bias predominantly emerges within the neural tube, and that only a minor subset of delaminated progenitors retain multipotency to generate both sensory and sympathetic derivatives."
+    },
+    "guid": "doi:10.1038/s41586-026-10313-0",
+    "author": "Keng Ioi Vong; Yanina D. Alvarez; Qingquan Zhang; Jiaming Weng; Geoffroy Noel; Scott T. Barton; Changuk Chung; Robyn Howarth; Naomi Meave; Fiza Jiwani; Sai B. Patarlapalli; Fenyong Yao; Fugui Zhu; Chelsea Barrows; Arzoo Patel; Jian Xiong Wang; Neil C. Chi; Stephen F. Kingsmore; Melanie D. White; Xiaoxu Yang; Joseph G. Gleeson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834b",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256395",
+    "published": 1775001600,
+    "title": "Gene regulatory landscape dissected by single-cell four-omics sequencing",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10322-z"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10322-z",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10322-z\">doi:10.1038/s41586-026-10322-z</a></p>Combining single-cell parallel profiling of genome conformation, histone modifications, chromatin accessibility and gene expression reveals dynamics and intranuclear spatial clustering of epigenome profiles, enabling sophisticated analysis of the regulatory landscape across cell types and tissues."
+    },
+    "guid": "doi:10.1038/s41586-026-10322-z",
+    "author": "Yujie Chen; Zhiyuan Liu; Heming Xu; Jiayu Liu; Mengxuan Wang; Yi Chi; Boyuan Liang; Menghan Liu; Yongli Peng; Hao Ge; Dong Xing"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834c",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256396",
+    "published": 1775001600,
+    "title": "The 1000 Chinese Pangenome empowers medical and population genetics",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10315-y"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10315-y",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10315-y\">doi:10.1038/s41586-026-10315-y</a></p>Development of the pangenome-informed genome assembly (PIGA) workflow enabled the generation of 1,116 diploid genome assemblies (55 de novo and 1,061 pangenome-informed), representing an extensive resource of medically relevant genic variations."
+    },
+    "guid": "doi:10.1038/s41586-026-10315-y",
+    "author": "Yifei Wang; Zhongqu Duan; Dan Chen; Dandan Shi; Yi Ding; Zhibin Wang; Baoqing Li; Zhiyi Wang; Minmin Guo; Wen Yang; Junren Hou; Wenhao Chen; Yazhou Guo; Wenjie Wei; Yujie Cao; Xiwei Sun; Weiyang Bai; Mingdong Lu; Ting Qi; Xian Shen; Jian Yang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834d",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256397",
+    "published": 1775001600,
+    "title": "Entanglement and electronic coherence in attosecond molecular photoionization",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10230-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10230-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10230-2\">doi:10.1038/s41586-026-10230-2</a></p>Dissociative ionization of H2 molecules by the combination of a phase-locked attosecond laser pair and a few-cycle NIR laser shows that ion–photoelectron entanglement influences electronic coherence in H2+, allowing control over the degree of entanglement by varying the delay between the pulses."
+    },
+    "guid": "doi:10.1038/s41586-026-10230-2",
+    "author": "L.-M. Koll; A. J. Suñer-Rubio; T. Witting; R. Y. Bello; A. Palacios; F. Martín; M. J. J. Vrakking"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834e",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256398",
+    "published": 1775001600,
+    "title": "DNA damage burden causes selective CUX2 neuron loss in neuroinflammation",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10310-3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10310-3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10310-3\">doi:10.1038/s41586-026-10310-3</a></p>DNA damage burden and inadequate repair in CUX2+ cortical layer 2/3 excitatory neurons contributes to selective vulnerability in neuroinflammatory injury."
+    },
+    "guid": "doi:10.1038/s41586-026-10310-3",
+    "author": "Laura Morcom; Wenlong Xia; Zhaoyang Xu; Yashika Awasthi; Celine Geywitz; Matthew O. Ellis; Tomas Noli; Amel Zulji; Daniel Yamamoto; Gemma C. Girdler; Li Kai; Keying Zhu; Mingming Wei; Xiao-Yan Tang; Kimberly K. Hoi; Julio Gonzalez-Maya; Greg J. Duncan; Adrien M. Vaquie; Diana Gold Diaz; Riki Kawaguchi; Erdong Liu; Yu Sun; Denny Yang; Gregory D. Jordan; I-Ling Lu; Staffan Holmqvist; Theresa Bartels; Katherine Ridley; Jennifer Ja-Yoon Choi; Santos J. Franco; Eric J. Huang; Ben Emery; Daniel Geschwind; Lucas Schirmer; Gabriel Balmus; Brian Popko; Stephen P. J. Fancy; David H. Rowitch"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb834f",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256399",
+    "published": 1775001600,
+    "title": "These scientists chased a jet to learn more about ‘lean-burn’ contrails",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01052-3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01052-3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01052-3\">doi:10.1038/d41586-026-01052-3</a></p>In-flight experiment suggests lowering soot emissions might not reduce contrail formation — plus, what can be learnt from fakery in science."
+    },
+    "guid": "doi:10.1038/d41586-026-01052-3",
+    "author": "Benjamin Thompson; Shamini Bundell"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e68d3eb8350",
+    "crawlTimeMsec": "1775061999256",
+    "timestampUsec": "1775061999256400",
+    "published": 1775001600,
+    "title": "Structural modifications in strain-engineered bilayer nickelate thin films",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10446-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/s41586-026-10446-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10446-2\">doi:10.1038/s41586-026-10446-2</a></p>Structural modifications in strain-engineered bilayer nickelate thin films"
+    },
+    "guid": "doi:10.1038/s41586-026-10446-2",
+    "author": "Lopa Bhatt; Edgar Abarca Morales; Abigail Y. Jiang; Eun Kyo Ko; Yi-Feng Zhao; Noah Schnitzer; Grace A. Pan; Dan Ferenc Segedin; Yidi Liu; Yijun Yu; Charles M. Brooks; Antia S. Botana; Harold Y. Hwang; Julia A. Mundy; David A. Muller; Berit H. Goodge"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e71318cb66b",
+    "crawlTimeMsec": "1775097929840",
+    "timestampUsec": "1775097929840235",
+    "published": 1775088000,
+    "title": "Regular physical activity in midlife cuts risk of early death",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01000-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01000-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01000-1\">doi:10.1038/d41586-026-01000-1</a></p>Study of more than 11,000 women found that only a few hours of moderate-to-vigorous activity per week had a strong effect."
+    },
+    "guid": "doi:10.1038/d41586-026-01000-1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e752d7e4750",
+    "crawlTimeMsec": "1775115041654",
+    "timestampUsec": "1775115041654608",
+    "published": 1775088000,
+    "title": "How procrastination can rob you of career fulfilment in science",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00551-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00551-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00551-7\">doi:10.1038/d41586-026-00551-7</a></p>Putting off an important task in a long to-do list might be because you fear failure. Or maybe it is success that scares you?"
+    },
+    "guid": "doi:10.1038/d41586-026-00551-7",
+    "author": "Holly Newson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7852643552",
+    "crawlTimeMsec": "1775128545604",
+    "timestampUsec": "1775128545604946",
+    "published": 1775088000,
+    "title": "Mix-and-match synthesis of 3D small molecules",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00809-0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00809-0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00809-0\">doi:10.1038/d41586-026-00809-0</a></p>Chemistry that forms an omnipresent type of carbon–carbon bond enables the modular synthesis of 3D organic molecules — a boon for drug discovery and materials design."
+    },
+    "guid": "doi:10.1038/d41586-026-00809-0",
+    "author": "Huyen N. Nguyen; Daniel J. Blair"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e795dbdf02a",
+    "crawlTimeMsec": "1775133031002",
+    "timestampUsec": "1775133031002154",
+    "published": 1775088000,
+    "title": "The Moon belongs to all of us — not just countries that can afford to reach it",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01051-4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01051-4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01051-4\">doi:10.1038/d41586-026-01051-4</a></p>As humanity blasts off into a new space race, we need a model of exploration that emphasizes stewardship of other worlds, not exploitation."
+    },
+    "guid": "doi:10.1038/d41586-026-01051-4",
+    "author": "Moriba Jah"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7b776c0a45",
+    "crawlTimeMsec": "1775142051777",
+    "timestampUsec": "1775142051777093",
+    "published": 1775088000,
+    "title": "China is planning to land people on the Moon — and might beat the United States to it",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01059-w"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01059-w",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01059-w\">doi:10.1038/d41586-026-01059-w</a></p>China wants to send several astronauts to the lunar surface by 2030 and build a permanent base there."
+    },
+    "guid": "doi:10.1038/d41586-026-01059-w",
+    "author": "Jonathan O’Callaghan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7b776c0a46",
+    "crawlTimeMsec": "1775142051777",
+    "timestampUsec": "1775142051777094",
+    "published": 1775088000,
+    "title": "‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01054-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01054-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01054-1\">doi:10.1038/d41586-026-01054-1</a></p>Two analyses suggest that quantum computers could crack ubiquitous security keys and cryptocurrencies before the decade is over."
+    },
+    "guid": "doi:10.1038/d41586-026-01054-1",
+    "author": "Davide Castelvecchi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7d8f7f5334",
+    "crawlTimeMsec": "1775151045628",
+    "timestampUsec": "1775151045628724",
+    "published": 1775088000,
+    "title": "Artemis II is go: humans head to the Moon after half-century absence",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01060-3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01060-3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01060-3\">doi:10.1038/d41586-026-01060-3</a></p>We take a look at the mission’s aims and the science that’ll be happening along the way."
+    },
+    "guid": "doi:10.1038/d41586-026-01060-3",
+    "author": "Benjamin Thompson; Alexandra Witze"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7fa73c5651",
+    "crawlTimeMsec": "1775160033826",
+    "timestampUsec": "1775160033826385",
+    "published": 1775088000,
+    "title": "Why some cancer-fighting immune cells lose their strength inside tumours",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01015-8"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01015-8",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01015-8\">doi:10.1038/d41586-026-01015-8</a></p>Mitochondria are key to powering the immune defenders called dendritic cells."
+    },
+    "guid": "doi:10.1038/d41586-026-01015-8",
+    "author": "Edward Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7fa73c5652",
+    "crawlTimeMsec": "1775160033826",
+    "timestampUsec": "1775160033826386",
+    "published": 1775088000,
+    "title": "Breakthrough computer-chip tech could help meet ‘monumental demand’ driven by AI",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01050-5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01050-5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01050-5\">doi:10.1038/d41586-026-01050-5</a></p>Innovative tool for producing computer chips uses giant, nearly perfect mirrors to make tiny transistors and circuits."
+    },
+    "guid": "doi:10.1038/d41586-026-01050-5",
+    "author": "Katherine Bourzac"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e7fa73c5653",
+    "crawlTimeMsec": "1775160033826",
+    "timestampUsec": "1775160033826387",
+    "published": 1775088000,
+    "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01011-y"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01011-y",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01011-y\">doi:10.1038/d41586-026-01011-y</a></p>Two research teams mined genomic data from bacteria to create databases containing thousands of antiviral defence proteins that could inspire powerful biotechnologies."
+    },
+    "guid": "doi:10.1038/d41586-026-01011-y",
+    "author": "Miryam Naddaf"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e96b3fbb0ad",
+    "crawlTimeMsec": "1775259031941",
+    "timestampUsec": "1775259031941293",
+    "published": 1775174400,
+    "title": "Massive budget cuts for US science proposed again by Trump administration",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01105-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01105-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01105-7\">doi:10.1038/d41586-026-01105-7</a></p>The 2027 budget proposal would curb federal payments for scientific publishing and reduce funding for many US institutions."
+    },
+    "guid": "doi:10.1038/d41586-026-01105-7",
+    "author": "Max Kozlov; Dan Garisto; Edward Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ea66c273c21",
+    "crawlTimeMsec": "1775326546312",
+    "timestampUsec": "1775326546312225",
+    "published": 1775260800,
+    "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01103-9"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01103-9",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01103-9\">doi:10.1038/d41586-026-01103-9</a></p>Mission scientists spoke to Nature about the geological features they’re most excited about the crew observing."
+    },
+    "guid": "doi:10.1038/d41586-026-01103-9",
+    "author": "Alexandra Witze"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ec7f34a5c4a",
+    "crawlTimeMsec": "1775470547459",
+    "timestampUsec": "1775470547459146",
+    "published": 1775433600,
+    "title": "‘Yes, we can’: a blueprint for a clean economy and healthy society",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01026-5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01026-5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01026-5\">doi:10.1038/d41586-026-01026-5</a></p>As oil and gas markets face crisis, an influential economist sets out a path to a more efficient, prosperous and sustainable world."
+    },
+    "guid": "doi:10.1038/d41586-026-01026-5",
+    "author": "Andrew Macintosh"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ec8ff39bfd9",
+    "crawlTimeMsec": "1775475042664",
+    "timestampUsec": "1775475042664409",
+    "published": 1775433600,
+    "title": "Engaging the head and the heart: why scientists turn to poetry",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01028-3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01028-3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01028-3\">doi:10.1038/d41586-026-01028-3</a></p>Some researchers use verse to visualize complex problems or translate the wonders of science for wider audiences."
+    },
+    "guid": "doi:10.1038/d41586-026-01028-3",
+    "author": "Josie Glausiusz"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eca0bbdd29c",
+    "crawlTimeMsec": "1775479547613",
+    "timestampUsec": "1775479547613852",
+    "published": 1775433600,
+    "title": "Why the US needs a unified, mission-based strategy for health innovation",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01027-4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01027-4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01027-4\">doi:10.1038/d41586-026-01027-4</a></p>A goal-driven approach to medical research and development in the United States would address unmet medical needs, reduce costs and improve the reach of treatments."
+    },
+    "guid": "doi:10.1038/d41586-026-01027-4",
+    "author": "Victor J. Dzau; Melissa H. Laitner; Emily L. Shambaugh; Alex M. Helman"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecc243fcc95",
+    "crawlTimeMsec": "1775488548719",
+    "timestampUsec": "1775488548719765",
+    "published": 1775433600,
+    "title": "Historic Artemis II Moon fly-by: Nature’s live coverage as it happened",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00989-9"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00989-9",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00989-9\">doi:10.1038/d41586-026-00989-9</a></p>Nature was in Houston with the mission’s scientists when humans observed parts of the Moon’s far side by eye for the first time."
+    },
+    "guid": "doi:10.1038/d41586-026-00989-9",
+    "author": "Alexandra Witze"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc705948",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418696",
+    "published": 1775520000,
+    "title": "How DNA forensics is transforming studies of ancient manuscripts",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01029-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01029-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01029-2\">doi:10.1038/d41586-026-01029-2</a></p>Scientists are exposing the biological information hidden in ancient parchments without leaving a mark."
+    },
+    "guid": "doi:10.1038/d41586-026-01029-2",
+    "author": "Marla Broadfoot"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc705949",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418697",
+    "published": 1775520000,
+    "title": "Don’t rush use of lymphatic surgery in Alzheimer’s disease",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01093-8"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01093-8",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01093-8\">doi:10.1038/d41586-026-01093-8</a></p>Don’t rush use of lymphatic surgery in Alzheimer’s disease"
+    },
+    "guid": "doi:10.1038/d41586-026-01093-8",
+    "author": "Jinru Zhang; Zhanao Liu"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc70594a",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418698",
+    "published": 1775520000,
+    "title": "Representation without power in science isn’t equity",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01095-6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01095-6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01095-6\">doi:10.1038/d41586-026-01095-6</a></p>Representation without power in science isn’t equity"
+    },
+    "guid": "doi:10.1038/d41586-026-01095-6",
+    "author": "Richa Chaudhary; Varun Chaudhary"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc70594b",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418699",
+    "published": 1775520000,
+    "title": "AI and the human mind: only one is a black box",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01094-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01094-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01094-7\">doi:10.1038/d41586-026-01094-7</a></p>AI and the human mind: only one is a black box"
+    },
+    "guid": "doi:10.1038/d41586-026-01094-7",
+    "author": "Alfredo Vannacci"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edce7b53bba",
+    "crawlTimeMsec": "1775560547449",
+    "timestampUsec": "1775560547449786",
+    "published": 1775520000,
+    "title": "This method to reverse cellular ageing is about to be tested in humans",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01024-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01024-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01024-7\">doi:10.1038/d41586-026-01024-7</a></p>A burgeoning field is launching its first clinical trial to find out whether dialling back cell development can safely refresh aged tissues and organs."
+    },
+    "guid": "doi:10.1038/d41586-026-01024-7",
+    "author": "Heidi Ledford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eddf396233c",
+    "crawlTimeMsec": "1775565041705",
+    "timestampUsec": "1775565041705788",
+    "published": 1775520000,
+    "title": "‘Net zero’ isn’t madness: the staggering economic costs of climate change",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01020-x"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01020-x",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01020-x\">doi:10.1038/d41586-026-01020-x</a></p>The landmark Stern Review, published 20 years ago, laid bare the economic cost of climate inaction. A fracturing political consensus now risks accruing even heftier bills for future generations."
+    },
+    "guid": "doi:10.1038/d41586-026-01020-x"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee00c505704",
+    "crawlTimeMsec": "1775574046496",
+    "timestampUsec": "1775574046496516",
+    "published": 1775520000,
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01100-y"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01100-y",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01100-y\">doi:10.1038/d41586-026-01100-y</a></p>Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?"
+    },
+    "guid": "doi:10.1038/d41586-026-01100-y",
+    "author": "Chris Stokel-Walker"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee00c505705",
+    "crawlTimeMsec": "1775574046496",
+    "timestampUsec": "1775574046496517",
+    "published": 1775520000,
+    "title": "When page-renumbering causes outrage",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00913-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00913-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00913-1\">doi:10.1038/d41586-026-00913-1</a></p>The problem of page numbering in reprinted articles, and experiments to find the source of a typhoid outbreak, in our weekly dip into Nature’s archive."
+    },
+    "guid": "doi:10.1038/d41586-026-00913-1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee1183ebb42",
+    "crawlTimeMsec": "1775578541636",
+    "timestampUsec": "1775578541636418",
+    "published": 1775520000,
+    "title": "Your brain on drugs: different psychedelics work in surprisingly similar ways",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01053-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01053-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01053-2\">doi:10.1038/d41586-026-01053-2</a></p>Hundreds of scans hint at how substances such as psilocybin, LSD and ayahuasca alter connections between key areas of the brain."
+    },
+    "guid": "doi:10.1038/d41586-026-01053-2",
+    "author": "Miryam Naddaf"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee3309fdb0f",
+    "crawlTimeMsec": "1775587540589",
+    "timestampUsec": "1775587540589327",
+    "published": 1775520000,
+    "title": "First photos from Artemis II: see stunning ‘Earthset’ and more",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01118-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01118-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01118-2\">doi:10.1038/d41586-026-01118-2</a></p>Images snapped during a fly-by capture a solar eclipse and unprecedented details of the far side of the Moon."
+    },
+    "guid": "doi:10.1038/d41586-026-01118-2",
+    "author": "Alexandra Witze"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee654a3c2b3",
+    "crawlTimeMsec": "1775601029726",
+    "timestampUsec": "1775601029726899",
+    "published": 1775520000,
+    "title": "New drugs take aim at one of cancer’s deadliest mutations",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01016-7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01016-7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01016-7\">doi:10.1038/d41586-026-01016-7</a></p>Mutations in the KRAS protein were once deemed ‘undruggable’. Today, various approaches are in the pipeline."
+    },
+    "guid": "doi:10.1038/d41586-026-01016-7",
+    "author": "Heidi Ledford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eefc3596adb",
+    "crawlTimeMsec": "1775641541831",
+    "timestampUsec": "1775641541831387",
+    "published": 1775606400,
+    "title": "When career anxiety becomes gameplay: lessons from China’s ‘young-faculty simulator’",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00224-5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00224-5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00224-5\">doi:10.1038/d41586-026-00224-5</a></p>A popular online game simulates life as an academic — and throws the challenges of being an early-career researcher into sharp relief."
+    },
+    "guid": "doi:10.1038/d41586-026-00224-5",
+    "author": "Lingling Yuan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef0cfa5fc58",
+    "crawlTimeMsec": "1775646043143",
+    "timestampUsec": "1775646043143256",
+    "published": 1775606400,
+    "title": "Mini models of the human brain are revealing how this complex organ takes shape",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01025-6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01025-6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01025-6\">doi:10.1038/d41586-026-01025-6</a></p>Lab-grown organoids are turbo-charging the study of human brain development and disease."
+    },
+    "guid": "doi:10.1038/d41586-026-01025-6",
+    "author": "Alison Abbott"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef0cfa5fc59",
+    "crawlTimeMsec": "1775646043143",
+    "timestampUsec": "1775646043143257",
+    "published": 1775606400,
+    "title": "Brain organoids are a transformative technology — but they need regulation",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01021-w"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01021-w",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01021-w\">doi:10.1038/d41586-026-01021-w</a></p>The potential benefits of organoids for fundamental research and medicine are huge. Efforts to establish proper boundaries for their use should be supported."
+    },
+    "guid": "doi:10.1038/d41586-026-01021-w"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841627",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215527",
+    "published": 1775088000,
+    "title": "Daily briefing: Quantum computers could crack cybersecurity systems before 2030",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01114-6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01114-6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01114-6\">doi:10.1038/d41586-026-01114-6</a></p>Quantum-computing advances could pose an imminent threat to systems such as Internet communications. Plus, the progress of the Artemis II Moon mission and a high-speed plane chase for climate research."
+    },
+    "guid": "doi:10.1038/d41586-026-01114-6",
+    "author": "Jacob Smith"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841628",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215528",
+    "published": 1775520000,
+    "title": "Daily briefing: The Artemis II special",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01125-3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01125-3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01125-3\">doi:10.1038/d41586-026-01125-3</a></p>Nature correspondent Alexandra Witze takes over Nature Briefing for a special edition from mission control in Houston."
+    },
+    "guid": "doi:10.1038/d41586-026-01125-3",
+    "author": "Alexandra Witze"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef2ea2d75c6",
+    "crawlTimeMsec": "1775655078163",
+    "timestampUsec": "1775655078163910",
+    "published": 1775606400,
+    "title": "Immolation",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01039-0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01039-0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01039-0\">doi:10.1038/d41586-026-01039-0</a></p>Supply and demand."
+    },
+    "guid": "doi:10.1038/d41586-026-01039-0",
+    "author": "Lucy Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef5009faf69",
+    "crawlTimeMsec": "1775664044683",
+    "timestampUsec": "1775664044683113",
+    "published": 1775606400,
+    "title": "Mapping the maternal–fetal interface through pregnancy in high resolution",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01037-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-01037-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01037-2\">doi:10.1038/d41586-026-01037-2</a></p>The placenta — a temporary organ of the offspring — attaches to the mother’s uterus, from which it taps a blood supply. A high-resolution map of individual cells at this junction now reveals some of the specific cell–cell interactions involved and pinpoints cell types that are vulnerable in common pregnancy complications."
+    },
+    "guid": "doi:10.1038/d41586-026-01037-2"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef5009faf6a",
+    "crawlTimeMsec": "1775664044683",
+    "timestampUsec": "1775664044683114",
+    "published": 1775606400,
+    "title": "Tumour trap: engineered enhancer sequences enlisted to kill cancer cells",
+    "canonical": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00812-5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.nature.com/articles/d41586-026-00812-5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/11",
+        "htmlUrl": "http://feeds.nature.com/nature/rss/current",
+        "title": "Nature",
+        "feedUrl": "https://www.nature.com/nature.rss"
+    },
+    "content": {
+        "content": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00812-5\">doi:10.1038/d41586-026-00812-5</a></p>New cancer therapies are needed that do not harm healthy tissue. An engineered DNA sequence shows promise as one of the tools in a method to target brain tumour cells."
+    },
+    "guid": "doi:10.1038/d41586-026-00812-5",
+    "author": "Shi Wing Yeung; Ralf Jauch"
+}
+]}

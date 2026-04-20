@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/13",
+    "title": "List of Hugging Face - Blog articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adaf",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855023",
+    "published": 1581638400,
+    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/how-to-train"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/how-to-train",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/how-to-train"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb0",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855024",
+    "published": 1583020800,
+    "title": "How to generate text: using different decoding methods for language generation with Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/how-to-generate"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/how-to-generate",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/how-to-generate"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb1",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855025",
+    "published": 1593734400,
+    "title": "The Reformer - Pushing the limits of language modeling",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/reformer"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/reformer",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/reformer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb2",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855026",
+    "published": 1599696000,
+    "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/pytorch_block_sparse"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/pytorch_block_sparse",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/pytorch_block_sparse"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb3",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855027",
+    "published": 1602288000,
+    "title": "Transformer-based Encoder-Decoder Models",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/encoder-decoder"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/encoder-decoder",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/encoder-decoder"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb4",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855028",
+    "published": 1604275200,
+    "title": "Hyperparameter Search with Transformers and Ray Tune",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/ray-tune"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/ray-tune",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/ray-tune"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb5",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855029",
+    "published": 1604361600,
+    "title": "Porting fairseq wmt19 translation system to transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/porting-fsmt"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/porting-fsmt",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/porting-fsmt"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb6",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855030",
+    "published": 1604880000,
+    "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/warm-starting-encoder-decoder"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/warm-starting-encoder-decoder"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb7",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855031",
+    "published": 1610928000,
+    "title": "How we sped up transformer inference 100x for 🤗 API customers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/accelerated-inference"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/accelerated-inference",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/accelerated-inference"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb8",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855032",
+    "published": 1611014400,
+    "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/zero-deepspeed-fairscale"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/zero-deepspeed-fairscale"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adb9",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855033",
+    "published": 1611619200,
+    "title": "Faster TensorFlow models in Hugging Face Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/tf-serving"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/tf-serving",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/tf-serving"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adba",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855034",
+    "published": 1612828800,
+    "title": "Hugging Face on PyTorch / XLA TPUs",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/pytorch-xla"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/pytorch-xla",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/pytorch-xla"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adbb",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855035",
+    "published": 1612915200,
+    "title": "Retrieval Augmented Generation with Huggingface Transformers and Ray",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/ray-rag"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/ray-rag",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/ray-rag"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adbc",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855036",
+    "published": 1614211200,
+    "title": "Simple considerations for simple people building fancy neural networks",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/simple-considerations"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/simple-considerations",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/simple-considerations"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adbd",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855037",
+    "published": 1615248000,
+    "title": "Hugging Face Reads, Feb. 2021 - Long-range Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/long-range-transformers"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/long-range-transformers",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/long-range-transformers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adbe",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855038",
+    "published": 1615507200,
+    "title": "Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-wav2vec2-english"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/fine-tune-wav2vec2-english"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adbf",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855039",
+    "published": 1616025600,
+    "title": "My Journey to a serverless transformers pipeline on Google Cloud",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc0",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855040",
+    "published": 1616457600,
+    "title": "The Partnership: Amazon SageMaker and Hugging Face",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc1",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855041",
+    "published": 1617148800,
+    "title": "Understanding BigBird's Block Sparse Attention",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/big-bird"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/big-bird",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/big-bird"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc2",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855042",
+    "published": 1617840000,
+    "title": "Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc3",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855043",
+    "published": 1618531200,
+    "title": "Introducing 🤗 Accelerate",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/accelerate-library"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/accelerate-library",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/accelerate-library"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc4",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855044",
+    "published": 1618876800,
+    "title": "Scaling-up BERT Inference on CPU (Part 1)",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/bert-cpu-scaling-part-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/bert-cpu-scaling-part-1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc5",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855045",
+    "published": 1621900800,
+    "title": "Using &amp; Mixing Hugging Face Models with Gradio 2.0",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/gradio"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/gradio",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/gradio"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc6",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855046",
+    "published": 1622678400,
+    "title": "Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc7",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855047",
+    "published": 1624838400,
+    "title": "Sentence Transformers in the Hugging Face Hub",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/sentence-transformers-in-the-hub"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/sentence-transformers-in-the-hub",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/sentence-transformers-in-the-hub"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc8",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855048",
+    "published": 1625702400,
+    "title": "Deploy Hugging Face models easily with Amazon SageMaker",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adc9",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855049",
+    "published": 1626134400,
+    "title": "Welcome spaCy to the Hugging Face Hub",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/spacy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/spacy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/spacy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adca",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855050",
+    "published": 1626307200,
+    "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/collaborative-training"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/collaborative-training",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/collaborative-training"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adcb",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855051",
+    "published": 1631577600,
+    "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/hardware-partners-program"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/hardware-partners-program",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/hardware-partners-program"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adcc",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855052",
+    "published": 1631577600,
+    "title": "Hugging Face and Graphcore partner for IPU-optimized Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/graphcore"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/graphcore",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/graphcore"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adcd",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855053",
+    "published": 1632441600,
+    "title": "Summer at Hugging Face",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/summer-at-huggingface"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/summer-at-huggingface",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/summer-at-huggingface"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adce",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855054",
+    "published": 1633392000,
+    "title": "Showcase Your Projects in Spaces using Gradio",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/gradio-spaces"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/gradio-spaces",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/gradio-spaces"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adcf",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855055",
+    "published": 1633392000,
+    "title": "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/streamlit-spaces"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/streamlit-spaces",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/streamlit-spaces"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add0",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855056",
+    "published": 1634083200,
+    "title": "Fine tuning CLIP with Remote Sensing (Satellite) images and captions",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-clip-rsicd"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-clip-rsicd",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/fine-tune-clip-rsicd"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add1",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855057",
+    "published": 1634688000,
+    "title": "The Age of Machine Learning As Code Has Arrived",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/the-age-of-ml-as-code"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/the-age-of-ml-as-code",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/the-age-of-ml-as-code"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add2",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855058",
+    "published": 1635120000,
+    "title": "Train a Sentence Embedding Model with 1B Training Pairs",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/1b-sentence-embeddings"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/1b-sentence-embeddings",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/1b-sentence-embeddings"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add3",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855059",
+    "published": 1635206400,
+    "title": "Large Language Models: A New Moore's Law?",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/large-language-models"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/large-language-models",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/large-language-models"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add4",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855060",
+    "published": 1635206400,
+    "title": "Course Launch Community Event",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/course-launch-event"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/course-launch-event",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/course-launch-event"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add5",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855061",
+    "published": 1635984000,
+    "title": "Scaling up BERT-like model Inference on modern CPU  - Part 2",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/bert-cpu-scaling-part-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/bert-cpu-scaling-part-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/bert-cpu-scaling-part-2"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add6",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855062",
+    "published": 1636934400,
+    "title": "Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add7",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855063",
+    "published": 1637280000,
+    "title": "Accelerating PyTorch distributed fine-tuning with Intel technologies",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/accelerating-pytorch"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/accelerating-pytorch",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/accelerating-pytorch"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add8",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855064",
+    "published": 1638144000,
+    "title": "Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/data-measurements-tool"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/data-measurements-tool",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/data-measurements-tool"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9add9",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855065",
+    "published": 1638230400,
+    "title": "Getting Started with Hugging Face Transformers for IPUs with Optimum",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/graphcore-getting-started"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/graphcore-getting-started",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/graphcore-getting-started"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adda",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855066",
+    "published": 1638403200,
+    "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/snowball-fight"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/snowball-fight",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/snowball-fight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9addb",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855067",
+    "published": 1638921600,
+    "title": "Training CodeParrot 🦜 from Scratch",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/codeparrot"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/codeparrot",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/codeparrot"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9addc",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855068",
+    "published": 1639526400,
+    "title": "Perceiver IO: a scalable, fully-attentional model that works on any modality",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/perceiver"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/perceiver",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/perceiver"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9addd",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855069",
+    "published": 1640044800,
+    "title": "Gradio is joining Hugging Face!",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/gradio-joins-hf"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/gradio-joins-hf",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/gradio-joins-hf"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9adde",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855070",
+    "published": 1640217600,
+    "title": "Active Learning with AutoNLP and Prodigy",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/autonlp-prodigy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/autonlp-prodigy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/autonlp-prodigy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9addf",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855071",
+    "published": 1641859200,
+    "title": "Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/gptj-sagemaker"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/gptj-sagemaker",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/gptj-sagemaker"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006165b8db9ade0",
+    "crawlTimeMsec": "1713432335855",
+    "timestampUsec": "1713432335855072",
+    "published": 1641945600,
+    "title": "Boosting Wav2Vec2 with n-grams in 🤗 Transformers",
+    "canonical": [
+        {
+            "href": "https://huggingface.co/blog/wav2vec2-with-ngram"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://huggingface.co/blog/wav2vec2-with-ngram",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/13",
+        "htmlUrl": "https://huggingface.co/blog",
+        "title": "Hugging Face - Blog",
+        "feedUrl": "https://huggingface.co/blog/feed.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://huggingface.co/blog/wav2vec2-with-ngram"
+}
+]}

@@ -1,0 +1,2232 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/20",
+    "title": "List of Tomshardware RSS Feed articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064ec7f34a5c8f",
+    "crawlTimeMsec": "1775470547459",
+    "timestampUsec": "1775470547459215",
+    "published": 1775470380,
+    "title": "Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike — local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Big Tech",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "YouTube's AI moderator acted on an errant DMCA takedown, affecting nearly every video that contained clips of the DLSS 5 trailer, including Nvidia's own YouTube video."
+    },
+    "guid": "kSBijmY8UkTKTXLMhQFzDZ",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ec8ff39c002",
+    "crawlTimeMsec": "1775475042664",
+    "timestampUsec": "1775475042664450",
+    "published": 1775472600,
+    "title": "WD Innovation Day 2026 press Q&amp;A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR'",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "HDDs",
+        "PC Components",
+        "Storage"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here."
+    },
+    "guid": "KSMh2oHbmSryK2S2VV9pcJ",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/KmrgMrjcNCgciv9JnQUZMN-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/KmrgMrjcNCgciv9JnQUZMN-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ec8ff39c00d",
+    "crawlTimeMsec": "1775475042664",
+    "timestampUsec": "1775475042664461",
+    "published": 1775473740,
+    "title": "Linux devs start removing support for 37-year-old Intel 486 CPU — head honcho Linus Torvalds says 'zero real reason' to continue support",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-for-37-year-old-intel-486-cpu-head-honcho-linus-torvalds-says-zero-real-reason-to-continue-support",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Linux",
+        "Software",
+        "Operating Systems"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Linux kernel developers appear to have started to dismantle support for the legendary Intel 486 CPU."
+    },
+    "guid": "M8bETLsG5JsvuZAyLNWNPj",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/8QGkMbkDm8MZbB6wmBrczZ-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/8QGkMbkDm8MZbB6wmBrczZ-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecb184da3fe",
+    "crawlTimeMsec": "1775484053332",
+    "timestampUsec": "1775484053332990",
+    "published": 1775479620,
+    "title": "Expert maps out more than 80 different Microsoft Copilot products, but there may be more than 100 — 'What happens when you name everything Copilot,' an AI consultant mapped out the myriad products",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/software/microsoft-office/at-least-80-different-microsoft-copilot-products-have-been-mapped-out-by-expert-but-there-may-be-more-than-100-microsoft-doesnt-have-a-singular-list-available-so-ai-consultant-mapped-out-the-myriad-products",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Microsoft Office",
+        "Software",
+        "Applications"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "An AI aficionado has put together a chart of all the Copilot products they could find. At the latest count there are 80."
+    },
+    "guid": "rBgbT9LWzn7BgVvs4L9p6Q",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/GMxo8Y3gv3zZpRRf2wbt5T-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/GMxo8Y3gv3zZpRRf2wbt5T-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecb184da429",
+    "crawlTimeMsec": "1775484053333",
+    "timestampUsec": "1775484053333033",
+    "published": 1775484000,
+    "title": "Creality Sermoon S1 Review: Accessible 3D Scanning",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/3d-printing/3d-scanning/creality-sermoon-s1-3d-scanner-review",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "3D Scanning",
+        "3D Printing"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Creality’s scanner technology has gotten a lot better, but it's not perfect."
+    },
+    "guid": "JGVHa54XGjbbjJXfPBhbS9",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/oJwWJfyy4naFQGaGJusDh8-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/oJwWJfyy4naFQGaGJusDh8-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "stldenise@gmail.com (Denise Bertacchi)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecc243fcce9",
+    "crawlTimeMsec": "1775488548719",
+    "timestampUsec": "1775488548719849",
+    "published": 1775487720,
+    "title": "Get 32GB of Corsair Vengeance RAM for less than $200 when bundled with AMD's 9800X3D and X870-E motherboard — free liquid cooler and a copy of Crimson Desert to kickstart a top AM5 gaming build",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/grab-the-ryzen-7-9800x3d-32gb-of-ram-and-msi-x870e-bundle-and-get-free-240mm-aio-and-game-usd350-total-savings-on-combo-bundle"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/grab-the-ryzen-7-9800x3d-32gb-of-ram-and-msi-x870e-bundle-and-get-free-240mm-aio-and-game-usd350-total-savings-on-combo-bundle",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "A high-end AM5 platform bundle that not only cuts costs but also includes a free 240mm AIO cooler and a bundled game."
+    },
+    "guid": "23rCLKDkn5h3MUMPJ3rq7m",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/SbSG4ALS6NJVL2D3WDZSPR-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/SbSG4ALS6NJVL2D3WDZSPR-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Kunal Khullar)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5b9",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956921",
+    "published": 1775489280,
+    "title": "MSI MAG A1200PLS PCIE5 1200W power supply review: A competent 1200W unit, but pricey",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a1200pls-pcie5-1200w-power-supply-review",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Power Supplies",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The MSI MAG A1200PLS PCIE5 delivers strong cold efficiency numbers and excellent build presentation, but a thermal weakness at high load, a questionable 80Plus Platinum claim, and a steep asking price temper an otherwise capable unit."
+    },
+    "guid": "UAER9Sugz5pHSnBsS6p2z7",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ExioxEcP55C4Hk48na3vYY-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ExioxEcP55C4Hk48na3vYY-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ecd306cb5da",
+    "crawlTimeMsec": "1775493047956",
+    "timestampUsec": "1775493047956954",
+    "published": 1775492280,
+    "title": "HP’s flagship Omen Max 45L with an RTX 5090 is on sale for $1,000 off — get a top-shelf 4K gaming PC with 64GB DDR5 and 4TB SSD for $5,499",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/hps-flagship-omen-max-45l-with-an-rtx-5090-is-on-sale-for-usd1-000-off-get-a-top-shelf-4k-gaming-pc-with-64gb-ddr5-and-4tb-ssd-for-usd5-499"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/hps-flagship-omen-max-45l-with-an-rtx-5090-is-on-sale-for-usd1-000-off-get-a-top-shelf-4k-gaming-pc-with-64gb-ddr5-and-4tb-ssd-for-usd5-499",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "HP’s Omen Max 45L offers a powerful alternative to building your own PC amid rising component prices."
+    },
+    "guid": "uXUcoc4L259JBMvJTAENXa",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/9KLmwXup57zKJNDjuRs3i6-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/9KLmwXup57zKJNDjuRs3i6-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Kunal Khullar)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed054b49249",
+    "crawlTimeMsec": "1775506541548",
+    "timestampUsec": "1775506541548105",
+    "published": 1775502420,
+    "title": "Why TSMC grew four times faster than its foundry rivals in 2025 — price hikes, vertical integration, and commanding technology lead pay dividends",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "That lopsided split isn’t a one-quarter anomaly or a function of a single product cycle, but instead reflects three massive advantages held by TSMC."
+    },
+    "guid": "DdxShzDGG6b9XxqzKPor6",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed054b49251",
+    "crawlTimeMsec": "1775506541548",
+    "timestampUsec": "1775506541548113",
+    "published": 1775505540,
+    "title": "US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China — bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmakers-aim-to-ban-export-of-duv-chipmaking-and-etching-tools-to-leading-firms-in-china-bipartisan-proposal-would-ban-lithography-equipment-for-huawei-smic-and-others"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmakers-aim-to-ban-export-of-duv-chipmaking-and-etching-tools-to-leading-firms-in-china-bipartisan-proposal-would-ban-lithography-equipment-for-huawei-smic-and-others",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Bipartisan group of U.S. senators propose to impose blanket ban on export of advanced DUV lithography and etching tools to Chinese companies known to have worked with China's military, such as CXMT, Huawei, SMIC, and YMTC."
+    },
+    "guid": "9QRBKuxYcLaGqsLn9P2stN",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed16094216e",
+    "crawlTimeMsec": "1775511035715",
+    "timestampUsec": "1775511035715950",
+    "published": 1775508300,
+    "title": "Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test — Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "CPUs",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Bartlett Lake, Intel's P-core only family of CPUs intended for edge and industrial use cases has been modded to run on consumer Z790 motherboards. At the moment, the flagship Core 9 273QPE with 12 Raptor Cove P-cores is posting around 33,000 points in Cinbenech R23, which is around the Core i7-14700 mark."
+    },
+    "guid": "JmeRa4n5PYb4EUaKuTn5Yd",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Hassam Nasir)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ed26caddaf7",
+    "crawlTimeMsec": "1775515533695",
+    "timestampUsec": "1775515533695735",
+    "published": 1775511600,
+    "title": "Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption — more than a dozen shareholders ask for transparency ahead of annual investor meetings",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "More than a dozen investors are pressuring Amazon, Microsoft, and Alphabet's Google to provide detailed data on water and energy consumption at their U.S. data centers."
+    },
+    "guid": "SugUcQ52edfXxjuz8mNyKm",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/86kbFvvukFJM8wvw3xN4nS-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/86kbFvvukFJM8wvw3xN4nS-1280-80.png",
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edbdc70597d",
+    "crawlTimeMsec": "1775556063418",
+    "timestampUsec": "1775556063418749",
+    "published": 1775555100,
+    "title": "Electronics enthusiast begins breadboard-based Intel 386 system build — a large step up from their previous PC-XT and PC-AT breadboard projects",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/desktops/pc-building/electronics-enthusiast-begins-breadboard-based-intel-386-system-build-a-large-step-up-from-their-previous-pc-xt-and-pc-at-breadboard-projects"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/desktops/pc-building/electronics-enthusiast-begins-breadboard-based-intel-386-system-build-a-large-step-up-from-their-previous-pc-xt-and-pc-at-breadboard-projects",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Building",
+        "Desktops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Motherboards, who needs them? Not Breadboarding Labs, which recently drafted plans for a retro Intel 80386 (i386) PC build using solderless breadboards."
+    },
+    "guid": "tPbmoxABFXd7hiond4FcZ4",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ds2n74Dnavk9AjNrA23UzF-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ds2n74Dnavk9AjNrA23UzF-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edce7b53bf3",
+    "crawlTimeMsec": "1775560547449",
+    "timestampUsec": "1775560547449843",
+    "published": 1775557200,
+    "title": "Intel reportedly in talks with Google and Amazon over advanced packaging — major customers could take advantage of EMIB-T later this year",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Intel is understood to be in active talks with Google and Amazon to provide advanced chip packaging services for their custom AI ASICs."
+    },
+    "guid": "R9v4bPm2qH4kadaKa6jpzL",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/mmPcxQxEVpUKNJBz8zqMnA-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/mmPcxQxEVpUKNJBz8zqMnA-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eddf396236d",
+    "crawlTimeMsec": "1775565041705",
+    "timestampUsec": "1775565041705837",
+    "published": 1775560620,
+    "title": "Save up to $150 on Apple's brand-new M5-powered MacBook Air 13, now from just $949 — all models receive the biggest discount to date",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/laptops/macbooks/save-up-to-usd150-on-apples-brand-new-m5-powered-macbook-air-13-now-from-just-usd949-all-models-receive-the-biggest-discount-to-date"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/laptops/macbooks/save-up-to-usd150-on-apples-brand-new-m5-powered-macbook-air-13-now-from-just-usd949-all-models-receive-the-biggest-discount-to-date",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Macbooks",
+        "Laptops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The entire range of Apple's M5-powered 13-inch MacBook Air laptops receives the largest discounts to date. Save up to $150 off all models."
+    },
+    "guid": "K9CdpiHkVezLCwXegjqWVL",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/G4thSCuU9K85vwS7X7WdAK-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/G4thSCuU9K85vwS7X7WdAK-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eddf3962371",
+    "crawlTimeMsec": "1775565041705",
+    "timestampUsec": "1775565041705841",
+    "published": 1775561160,
+    "title": "Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 — Claude pioneer says its annual revenue run rate has passed $30 billion",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Broadcom disclosed in a securities filing on Monday that it’ll supply Anthropic with roughly 3.5 gigawatts of Google TPU capacity starting in 2027."
+    },
+    "guid": "JTaFNPMTzij9WiHFWdWFF5",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/zbt6xP22zQEtnhcUBfMSvS-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/zbt6xP22zQEtnhcUBfMSvS-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eddf3962387",
+    "crawlTimeMsec": "1775565041705",
+    "timestampUsec": "1775565041705863",
+    "published": 1775563860,
+    "title": "Snag this 1440p iBuyPower gaming PC with a 7800X3D and RTX 5070 for just $2,049 right now — 32GB of fast DDR5 RAM and a 2TB SSD round off powerhouse specs, with an extra $200 off this custom-built AMD rig",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/desktops/gaming-pcs/snag-this-1440p-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-for-just-usd2-049-right-now-32gb-of-fast-ddr5-ram-and-a-2tb-ssd-round-off-powerhouse-specs-with-an-extra-usd200-off-this-custom-built-amd-rig"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/desktops/gaming-pcs/snag-this-1440p-ibuypower-gaming-pc-with-a-7800x3d-and-rtx-5070-for-just-usd2-049-right-now-32gb-of-fast-ddr5-ram-and-a-2tb-ssd-round-off-powerhouse-specs-with-an-extra-usd200-off-this-custom-built-amd-rig",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming PCs",
+        "Desktops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Save $200 on this awesome AMD build from iBuyPower, featuring an AMD Ryzen 7 7800X3D, RTX 5070, 32GB of DDR5 RAM, and a 2TB SSD, all for just $2,049 right now."
+    },
+    "guid": "XdtB79xsQjaByYPmdhzx4k",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/EkvftxWompsDJTd5ikSXtQ-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/EkvftxWompsDJTd5ikSXtQ-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edeffd9314a",
+    "crawlTimeMsec": "1775569542394",
+    "timestampUsec": "1775569542394186",
+    "published": 1775567640,
+    "title": "Indianapolis politician's home shot at 13 times over data center dispute — police and FBI investigating 'isolated, targeted incident' after city councilor backed project",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/big-tech/indianapolis-politicians-home-shot-at-13-times-over-data-center-dispute-police-and-fbi-investigating-isolated-targeted-incident-after-city-councilor-backed-project"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/big-tech/indianapolis-politicians-home-shot-at-13-times-over-data-center-dispute-police-and-fbi-investigating-isolated-targeted-incident-after-city-councilor-backed-project",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Big Tech",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "A city councilor's home has been shot up for allegedly supporting a data center project in Indianapolis. Opposing neighborhood groups condemn the shooting, while the authorities have yet to determine who's behind the crime."
+    },
+    "guid": "6jZFeykhp6ignAwbrjyVGC",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/WtTnjkyz3pENxz2e4KNpq4-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/WtTnjkyz3pENxz2e4KNpq4-1280-80.png",
+            "type": "image/png"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee00c50573d",
+    "crawlTimeMsec": "1775574046496",
+    "timestampUsec": "1775574046496573",
+    "published": 1775570400,
+    "title": "Asus Zenbook A16 review: Snapdragon X2 Elite Extreme is a strong chip in a so-so package",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/asus-zenbook-a16-snapdragon-x2-elite-review"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/asus-zenbook-a16-snapdragon-x2-elite-review",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Ultrabooks and Ultraportables",
+        "Laptops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The Asus Zenbook A16 is a lightweight housing for Qualcomm's Snapdragon X2 Elite Extreme, but comes with compromises in build quality and battery life."
+    },
+    "guid": "xfomKHzh3hrwRKxQcHwzS7",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/LciEhxoGLQNMLtWFBdiRyA-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/LciEhxoGLQNMLtWFBdiRyA-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee00c505741",
+    "crawlTimeMsec": "1775574046496",
+    "timestampUsec": "1775574046496577",
+    "published": 1775570580,
+    "title": "Framework warns of even more rising RAM and SSD prices through 2026 as memory crisis persists — some reprieve as prices plateau in latest monthly update",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/laptops/framework-warns-of-even-more-rising-ram-and-ssd-prices-through-2026-as-memory-crisis-persists-some-reprieve-as-prices-plateau-in-latest-monthly-update"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/laptops/framework-warns-of-even-more-rising-ram-and-ssd-prices-through-2026-as-memory-crisis-persists-some-reprieve-as-prices-plateau-in-latest-monthly-update",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Laptops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The company is already adjusting pricing for high-capacity SSDs and memory-heavy configurations as supply costs increase."
+    },
+    "guid": "P6cLr5eKemdp352MjHx9KD",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/s7deeZXgy2j44XK49Ewbhe-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/s7deeZXgy2j44XK49Ewbhe-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Kunal Khullar)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee1183ebb76",
+    "crawlTimeMsec": "1775578541636",
+    "timestampUsec": "1775578541636470",
+    "published": 1775575020,
+    "title": "GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/video-games/cloud-gaming/github-user-creates-open-source-nvidia-geforce-now-client-alternative-removes-tracking-telemetry-and-afk-limitations"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/video-games/cloud-gaming/github-user-creates-open-source-nvidia-geforce-now-client-alternative-removes-tracking-telemetry-and-afk-limitations",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cloud Gaming",
+        "Video Games"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Zortos293 uploaded an open-source GeForce Now client to GitHub, allowing gamers to connect to Nvidia's service without being tracked by the tech giant."
+    },
+    "guid": "5RPp2Ck64eiM3q7ofPqo2e",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/KhTsPDzs9nGmtpJvb5xffH-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/KhTsPDzs9nGmtpJvb5xffH-1280-80.png",
+            "type": "image/png"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee1183ebb80",
+    "crawlTimeMsec": "1775578541636",
+    "timestampUsec": "1775578541636480",
+    "published": 1775576040,
+    "title": "Intel joins Elon Musk's TeraFab project — 'Intel is proud to join the Terafab project with SpaceX, xAI, and Tesla to help refactor silicon fab technology'",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/intel-joins-elon-musks-terafab-project-intel-is-proud-to-join-the-terafab-project-with-spacex-xai-and-tesla-to-help-refactor-silicon-fab-technology"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/intel-joins-elon-musks-terafab-project-intel-is-proud-to-join-the-terafab-project-with-spacex-xai-and-tesla-to-help-refactor-silicon-fab-technology",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "As Intel joins Elon Musk's TeraFab project, Lip-Bu Tan expects Elon Musk to reimagine the semiconductor industry."
+    },
+    "guid": "Y4c2XZUsEj3z82hNbMob3P",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee224217ae7",
+    "crawlTimeMsec": "1775583036013",
+    "timestampUsec": "1775583036013287",
+    "published": 1775580420,
+    "title": "2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Storage",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards."
+    },
+    "guid": "YxP3ho7NgVQPfE9p3bW3eC",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/6Pu8KjsNzD6LMUbF7Gc9zE-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/6Pu8KjsNzD6LMUbF7Gc9zE-1280-80.png",
+            "type": "image/png"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee43c99563c",
+    "crawlTimeMsec": "1775592036455",
+    "timestampUsec": "1775592036455996",
+    "published": 1775591220,
+    "title": "Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' — Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artificial Intelligence",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Anthropic's latest frontier AI model, Claude Mythos Preview, is so adept at finding software vulnerabilities that the lab is holding it back to allow companies and institutions to proactively patch their products against the 'thousands' of bugs it has already uncovered."
+    },
+    "guid": "qVfmrNkZTekKyatXHZ76Jk",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/iAtJT6Ab8gPu3iDZq9bCnL-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/iAtJT6Ab8gPu3iDZq9bCnL-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee43c995640",
+    "crawlTimeMsec": "1775592036456",
+    "timestampUsec": "1775592036456000",
+    "published": 1775591400,
+    "title": "Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores — early performance is on the level of Nvidia NTC",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "GPUs",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Intel is working on its own neural texture compression with similar compression performance to Nvidia's counterpart. Best of all, Intel has a fallback version of its compression tech that will work with GPUs that don't come with Intel's XMX engine."
+    },
+    "guid": "QjcsQNdfzuX4h2vD9BTcpH",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/k2F24yrE2J7gp2Viej7p6m-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/k2F24yrE2J7gp2Viej7p6m-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Aaron Klotz)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ee760d9afe0",
+    "crawlTimeMsec": "1775605529554",
+    "timestampUsec": "1775605529554912",
+    "published": 1775602800,
+    "title": "macOS has a 49.7-day networking time bomb built in that only a reboot fixes — comparison operation on unreliable time value stops machines dead in their tracks",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/software/macos/macos-has-a-49-7-day-networking-time-bomb-built-in-that-only-a-reboot-fixes-comparison-operation-on-unreliable-time-value-stops-machines-dead-in-their-tracks"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/software/macos/macos-has-a-49-7-day-networking-time-bomb-built-in-that-only-a-reboot-fixes-comparison-operation-on-unreliable-time-value-stops-machines-dead-in-their-tracks",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "MacOS",
+        "Software",
+        "Operating Systems"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The macOS networking stack has a bug that creates a 49.7-day-long countdown to disaster that currently requires a reboot to fix, as discovered by AI service provider Photon."
+    },
+    "guid": "SHVPwsuFNA39CNL5hNYRff",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/iQuEPAp7t2Vifo2u2ZjxuN-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/iQuEPAp7t2Vifo2u2ZjxuN-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Bruno Ferreira)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064eefc3596b03",
+    "crawlTimeMsec": "1775641541831",
+    "timestampUsec": "1775641541831427",
+    "published": 1775638800,
+    "title": "Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse — Ryzen AI Max 395+ flagship now sits at $3,399",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/desktops/mini-pcs/corsairs-strix-halo-ai-workstation-300-gets-even-more-expensive-amid-the-rampocalypse-ryzen-ai-max-395-flagship-now-sits-at-usd3-399"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/desktops/mini-pcs/corsairs-strix-halo-ai-workstation-300-gets-even-more-expensive-amid-the-rampocalypse-ryzen-ai-max-395-flagship-now-sits-at-usd3-399",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Mini PCs",
+        "Desktops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Corsair has silently raised the prices on its AI Workstation 300 mini PCs. The top-end Ryzen AI Max+ 395 model is now $3,399, or $400 pricier than it was just a couple months ago. That increase comes amid spiraling RAM and storage prices thanks to the AI boom."
+    },
+    "guid": "kccAqFuaqL6ih6ybHA5agP",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/uUsWCpP8uJ7JaHG5hxx7q6-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/uUsWCpP8uJ7JaHG5hxx7q6-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Hassam Nasir)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef0cfa5fc89",
+    "crawlTimeMsec": "1775646043143",
+    "timestampUsec": "1775646043143305",
+    "published": 1775642400,
+    "title": "Corsair's new customizer tool lets buyers trick out the Frame 4000D case — configurator lets you explore every possible option for this highly modular enclosure",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/pc-cases/corsairs-new-customizer-tool-lets-buyers-trick-out-the-frame-4000d-case-configurator-lets-you-explore-every-possible-option-for-this-highly-modular-enclosure",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Cases",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Corsair has launched a new case customizer for its Frame 4000D that allows buyers to change almost anything about the enclosure, from the side panel to the front-panel I/O configuration."
+    },
+    "guid": "hJzBNtDaottEoFM6iTywWQ",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/CWXt5mchqGB66CZ99Pa2ui-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/CWXt5mchqGB66CZ99Pa2ui-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Aaron Klotz)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef0cfa5fc8d",
+    "crawlTimeMsec": "1775646043143",
+    "timestampUsec": "1775646043143309",
+    "published": 1775642700,
+    "title": "China intensifies efforts to poach semiconductor talent from Taiwan, claims report — international restrictions motivate illicit efforts to obtain talent and equipment",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/semiconductors/china-intensifies-efforts-to-poach-semiconductor-talent-from-taiwan-claims-report-international-restrictions-motivate-illicit-efforts-to-obtain-talent-and-equipment",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Taiwan's National Security Bureau claims that China is intensifying efforts to steal semiconductor process technologies and other chip-related know-how from Taiwan as international restrictions get more severe."
+    },
+    "guid": "q63K7ACEh6aUKTNgHt2REA",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/jNq3T5Z4DQqsDU65zadz5A-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/jNq3T5Z4DQqsDU65zadz5A-1280-80.png",
+            "type": "image/png"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db84164d",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215565",
+    "published": 1775646000,
+    "title": "be quiet! Pure Power 13 M 1200W supply review:  Platinum-level efficiency, premium pricing",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/power-supplies/be-quiet-pure-power-13-m-1200w-supply-review-platinum-level-efficiency-premium-pricing",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Power Supplies",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The Be Quiet! Pure Power 13 M 1200W combines exceptional build quality from CWT with Platinum-level efficiency and a comprehensive 10-year warranty, though its limited connectivity and premium pricing demand careful consideration."
+    },
+    "guid": "8ZQiUGaSBzGr3kYVxLAbq",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/6j3j3rTBZubvoHDsbD4StW-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/6j3j3rTBZubvoHDsbD4StW-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841650",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215568",
+    "published": 1775646780,
+    "title": "Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns — APT28 group targets DNS and redirects traffic to attacker-controlled servers",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/ncsc-says-russian-gru-hackers-are-hijacking-tp-link-and-mikrotik-routers",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cybersecurity",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The UK National Cyber Security Centre says that Russian state hackers have been exploiting vulnerable small office and home office routers since 2024 to overwrite their DHCP and DNS settings"
+    },
+    "guid": "eNvnhqHEKHDGHLu94fDBSU",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Co6ZLWZpkb6GQGvf7VbqN9-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Co6ZLWZpkb6GQGvf7VbqN9-1280-80.png",
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841654",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215572",
+    "published": 1775647260,
+    "title": "Snap up 32GB of Corsair Vengeance RAM for just $192 when you pair it with AMD's 9800X3D processor and Asus X870E motherboard for $1,054 — bundle also includes a free 240mm AIO cooler and a copy of Crimson Desert",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/snap-up-32gb-of-corsair-vengeance-ram-for-just-usd192-when-you-pair-it-with-amds-9800x3d-processor-and-asus-x870e-motherboard-for-usd1-054-bundle-also-includes-a-free-240mm-aio-cooler-and-a-copy-of-crimson-desert",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "A premium Asus ROG Strix X870E motherboard, 9800X3D, 32GB Corsair Vengeance RAM, a free AIO cooler, and a copy of Crimson Desert are yours for just $1054.98"
+    },
+    "guid": "3SeiByMXdrTikR6m4PEExH",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/oLtviEWhHiQBvPJpHy88yZ-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/oLtviEWhHiQBvPJpHy88yZ-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841655",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215573",
+    "published": 1775647500,
+    "title": "Get $100 off the ROG Xbox Ally handheld — Ryzen Z2 A-powered version with 16GB of RAM is under $500 again",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/get-usd100-off-the-rog-xbox-ally-handheld-ryzen-z2-a-powered-version-with-16gb-of-ram-is-under-usd500-again",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Powered by AMD’s Ryzen Z2 A chip and featuring a 120Hz display, the ROG Xbox Ally is now cheaper than ever"
+    },
+    "guid": "Ssc85b3FKGsk4SyQFcBEkD",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/UxAXkioyNFD6SQacS6Dzpn-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/UxAXkioyNFD6SQacS6Dzpn-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db84165a",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215578",
+    "published": 1775648640,
+    "title": "Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-gaming-pc-for-just-usd8-more-than-the-gpu-itself-and-score-a-whopping-usd1-600-off-huge-hp-discount-requires-a-usd39-controller-or-monitor-to-secure-you-a-4k-powerhouse-with-a-9800x3d-32gb-ddr5-and-a-1tb-ssd"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-gaming-pc-for-just-usd8-more-than-the-gpu-itself-and-score-a-whopping-usd1-600-off-huge-hp-discount-requires-a-usd39-controller-or-monitor-to-secure-you-a-4k-powerhouse-with-a-9800x3d-32gb-ddr5-and-a-1tb-ssd",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming PCs",
+        "Desktops"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "An epic deal over at HP's website is knocking over $1,600 off the price of this Omen Max gaming PC, fitted with an RTX 5090, 9800X3D, 32GB RAM, and a 1TB SSD, all for just $3,808.69 if you purchase it with a monitor or a $39 accessory."
+    },
+    "guid": "jFXMk3AHs6UXwxpeoWPAFX",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Y4SW9iaJ4f2frgmuRF3MtW-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Y4SW9iaJ4f2frgmuRF3MtW-1280-80.png",
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db84165d",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215581",
+    "published": 1775649360,
+    "title": "Taiwanese chip makers call on government to stockpile helium, liquid natural gas — TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/taiwanese-chip-makers-call-on-government-to-stockpile-helium-lng-tsia-pleads-for-strategic-supplies-as-us-and-iran-sign-ceasefire-in-middle-east",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Taiwan's semiconductor industry alliance is urging the government to expand its strategic stockpiles of LNG and helium, find alternative suppliers, and restart nuclear power plants to ensure stability during times of crisis."
+    },
+    "guid": "4eX5G5t7XmtuXGBrXyswye",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/BjZSoWckeATJoTsx8byYZD-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/BjZSoWckeATJoTsx8byYZD-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef1db841661",
+    "crawlTimeMsec": "1775650537215",
+    "timestampUsec": "1775650537215585",
+    "published": 1775649600,
+    "title": "A brief history of Denuvo DRM and the new hypervisor bypass — inside the cat-and-mouse game between Denuvo and the piracy scene",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/video-games/pc-gaming/a-brief-history-of-denuvo-drm-and-the-new-hypervisor-bypass-inside-the-cat-and-mouse-game-between-denuvo-and-the-piracy-scene"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/video-games/pc-gaming/a-brief-history-of-denuvo-drm-and-the-new-hypervisor-bypass-inside-the-cat-and-mouse-game-between-denuvo-and-the-piracy-scene",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "PC Gaming",
+        "Video Games"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "A brief history of Denuvo DRM and the new hypervisor bypass."
+    },
+    "guid": "9xqK9UM25ZonN6G9ye7bBA",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Nd47iKJKXv4bkc8WFF7BfG-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Nd47iKJKXv4bkc8WFF7BfG-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Bruno Ferreira)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef2ea2d760c",
+    "crawlTimeMsec": "1775655078163",
+    "timestampUsec": "1775655078163980",
+    "published": 1775653200,
+    "title": "Asus ROG Xbox Ally review: The cheapest Windows handheld gets points for showing up",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Handheld Gaming",
+        "Video Games",
+        "Console Gaming"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The Asus ROG Xbox Ally is the cheapest Windows-based PC gaming handheld you can get right now, but some technical hitches and a mediocre processor don't help it shine next to the Steam Deck OLED."
+    },
+    "guid": "vrk6mFBYVZTJ3uKmmbSrr7",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/FhFeNBB9vyDAarp7YeURdf-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/FhFeNBB9vyDAarp7YeURdf-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef3f436f4d6",
+    "crawlTimeMsec": "1775659541525",
+    "timestampUsec": "1775659541525718",
+    "published": 1775655240,
+    "title": "Tech industry lays off nearly 80,000 employees in the first quarter of 2026 — almost 50% of affected positions cut due to AI",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Many of these job cuts are blamed on AI, but some experts say that it's actually caused by bad business decisions or corporate pivots. Still, they do not discount the disruption that AI will have on the job market, even as some companies buck the trend and hire more junior roles."
+    },
+    "guid": "rNNFMCpx3DSpKkXmMmYqnU",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Fc48qfoGw7md857ek6pWSV-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Fc48qfoGw7md857ek6pWSV-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef3f436f4f0",
+    "crawlTimeMsec": "1775659541525",
+    "timestampUsec": "1775659541525744",
+    "published": 1775658120,
+    "title": "British cryptographer Adam Back is the secret creator of Bitcoin, claims new report — Back refutes investigation, says parallels to Satoshi are just a coincidence",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cryptocurrency/british-cryptographer-adam-back-is-the-secret-creator-of-bitcoin-claims-new-report-back-refutes-investigation-says-parallels-to-satoshi-are-just-a-coincidence",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cryptocurrency",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The hunt for Satoshi Nakamoto has circled back to a likely candidate, Adam Back, thanks to a New York Times article that draws striking parallels between the two. Back denies being Satoshi, saying it's all just a coincidence and confirmation bias on behalf of the reporter. The 40-page-long investigation goes over decades of evidence to try to prove otherwise."
+    },
+    "guid": "vxHnnwtjUuBCb7XmE483VV",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/bZJ4KyQj9FyorGQFWFCfdT-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/bZJ4KyQj9FyorGQFWFCfdT-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Hassam Nasir)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef5009fafb5",
+    "crawlTimeMsec": "1775664044683",
+    "timestampUsec": "1775664044683189",
+    "published": 1775659620,
+    "title": "Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China — Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bain-capitals-data-center-unit-removes-disgraced-tenant-suspected-of-smuggling-nvidia-gpus-to-china-megaspeed-previously-alleged-to-have-spent-roughly-usd2-billion-on-ai-processors-for-illicit-distribution",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artificial Intelligence",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Megaspeed gets final nail in its coffin after Bridge Data Centers cancels its tenancy and replaces it with U.S.-based Zenplayer."
+    },
+    "guid": "7Ed7KwfdPCTcYXSpDMp6cZ",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef60ca3bbd6",
+    "crawlTimeMsec": "1775668541242",
+    "timestampUsec": "1775668541242326",
+    "published": 1775666820,
+    "title": "AMD reveals $899 price tag for Ryzen 9 9950X3D2 — first dual-cache X3D CPU is $200 more expensive than the Ryzen 9 9950X3D",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-usd899-price-tag-for-ryzen-9-9950x3d2-first-dual-cache-x3d-cpu-is-usd200-more-expensive-than-the-ryzen-9-9950x3d",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "CPUs",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "AMD revealed its upcoming Ryzen 9 9950X3D2 will launch for $899 on April 22, which marks a $200 price increase over the previous Ryzen 9 9950X3D."
+    },
+    "guid": "wHV8UJYUULjaavVTefCFrK",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/nAeD47GQgXrkgnjvVEMHC9-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/nAeD47GQgXrkgnjvVEMHC9-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef718c87647",
+    "crawlTimeMsec": "1775673039943",
+    "timestampUsec": "1775673039943239",
+    "published": 1775671080,
+    "title": "PCI Express roadmap: The path to 1TB/s with PCI 8.0, the challenges of integration, and beyond",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/pc-components/motherboards/pci-express-roadmap-the-path-to-1tb-s-with-pci-8-0-the-challenges-of-integration-and-beyond",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Motherboards",
+        "PC Components"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "We take a deep-dive into the past, present, and future of the ubiquitous PCIe standard, and look ahead at the challenges that await manufacturers when integrating PCIe 6.0 and beyond into real-world hardware."
+    },
+    "guid": "XPyuNr9os6dfbfkb96ud6j",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/o9pBPTTVY3oLhG624ECr8Q-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/o9pBPTTVY3oLhG624ECr8Q-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ef930f6104f",
+    "crawlTimeMsec": "1775682035519",
+    "timestampUsec": "1775682035519567",
+    "published": 1775677500,
+    "title": "Intel and SambaNova team up on heterogenous AI inference platform — different hardware performs different workloads",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-and-sambanova-team-up-on-heterogenous-ai-inference-platform-different-hardware-performs-different-workloads",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artificial Intelligence",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Intel and SambaNova announce heterogeneous inference platform that can take advantage of Intel Xeon 6 CPUs, SambaNova SN50 RDUs, and Nvidia GPUs."
+    },
+    "guid": "bwhsnHbv8NFVnYSwEjBU3N",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/uA6Ne4z4gSbp9nZArMDYK8-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/uA6Ne4z4gSbp9nZArMDYK8-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f04b785b68f",
+    "crawlTimeMsec": "1775731537720",
+    "timestampUsec": "1775731537720975",
+    "published": 1775727720,
+    "title": "10 petabytes of sensitive data stolen from China's National Supercomputing Center, hackers claim — daring heist would be largest ever China hack, covering 6,000 clients across science, defense, and beyond",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/10-petabytes-of-sensitive-data-stolen-from-chinas-national-supercomputing-center-hackers-claim-daring-heist-would-be-largest-ever-china-hack-covering-6-000-clients-across-science-defense-and-beyond"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/10-petabytes-of-sensitive-data-stolen-from-chinas-national-supercomputing-center-hackers-claim-daring-heist-would-be-largest-ever-china-hack-covering-6-000-clients-across-science-defense-and-beyond",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cybersecurity",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Hacker or hacker group steals secret data concerning aerospace engineering, bioinformatics, fusion modeling from China's National Supercomputing Center."
+    },
+    "guid": "dAuKEiJEC7ficTe2LV2ra4",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/foLY3NDKc2g2zqjwGgXPvc-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/foLY3NDKc2g2zqjwGgXPvc-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "ashilov@gmail.com (Anton Shilov)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f04b785b698",
+    "crawlTimeMsec": "1775731537720",
+    "timestampUsec": "1775731537720984",
+    "published": 1775728800,
+    "title": "$21 billion stolen from more than 1 million Americans due to cybercrime in 2025 — $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/usd21-billion-stolen-from-more-than-1-million-americans-due-to-cybercrime-in-2025-usd11-billion-come-from-stolen-crypto-usd8-6-billion-taken-from-investment-scams-while-ai-related-attacks-cost-usd893-million"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/usd21-billion-stolen-from-more-than-1-million-americans-due-to-cybercrime-in-2025-usd11-billion-come-from-stolen-crypto-usd8-6-billion-taken-from-investment-scams-while-ai-related-attacks-cost-usd893-million",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cybersecurity",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "The FBI breaks down the $21 billion lost by over a million Americans through online scams, with more than half involving cryptocurrency."
+    },
+    "guid": "cMdQghS7Ng7qUqJugVMsJc",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/9YYr49MBVeBobTPW7raJWK-1280-80.png",
+            "type": "image/png"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/9YYr49MBVeBobTPW7raJWK-1280-80.png",
+            "type": "image/png"
+        }
+    ],
+    "author": "editors@tomshardware.com (Jowi Morales)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f04b785b6a5",
+    "crawlTimeMsec": "1775731537720",
+    "timestampUsec": "1775731537720997",
+    "published": 1775730000,
+    "title": "Steam files suggest Valve is developing internal'SteamGPT' AI bot — aimed at tackling customer support tickets and CS2 anti-cheat",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/steam-files-suggest-valve-is-developing-internal-steamgpt-ai-bot-aimed-at-tackling-customer-support-tickets-and-cs2-anti-cheat",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artificial Intelligence",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Leaked Steam files show that Valve is developing a \"SteamGPT\" AI bot that will help its employees with customer support and anti-cheat in CS2."
+    },
+    "guid": "jtLPXk4FzDgB65MR6ZFgK6",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/8nf3S4AoeD767eLZgzH9G6-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/8nf3S4AoeD767eLZgzH9G6-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Aaron Klotz)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f04b785b6b2",
+    "crawlTimeMsec": "1775731537721",
+    "timestampUsec": "1775731537721010",
+    "published": 1775731200,
+    "title": "Go maintainer joins collective klaxon about encryption-breaking quantum computers — developer urges immediate switch to post-quantum methods to prevent worldwide disaster",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/cyber-security/go-maintainer-joins-collective-klaxon-about-encryption-breaking-quantum-computers-developer-urges-immediate-switch-to-post-quantum-methods-to-prevent-worldwide-disaster",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cybersecurity",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Go maintainer joins collective klaxon about encryption-breaking quantum computers and urges immediate switch to post-quantum methods to prevent disaster."
+    },
+    "guid": "oWU6HQGnMW3uuuMkkmWRmg",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/htHQLBnnmsjKyAaj9C44uD-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/htHQLBnnmsjKyAaj9C44uD-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "editors@tomshardware.com (Bruno Ferreira)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f05c4f04e17",
+    "crawlTimeMsec": "1775736057777",
+    "timestampUsec": "1775736057777687",
+    "published": 1775732400,
+    "title": "Korean government to take action over soaring DRAM costs, including monitoring markets and pricing — internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech Industry"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "South Korea is taking government action to reduce the pressure of the DRAM and NAND crisis on its population."
+    },
+    "guid": "iA34RpsTQSz4Mc4hPVB9zM",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/a3o5qFjMX3YmRytVPk8TzF-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/a3o5qFjMX3YmRytVPk8TzF-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ],
+    "author": "stephen.warwick@futurenet.com (Stephen Warwick)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f05c4f04e1d",
+    "crawlTimeMsec": "1775736057777",
+    "timestampUsec": "1775736057777693",
+    "published": 1775733240,
+    "title": "Under $30, GameSir's Super Nova wireless controller has an unbelievable 40% slashed off the price in this limited-time offer — includes stick drift eliminating Hall Effect thumbsticks and switches",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/peripherals/controllers-gamepads/under-usd30-gamesirs-super-nova-wireless-controller-has-an-unbelievable-40-percent-slashed-off-the-price-in-this-limited-time-offer-includes-stick-drift-eliminating-hall-effect-thumbsticks-and-switches",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Controllers and Gamepads",
+        "Peripherals"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "A fully loaded wireless gaming controller from GameSir for under $30."
+    },
+    "guid": "e9zA9DckZDnt8SsSLbY8K",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Ybq2f7ujddk92nuZ8cAFPD-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/Ybq2f7ujddk92nuZ8cAFPD-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f05c4f04e35",
+    "crawlTimeMsec": "1775736057777",
+    "timestampUsec": "1775736057777717",
+    "published": 1775736000,
+    "title": "Acer Predator X27 X1 27-inch 240 Hz OLED gaming monitor review: Blending performance and value",
+    "canonical": [
+        {
+            "href": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-x27-x1-27-inch-240-hz-oled-gaming-monitor-review",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming Monitors",
+        "Monitors"
+    ],
+    "origin": {
+        "streamId": "feed/20",
+        "htmlUrl": "https://www.tomshardware.com/",
+        "title": "Tomshardware RSS Feed",
+        "feedUrl": "https://www.tomshardware.com/feeds.xml"
+    },
+    "content": {
+        "content": "Acer delivers a solid value with the Predator X27 X1. It’s a 27-inch QD-OLED gaming monitor with 4K resolution, 240 Hz, Adaptive-Sync, HDR400, and wide gamut color. It delivers high speed and saturated color in equal measure."
+    },
+    "guid": "SPoTWAradsQGBT3t8aux2D",
+    "enclosure": [
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/bXfAtwYZKNCkr4HoLi7Yjk-1280-80.jpg",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.mos.cms.futurecdn.net/bXfAtwYZKNCkr4HoLi7Yjk-1280-80.jpg",
+            "type": "image/jpeg"
+        }
+    ]
+}
+]}

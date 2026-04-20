@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/16",
+    "title": "List of Techmeme articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f71af033263",
+    "crawlTimeMsec": "1776199546384",
+    "timestampUsec": "1776199546384995",
+    "published": 1776197460,
+    "title": "OpenAI rolls out GPT-5.4-Cyber, a fine-tuned GPT-5.4 variant for defensive cybersecurity use cases, to some participants of its Trusted Access for Cyber program (Rachel Metz/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p36#a260414p36"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p36#a260414p36",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i36.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p36#a260414p36\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Rachel Metz / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos\">OpenAI rolls out GPT-5.4-Cyber, a fine-tuned GPT-5.4 variant for defensive cybersecurity use cases, to some participants of its Trusted Access for Cyber program</a></b></span>  —  OpenAI is letting a select group of users access a new artificial intelligence model that's meant to be more adept … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p36#a260414p36"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f71af033266",
+    "crawlTimeMsec": "1776199546384",
+    "timestampUsec": "1776199546384998",
+    "published": 1776198060,
+    "title": "Kraken co-CEO Arjun Sethi says the crypto exchange has confidentially filed for a US IPO; it was valued at $13.3B in April, down from a $20B peak in late 2025 (Cory Schouten/Semafor)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p37#a260414p37"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p37#a260414p37",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.semafor.com/article/04/14/2026/kraken-has-filed-confidentially-for-ipo-co-ceo-arjun-sethi-confirms\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i37.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p37#a260414p37\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Cory Schouten / <a href=\"https://www.semafor.com/\">Semafor</a>:<br>\n<span><b><a href=\"https://www.semafor.com/article/04/14/2026/kraken-has-filed-confidentially-for-ipo-co-ceo-arjun-sethi-confirms\">Kraken co-CEO Arjun Sethi says the crypto exchange has confidentially filed for a US IPO; it was valued at $13.3B in April, down from a $20B peak in late 2025</a></b></span>  —  The US crypto exchange Kraken has confidentially filed for an initial public offering, co-CEO Arjun Sethi said Tuesday … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p37#a260414p37"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f71af03326f",
+    "crawlTimeMsec": "1776199546385",
+    "timestampUsec": "1776199546385007",
+    "published": 1776198900,
+    "title": "Users accuse Anthropic of degrading Claude Opus 4.6's and Claude Code's performance; the startup's employees publicly deny it degrades models to manage capacity (Carl Franzen/VentureBeat)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p38#a260414p38"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p38#a260414p38",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i38.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p38#a260414p38\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br>\n<span><b><a href=\"https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance\">Users accuse Anthropic of degrading Claude Opus 4.6's and Claude Code's performance; the startup's employees publicly deny it degrades models to manage capacity</a></b></span>  —  A growing number of developers and AI power users are taking to social media to accuse Anthropic of degrading the performance … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p38#a260414p38"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f72ba7a6be2",
+    "crawlTimeMsec": "1776204033715",
+    "timestampUsec": "1776204033715170",
+    "published": 1776200700,
+    "title": "AWS launches Amazon Bio Discovery, an AI-powered application designed to speed up drug development, giving scientists access to biological foundation models (Reuters)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p39#a260414p39"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p39#a260414p39",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i39.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p39#a260414p39\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br>\n<span><b><a href=\"https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/\">AWS launches Amazon Bio Discovery, an AI-powered application designed to speed up drug development, giving scientists access to biological foundation models</a></b></span>  —  Amazon's (AMZN.O) cloud unit on Tuesday launched Amazon Bio Discovery, an artificial intelligence application designed … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p39#a260414p39"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f72ba7a6be3",
+    "crawlTimeMsec": "1776204033715",
+    "timestampUsec": "1776204033715171",
+    "published": 1776201000,
+    "title": "US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip startup DustPhotonics in a cash-and-stock deal worth up to $1.3B (CTech)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p40#a260414p40"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p40#a260414p40",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.calcalistech.com/ctechnews/article/d9pizceo2\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i40.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p40#a260414p40\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.calcalistech.com/\">CTech</a>:<br>\n<span><b><a href=\"https://www.calcalistech.com/ctechnews/article/d9pizceo2\">US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip startup DustPhotonics in a cash-and-stock deal worth up to $1.3B</a></b></span>  —  The Israeli company's photonic chip technology enables faster, lower-cost data transfer in next-generation AI clusters.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p40#a260414p40"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f72ba7a6bec",
+    "crawlTimeMsec": "1776204033715",
+    "timestampUsec": "1776204033715180",
+    "published": 1776202500,
+    "title": "The FCC grants Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1, 2027 (Sean Hollister/The Verge)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p41#a260414p41"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p41#a260414p41",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i41.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p41#a260414p41\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Sean Hollister / <a href=\"https://www.theverge.com/\">The Verge</a>:<br>\n<span><b><a href=\"https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval\">The FCC grants Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1, 2027</a></b></span>  —  Make it make sense. Make it make sense. … The United States' foreign router ban didn't make a whole lot of sense, and today may not change that.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p41#a260414p41"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f72ba7a6bf4",
+    "crawlTimeMsec": "1776204033715",
+    "timestampUsec": "1776204033715188",
+    "published": 1776203700,
+    "title": "Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta's MTIA chips; Broadcom CEO Hock Tan plans to leave Meta's board (CNBC)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p42#a260414p42"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p42#a260414p42",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i42.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p42#a260414p42\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br>\n<span><b><a href=\"https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html\">Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta's MTIA chips; Broadcom CEO Hock Tan plans to leave Meta's board</a></b></span>  —  Meta and Broadcom on Tuesday announced a sweeping deal that extends an existing partnership between the two companies for the design … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p42#a260414p42"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f73c8bfba68",
+    "crawlTimeMsec": "1776208568105",
+    "timestampUsec": "1776208568105576",
+    "published": 1776206760,
+    "title": "Anthropic details using AI agents to accelerate alignment research on &quot;weak-to-strong supervision&quot;, where a weak model supervises the training of a stronger one (Anthropic)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p43#a260414p43"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p43#a260414p43",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.anthropic.com/research/automated-alignment-researchers\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i43.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p43#a260414p43\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br>\n<span><b><a href=\"https://www.anthropic.com/research/automated-alignment-researchers\">Anthropic details using AI agents to accelerate alignment research on “weak-to-strong supervision”, where a weak model supervises the training of a stronger one</a></b></span>  —  Large language models' ever-accelerating rate of improvement raises two particularly important questions for alignment research.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p43#a260414p43"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f73c8bfba78",
+    "crawlTimeMsec": "1776208568105",
+    "timestampUsec": "1776208568105592",
+    "published": 1776207660,
+    "title": "Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription (The Information)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p44#a260414p44"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p44#a260414p44",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.theinformation.com/articles/anthropic-changes-pricing-bill-firms-based-ai-use-amid-compute-crunch\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i44.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p44#a260414p44\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br>\n<span><b><a href=\"https://www.theinformation.com/articles/anthropic-changes-pricing-bill-firms-based-ai-use-amid-compute-crunch\">Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription</a></b></span>  —  Businesses whose employees are heavy users of Anthropic's Claude products are likely to pay significantly more for them after the company changed … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p44#a260414p44"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f392",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876626",
+    "published": 1776208800,
+    "title": "Sources: Microsoft ended production of its Surface Hub 3 collaborative touch displays and scrapped plans for a Hub 4; Hub 3 debuted in 2023 in 50&quot; and 85&quot; sizes (Zac Bowden/Windows Central)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p45#a260414p45"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p45#a260414p45",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.windowscentral.com/hardware/surface/surface-hub-is-dead-microsoft-pulls-the-plug-on-its-50-inch-and-85-inch-collaborative-touch-displays\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i45.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p45#a260414p45\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Zac Bowden / <a href=\"https://www.windowscentral.com/\">Windows Central</a>:<br>\n<span><b><a href=\"https://www.windowscentral.com/hardware/surface/surface-hub-is-dead-microsoft-pulls-the-plug-on-its-50-inch-and-85-inch-collaborative-touch-displays\">Sources: Microsoft ended production of its Surface Hub 3 collaborative touch displays and scrapped plans for a Hub 4; Hub 3 debuted in 2023 in 50\" and 85\" sizes</a></b></span>  —  Microsoft has ended production on the Surface Hub 3, with no plans to make more in the future, putting an end to its collaborative displays line.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p45#a260414p45"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f395",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876629",
+    "published": 1776210360,
+    "title": "Uber CTO Praveen Neppalli Naga says the company's surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 (Laura Bratton/The Information)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p46#a260414p46"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p46#a260414p46",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.theinformation.com/articles/uber-cto-shows-claude-code-can-blow-ai-budgets\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i46.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p46#a260414p46\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Laura Bratton / <a href=\"https://www.theinformation.com/\">The Information</a>:<br>\n<span><b><a href=\"https://www.theinformation.com/articles/uber-cto-shows-claude-code-can-blow-ai-budgets\">Uber CTO Praveen Neppalli Naga says the company's surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026</a></b></span>  —  Uber's surging use of AI coding tools, particularly Anthropic's Claude Code, has maxed out its full year AI budget just a few months into 2026 … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p46#a260414p46"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f396",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876630",
+    "published": 1776210600,
+    "title": "In a letter to US senators in January, Apple said it notified X that Grok may be removed from the App Store over Grok's ability to generate sexualized deepfakes (David Ingram/NBC News)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p47#a260414p47"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p47#a260414p47",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i47.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p47#a260414p47\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> David Ingram / <a href=\"http://www.nbcnews.com/\">NBC News</a>:<br>\n<span><b><a href=\"https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677\">In a letter to US senators in January, Apple said it notified X that Grok may be removed from the App Store over Grok's ability to generate sexualized deepfakes</a></b></span>  —  In a letter to senators sent in January, Apple detailed how it responded to Grok's ability to generate sexualized deepfakes.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p47#a260414p47"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f39a",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876634",
+    "published": 1776211200,
+    "title": "Sources: Anthropic has fielded multiple offers from VCs valuing the company at as much as $800B in recent weeks; it was valued at $380B in February (Ben Bergman/Business Insider)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p48#a260414p48"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p48#a260414p48",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.businessinsider.com/anthropic-with-offers-to-invest-at-up-to-800-billion-2026-4\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i48.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p48#a260414p48\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Ben Bergman / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br>\n<span><b><a href=\"https://www.businessinsider.com/anthropic-with-offers-to-invest-at-up-to-800-billion-2026-4\">Sources: Anthropic has fielded multiple offers from VCs valuing the company at as much as $800B in recent weeks; it was valued at $380B in February</a></b></span>  —  Follow Ben Bergman … - Anthropic has recently received multiple offers from VCs to invest at valuations as high as $800 billion.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p48#a260414p48"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f3a4",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876644",
+    "published": 1776212400,
+    "title": "Google releases a Windows desktop app with a macOS Spotlight-like search box for the web, Google Drive, and local files, a screen sharing feature, and more (Abner Li/9to5Google)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p49#a260414p49"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p49#a260414p49",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://9to5google.com/2026/04/14/google-app-desktop-windows/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i49.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p49#a260414p49\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Abner Li / <a href=\"https://9to5google.com/\">9to5Google</a>:<br>\n<span><b><a href=\"https://9to5google.com/2026/04/14/google-app-desktop-windows/\">Google releases a Windows desktop app with a macOS Spotlight-like search box for the web, Google Drive, and local files, a screen sharing feature, and more</a></b></span>  —  After testing got underway in September, the “Google app for desktop” is now launching for “Windows users globally in English.”</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p49#a260414p49"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f74d2b0f3a8",
+    "crawlTimeMsec": "1776213029876",
+    "timestampUsec": "1776213029876648",
+    "published": 1776212700,
+    "title": "Mintlify, which uses AI to help companies generate software documentation, raised a $45M Series B led by a16z and Salesforce Ventures at a $500M valuation (Rashi Shrivastava/Forbes)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p50#a260414p50"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p50#a260414p50",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.forbes.com/sites/the-prompt/2026/04/14/anthropic-uses-this-startups-ai-to-answer-peoples-questions-about-claude-code/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i50.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p50#a260414p50\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Rashi Shrivastava / <a href=\"http://www.forbes.com/\">Forbes</a>:<br>\n<span><b><a href=\"https://www.forbes.com/sites/the-prompt/2026/04/14/anthropic-uses-this-startups-ai-to-answer-peoples-questions-about-claude-code/\">Mintlify, which uses AI to help companies generate software documentation, raised a $45M Series B led by a16z and Salesforce Ventures at a $500M valuation</a></b></span>  —  It's just one of 20,000 companies that use Mintlify's AI system to generate and maintain FAQs and user guides about their software products.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p50#a260414p50"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f75def3656b",
+    "crawlTimeMsec": "1776217530525",
+    "timestampUsec": "1776217530525035",
+    "published": 1776215400,
+    "title": "Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total (Georg Szalai/The Hollywood Reporter)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p51#a260414p51"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p51#a260414p51",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.hollywoodreporter.com/business/business-news/meta-social-media-ad-revenue-70-percent-facebook-instagram-1236563625/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i51.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p51#a260414p51\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Georg Szalai / <a href=\"https://www.hollywoodreporter.com/\">The Hollywood Reporter</a>:<br>\n<span><b><a href=\"https://www.hollywoodreporter.com/business/business-news/meta-social-media-ad-revenue-70-percent-facebook-instagram-1236563625/\">Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total</a></b></span>  —  Facebook, Instagram, YouTube, and TikTok “capture over 90 percent of social media advertising revenues,” an Omdia analyst tells the StreamTV Europe gathering in Lisbon.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p51#a260414p51"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f75def36577",
+    "crawlTimeMsec": "1776217530525",
+    "timestampUsec": "1776217530525047",
+    "published": 1776216900,
+    "title": "Maine's legislature passes a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure (Alyssa Lukpat/Wall Street Journal)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p52#a260414p52"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p52#a260414p52",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i52.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p52#a260414p52\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Alyssa Lukpat / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br>\n<span><b><a href=\"https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c\">Maine's legislature passes a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure</a></b></span>  —  The bill, which blocks centers that draw over 20 megawatts of power until late 2027, heads to Democratic Gov. Janet Mills</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p52#a260414p52"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f76eb388043",
+    "crawlTimeMsec": "1776222031347",
+    "timestampUsec": "1776222031347779",
+    "published": 1776219300,
+    "title": "How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding (Konstantin Kakaes/Quanta Magazine)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p53#a260414p53"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p53#a260414p53",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i53.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p53#a260414p53\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Konstantin Kakaes / <a href=\"https://www.quantamagazine.org/\">Quanta Magazine</a>:<br>\n<span><b><a href=\"https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/\">How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding</a></b></span>  —  Those changes will be contested, in math as in other academic disciplines wrestling with AI's impact.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p53#a260414p53"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f76eb388049",
+    "crawlTimeMsec": "1776222031347",
+    "timestampUsec": "1776222031347785",
+    "published": 1776220200,
+    "title": "Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump's ban (Politico)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p54#a260414p54"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p54#a260414p54",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.politico.com/news/2026/04/14/anthropic-mythos-federal-agency-testing-00872439\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i54.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p54#a260414p54\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"http://www.politico.com/\">Politico</a>:<br>\n<span><b><a href=\"https://www.politico.com/news/2026/04/14/anthropic-mythos-federal-agency-testing-00872439\">Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump's ban</a></b></span>  —  The Commerce Department's Center for AI Standards and Innovation — tasked with evaluating U.S. and foreign AI models … </p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p54#a260414p54"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f77f74fa1b8",
+    "crawlTimeMsec": "1776226529157",
+    "timestampUsec": "1776226529157560",
+    "published": 1776225300,
+    "title": "A profile of BusPatrol, whose AI-powered cameras on 35K+ school buses in 24 US states record vehicles passing illegally, claiming they help reduce violations (Byard Duncan/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260414/p55#a260414p55"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260414/p55#a260414p55",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NjE3ODU5MywiZXhwIjoxNzc2NzgzMzkzLCJhcnRpY2xlSWQiOiJUREhCVThLR0lGUkIwMCIsImJjb25uZWN0SWQiOiJGQTEyREYyMDg1QUQ0Njk1QkYyNjIwMDYyQzE5MjNENCJ9.JQGqXBKTq15jkFNpBXx-_SHszc_5RXkJ4QpppCXPSTw\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260414/i55.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260414/p55#a260414p55\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Byard Duncan / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NjE3ODU5MywiZXhwIjoxNzc2NzgzMzkzLCJhcnRpY2xlSWQiOiJUREhCVThLR0lGUkIwMCIsImJjb25uZWN0SWQiOiJGQTEyREYyMDg1QUQ0Njk1QkYyNjIwMDYyQzE5MjNENCJ9.JQGqXBKTq15jkFNpBXx-_SHszc_5RXkJ4QpppCXPSTw\">A profile of BusPatrol, whose AI-powered cameras on 35K+ school buses in 24 US states record vehicles passing illegally, claiming they help reduce violations</a></b></span>  —  BusPatrol says its technology helps curb dangerous driving at no cost to cities.  Public records from across the US often tell a different story.</p>"
+    },
+    "guid": "http://www.techmeme.com/260414/p55#a260414p55"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f79037c85df",
+    "crawlTimeMsec": "1776231028393",
+    "timestampUsec": "1776231028393439",
+    "published": 1776228600,
+    "title": "Sources: a Snap-Perplexity AI search deal calling for Perplexity to pay Snap $400M has fallen apart; Snap is set to announce significant layoffs on Wednesday (Alex Heath/Sources)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p1#a260415p1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p1#a260415p1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://sources.news/p/snap-crucible-moment\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i1.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p1#a260415p1\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Alex Heath / <a href=\"https://sources.news/\">Sources</a>:<br>\n<span><b><a href=\"https://sources.news/p/snap-crucible-moment\">Sources: a Snap-Perplexity AI search deal calling for Perplexity to pay Snap $400M has fallen apart; Snap is set to announce significant layoffs on Wednesday</a></b></span>  —  Mass layoffs land tomorrow, the Perplexity deal is dead, and Specs are launching soon.  Also: OpenAI has a cyber model too … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p1#a260415p1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f79037c85e1",
+    "crawlTimeMsec": "1776231028393",
+    "timestampUsec": "1776231028393441",
+    "published": 1776228900,
+    "title": "Global smartphone shipments fell 4.1% YoY in Q1, the first decline since 2023, amid a memory chip crunch; Samsung's shipments grew 3.6% and Apple's grew 3.3% (IDC)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p2#a260415p2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p2#a260415p2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<p><a href=\"http://www.techmeme.com/260415/p2#a260415p2\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"http://www.idc.com/\">IDC</a>:<br>\n<span><b><a href=\"https://www.idc.com/resource-center/press-releases/1q26-mpt-top5/\">Global smartphone shipments fell 4.1% YoY in Q1, the first decline since 2023, amid a memory chip crunch; Samsung's shipments grew 3.6% and Apple's grew 3.3%</a></b></span>  —  Limited memory supply and record high memory prices increase pressure on smartphone OEMs to reduce shipments and increase prices that dampen demand.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p2#a260415p2"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f79037c85f8",
+    "crawlTimeMsec": "1776231028393",
+    "timestampUsec": "1776231028393464",
+    "published": 1776230700,
+    "title": "Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules (Financial Times)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p3#a260415p3"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p3#a260415p3",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.ft.com/content/7529e4cd-e336-4b75-917b-84f91bc48437\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i3.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p3#a260415p3\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br>\n<span><b><a href=\"https://www.ft.com/content/7529e4cd-e336-4b75-917b-84f91bc48437\">Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules</a></b></span>  —  Pro-industry campaign groups deploy millions amid growing public support for tighter regulation</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p3#a260415p3"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7a11d5388b",
+    "crawlTimeMsec": "1776235564054",
+    "timestampUsec": "1776235564054667",
+    "published": 1776231000,
+    "title": "Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, saying it shows significant spatial and physical reasoning improvements over ER 1.5 (Google DeepMind)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p4#a260415p4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p4#a260415p4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://deepmind.google/blog/gemini-robotics-er-1-6/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i4.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p4#a260415p4\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://deepmind.google/\">Google DeepMind</a>:<br>\n<span><b><a href=\"https://deepmind.google/blog/gemini-robotics-er-1-6/\">Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, saying it shows significant spatial and physical reasoning improvements over ER 1.5</a></b></span>  —  For robots to be truly helpful in our daily lives and industries, they must do more than follow instructions, they must reason about the physical world.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p4#a260415p4"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7a11d53897",
+    "crawlTimeMsec": "1776235564054",
+    "timestampUsec": "1776235564054679",
+    "published": 1776232500,
+    "title": "Sources and analyst estimates: Uber is on track to spend $7.5B+ on buying robotaxis and $2.5B+ on equity stakes in their makers over the next few years (Financial Times)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p5#a260415p5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p5#a260415p5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.ft.com/content/564c26d9-489c-435b-88f7-2df388e058d3\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i5.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p5#a260415p5\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br>\n<span><b><a href=\"https://www.ft.com/content/564c26d9-489c-435b-88f7-2df388e058d3\">Sources and analyst estimates: Uber is on track to spend $7.5B+ on buying robotaxis and $2.5B+ on equity stakes in their makers over the next few years</a></b></span>  —  Ride-hailing app races to make up lost ground with equity investments and vehicle order commitments  —  Uber has committed more than $10bn … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p5#a260415p5"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7a11d538a0",
+    "crawlTimeMsec": "1776235564054",
+    "timestampUsec": "1776235564054688",
+    "published": 1776234300,
+    "title": "ASML reports Q1 net sales of €8.8B, above €8.5B est., a €2.8B net profit, above €2.5B est., and raises 2026 net sales forecast to €36B to €40B from €34B to €39B (Arjun Kharpal/CNBC)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p6#a260415p6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p6#a260415p6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i6.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p6#a260415p6\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Arjun Kharpal / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br>\n<span><b><a href=\"https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html\">ASML reports Q1 net sales of €8.8B, above €8.5B est., a €2.8B net profit, above €2.5B est., and raises 2026 net sales forecast to €36B to €40B from €34B to €39B</a></b></span>  —  ASML raised its sales forecast for 2026 after it beat first-quarter revenue and profit expectations … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p6#a260415p6"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7a11d538a3",
+    "crawlTimeMsec": "1776235564054",
+    "timestampUsec": "1776235564054691",
+    "published": 1776234600,
+    "title": "Apple endorses the ~$11.6B Amazon-Globalstar deal, noting that it has a &quot;proven track record&quot; with Amazon infrastructure; Apple holds a ~20% stake in Globalstar (Mark Gurman/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p7#a260415p7"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p7#a260415p7",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-14/amazon-globalstar-deal-is-poised-to-boost-apple-s-satellite-ambitions\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i7.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p7#a260415p7\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Mark Gurman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-14/amazon-globalstar-deal-is-poised-to-boost-apple-s-satellite-ambitions\">Apple endorses the ~$11.6B Amazon-Globalstar deal, noting that it has a “proven track record” with Amazon infrastructure; Apple holds a ~20% stake in Globalstar</a></b></span>  —  Amazon.com Inc.'s takeover of Globalstar Inc. is poised to benefit one of the company's biggest rivals in hardware devices: Apple Inc.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p7#a260415p7"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7a11d538a9",
+    "crawlTimeMsec": "1776235564054",
+    "timestampUsec": "1776235564054697",
+    "published": 1776234900,
+    "title": "Asia's startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B (Joanna Glasner/Crunchbase News)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p8#a260415p8"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p8#a260415p8",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i8.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p8#a260415p8\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Joanna Glasner / <a href=\"http://news.crunchbase.com/\">Crunchbase News</a>:<br>\n<span><b><a href=\"https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/\">Asia's startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B</a></b></span>  —  Asia's startup funding swung higher in the first quarter of this year, boosted by a rebound in Chinese venture investment.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p8#a260415p8"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7b1d585a2b",
+    "crawlTimeMsec": "1776240052165",
+    "timestampUsec": "1776240052165163",
+    "published": 1776235800,
+    "title": "Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company's business model, the conversational Turing Test, voice agents, and more (John Collison/Cheeky Pint)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p9#a260415p9"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p9#a260415p9",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://cheekypint.substack.com/p/the-world-of-voice-ai-with-mati-staniszewski\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i9.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p9#a260415p9\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> John Collison / <a href=\"https://cheekypint.substack.com/\">Cheeky Pint</a>:<br>\n<span><b><a href=\"https://cheekypint.substack.com/p/the-world-of-voice-ai-with-mati-staniszewski\">Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company's business model, the conversational Turing Test, voice agents, and more</a></b></span>  —  Mati Staniszewski is the co-founder of ElevenLabs, the research company making audio accessible across languages and voices.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p9#a260415p9"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7c2a2bcd97",
+    "crawlTimeMsec": "1776244562316",
+    "timestampUsec": "1776244562316695",
+    "published": 1776240000,
+    "title": "PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom (Yuliya Chernova/Wall Street Journal)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p10#a260415p10"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p10#a260415p10",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.wsj.com/pro/venture-capital/ai-boom-drives-record-capital-to-late-stage-venture-funds-662a0df0\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i10.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p10#a260415p10\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Yuliya Chernova / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br>\n<span><b><a href=\"https://www.wsj.com/pro/venture-capital/ai-boom-drives-record-capital-to-late-stage-venture-funds-662a0df0\">PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom</a></b></span>  —  U.S.-based growth and late-stage venture funds raised a record $23.6 billion this year so far, according to PitchBook</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p10#a260415p10"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7d375b86b6",
+    "crawlTimeMsec": "1776249078515",
+    "timestampUsec": "1776249078515382",
+    "published": 1776246000,
+    "title": "ByteDance launches its Seedance 2.0 video model to enterprise clients in 100+ countries, excluding the US amid legal disputes, after a February launch in China (Juro Osawa/The Information)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p11#a260415p11"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p11#a260415p11",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<p><a href=\"http://www.techmeme.com/260415/p11#a260415p11\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Juro Osawa / <a href=\"https://www.theinformation.com/\">The Information</a>:<br>\n<span><b><a href=\"https://www.theinformation.com/briefings/bytedance-launches-seedance-2-0-globally-excluding-u-s\">ByteDance launches its Seedance 2.0 video model to enterprise clients in 100+ countries, excluding the US amid legal disputes, after a February launch in China</a></b></span>  —  ByteDance's cloud computing unit has made the company's Seedance 2. AI video generation model available globally to enterprise customers … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p11#a260415p11"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7d375b86c1",
+    "crawlTimeMsec": "1776249078515",
+    "timestampUsec": "1776249078515393",
+    "published": 1776247260,
+    "title": "Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B (Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p12#a260415p12"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p12#a260415p12",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i12.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p12#a260415p12\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan\">Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B</a></b></span>  —  More banks are being invited to join SoftBank Group Corp.'s $40 billion loan backing its investment in US tech giant OpenAI … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p12#a260415p12"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7d375b86ca",
+    "crawlTimeMsec": "1776249078515",
+    "timestampUsec": "1776249078515402",
+    "published": 1776248100,
+    "title": "A US judge issues a $322.2M judgment against pirate library Anna's Archive for scraping Spotify, a largely symbolic victory as the site is anonymously operated (Rachel Scharf/Billboard)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p13#a260415p13"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p13#a260415p13",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i13.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p13#a260415p13\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Rachel Scharf / <a href=\"https://www.billboard.com/\">Billboard</a>:<br>\n<span><b><a href=\"https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/\">A US judge issues a $322.2M judgment against pirate library Anna's Archive for scraping Spotify, a largely symbolic victory as the site is anonymously operated</a></b></span>  —  At least for now, the court judgment is largely a symbolic victory, as no one has identified the anonymous internet users behind Anna's Archive.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p13#a260415p13"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7d375b86d1",
+    "crawlTimeMsec": "1776249078515",
+    "timestampUsec": "1776249078515409",
+    "published": 1776248700,
+    "title": "Memo: Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce, to cut costs and achieve profitability (Alexandra S. Levine/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p14#a260415p14"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p14#a260415p14",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i14.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p14#a260415p14\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Alexandra S. Levine / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability\">Memo: Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce, to cut costs and achieve profitability</a></b></span>  —  Snap Inc. is laying off roughly 1,000 full-time employees, or 16% of its global workforce, part of an effort … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p14#a260415p14"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7e41e23154",
+    "crawlTimeMsec": "1776253550080",
+    "timestampUsec": "1776253550080340",
+    "published": 1776249900,
+    "title": "Spotify launches a feature to buy physical books in the US and UK, powered by Bookshop.org, and expands its Page Match scanning tool to support 30+ languages (Lauren Forristal/TechCrunch)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p15#a260415p15"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p15#a260415p15",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i15.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p15#a260415p15\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Lauren Forristal / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br>\n<span><b><a href=\"https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk/\">Spotify launches a feature to buy physical books in the US and UK, powered by Bookshop.org, and expands its Page Match scanning tool to support 30+ languages</a></b></span>  —  In February, Spotify made an exciting (and a bit unusual) move when it entered the world of physical book sales.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p15#a260415p15"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7e41e23155",
+    "crawlTimeMsec": "1776253550080",
+    "timestampUsec": "1776253550080341",
+    "published": 1776250500,
+    "title": "Tel Aviv-based eToro agrees to acquire crypto wallet provider Zengo, a source says for ~$70M, mostly in cash; Zengo lets traders swap between tokens and fiat (Emily Nicolle/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p16#a260415p16"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p16#a260415p16",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/etoro-etor-to-acquire-crypto-wallet-startup-zengo-in-70-million-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NjI0NTExMSwiZXhwIjoxNzc2ODQ5OTExLCJhcnRpY2xlSWQiOiJUREZCSjNLSzNOWTgwMCIsImJjb25uZWN0SWQiOiIyMkJFQTBDNEVDODU0RDI1OTM4M0Q3Q0UxMzhCQzZBRCJ9.R20hVlLQ-eTRiG_kVIQ19NjxKLpjCdTHoulyL-zGaxg\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i16.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p16#a260415p16\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Emily Nicolle / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/etoro-etor-to-acquire-crypto-wallet-startup-zengo-in-70-million-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NjI0NTExMSwiZXhwIjoxNzc2ODQ5OTExLCJhcnRpY2xlSWQiOiJUREZCSjNLSzNOWTgwMCIsImJjb25uZWN0SWQiOiIyMkJFQTBDNEVDODU0RDI1OTM4M0Q3Q0UxMzhCQzZBRCJ9.R20hVlLQ-eTRiG_kVIQ19NjxKLpjCdTHoulyL-zGaxg\">Tel Aviv-based eToro agrees to acquire crypto wallet provider Zengo, a source says for ~$70M, mostly in cash; Zengo lets traders swap between tokens and fiat</a></b></span>  —  EToro Group Ltd. has agreed to acquire Zengo, a crypto wallet provider, as the trading and investment platform expands its reach into decentralized finance.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p16#a260415p16"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7e41e23160",
+    "crawlTimeMsec": "1776253550080",
+    "timestampUsec": "1776253550080352",
+    "published": 1776251400,
+    "title": "Analysis: nearly 90 schools and 600+ students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 (Matt Burgess/Wired)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p17#a260415p17"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p17#a260415p17",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.wired.com/story/deepfake-nudify-schools-global-crisis/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i17.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p17#a260415p17\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Matt Burgess / <a href=\"http://www.wired.com/\">Wired</a>:<br>\n<span><b><a href=\"https://www.wired.com/story/deepfake-nudify-schools-global-crisis/\">Analysis: nearly 90 schools and 600+ students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023</a></b></span>  —  An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p17#a260415p17"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7f50782fbd",
+    "crawlTimeMsec": "1776258089758",
+    "timestampUsec": "1776258089758653",
+    "published": 1776254100,
+    "title": "The EU unveils an open-source age verification app, which requires showing ID, to shield kids from harmful content, setting the standard for verification tech (Gian Volpicelli/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p18#a260415p18"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p18#a260415p18",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/eu-unveils-age-verification-app-as-social-media-bans-gain-steam\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i18.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p18#a260415p18\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Gian Volpicelli / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/eu-unveils-age-verification-app-as-social-media-bans-gain-steam\">The EU unveils an open-source age verification app, which requires showing ID, to shield kids from harmful content, setting the standard for verification tech</a></b></span>  —  The European Union has unveiled an app to confirm users' age online, setting the standard for verification technology … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p18#a260415p18"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7f50782fd0",
+    "crawlTimeMsec": "1776258089758",
+    "timestampUsec": "1776258089758672",
+    "published": 1776255000,
+    "title": "Trading firm Jane Street takes an additional $1B stake in CoreWeave and plans to spend ~$6B to access CoreWeave's Nvidia Vera Rubin chips to build and deploy AI (Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p19#a260415p19"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p19#a260415p19",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/jane-street-invests-1-billion-in-coreweave-boosts-spending-plans\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i19.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p19#a260415p19\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/jane-street-invests-1-billion-in-coreweave-boosts-spending-plans\">Trading firm Jane Street takes an additional $1B stake in CoreWeave and plans to spend ~$6B to access CoreWeave's Nvidia Vera Rubin chips to build and deploy AI</a></b></span>  —  Jane Street Group, a trading firm, has taken an additional $1 billion stake in AI cloud services provider CoreWeave Inc. and plans … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p19#a260415p19"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7f50782fdb",
+    "crawlTimeMsec": "1776258089758",
+    "timestampUsec": "1776258089758683",
+    "published": 1776256800,
+    "title": "ASML says South Korea surpassed China as its largest market in Q1 2026, with shipments hitting 45% of net system sales, or €2.84B, up from 22% in Q4 2025 (Sarah Jacob/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p20#a260415p20"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p20#a260415p20",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/south-korea-overtook-china-as-asml-s-largest-market-last-quarter\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i20.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p20#a260415p20\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Sarah Jacob / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/south-korea-overtook-china-as-asml-s-largest-market-last-quarter\">ASML says South Korea surpassed China as its largest market in Q1 2026, with shipments hitting 45% of net system sales, or €2.84B, up from 22% in Q4 2025</a></b></span>  —  South Korea emerged as ASML Holding NV's largest market in the first quarter as the country's memory chip makers increase purchases … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p20#a260415p20"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f7f50782feb",
+    "crawlTimeMsec": "1776258089758",
+    "timestampUsec": "1776258089758699",
+    "published": 1776257700,
+    "title": "Survey: 35% of Virginia voters are comfortable with new data center construction, down from 69% in 2023, and 37% support data center tax breaks, down from 61% (Washington Post)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p21#a260415p21"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p21#a260415p21",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.washingtonpost.com/business/2026/04/15/data-centers-poll-virginia/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i21.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p21#a260415p21\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.washingtonpost.com/\">Washington Post</a>:<br>\n<span><b><a href=\"https://www.washingtonpost.com/business/2026/04/15/data-centers-poll-virginia/\">Survey: 35% of Virginia voters are comfortable with new data center construction, down from 69% in 2023, and 37% support data center tax breaks, down from 61%</a></b></span>  —  Virginians previously embraced the facilities, but a Post-Schar School poll finds they are now almost as undesirable as nuclear power plants.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p21#a260415p21"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdf92",
+    "crawlTimeMsec": "1776262609624",
+    "timestampUsec": "1776262609624978",
+    "published": 1776258600,
+    "title": "Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B (Rebecca Torrence/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p22#a260415p22"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p22#a260415p22",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/anthropic-cursor-backer-accel-raises-5-billion-for-big-ai-bets\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i22.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p22#a260415p22\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Rebecca Torrence / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/anthropic-cursor-backer-accel-raises-5-billion-for-big-ai-bets\">Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B</a></b></span>  —  Accel, the venture capital firm that's backed artificial intelligence companies including Anthropic, Cursor and Perplexity … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p22#a260415p22"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdf9b",
+    "crawlTimeMsec": "1776262609624",
+    "timestampUsec": "1776262609624987",
+    "published": 1776259800,
+    "title": "The European Commission issues a supplementary statement of objections threatening Meta with an interim ban on WhatsApp policies that allegedly block AI rivals (Samuel Stolton/Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p23#a260415p23"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p23#a260415p23",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/meta-threatened-with-eu-restrictions-over-whatsapp-ai-concerns\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i23.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p23#a260415p23\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Samuel Stolton / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/meta-threatened-with-eu-restrictions-over-whatsapp-ai-concerns\">The European Commission issues a supplementary statement of objections threatening Meta with an interim ban on WhatsApp policies that allegedly block AI rivals</a></b></span>  —  Meta Platforms Inc. has been threatened with an interim European Union ban on policies that allegedly block rival AI firms … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p23#a260415p23"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdfa5",
+    "crawlTimeMsec": "1776262609624",
+    "timestampUsec": "1776262609624997",
+    "published": 1776260400,
+    "title": "Shoe company Allbirds, which sold last week for $39M after its valuation fell from $4B+ in 2021, says it aims to become an AI compute provider; BIRD jumps 800%+ (Bryce Elder/Financial Times)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p24#a260415p24"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p24#a260415p24",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i24.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p24#a260415p24\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Bryce Elder / <a href=\"https://www.ft.com/\">Financial Times</a>:<br>\n<span><b><a href=\"https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf\">Shoe company Allbirds, which sold last week for $39M after its valuation fell from $4B+ in 2021, says it aims to become an AI compute provider; BIRD jumps 800%+</a></b></span>  —  Ah, zeitgeist:  —  Allbirds is a San Francisco maker of wool trainers that was once valued at more than $4bn.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p24#a260415p24"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdfa6",
+    "crawlTimeMsec": "1776262609624",
+    "timestampUsec": "1776262609624998",
+    "published": 1776260700,
+    "title": "AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February (Kirsten Korosec/TechCrunch)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p25#a260415p25"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p25#a260415p25",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i25.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p25#a260415p25\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Kirsten Korosec / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br>\n<span><b><a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\">AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February</a></b></span>  —  Chipmakers AMD, Arm, and Qualcomm have invested $60 million into UK self-driving technology startup Wayve as part of an extension … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p25#a260415p25"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdfaa",
+    "crawlTimeMsec": "1776262609625",
+    "timestampUsec": "1776262609625002",
+    "published": 1776261000,
+    "title": "London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p26#a260415p26"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p26#a260415p26",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i26.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p26#a260415p26\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Natalie Breymeyer / <a href=\"https://www.axios.com/\">Axios</a>:<br>\n<span><b><a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\">London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users</a></b></span>  —  Gizmo, an AI educational platform, raised a $22 million Series A, CEO Petros Christodoulou tells Axios exclusively.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p26#a260415p26"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f805ddfdfad",
+    "crawlTimeMsec": "1776262609625",
+    "timestampUsec": "1776262609625005",
+    "published": 1776261300,
+    "title": "Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized &quot;brain&quot;, emerges from stealth with a $70M Series A led by Felicis (Sharon Goldman/Fortune)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p27#a260415p27"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p27#a260415p27",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i27.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p27#a260415p27\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Sharon Goldman / <a href=\"http://www.fortune.com/\">Fortune</a>:<br>\n<span><b><a href=\"https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/\">Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized “brain”, emerges from stealth with a $70M Series A led by Felicis</a></b></span>  —  Artemis, a new cybersecurity startup trying to help defenders fight AI-powered attacks with AI, emerged from stealth today … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p27#a260415p27"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f8167b7dba8",
+    "crawlTimeMsec": "1776267069741",
+    "timestampUsec": "1776267069741992",
+    "published": 1776262500,
+    "title": "A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep (Pew Research Center)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p28#a260415p28"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p28#a260415p28",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i28.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p28#a260415p28\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"http://www.pewresearch.org/\">Pew Research Center</a>:<br>\n<span><b><a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\">A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep</a></b></span>  —  Teens largely turn to TikTok, Instagram and Snapchat for fun and connection.  But experiences around messaging, screen time and cyberbullying vary.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p28#a260415p28"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f8167b7dbba",
+    "crawlTimeMsec": "1776267069742",
+    "timestampUsec": "1776267069742010",
+    "published": 1776266400,
+    "title": "Hilbert, whose AI software connects data across teams to help companies make decisions from a single system, raised a $28M Series A led by a16z (Madison Mills/Axios)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p29#a260415p29"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p29#a260415p29",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.axios.com/2026/04/15/exclusive-a16z-backed-hilbert-raises-28-million\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i29.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p29#a260415p29\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> Madison Mills / <a href=\"https://www.axios.com/\">Axios</a>:<br>\n<span><b><a href=\"https://www.axios.com/2026/04/15/exclusive-a16z-backed-hilbert-raises-28-million\">Hilbert, whose AI software connects data across teams to help companies make decisions from a single system, raised a $28M Series A led by a16z</a></b></span>  —  Hilbert, an AI startup rethinking how companies drive growth, raised a $28 million Series A led by Andreessen Horowitz, the startup told Axios exclusively.</p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p29#a260415p29"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f8167b7dbbb",
+    "crawlTimeMsec": "1776267069742",
+    "timestampUsec": "1776267069742011",
+    "published": 1776266700,
+    "title": "Filings: Marc Andreessen and Ben Horowitz donated $25M to pro-AI super PAC Leading the Future, bringing the group's total cash on hand to over $51M (Bloomberg)",
+    "canonical": [
+        {
+            "href": "http://www.techmeme.com/260415/p30#a260415p30"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "http://www.techmeme.com/260415/p30#a260415p30",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/16",
+        "htmlUrl": "http://www.techmeme.com/",
+        "title": "Techmeme",
+        "feedUrl": "https://www.techmeme.com/feed.xml"
+    },
+    "content": {
+        "content": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-15/andreessen-horowitz-boost-ai-super-pac-cash-to-over-50-million\"><img vspace=\"4\" hspace=\"4\" border=\"0\" align=\"RIGHT\" src=\"http://www.techmeme.com/260415/i30.jpg\"></a>\n<p><a href=\"http://www.techmeme.com/260415/p30#a260415p30\" title=\"Techmeme permalink\"><img width=\"11\" height=\"12\" src=\"http://www.techmeme.com/img/pml.png\"></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br>\n<span><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-15/andreessen-horowitz-boost-ai-super-pac-cash-to-over-50-million\">Filings: Marc Andreessen and Ben Horowitz donated $25M to pro-AI super PAC Leading the Future, bringing the group's total cash on hand to over $51M</a></b></span>  —  Venture capitalists Marc Andreessen and Ben Horowitz poured $25 million into a pro-artificial intelligence super political action committee … </p>"
+    },
+    "guid": "http://www.techmeme.com/260415/p30#a260415p30"
+}
+]}

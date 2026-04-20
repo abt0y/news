@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/9",
+    "title": "List of Top Technology News -- ScienceDaily articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064ac37d34c7dc",
+    "crawlTimeMsec": "1771053339953",
+    "timestampUsec": "1771053339953116",
+    "published": 1771047720,
+    "title": "Astronomers watch a massive star collapse into a black hole without a supernova",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223855.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223855.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "A massive star 2.5 million light-years away simply vanished — and astronomers now know why. Instead of exploding in a supernova, it quietly collapsed into a black hole, shedding its outer layers in a slow-motion cosmic fade-out. The leftover debris continues to glow in infrared light, offering a long-lasting signal of the black hole’s birth. The finding reshapes our understanding of how some of the universe’s biggest stars meet their end."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260213223855.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ac37d34c7f5",
+    "crawlTimeMsec": "1771053339953",
+    "timestampUsec": "1771053339953141",
+    "published": 1771051860,
+    "title": "Rocky planet discovered in outer orbit challenges planet formation theory",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Astronomers have uncovered a distant planetary system that flips a long-standing rule of planet formation on its head. Around the small red dwarf star LHS 1903, scientists expected to find rocky planets close in and gas giants farther out — the same pattern seen in our own Solar System and hundreds of others. And at first, that’s exactly what they saw. But new observations revealed a surprise: the outermost planet appears to be rocky, not gaseous."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064acad2b5d4ed",
+    "crawlTimeMsec": "1771084839245",
+    "timestampUsec": "1771084839245037",
+    "published": 1771082340,
+    "title": "Brain inspired machines are better at math than expected",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Neuromorphic computers modeled after the human brain can now solve the complex equations behind physics simulations — something once thought possible only with energy-hungry supercomputers. The breakthrough could lead to powerful, low-energy supercomputers while revealing new secrets about how our brains process information."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064aed65f5d793",
+    "crawlTimeMsec": "1771233338578",
+    "timestampUsec": "1771233338578835",
+    "published": 1771230360,
+    "title": "Universe may end in a “big crunch,” new dark energy data suggests",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225537.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225537.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "New data from major dark-energy observatories suggest the universe may not expand forever after all. A Cornell physicist calculates that the cosmos is heading toward a dramatic reversal: after reaching its maximum size in about 11 billion years, it could begin collapsing, ultimately ending in a “big crunch” roughly 20 billion years from now."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260215225537.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064af196e93e38",
+    "crawlTimeMsec": "1771251339705",
+    "timestampUsec": "1771251339705912",
+    "published": 1771242720,
+    "title": "Scientists confirm one-dimensional electron behavior in phosphorus chains",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225541.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225541.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "For the first time, researchers have shown that self-assembled phosphorus chains can host genuinely one-dimensional electron behavior. Using advanced imaging and spectroscopy techniques, they separated the signals from chains aligned in different directions to reveal their true nature. The findings suggest that squeezing the chains closer together could trigger a dramatic shift from semiconductor to metal. That means simply adjusting density could unlock entirely new electronic states."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260215225541.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064afd1e18cff3",
+    "crawlTimeMsec": "1771300852387",
+    "timestampUsec": "1771300852387827",
+    "published": 1771249500,
+    "title": "Majorana qubits decoded in quantum computing breakthrough",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260216084525.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260216084525.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists have developed a new way to read the hidden states of Majorana qubits, which store information in paired quantum modes that resist noise. The results confirm their protected nature and show millisecond scale coherence, bringing robust quantum computers closer to reality."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260216084525.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b043e47b148",
+    "crawlTimeMsec": "1771331457102",
+    "timestampUsec": "1771331457102152",
+    "published": 1771315080,
+    "title": "The surprisingly simple flaw that can undermine quantum encryption",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225608.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260215225608.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Quantum key distribution promises ultra-secure communication by using the strange rules of quantum physics to detect eavesdroppers instantly. But even the most secure quantum link can falter if the transmitter and receiver aren’t perfectly aligned. Researchers have now taken a deep dive into this often-overlooked issue, building a powerful new analytical framework to understand how tiny beam misalignments—caused by vibrations, turbulence, or mechanical flaws—disrupt secure key generation."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260215225608.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b043e47b16b",
+    "crawlTimeMsec": "1771331457102",
+    "timestampUsec": "1771331457102187",
+    "published": 1771326900,
+    "title": "Ultra-fast pulsar found near the Milky Way’s supermassive black hole",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260217005751.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260217005751.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists scanning the heart of the Milky Way have spotted a tantalizing signal: a possible ultra-fast pulsar spinning every 8.19 milliseconds near Sagittarius A*, the supermassive black hole at our galaxy’s core. Pulsars act like incredibly precise cosmic clocks, and finding one in this extreme environment could open a rare window into how space-time behaves under intense gravity."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260217005751.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b1931dca96a",
+    "crawlTimeMsec": "1771421443074",
+    "timestampUsec": "1771421443074410",
+    "published": 1771418940,
+    "title": "The Moon is still shrinking and it could trigger more moonquakes",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Researchers have uncovered more than a thousand previously unknown tectonic ridges across the Moon’s dark plains, showing the Moon is still contracting and reshaping itself. These features are among the youngest geological structures on the lunar surface. Because they form through the same forces linked to past moonquakes, they could signal new seismic hotspots."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b1b4a3813e3",
+    "crawlTimeMsec": "1771430441653",
+    "timestampUsec": "1771430441653219",
+    "published": 1771425180,
+    "title": "A spinning gyroscope could finally unlock ocean wave energy",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Ocean waves are a vast and steady source of renewable energy, but capturing their power efficiently has long frustrated engineers. A researcher at The University of Osaka has now explored a bold new approach: a gyroscopic wave energy converter that uses a spinning flywheel inside a floating structure to turn wave motion into electricity. By harnessing gyroscopic precession—the subtle wobble of a spinning object under force—the system can be tuned to absorb energy across a wide range of wave conditions."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260218031554.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b27dd01e06e",
+    "crawlTimeMsec": "1771484443959",
+    "timestampUsec": "1771484443959406",
+    "published": 1771478220,
+    "title": "New sodium ion battery stores twice the energy and desalinates seawater",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031603.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031603.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "A surprising breakthrough could help sodium-ion batteries rival lithium—and even turn seawater into drinking water. Scientists discovered that keeping water inside a key battery material, instead of removing it as traditionally done, dramatically boosts performance. The “wet” version stores nearly twice as much charge, charges faster, and remains stable for hundreds of cycles, placing it among the top-performing sodium battery materials ever reported."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260218031603.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b27dd01e07c",
+    "crawlTimeMsec": "1771484443959",
+    "timestampUsec": "1771484443959420",
+    "published": 1771480320,
+    "title": "AI breakthrough could replace rare earth magnets in electric vehicles",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists at the University of New Hampshire have unleashed artificial intelligence to dramatically speed up the hunt for next-generation magnetic materials. By building a massive, searchable database of 67,573 magnetic compounds — including 25 newly recognized materials that stay magnetic even at high temperatures — the team is opening the door to cheaper, more sustainable technologies."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b2f32956f21",
+    "crawlTimeMsec": "1771515944464",
+    "timestampUsec": "1771515944464161",
+    "published": 1771510800,
+    "title": "Atom-sized gates could transform DNA sequencing and neuromorphic computing",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists have taken a major step toward mimicking nature’s tiniest gateways by creating ultra-small pores that rival the dimensions of biological ion channels—just a few atoms wide. The breakthrough opens new possibilities for single-molecule sensing, neuromorphic computing, and studying how matter behaves in spaces barely larger than atoms."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b43bcdbfe1e",
+    "crawlTimeMsec": "1771604163690",
+    "timestampUsec": "1771604163690014",
+    "published": 1771575480,
+    "title": "Oxford breakthrough could make lithium-ion batteries charge faster and last much longer",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260220010830.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260220010830.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Oxford researchers have found a way to visualize one of the most hidden — yet critical — components inside lithium-ion batteries. By tagging polymer binders with traceable markers, they revealed how these tiny materials are distributed at the nanoscale and how that affects charging speed and durability. Small manufacturing adjustments reduced internal resistance by up to 40%, potentially unlocking fastcer charging. The technique could help improve both today’s batteries and next-generation designs."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260220010830.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b43bcdbfe23",
+    "crawlTimeMsec": "1771604163690",
+    "timestampUsec": "1771604163690019",
+    "published": 1771596180,
+    "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Qubits, the heart of quantum computers, can change performance in fractions of a second — but until now, scientists couldn’t see it happening. Researchers at NBI have built a real-time monitoring system that tracks these rapid fluctuations about 100 times faster than previous methods. Using fast FPGA-based control hardware, they can instantly identify when a qubit shifts from “good” to “bad.” The discovery opens a new path toward stabilizing and scaling future quantum processors."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b547e9dae98",
+    "crawlTimeMsec": "1771676133863",
+    "timestampUsec": "1771676133863064",
+    "published": 1771657020,
+    "title": "NASA’s Hubble spots nearly invisible “ghost galaxy” made of 99% dark matter",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Astronomers have uncovered one of the most mysterious galaxies ever found — a dim, ghostly object called CDG-2 that is almost entirely made of dark matter. Located 300 million light-years away in the Perseus galaxy cluster, it was discovered in an unusual way: not by its stars, but by four tightly packed globular clusters acting like cosmic breadcrumbs."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260221000307.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b547e9dae9a",
+    "crawlTimeMsec": "1771676133863",
+    "timestampUsec": "1771676133863066",
+    "published": 1771659060,
+    "title": "James Webb Space Telescope captures strange magnetic forces warping Uranus",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "For the first time, scientists have mapped Uranus’s upper atmosphere in three dimensions, tracking temperatures and charged particles up to 5,000 kilometers above the clouds. Webb’s sharp vision revealed glowing auroral bands and unexpected dark regions shaped by the planet’s wildly tilted magnetic field."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260221000303.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b547e9daef2",
+    "crawlTimeMsec": "1771676133863",
+    "timestampUsec": "1771676133863154",
+    "published": 1771672620,
+    "title": "Generative AI analyzes medical data faster than human research teams",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced the time needed to process health data. The findings hint at a future where AI helps scientists move faster from data to discovery."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b547e9daf0e",
+    "crawlTimeMsec": "1771676133863",
+    "timestampUsec": "1771676133863182",
+    "published": 1771675800,
+    "title": "Scientists may have found the holy grail of quantum computing",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use. Early experiments suggest the alloy NbRe behaves unlike any conventional superconductor. If verified, it could become a cornerstone of next-generation quantum and spintronic technology."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b7d25e23393",
+    "crawlTimeMsec": "1771850738840",
+    "timestampUsec": "1771850738840467",
+    "published": 1771827540,
+    "title": "Young Mars volcano hides a powerful magma engine beneath the surface",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the magma changed over time, hinting at different depths and storage histories. Mars’ interior was far more active than previously believed."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b7d25e23395",
+    "crawlTimeMsec": "1771850738840",
+    "timestampUsec": "1771850738840469",
+    "published": 1771832820,
+    "title": "Why the outer solar system is filled with giant cosmic “snowmen”",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260222085206.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260222085206.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Far beyond Neptune, in the frozen depths of the Kuiper Belt, many ancient objects oddly resemble giant snowmen made of ice and rock. For years, scientists wondered how these delicate two-lobed shapes could form without violent collisions tearing them apart. Now researchers at Michigan State University have recreated the process in a powerful new simulation, showing that simple gravitational collapse can naturally produce these cosmic “snowmen.”"
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260222085206.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b8de97ad0d0",
+    "crawlTimeMsec": "1771922739876",
+    "timestampUsec": "1771922739876048",
+    "published": 1771917960,
+    "title": "Massive US study finds higher cancer death rates near nuclear power plants",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224015537.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224015537.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "A sweeping nationwide study has found that U.S. counties located closer to operating nuclear power plants have higher cancer death rates than those farther away. Researchers analyzed data from every nuclear facility and all U.S. counties between 2000 and 2018, adjusting for income, education, smoking, obesity, environmental conditions, and access to health care. Even after accounting for those factors, cancer mortality was higher in communities nearer to nuclear plants, particularly among older adults."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224015537.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b8de97ad0de",
+    "crawlTimeMsec": "1771922739876",
+    "timestampUsec": "1771922739876062",
+    "published": 1771919580,
+    "title": "Scientists create ultra-low loss optical device that traps light on a chip",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224015540.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224015540.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "CU Boulder researchers have designed microscopic “racetracks” that trap and amplify light with exceptional efficiency. By using smooth curves inspired by highway engineering, they reduced energy loss and kept light circulating longer inside the device. Fabricated with sub-nanometer precision, the resonators rank among the top performers made from chalcogenide glass. The technology could lead to compact sensors, microlasers, and advanced quantum systems."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224015540.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b9509d3dde9",
+    "crawlTimeMsec": "1771953347354",
+    "timestampUsec": "1771953347354089",
+    "published": 1771942140,
+    "title": "Can solar storms trigger earthquakes? Scientists propose surprising link",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists have proposed a surprising connection between solar flares and earthquakes. When solar activity disturbs the ionosphere, it may generate electric fields that penetrate fragile fracture zones in Earth’s crust. If a fault is already critically stressed, this extra electrostatic pressure could help trigger a quake. The idea doesn’t claim direct causation, but it offers a fresh way to think about how space weather and seismic events might interact."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b9509d3ddee",
+    "crawlTimeMsec": "1771953347354",
+    "timestampUsec": "1771953347354094",
+    "published": 1771945500,
+    "title": "Something strange is happening in the Milky Way’s magnetic field",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023207.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023207.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Deep inside the Milky Way, an invisible force is quietly holding everything together — its magnetic field. Now, researchers have created one of the most detailed maps ever of this hidden structure, revealing surprising twists in how it flows through our galaxy."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224023207.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b9509d3de34",
+    "crawlTimeMsec": "1771953347354",
+    "timestampUsec": "1771953347354164",
+    "published": 1771951800,
+    "title": "50 year quest ends with creation of silicon aromatic once thought impossible",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "After nearly 50 years of failed attempts and scientific speculation, chemists at Saarland University have achieved what many thought might be impossible: creating a long-sought silicon-based aromatic molecule. By replacing carbon atoms in a famously stable ring-shaped compound with silicon, the team synthesized pentasilacyclopentadienide — a breakthrough published in Science."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224023205.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ba8f30fd6f2",
+    "crawlTimeMsec": "1772038864754",
+    "timestampUsec": "1772038864754418",
+    "published": 1772019780,
+    "title": "A simple chemical tweak could supercharge quantum computers",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023211.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260224023211.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Quantum computers need special materials called topological superconductors—but they’ve been notoriously difficult to create. Researchers have now shown they can trigger this exotic state by subtly adjusting the mix of tellurium and selenium in ultra-thin films. That tiny chemical tweak changes how electrons interact, effectively turning a quantum phase “dial” until the ideal state appears. The result is a more practical path toward building stable, next-generation quantum devices."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260224023211.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ba8f30fd6f9",
+    "crawlTimeMsec": "1772038864754",
+    "timestampUsec": "1772038864754425",
+    "published": 1772028780,
+    "title": "NASA study finds ancient life could survive 50 million years in Martian ice",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The findings point future missions toward drilling into clean, buried ice rather than studying rocks or dirt."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bbcd9ce054c",
+    "crawlTimeMsec": "1772124340356",
+    "timestampUsec": "1772124340356428",
+    "published": 1772121780,
+    "title": "Apollo rocks reveal the Moon had brief bursts of super-strong magnetism",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists at the University of Oxford have finally settled a decades-long mystery about the Moon’s magnetic field — and it turns out both sides were right. By reanalyzing Apollo mission rocks, they discovered that the Moon did occasionally generate an incredibly powerful magnetic field, even stronger than Earth’s — but only for fleeting bursts lasting thousands of years or less. Most of the time, the Moon’s magnetic field was weak."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260226042445.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bbde6002c51",
+    "crawlTimeMsec": "1772128839937",
+    "timestampUsec": "1772128839937105",
+    "published": 1772122980,
+    "title": "Researchers unlock hidden dimensions inside a single photon",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042500.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042500.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Researchers have discovered new ways to shape quantum light, creating high-dimensional states that can carry much more information per photon. Using advanced tools like on-chip photonics and ultrafast light structuring, they’re pushing quantum communication and imaging into exciting new territory. Although long-distance transmission remains tricky, innovative approaches—such as topological quantum states—could make these fragile signals far more resilient. The momentum suggests quantum optics is entering a bold new phase."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260226042500.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bc754493562",
+    "crawlTimeMsec": "1772169344922",
+    "timestampUsec": "1772169344922978",
+    "published": 1772168280,
+    "title": "Green hydrogen has a hidden problem and scientists may have fixed it",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042452.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042452.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Green hydrogen could be a game-changer for the clean energy transition—but right now, it’s too expensive and still relies on harmful “forever chemicals.” A new EU-backed project called SUPREME aims to fix that by reinventing how hydrogen is made. Led by the University of Southern Denmark with partners across Europe, researchers are developing a PFAS-free electrolysis system that slashes the use of rare metals like iridium and dramatically cuts costs."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260226042452.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bcb85661966",
+    "crawlTimeMsec": "1772187348769",
+    "timestampUsec": "1772187348769126",
+    "published": 1772185500,
+    "title": "New engine uses the freezing cold of space to generate power at night",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042456.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260226042456.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Engineers at UC Davis have built a remarkable device that creates power at night by tapping into something we rarely think about: the vast cold of outer space. Using a special type of Stirling engine, the system links the warmth of the ground to the freezing depths above us, generating mechanical energy simply from the natural temperature difference after sunset."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260226042456.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bd1997f0208",
+    "crawlTimeMsec": "1772213455749",
+    "timestampUsec": "1772213455749640",
+    "published": 1772207460,
+    "title": "Scientists turn methane into medicine in stunning breakthrough",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists have unveiled a breakthrough way to turn natural gas—long burned as fuel—into valuable chemical building blocks for medicines and other high-demand products. By designing a clever iron-based catalyst powered by LED light, researchers managed to activate stubborn molecules like methane and transform them into complex compounds, even creating the hormone therapy drug dimestrol directly from methane for the first time."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260227071916.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bd1997f021a",
+    "crawlTimeMsec": "1772213455749",
+    "timestampUsec": "1772213455749658",
+    "published": 1772208480,
+    "title": "Iron outperforms rare metals in stunning chemistry advance",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Researchers at Nagoya University have created a more efficient iron-based photocatalyst that could reduce the need for rare and expensive metals in advanced chemistry. Unlike earlier designs, the new catalyst uses far fewer costly chiral ligands while still precisely controlling the three dimensional structure of molecules."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260227061821.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bd1997f0233",
+    "crawlTimeMsec": "1772213455749",
+    "timestampUsec": "1772213455749683",
+    "published": 1772211660,
+    "title": "A lost moon may have created Titan and Saturn’s rings",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its iconic rings. Clues come from Titan’s unusual orbit, its surprisingly smooth surface, and the strange behavior of the tumbling moon Hyperion."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bd2a527340d",
+    "crawlTimeMsec": "1772217946289",
+    "timestampUsec": "1772217946289165",
+    "published": 1772212500,
+    "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas stretching across its center, similar to the one in our own Milky Way."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064be25be28009",
+    "crawlTimeMsec": "1772285436526",
+    "timestampUsec": "1772285436526601",
+    "published": 1772284980,
+    "title": "This plastic is made from milk and it vanishes in 13 weeks",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists racing to tackle plastic pollution have created a surprising new contender: a biodegradable packaging film made partly from milk protein. Researchers at Flinders University blended calcium caseinate with starch and natural nanoclay to form a thin, durable material designed to mimic everyday plastic. In soil tests, the film fully broke down in about 13 weeks, pointing to a realistic alternative for single-use food packaging."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bf75098335c",
+    "crawlTimeMsec": "1772375441421",
+    "timestampUsec": "1772375441421148",
+    "published": 1772366760,
+    "title": "Jupiter’s moons may have formed with the ingredients for life",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093443.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093443.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Jupiter’s icy moons may have been seeded with the chemical ingredients for life from the very beginning. An international team of scientists modeled how complex organic molecules—essential building blocks for biology—could have formed in the swirling disk of gas and dust around the young Sun and later been carried into Jupiter’s own moon-forming disk. Their results suggest that up to half of the icy material that built moons like Europa, Ganymede, and Callisto may have delivered freshly made organic compounds without being chemically destroyed."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260228093443.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bf750983380",
+    "crawlTimeMsec": "1772375441421",
+    "timestampUsec": "1772375441421184",
+    "published": 1772369700,
+    "title": "A faint cosmic hum could solve the Universe’s expansion mystery",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Astronomers have long known the universe is expanding—but exactly how fast remains one of the biggest mysteries in cosmology. Different techniques for measuring the Hubble constant stubbornly disagree, creating the so-called “Hubble tension.” Now researchers at the University of Illinois Urbana-Champaign and the University of Chicago have unveiled a bold new way to weigh in on the debate using gravitational waves—the faint ripples in spacetime produced by colliding black holes."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bf7509833b3",
+    "crawlTimeMsec": "1772375441421",
+    "timestampUsec": "1772375441421235",
+    "published": 1772372400,
+    "title": "For the first time, light mimics a Nobel Prize quantum effect",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Scientists have pulled off a feat long considered out of reach: getting light to mimic the famous quantum Hall effect. In their experiment, photons drift sideways in perfectly defined, quantized steps—just like electrons do in powerful magnetic fields. Because these steps depend only on nature’s fundamental constants, they could become a new gold standard for ultra-precise measurements. The discovery also hints at tougher, more reliable quantum photonic technologies."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260228093446.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064bf96a2eed15",
+    "crawlTimeMsec": "1772384460664",
+    "timestampUsec": "1772384460664085",
+    "published": 1772382540,
+    "title": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynamic droplets of natural glass stretch across more than 900 kilometers and may mark one of South America’s most significant ancient impact events."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0920e37b49",
+    "crawlTimeMsec": "1772451950459",
+    "timestampUsec": "1772451950459721",
+    "published": 1772410260,
+    "title": "New crystal seeding method boosts perovskite solar cell efficiency to 23%",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260301190354.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260301190354.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Inverted perovskite solar cells offer strong potential for scalable, low-cost solar power, but a hidden interface inside the device has limited their performance and durability. Researchers have now introduced crystal-solvate nanoseeds that guide crystal growth and release solvent in a controlled way during heating, improving film quality at this buried layer. The result is smoother, denser material with better electronic properties and stability. A large mini-module achieved 23.15% efficiency with minimal scaling losses."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260301190354.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0920e37b4a",
+    "crawlTimeMsec": "1772451950459",
+    "timestampUsec": "1772451950459722",
+    "published": 1772438040,
+    "title": "Scientists just turned light into a remote control for crystals",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260301190404.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260301190404.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "NYU researchers have found a way to use light to control how microscopic particles assemble into crystals, effectively turning illumination into a tool for shaping matter. By adding light-sensitive molecules to a liquid filled with tiny particles, they can adjust how strongly the particles attract or repel one another simply by changing the light’s intensity or pattern. This allows them to trigger crystals to form, dissolve, or even be reshaped in real time."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260301190404.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0920e37b4b",
+    "crawlTimeMsec": "1772451950459",
+    "timestampUsec": "1772451950459723",
+    "published": 1772441100,
+    "title": "A tiny twist creates giant magnetic skyrmions in 2D crystals",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030654.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030654.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Twisting atomically thin magnetic layers does more than reshape their electronics—it can create giant, topological magnetic textures. In chromium triiodide, researchers observed skyrmion-like patterns stretching far beyond the expected moiré scale, reaching hundreds of nanometers. Even more surprising, their size doesn’t simply follow the twist pattern but peaks at a specific angle. This twist-controlled magnetism could pave the way for low-power spintronic devices built from geometry alone."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260302030654.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0920e37b4c",
+    "crawlTimeMsec": "1772451950459",
+    "timestampUsec": "1772451950459724",
+    "published": 1772441640,
+    "title": "Hidden oceans on icy moons may be boiling beneath the surface",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Icy moons circling the outer planets may be far more dynamic—and explosive—than they appear. New research suggests that when heat from tidal forces melts their ice shells from below, the sudden drop in pressure could cause hidden oceans to boil beneath the surface. On smaller moons like Enceladus, Mimas, and Miranda, this process may help explain strange features such as Enceladus’ tiger stripes and Miranda’s towering cliffs."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260302030646.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0e5f04a76b",
+    "crawlTimeMsec": "1772474467657",
+    "timestampUsec": "1772474467657579",
+    "published": 1772463840,
+    "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c1f20ec3bb2",
+    "crawlTimeMsec": "1772546440313",
+    "timestampUsec": "1772546440313778",
+    "published": 1772542200,
+    "title": "The hidden technology that could unlock commercial fusion power",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Fusion energy may be one of the most promising clean power sources of the future—but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Department of Energy–sponsored report urges major investment in advanced diagnostic tools—the high-tech “sensors” that track plasma temperature, density, and behavior inside fusion systems. Bringing together 70 experts from universities, national labs, and private industry, the workshop identified seven priority areas ranging from burning plasma to full-scale pilot plants."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c224581366e",
+    "crawlTimeMsec": "1772559938958",
+    "timestampUsec": "1772559938958958",
+    "published": 1772542980,
+    "title": "A flash of laser light flips a magnet in major light-control breakthrough",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Researchers at the University of Basel and the ETH in Zurich have succeeded in changing the polarity of a special ferromagnet using a laser beam. In the future, this method could be used to create adaptable electronic circuits with light."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c2245813670",
+    "crawlTimeMsec": "1772559938958",
+    "timestampUsec": "1772559938958960",
+    "published": 1772544300,
+    "title": "James Webb spots a galaxy with tentacles in deep space",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "Astronomers using the James Webb Space Telescope have spotted the most distant “jellyfish galaxy” ever seen — a cosmic oddity streaming long, tentacle-like trails of gas and newborn stars as it speeds through a dense galaxy cluster. The galaxy appears as it was 8.5 billion years ago, revealing that the early universe may have been far more violent than scientists expected."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260303050635.htm"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c2245813672",
+    "crawlTimeMsec": "1772559938958",
+    "timestampUsec": "1772559938958962",
+    "published": 1772545980,
+    "title": "Blasted off Mars and still alive",
+    "canonical": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/9",
+        "htmlUrl": "https://www.sciencedaily.com/news/top/technology/",
+        "title": "Top Technology News -- ScienceDaily",
+        "feedUrl": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    "content": {
+        "content": "A famously resilient bacterium may be tough enough to survive one of the most violent events imaginable on Mars. In laboratory experiments designed to mimic the crushing shock of a massive asteroid impact, researchers squeezed Deinococcus radiodurans between steel plates and blasted it with pressures reaching 3 GPa (30,000 times atmospheric pressure). Even under these extreme conditions, a significant portion of the microbes survived."
+    },
+    "guid": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm"
+}
+]}

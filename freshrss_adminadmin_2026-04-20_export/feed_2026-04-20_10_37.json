@@ -1,0 +1,2093 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/37",
+    "title": "List of InfoQ articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064ce6d480e556",
+    "crawlTimeMsec": "1773404151670",
+    "timestampUsec": "1773404151670102",
+    "published": 1773402060,
+    "title": "Presentation: Beyond the Code: Hiring for Cultural Alignment",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/presentations/cultural-alignment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/presentations/cultural-alignment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Hiring",
+        "QCon London 2025",
+        "Culture",
+        "Transcripts",
+        "Culture & Methods",
+        "presentation"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/presentations/cultural-alignment/en/mediumimage/alicia-collymore-medium-1772013230299.jpeg\"><p>Alicia Collymore discusses the critical role of cultural alignment in building high-performing engineering teams. She explains how to move beyond \"vibes\" by identifying specific attributes in company values and assessing them during coding challenges and system design sessions. She shares practical advice on using interview debriefs, assessment criteria, and \"culture add\" to drive growth.</p> <i>By Alicia Collymore</i>"
+    },
+    "guid": "https://www.infoq.com/presentations/cultural-alignment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Alicia Collymore"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce6d480e56b",
+    "crawlTimeMsec": "1773404151670",
+    "timestampUsec": "1773404151670123",
+    "published": 1773403200,
+    "title": "Netflix Uncovers Kernel-Level Bottlenecks While Scaling Containers on Modern CPUs",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Containers",
+        "Netflix",
+        "Scalability",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/netflix-kernel-scaling-container/en/headerimage/generatedHeaderImage-1772720450776.jpg\"><p>Engineers at Netflix have uncovered deep performance bottlenecks in container scaling that trace not to Kubernetes or containerd alone, but into the CPU architecture and Linux kernel itself.</p> <i>By Craig Risi</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Craig Risi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce8ec318e21",
+    "crawlTimeMsec": "1773413139058",
+    "timestampUsec": "1773413139058209",
+    "published": 1773411120,
+    "title": "DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Simulation",
+        "Large language models",
+        "Automated testing",
+        "Prompt Engineering",
+        "Automated Machine Learning",
+        "Architecture",
+        "Automation",
+        "Design",
+        "Testing",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "ChatBots",
+        "Test Automation",
+        "Architecture & Design",
+        "AI",
+        "ML & Data Engineering",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/en/headerimage/llmsimulation-1772868016503.jpeg\"><p>DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.</p> <i>By Leela Kumili</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Leela Kumili"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cf761978879",
+    "crawlTimeMsec": "1773475238217",
+    "timestampUsec": "1773475238217849",
+    "published": 1773474540,
+    "title": "Cloudflare Introduces Support for ASPA, an Emerging Internet Routing Security Standard",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Network Security",
+        "Cloudflare",
+        "IETF",
+        "Security",
+        "Networking",
+        "Routing",
+        "DevOps",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/cloudflare-aspa-standard/en/headerimage/generatedHeaderImage-1772470473366.jpg\"><p>Cloudflare recently announced support for ASPA (Autonomous System Provider Authorization). The new cryptographic standard helps make Internet routing safer by verifying the path data takes across networks to reach its destination and preventing traffic from traversing unreliable or untrusted networks.</p> <i>By Renato Losio</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Renato Losio"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cfa861d0d91",
+    "crawlTimeMsec": "1773488735849",
+    "timestampUsec": "1773488735849873",
+    "published": 1773485940,
+    "title": "Google Researchers Propose Bayesian Teaching Method for Large Language Models",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/google-bayesian-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/google-bayesian-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Google",
+        "Model Distillation",
+        "Deep Learning",
+        "Large language models",
+        "Machine Learning",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/google-bayesian-llm/en/headerimage/generatedHeaderImage-1773345854528.jpg\"><p>Google Research has proposed a training method that teaches large language models to approximate Bayesian reasoning by learning from the predictions of an optimal Bayesian system. The approach focuses on improving how models update beliefs as they receive new information during multi-step interactions.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/google-bayesian-llm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d01dd3ee956",
+    "crawlTimeMsec": "1773520262457",
+    "timestampUsec": "1773520262457686",
+    "published": 1773518400,
+    "title": "How Grab Optimizes Image Caching on Android with Time-Aware LRU",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/grab-tlru-image-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/grab-tlru-image-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Mobile",
+        "Android",
+        "Open Source",
+        "Caching",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/grab-tlru-image-cache/en/headerimage/android-grab-image-cache-1773515077045.jpeg\"><p>To improve image cache management in their Android app, Grab engineers transitioned from a Least Recently Used (LRU) cache to a Time-Aware Least Recently Used (TLRU) cache, enabling them to reclaim storage more effectively without degrading user experience or increasing server costs.</p> <i>By Sergio De Simone</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/grab-tlru-image-cache/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Sergio De Simone"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0c5769f73f",
+    "crawlTimeMsec": "1773565261772",
+    "timestampUsec": "1773565261772607",
+    "published": 1773561600,
+    "title": "Elastic Releases Version 9.3.0 with Enhanced AI Tools and OTel Support",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/elastic-9-3-gpu-vector-indexing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/elastic-9-3-gpu-vector-indexing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cloud",
+        "Search",
+        "Open Source Projects",
+        "Observability",
+        "DevOps",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/elastic-9-3-gpu-vector-indexing/en/headerimage/header-1772835595760.jpeg\"><p>Elastic 9.3.0 is now available, featuring enhanced vector search indexing for RAG applications and significant upgrades to the ES|QL query language. The release deepens OpenTelemetry integration for vendor-neutral observability and updates the AI Assistant with better contextual analysis. Security visibility is also expanded across Kubernetes and serverless architectures.</p> <i>By Mark Silvester</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/elastic-9-3-gpu-vector-indexing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Mark Silvester"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0e6f6e7c57",
+    "crawlTimeMsec": "1773574254656",
+    "timestampUsec": "1773574254656599",
+    "published": 1773569280,
+    "title": "AWS Launches Managed Openclaw on Lightsail amid Critical Security Vulnerabilities",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cloud",
+        "Agents",
+        "Common Vulnerabilities and Exposures",
+        "OpenAI",
+        "Cloud Security",
+        "AWS",
+        "Security",
+        "DevOps",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/aws-lightsail-openclaw-security/en/headerimage/generatedHeaderImage-1772738153368.jpg\"><p>AWS launched managed OpenClaw on Lightsail for AI agent deployment while security concerns mount. The 250k-star GitHub project is affected by CVE-2026-25253, which enables one-click RCE, with 17,500+ vulnerable instances exposed. Bitdefender found 20% of ClawHub skills malicious. AWS blueprint provides automated hardening, but doesn't address architectural security limits.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d1c0d73b522",
+    "crawlTimeMsec": "1773632740373",
+    "timestampUsec": "1773632740373794",
+    "published": 1773628200,
+    "title": "Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "JDK 27",
+        "Open Liberty",
+        "Project Valhalla",
+        "Java Operator SDK",
+        "Helidon",
+        "Spring Framework",
+        "Java",
+        "JHipster",
+        "JDK 26",
+        "OpenXava",
+        "Micrometer",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/java-news-roundup-mar09-2026/en/headerimage/java-istock-image-01-1773563751851.jpg\"><p>This week's Java roundup for March 9th, 2026, features news highlighting: the GA release of JHipster 9.0; Build 27-jep401ea of Project Valhalla; point releases of Spring Tools, Helidon, OpenXava and Java Operator SDK; a maintenance release of Spring Framework; the beta release of the March 2026 edition of Open Liberty; and milestone releases of Micrometer Metrics and Micrometer Tracing.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2257079ffa",
+    "crawlTimeMsec": "1773659744608",
+    "timestampUsec": "1773659744608250",
+    "published": 1773658800,
+    "title": "Podcast: Andres Almiray on How to Release Any Software to Any OS with JReleaser",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/podcasts/release-software-jreleaser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/podcasts/release-software-jreleaser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Architecture",
+        "Software Supply Chain",
+        "JReleaser",
+        "The InfoQ Podcast",
+        "Architecture & Design",
+        "podcast"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/podcasts/release-software-jreleaser/en/smallimage/the-infoq-podcast-logo-thumbnail-1773312603825.jpg\"><p>Andres Almiray, a serial open-source contributor and the creator of JReleaser, discusses the project's state, noting that the tool is usable across any ecosystem, not just Java. He also touches on the Common House Foundation's mission.</p> <i>By Andres Almiray</i>"
+    },
+    "guid": "https://www.infoq.com/podcasts/release-software-jreleaser/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Andres Almiray"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2257079ffb",
+    "crawlTimeMsec": "1773659744608",
+    "timestampUsec": "1773659744608251",
+    "published": 1773658800,
+    "title": "Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Agents",
+        "AI Architecture",
+        "Metrics",
+        "Development",
+        "Architecture & Design",
+        "AI",
+        "ML & Data Engineering",
+        "article"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/articles/evaluating-ai-agents-lessons-learned/en/headerimage/evaluating-ai-agents-lessons-learned-header-1773307288872.jpg\"><p>This article introduces practical methods for evaluating AI agents operating in real-world environments. It explains how to combine benchmarks, automated evaluation pipelines, and human review to measure reliability, task success, and multi-step agent behavior. The article also discusses the challenges of evaluating systems that plan, use tools, and operate across multiple interaction turns.</p> <i>By Amit Kumar Padhy</i>"
+    },
+    "guid": "https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Amit Kumar Padhy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2363727a97",
+    "crawlTimeMsec": "1773664247904",
+    "timestampUsec": "1773664247904919",
+    "published": 1773660900,
+    "title": "Devnexus 2026: Focus on AI with Core Java, Java Frameworks, Security and Career Mentoring",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/devnexus-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/devnexus-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Women in Technology",
+        "Java",
+        "Coaching and Mentoring",
+        "DevNexus",
+        "Artificial Intelligence",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/devnexus-2026/en/headerimage/java-istock-image-01-1773660621384.jpg\"><p>Celebrating its 23rd year, Devnexus 2026 was held from March 4-6, 2026 at the Georgia World Congress Center in Atlanta, Georgia. The event featured speakers from the Java community who delivered workshops and talks under tracks such as: AI Generative; AI in Practice; Core Java; Java Frameworks; and Security and Developer Tools.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/devnexus-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d257c355cbd",
+    "crawlTimeMsec": "1773673253264",
+    "timestampUsec": "1773673253264573",
+    "published": 1773669720,
+    "title": "Presentation: Image Processing for Automated Tests",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Testing",
+        "Automated testing",
+        "Transcripts",
+        "InfoQ Dev Summit Munich 2025",
+        "Culture & Methods",
+        "Development",
+        "presentation"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/presentations/image-processing-automated-tests/en/mediumimage/stefan-dirnstorfer-medium-1773150417759.jpg\"><p>Stefan Dirnstorfer discusses the shift from DOM-based testing to visual UI agents. He explains why LLMs often fail at precision tasks - like spotting one-pixel shifts or broken road networks - and shares how advanced image registration and \"Chain-of-Thought\" vision processing are essential for reliable QA. Learn why combining generative AI with classical algorithms is the future of automation.</p> <i>By Stefan Dirnstorfer</i>"
+    },
+    "guid": "https://www.infoq.com/presentations/image-processing-automated-tests/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Stefan Dirnstorfer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d257c355cca",
+    "crawlTimeMsec": "1773673253264",
+    "timestampUsec": "1773673253264586",
+    "published": 1773671100,
+    "title": "DoorDash Builds DashCLIP to Align Images, Text, and Queries for Semantic Search Using 32M Labels",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Online Learning",
+        "Machine Learning",
+        "Embedded-Databases",
+        "commercial-off-the-shelf",
+        "vector databases",
+        "Offline-First",
+        "Search",
+        "E-Commerce",
+        "Rankings",
+        "Products",
+        "Architecture & Design",
+        "AI",
+        "ML & Data Engineering",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/doordash-semantic-search/en/headerimage/generatedHeaderImage-1772917454999.jpg\"><p>DoorDash has launched a multimodal machine learning system that aligns product images, text, and user queries in a shared embedding space. Trained on 32 million labeled query-product pairs using contrastive learning, the system improves semantic search, product ranking, and advertising relevance. Embeddings also support other machine learning tasks across the marketplace.</p> <i>By Leela Kumili</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/doordash-semantic-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Leela Kumili"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2793fb3d1c",
+    "crawlTimeMsec": "1773682242043",
+    "timestampUsec": "1773682242043164",
+    "published": 1773678600,
+    "title": "QCon London 2026: The Hidden Power of Boring Problems",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-boring-problems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-boring-problems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Software Development",
+        "QCon Software Development Conference",
+        "QCon London 2026",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/engineering-boring-problems/en/headerimage/generatedHeaderImage-1773671777267.jpg\"><p>At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/engineering-boring-problems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d28a02a5ba7",
+    "crawlTimeMsec": "1773686741425",
+    "timestampUsec": "1773686741425063",
+    "published": 1773684720,
+    "title": "QCon London 2026: How To Run on Three Clouds at Once, and When Not To",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/form3-triple-active-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/form3-triple-active-multicloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Kubernetes",
+        "QCon London 2026",
+        "Banking",
+        "AWS",
+        "Cloud",
+        "Database",
+        "DNS",
+        "Azure",
+        "Google Cloud Platform",
+        "Development",
+        "Architecture & Design",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/form3-triple-active-multicloud/en/headerimage/generatedHeaderImage-1773663355236.jpg\"><p>Form3 runs UK bank payments across three clouds simultaneously. At QCon London, their engineers explained how they built their custom Kubernetes operators, cross-cloud DNS tricks, and distributed databases, and what happened when they tried to sell them in America. Spoiler: US customers wanted East/West failover, not triple-active multi-cloud.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/form3-triple-active-multicloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d29acb47e33",
+    "crawlTimeMsec": "1773691246771",
+    "timestampUsec": "1773691246771763",
+    "published": 1773687600,
+    "title": "Google Open-Sources the Common Expression Language for Python",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Python",
+        "Policy as Code",
+        "Open Source",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/google-cel-expr-python/en/headerimage/google-cel-expr-python-1773686641450.jpeg\"><p>Google has open sourced CEL-expr-python, a Python implementation of the Common Expression Language (CEL), a non-Turing complete embedded policy and expression language designed for simplicity, speed, safety, and portability.</p> <i>By Sergio De Simone</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/google-cel-expr-python/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Sergio De Simone"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d32109aaf71",
+    "crawlTimeMsec": "1773727282540",
+    "timestampUsec": "1773727282540401",
+    "published": 1773724800,
+    "title": "QCon London 2026: Behind Booking.com's AI Evolution: The Unpolished Story",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apache Hadoop",
+        "Artificial Intelligence",
+        "QCon London 2026",
+        "Java",
+        "Scala",
+        "A/B Testing",
+        "Machine Learning",
+        "Python",
+        "Development",
+        "Architecture & Design",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/booking-evolution-ai-manuel/en/headerimage/java-istock-image-01-1773724729495.jpg\"><p>Jabez Eliezer Manuel, Senior Principal Engineer at Booking.com, presented “Behind Booking.com's AI Evolution: The Unpolished Story” at QCon London 2026. Manuel discussed how Booking.com has evolved over the past 20 years and the challenges they faced on their journey to incorporate AI.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d342863a700",
+    "crawlTimeMsec": "1773736271521",
+    "timestampUsec": "1773736271521536",
+    "published": 1773734940,
+    "title": "QCon London 2026: From Prompt to Production: How Spotify Builds Internal Tools in Days with AI",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spotify-portal-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spotify-portal-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Claude",
+        "Large language models",
+        "QCon London 2026",
+        "Anthropic",
+        "Platform Engineering",
+        "Software Development",
+        "Artificial Intelligence",
+        "QCon Software Development Conference",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/spotify-portal-studio/en/headerimage/generatedHeaderImage-1773702963177.jpg\"><p>At QCon London 2026, engineers from Spotify presented how the company accelerates internal tool development using its internal developer platform and AI-assisted workflows.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/spotify-portal-studio/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba26350",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737424",
+    "published": 1773745320,
+    "title": "QCon London 2026: All Tech Debt is Not Created Equal",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/tech-debt-not-equal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/tech-debt-not-equal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Software Development",
+        "QCon London 2026",
+        "PHP",
+        "Technical Debt",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/tech-debt-not-equal/en/headerimage/generatedHeaderImage-1773696700322.jpg\"><p>Joy Ebertz, Principal Engineer at Imprint, presented at QCon London 2026 a groundbreaking framework for prioritizing technical debt amidst rapid AI-driven code production. By challenging perfectionist mindsets, her six-question approach helps teams assess impact and costs, ensuring focus on vital debt. Jot emphasizes translating tech decisions into financial terms, empowering smarter engineering.</p> <i>By Daniel Curtis</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/tech-debt-not-equal/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Curtis"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba2637c",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737468",
+    "published": 1773748800,
+    "title": "AI Is Amplifying Software Engineering Performance, Says the 2025 DORA Report",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "Team Performance",
+        "AI",
+        "ML & Data Engineering",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/ai-dora-report/en/headerimage/generatedHeaderImage-1773641593696.jpg\"><p>Artificial intelligence is rapidly reshaping the way software is built, but its impact is more nuanced than many organizations expected. The 2025 DevOps Research and Assessment (DORA) report, titled State of AI-Assisted Software Development, finds that AI does not automatically improve software delivery performance.</p> <i>By Craig Risi</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/ai-dora-report/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Craig Risi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d385a801196",
+    "crawlTimeMsec": "1773754292113",
+    "timestampUsec": "1773754292113814",
+    "published": 1773752820,
+    "title": "QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "QCon London 2026",
+        "AWS",
+        "Banking",
+        "Cloud",
+        "Azure",
+        "Google Cloud Platform",
+        "Development",
+        "Architecture & Design",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/en/headerimage/generatedHeaderImage-1773667022672.jpg\"><p>JP Morgan Chase engineers Luis Albinati and Surabhi Mahajan argued that multi-cloud complexity can't be solved with engineering alone. Speaking at QCon London, they showed how treating multi-cloud as a product with capability mapping, demand governance, and defined users tames the chaos.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d39654e9414",
+    "crawlTimeMsec": "1773758768387",
+    "timestampUsec": "1773758768387092",
+    "published": 1773756900,
+    "title": "QCon London 2026: Managing Asynchronous APIs at Scale",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Event Driven Architecture",
+        "AsyncAPI",
+        "API",
+        "Validation",
+        "Versioning",
+        "QCon London 2026",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/managing-async-apis/en/headerimage/generatedHeaderImage-1773756314998.jpg\"><p>At QCon London 2026, Ian Cooper, senior principal engineer at Just Eat Takeaway, discussed managing asynchronous APIs in production, showing how endpoint definitions can drive code generation, schema registration, and the automation of messaging infrastructure.</p> <i>By Renato Losio</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/managing-async-apis/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Renato Losio"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3a704095b1",
+    "crawlTimeMsec": "1773763246986",
+    "timestampUsec": "1773763246986673",
+    "published": 1773761640,
+    "title": "QCon London 2026: Shipping Constantly with Humans and Beyond at Monzo",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/shipping-monzo/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/shipping-monzo/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Developer Experience",
+        "QCon London 2026",
+        "Culture & Methods",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/shipping-monzo/en/headerimage/generatedHeaderImage-1773761561765.jpg\"><p>At QCon London 2026, Suhail Patel, a principal engineer at Monzo who leads the bank’s platform group, described how the bank has built a developer platform capable of shipping hundreds of changes to production every day.</p> <i>By Matt Saunders</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/shipping-monzo/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Matt Saunders"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3b7c91279a",
+    "crawlTimeMsec": "1773767748560",
+    "timestampUsec": "1773767748560794",
+    "published": 1773765840,
+    "title": "QCon London 2026: Reliable Retrieval for Production AI Systems",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/retrieval-production-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/retrieval-production-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Natural Language Processing",
+        "Generative AI",
+        "Retrieval-Augmented Generation",
+        "Data Science",
+        "Artificial Intelligence",
+        "QCon Software Development Conference",
+        "QCon London 2026",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/retrieval-production-ai/en/headerimage/generatedHeaderImage-1773755451286.jpg\"><p>At QCon London 2026, Lan Chu, AI Tech Lead at Rabobank, shared lessons from deploying a production AI search system used internally by more than 300 users across 10,000 documents. Her experience shows that most failures in RAG systems stem from indexing and retrieval, rather than the language model itself.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/retrieval-production-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3b7c91279c",
+    "crawlTimeMsec": "1773767748560",
+    "timestampUsec": "1773767748560796",
+    "published": 1773765960,
+    "title": "QCon London 2026: From DVDs to Global Streaming How Netflix’s Commerce Architecture Actually Evolved",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Streaming Video",
+        "Web Development",
+        "payment",
+        "Paypal",
+        "QCon London 2026",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/en/headerimage/generatedHeaderImage-1773745066624.jpg\"><p>Dynamic principal engineer at Netflix, Kasia Trapszo, expertly navigates the evolution of the company’s commerce architecture from a DVD rental service to a global streaming giant. Her insights on pragmatic adaptations to billing systems reveal invaluable lessons on agility, localization, and the complexity of modern payment landscapes.</p> <i>By Daniel Curtis</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Curtis"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d43de2b95f1",
+    "crawlTimeMsec": "1773803745809",
+    "timestampUsec": "1773803745809905",
+    "published": 1773801000,
+    "title": "QCon London 2026: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Claude",
+        "Netflix",
+        "Ontology",
+        "QCon London 2026",
+        "Development",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/ontology-at-netflix/en/headerimage/java-istock-image-01-1773771443400.jpg\"><p>Prasanna Vijayanathan and Renzo Sanchez-Silva, both Engineers at Netflix, presented “Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale” at QCon London 2026, where they discussed the design and implementation of an end-to-end knowledge graph that models the Netflix user experience.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/ontology-at-netflix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d48105ebff5",
+    "crawlTimeMsec": "1773821767892",
+    "timestampUsec": "1773821767892981",
+    "published": 1773817200,
+    "title": "QCon London 2026: Uncorking Queueing Bottlenecks with OpenTelemetry",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/queue-otel-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/queue-otel-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Observability",
+        "QCon London 2026",
+        "OpenTelemetry",
+        "Architecture & Design",
+        "Development",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/queue-otel-observability/en/headerimage/header-1773741090866.jpeg\"><p>At QCon London 2026, Julian Wreford and Oli Lane from Gearset showcased how distributed tracing and SLOs solve asynchronous observability gaps. By shifting from queue-size metrics to latency-based alerts, the team improved incident response. Key technical takeaways included using OpenTelemetry trace state for async duration tracking and wide events to uncover hidden architectural waste.</p> <i>By Mark Silvester</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/queue-otel-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Mark Silvester"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d491b8b5195",
+    "crawlTimeMsec": "1773826250330",
+    "timestampUsec": "1773826250330517",
+    "published": 1773821820,
+    "title": "War in Iran Damages Multiple AWS Data Centers, Challenging Multi-AZ Assumptions",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Site Reliability Engineering",
+        "multi-region",
+        "AWS",
+        "Cloud",
+        "Failure",
+        "Architecture",
+        "Architecture & Design",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/aws-multiaz-conflict-outage/en/headerimage/generatedHeaderImage-1773671194784.jpg\"><p>Earlier this month, Iranian drone strikes damaged three AWS data centers in the UAE and Bahrain, causing outages and disruptions to multiple services. The events, which affected multiple facilities within the same AWS region, sparked discussion in the community about how geopolitical conflict can directly impact global cloud infrastructure and multi-AZ deployments.</p> <i>By Renato Losio</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Renato Losio"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d491b8b51a9",
+    "crawlTimeMsec": "1773826250330",
+    "timestampUsec": "1773826250330537",
+    "published": 1773824400,
+    "title": "Article: Beyond Memory Safety: What Makes Rust Different – Lessons from Autonomous Robotics",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "QCon Software Development Conference",
+        "Memory",
+        "Robotics",
+        "InfoQ Dev Summit",
+        "Rust",
+        "Safety",
+        "Development",
+        "Architecture & Design",
+        "article"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/en/headerimage/beyond-memory-safety-what-makes-rust-different-lessons-from-autonomous-robotics-header-1773646654979.jpg\"><p>This article explores that question through the lens of a real-world Rust project: a system responsible for controlling fleets of autonomous mobile robots. While Rust's memory safety is a strong foundation, its true power lies in the type system and ownership rules. The session will go beyond memory safety and explore ways to encode behavior and protocols directly into types.</p> <i>By Andy Brinkmeyer</i>"
+    },
+    "guid": "https://www.infoq.com/articles/practical-robustness-going-beyond-memory-safety-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Andy Brinkmeyer"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4a2877d31d",
+    "crawlTimeMsec": "1773830762124",
+    "timestampUsec": "1773830762124061",
+    "published": 1773827700,
+    "title": "QCon London 2026: Blurring the Lines: Engineering &amp; Data Teams in the Age of AI",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-data-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-data-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Team Collaboration",
+        "Software Development",
+        "QCon Software Development Conference",
+        "Artificial Intelligence",
+        "QCon London 2026",
+        "Culture & Methods",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/engineering-data-teams/en/headerimage/generatedHeaderImage-1773759596044.jpg\"><p>At QCon London 2026, Lada Indra, Head of Data Platform at Pleo, shared insights from his experience across high-scale data systems. He illustrated both the risks of poorly aligned teams and the practical strategies that organizations can adopt to bridge the gap.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/engineering-data-teams/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4a2877d327",
+    "crawlTimeMsec": "1773830762124",
+    "timestampUsec": "1773830762124071",
+    "published": 1773828660,
+    "title": "QCon London 2026: Use&lt;’lifetimes&gt; For&lt;’what&gt;",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "QCon London 2026",
+        "Compilers",
+        "Programming Languages",
+        "Rust",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/en/headerimage/generatedHeaderImage-1773681721405.jpg\"><p>At QCon London, TrueLayer engineer Ethan Brierley reframed Rust lifetimes using the Polonius borrow checker's mental model: lifetimes as sets of loans rather than regions of code. He built from borrow checker basics through variance and subtyping to higher-ranked lifetimes with serde, showing how the loans perspective makes previously confusing lifetime errors intuitive.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4b35577c9f",
+    "crawlTimeMsec": "1773835273075",
+    "timestampUsec": "1773835273075871",
+    "published": 1773831600,
+    "title": "Java 26 Delivers Language Innovation, Library Improvements, Performance and Security",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "JDK 26",
+        "Java",
+        "Structured Concurrency",
+        "Project Leyden",
+        "JDK 27",
+        "Applets",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/java26-released/en/headerimage/java-istock-image-01-1773831519530.jpg\"><p>Oracle has released version 26 of the Java programming language and virtual machine. As the first non-LTS release since JDK 25, the final feature set includes 10 JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on Java library improvements, language innovation, performance and security.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/java26-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4c44954bd7",
+    "crawlTimeMsec": "1773839823752",
+    "timestampUsec": "1773839823752151",
+    "published": 1773835500,
+    "title": "Presentation: Mobile Server-Driven UI at Scale",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/presentations/mobile-server-driven-ui-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/presentations/mobile-server-driven-ui-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Server-side rendering",
+        "Transcripts",
+        "Mobile",
+        "User Interface",
+        "QCon London 2025",
+        "Development",
+        "presentation"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/presentations/mobile-server-driven-ui-scale/en/mediumimage/rafael-ring-medium-1772013795892.jpg\"><p>Rafael Ring discusses the architectural evolution of server-driven UI at Nubank, moving from static mobile binaries to a sophisticated scripted framework called Catalyst. He explains how they implemented a tree-walk interpreter in Flutter to render dynamic layouts and logic from JSON payloads.</p> <i>By Rafael Ring</i>"
+    },
+    "guid": "https://www.infoq.com/presentations/mobile-server-driven-ui-scale/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Rafael Ring"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4c44954bf0",
+    "crawlTimeMsec": "1773839823752",
+    "timestampUsec": "1773839823752176",
+    "published": 1773839040,
+    "title": "QCon London 2026: SBOMs Move From Best Practice to Legal Obligation as CRA Enforcement Looms",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "QCon London 2026",
+        "Embedded Software Dev",
+        "Culture & Methods",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/sbom-viktor-petersson/en/headerimage/generatedHeaderImage-1773839022229.jpg\"><p>In a talk at QCon London 2026, Viktor Petersson argued that software teams are running out of time to adopt SBOMs (Software Bills of Materials) due to pending legislative changes in both the US and Europe.\r\n\r\nHe walked through the current regulatory landscape, spoke on the practical mechanics of generating high-quality SBOMs and on the emerging standards for distributing the resulting artefacts.</p> <i>By Matt Saunders</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/sbom-viktor-petersson/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Matt Saunders"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4e59f71dcc",
+    "crawlTimeMsec": "1773848772419",
+    "timestampUsec": "1773848772419020",
+    "published": 1773844680,
+    "title": "HubSpot’s Sidekick: Multi-Model AI Code Review with 90% Faster Feedback and 80% Engineer Approval",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "OpenAI",
+        "Java",
+        "Agents",
+        "Claude",
+        "Gemini",
+        "Code Reviews",
+        "Frameworks",
+        "Anthropic",
+        "gRPC",
+        "github",
+        "Workflow / BPM",
+        "Development",
+        "Architecture & Design",
+        "Culture & Methods",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg\"><p>HubSpot engineers introduced Sidekick, an internal AI powered code review system that analyzes pull requests using large language models and filters feedback through a secondary “judge agent.” The system reduced time to first feedback on pull requests by about 90 percent and is now used across tens of thousands of internal pull requests.</p> <i>By Leela Kumili</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Leela Kumili"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4e59f71dd6",
+    "crawlTimeMsec": "1773848772419",
+    "timestampUsec": "1773848772419030",
+    "published": 1773846120,
+    "title": "QCon London 2026: Rewriting All of Spotify's Code Base, All the Time",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spotify-honk-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spotify-honk-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Refactoring",
+        "Rewrite",
+        "QCon London 2026",
+        "Adoption",
+        "Software Development",
+        "AI Assisted Coding",
+        "Development",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/spotify-honk-rewrite/en/headerimage/generatedHeaderImage-1773836087810.jpg\"><p>At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.</p> <i>By Daniel Curtis</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/spotify-honk-rewrite/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Curtis"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5bc1b14238",
+    "crawlTimeMsec": "1773906347246",
+    "timestampUsec": "1773906347246136",
+    "published": 1773905520,
+    "title": "Where Do Humans Fit in AI-Assisted Software Development?",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI Assisted Coding",
+        "AI Development",
+        "AI Architecture",
+        "Software Engineering",
+        "Generative AI",
+        "AI",
+        "ML & Data Engineering",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/mf-aiassisted-dev/en/headerimage/generatedHeaderImage-1773775087528.jpg\"><p>An article on Martin Fowler’s blog by Kief Morris examines the role of humans in AI-assisted software engineering, arguing developers are unlikely to move fully “out of the loop.” Instead, teams may work “on the loop,” designing tests, specifications, and feedback mechanisms to guide AI agents, as industry discussions focus on how such systems should be verified and governed.</p> <i>By Matt Foster</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/mf-aiassisted-dev/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Matt Foster"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ddaeb2512",
+    "crawlTimeMsec": "1773915360404",
+    "timestampUsec": "1773915360404754",
+    "published": 1773911820,
+    "title": "QCon London 2026: Wrangling Telemetry at Scale, a Guide to Self-Hosted Observability",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "OpenTelemetry",
+        "Site Reliability Engineering",
+        "Telemetry",
+        "Distributed Tracing",
+        "Metrics",
+        "Logging",
+        "Prometheus",
+        "Observability",
+        "Development",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/self-hosted-observability/en/headerimage/generatedHeaderImage-1773862581289.jpg\"><p>At QCon London 2026, Colin Douch discussed building and operating self-hosted monitoring stacks, surveyed the current tooling landscape, and explained how to build a coherent observability setup rather than treating logs, metrics, and traces as separate pillars.</p> <i>By Renato Losio</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/self-hosted-observability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Renato Losio"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ddaeb2516",
+    "crawlTimeMsec": "1773915360404",
+    "timestampUsec": "1773915360404758",
+    "published": 1773913020,
+    "title": ".NET 11 Preview 2 Brings Performance Gains, Improved Mapping, and Native OpenTelemetry Support",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        ".NET Core",
+        ".NET 10",
+        ".NET 9",
+        ".NET 11",
+        ".NET",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/dotnet-11-preview-2/en/headerimage/twittercard7-1773862953712.jpg\"><p>Microsoft has released the second preview of .NET 11, featuring native OpenTelemetry tracing for ASP.NET Core, major Map control improvements and faster bindings in .NET MAUI, Blazor TempData support, a new Web Worker project template, and performance improvements across the runtime, SDK, and libraries.</p> <i>By Almir Vuk</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/dotnet-11-preview-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Almir Vuk"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ddaeb252a",
+    "crawlTimeMsec": "1773915360404",
+    "timestampUsec": "1773915360404778",
+    "published": 1773914400,
+    "title": "Microsoft Adds DRA-Backed NVIDIA vGPU Support to AKS",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Kubernetes",
+        "Azure",
+        "GPU",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/microsoft-nvidia-gpu/en/headerimage/generatedHeaderImage-1773843962447.jpg\"><p>The Azure Kubernetes Service team shared a detailed guide on how to use Dynamic Resource Allocation (DRA) with NVIDIA vGPU technology on AKS. This update improves control and efficiency for shared GPU use in AI and media tasks.</p> <i>By Claudio Masolo</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Claudio Masolo"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ee64588e7",
+    "crawlTimeMsec": "1773919845845",
+    "timestampUsec": "1773919845845223",
+    "published": 1773915300,
+    "title": "AI Model Discovers 22 Firefox Vulnerabilities in Two Weeks",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Firefox",
+        "Security Vulnerabilities",
+        "Claude",
+        "Mozilla",
+        "Anthropic",
+        "Development",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/en/headerimage/generatedHeaderImage-1773230233112.jpg\"><p>Claude Opus 4.6 discovered 22 Firefox vulnerabilities in two weeks, including 14 high-severity bugs, as nearly 20% of all critical Firefox vulnerabilities were fixed in 2025. The AI also wrote working exploits for two bugs, demonstrating emerging capabilities that give defenders a temporary advantage but signal an accelerating arms race in cybersecurity.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ee64588ff",
+    "crawlTimeMsec": "1773919845845",
+    "timestampUsec": "1773919845845247",
+    "published": 1773916980,
+    "title": "QCon London 2026: Refreshing Stale Code Intelligence",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/stale-code-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/stale-code-intelligence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Large language models",
+        "QCon London 2026",
+        "AI Assisted Coding",
+        "Artificial Intelligence",
+        "Generative AI",
+        "QCon Software Development Conference",
+        "AI",
+        "ML & Data Engineering",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/stale-code-intelligence/en/headerimage/generatedHeaderImage-1773895691272.jpg\"><p>At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.</p> <i>By Daniel Dominguez</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/stale-code-intelligence/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Dominguez"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ff4b91829",
+    "crawlTimeMsec": "1773924383266",
+    "timestampUsec": "1773924383266857",
+    "published": 1773920340,
+    "title": "How to Shape the Engineering Culture in Software Companies",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-culture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/engineering-culture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Culture Change",
+        "Leadership",
+        "Coaching and Mentoring",
+        "InfoQ Dev Summit Boston 2025",
+        "Culture",
+        "InfoQ Dev Summit",
+        "Culture & Methods",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/engineering-culture-software/en/headerimage/generatedHeaderImage-1772618096626.jpg\"><p>You can find your way through an organization by figuring out what artifacts people leave behind, David Grizzanti mentioned at InfoQ Dev Summit Boston.  He compared culture to anthropology, suggested studying behaviors, power dynamics, and decisions first, and then patiently model and reward new norms, build allies, and use influence and leading by example, to shift engineering culture over time.</p> <i>By Ben Linders</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/engineering-culture-software/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Ben Linders"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d620b506f72",
+    "crawlTimeMsec": "1773933352218",
+    "timestampUsec": "1773933352218482",
+    "published": 1773933000,
+    "title": "QCon London 2026: Spritely: Infrastructure for the Future of the Internet",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "QCon London 2026",
+        "REST",
+        "Actors",
+        "RPC",
+        "Development",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/spritely-infrastructure/en/headerimage/java-istock-image-01-1773932912894.jpg\"><p>Christine Lemmer-Webber, executive director at the Spritely Institute, and David Thompson, CTO at the Spritely Institute, presented “Spritely: Infrastructure for the Future of the Internet” at QCon London 2026, where they discussed how Spritely works to decentralize the Internet with new foundational technologies that put users in control.</p> <i>By Michael Redlich</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/spritely-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Michael Redlich"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d620b506f74",
+    "crawlTimeMsec": "1773933352218",
+    "timestampUsec": "1773933352218484",
+    "published": 1773933060,
+    "title": "QCon London 2026: Morgan Stanley Rethinks Its API Program for the MCP Era",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Open Source Projects",
+        "API",
+        "QCon London 2026",
+        "Model Context Protocol (MCP)",
+        "Infrastructure as Code",
+        "Open Source",
+        "Development",
+        "AI",
+        "ML & Data Engineering",
+        "DevOps",
+        "Architecture & Design",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/en/headerimage/generatedHeaderImage-1773770107168.jpg\"><p>Morgan Stanley engineers Jim Gough and Andreea Niculcea showed how they're retooling the bank's API program for AI agents using MCP and FINOS CALM. Live demos covered compliance guardrails, deployment gates, and zero-downtime rollouts across 100+ APIs. First API deployment shrank from two years to two weeks. They also demoed Google's A2A protocol running alongside MCP.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d71c343422d",
+    "crawlTimeMsec": "1774000862872",
+    "timestampUsec": "1774000862872109",
+    "published": 1773997200,
+    "title": "State of JavaScript 2025: Survey Reveals a Maturing Ecosystem with TypeScript Cementing Dominance",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Next.js",
+        "Web Development",
+        "React",
+        "AngularJS",
+        "Vue.js",
+        "TypeScript",
+        "JavaScript",
+        "Bundlers",
+        "Development",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/state-of-js-survey-2025/en/headerimage/generatedHeaderImage-1773667719085.jpg\"><p>The 2025 State of JavaScript survey reveals a maturing ecosystem with TypeScript's dominance solidified—40% of developers use it exclusively. Vite surges in build tools with a 98% satisfaction rate, while React remains the top framework amidst mixed feedback. AI-assisted development grows notably, and Node.js stays dominant. Overall, developer satisfaction stabilizes at 3.8/5.</p> <i>By Daniel Curtis</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/state-of-js-survey-2025/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Daniel Curtis"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d71c343422e",
+    "crawlTimeMsec": "1774000862872",
+    "timestampUsec": "1774000862872110",
+    "published": 1773997200,
+    "title": "Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Configuration Management",
+        "Policy as Code",
+        "GitOps",
+        "Site Reliability Engineering",
+        "Platform Engineering",
+        "Distributed Systems",
+        "Cloud Architecture",
+        "Development",
+        "DevOps",
+        "Architecture & Design",
+        "article"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/articles/configuration-control-plane/en/headerimage/configuration-as-a-control-plane-designing-for-safety-and-reliability-at-scale-header-1773657574566.jpg\"><p>Configuration has evolved from static deployment files into a live control plane that directly shapes system behavior. The evolution of configuration management highlights why misconfigurations can trigger large outages and how hyperscalers deploy changes safely using staged rollouts, validation, blast radius limits, and automated rollback at scale.</p> <i>By Karthiek Maralla</i>"
+    },
+    "guid": "https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Karthiek Maralla"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d72ce708e0a",
+    "crawlTimeMsec": "1774005345357",
+    "timestampUsec": "1774005345357322",
+    "published": 1774000980,
+    "title": "QCon London 2026: Kleppmann on Mitigating Europe's Cloud Dependency with Local-First Software",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Cloud Computing",
+        "QCon London 2026",
+        "Sovereignty",
+        "Cloud",
+        "Protocol",
+        "Development",
+        "Architecture & Design",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/qcon-local-first-sovereignty/en/headerimage/generatedHeaderImage-1773767432899.jpg\"><p>Europe is completely dependent on US cloud services, Martin Kleppmann told QCon London. His fix: commoditise everything. He walked through three technologies he's helped build: multi-cloud via de facto standards, Bluesky's AT Protocol for social media, and local-first software for collaboration, all designed to make switching providers trivial and shift power back to users.</p> <i>By Steef-Jan Wiggers</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Steef-Jan Wiggers"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d73dce96930",
+    "crawlTimeMsec": "1774009883126",
+    "timestampUsec": "1774009883126064",
+    "published": 1774008000,
+    "title": "Harness Reimagines Artifact Management for DevSecOps with New Artifact Registry",
+    "canonical": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/harness-artifact-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.infoq.com/news/2026/03/harness-artifact-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Artifacts & Tools",
+        "Service Registry",
+        "DevOps",
+        "news"
+    ],
+    "origin": {
+        "streamId": "feed/37",
+        "htmlUrl": "https://www.infoq.com/",
+        "title": "InfoQ",
+        "feedUrl": "https://feed.infoq.com/"
+    },
+    "content": {
+        "content": "<img src=\"https://res.infoq.com/news/2026/03/harness-artifact-registry/en/headerimage/generatedHeaderImage-1773642345346.jpg\"><p>Harness has announced the general availability of Harness Artifact Registry, a platform capability designed to simplify how engineering teams store, secure, and govern software artifacts within modern DevSecOps pipelines.</p> <i>By Craig Risi</i>"
+    },
+    "guid": "https://www.infoq.com/news/2026/03/harness-artifact-registry/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+    "author": "Craig Risi"
+}
+]}

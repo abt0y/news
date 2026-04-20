@@ -1,0 +1,1793 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/8",
+    "title": "List of Freethink articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00063b39a6407b29",
+    "crawlTimeMsec": "1753968648682",
+    "timestampUsec": "1753968648682281",
+    "published": 1753966800,
+    "title": "Five-minute EV refills? This tech is wild",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/hard-reset/ample"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/hard-reset/ample",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/07/C1-Web-Ample.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">What if refilling an EV battery could be done in the same amount of time it takes to refuel a tank of gas? Say goodbye to overnight recharges — Ample […]"
+    },
+    "guid": "https://www.freethink.com/series/hard-reset/ample",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063b4d5b684711",
+    "crawlTimeMsec": "1754053292345",
+    "timestampUsec": "1754053292345105",
+    "published": 1754053200,
+    "title": "The next 10 years won’t be about AI knowing, they will be about AI doing",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/adam-cheyer"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/adam-cheyer",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/A1-Web-Cheyer.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">\"AI today is like the Internet, say 1995. We're at the HTML when it was just the blink tag.\""
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/adam-cheyer",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063b55855a6d08",
+    "crawlTimeMsec": "1754088355818",
+    "timestampUsec": "1754088355818760",
+    "published": 1754084700,
+    "title": "AI’s next frontier: Modeling life itself",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/virtual-cells"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/virtual-cells",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Biology",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/virtual-cells-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Biologists are skipping the petri dish and using AI-powered virtual cells to experiment in silico."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/virtual-cells",
+    "author": "Kristin Houser"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063b9f11903436",
+    "crawlTimeMsec": "1754404240766",
+    "timestampUsec": "1754404240766006",
+    "published": 1754400600,
+    "title": "America’s next grand mission: Build an AI-powered society for all",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/the-great-progression-americas-mission"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/the-great-progression-americas-mission",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/TGP-13_lead.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">America’s new mission isn’t just to invent the new technology of AI. It must invent the systems that then make the most of AI."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/the-great-progression-americas-mission",
+    "author": "Peter Leyden"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063bb2c56989bf",
+    "crawlTimeMsec": "1754488862509",
+    "timestampUsec": "1754488862509503",
+    "published": 1754485200,
+    "title": "World’s first nuclear electricity influencer envisions a “Rad Future”",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/energy/isabelle-boemeke-rad-future-isodope"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/energy/isabelle-boemeke-rad-future-isodope",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Books",
+        "Clean Energy",
+        "Energy"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/07/rad-future-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">An excerpt from \"Rad Future: The Untold Story of Nuclear Electricity and How It Will Save the World\" by Isabelle Boemeke."
+    },
+    "guid": "https://www.freethink.com/energy/isabelle-boemeke-rad-future-isodope",
+    "author": "Isabelle Boemeke"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063bda294039e4",
+    "crawlTimeMsec": "1754658041248",
+    "timestampUsec": "1754658041248228",
+    "published": 1754658000,
+    "title": "The age of industrialized imagination",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-entertainment-industry"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-entertainment-industry",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Entertainment",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/ai-art-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">By slashing costs, AI will spark a creative renaissance in the entertainment industry, leading to more working artists, not fewer."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-entertainment-industry",
+    "author": "Daniel Jeffries"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063c2f736f0302",
+    "crawlTimeMsec": "1755024358048",
+    "timestampUsec": "1755024358048514",
+    "published": 1755021960,
+    "title": "If we want artificial “superintelligence,” it may need to feel pain",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/sentience-superintelligence"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/sentience-superintelligence",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/sentience-superintelligence-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Philosopher Jonathan Birch argues that sentience might be essential to “higher” forms of intelligence, including truly intelligent AI."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/sentience-superintelligence",
+    "author": "Jonny Thomson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063c4037a70f07",
+    "crawlTimeMsec": "1755096369532",
+    "timestampUsec": "1755096369532679",
+    "published": 1755093360,
+    "title": "The forgotten war on the Walkman",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/sony-walkman-technophobia"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/sony-walkman-technophobia",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Music",
+        "Opinion",
+        "Technophobia",
+        "Consumer Tech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/sony-walkman-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Today, the Sony Walkman inspires nostalgia, but in the 1980s, it was feared as a dangerous device that could disconnect society."
+    },
+    "guid": "https://www.freethink.com/consumer-tech/sony-walkman-technophobia",
+    "author": "Louis Anslow"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063c67d2acaf8b",
+    "crawlTimeMsec": "1755266474094",
+    "timestampUsec": "1755266474094475",
+    "published": 1755262800,
+    "title": "Superintelligence is coming. Here’s how humanity survives",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/the-alignment-problem"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/the-alignment-problem",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/B1-Web-Shear.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Emmett Shear: If we want AI to be on our side, it needs to see its part of the greater whole."
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/the-alignment-problem",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063c6ebac56e92",
+    "crawlTimeMsec": "1755296137834",
+    "timestampUsec": "1755296137834130",
+    "published": 1755295200,
+    "title": "Governing AGI: Model laws, chip wars, and sovereign AI",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/governing-agi"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/governing-agi",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/governing-AGI_thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">The US must regulate AI in a way that protects society, preserves America’s competitive edge, and fosters innovation — all at the same time."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/governing-agi",
+    "author": "Rohit Krishnan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063cbc0d634ade",
+    "crawlTimeMsec": "1755628236393",
+    "timestampUsec": "1755628236393182",
+    "published": 1755627060,
+    "title": "What if humans mastered every aspect of nature?",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-8-section-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-8-section-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Biology",
+        "Clean Energy",
+        "Opinion"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/unlimited-horizon_pt-2.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">A bold vision of a 10x better future where humanity has mastered biology, energy, and matter to unlock unprecedented progress."
+    },
+    "guid": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-8-section-2",
+    "author": "Jason Crawford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063cdfdca2100b",
+    "crawlTimeMsec": "1755782037245",
+    "timestampUsec": "1755782037245963",
+    "published": 1755781200,
+    "title": "From cryonics to aging: How AI is transforming human health",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/ai-biotech"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/ai-biotech",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Biology",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/AI-human-health_thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">From curing rare diseases to extending lifespans, four biotech founders share how AI is rewriting the future of medicine."
+    },
+    "guid": "https://www.freethink.com/biotech/ai-biotech",
+    "author": "Namir Khaliq"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063d590336271e",
+    "crawlTimeMsec": "1756302375528",
+    "timestampUsec": "1756302375528222",
+    "published": 1756299600,
+    "title": "The Eiffel Tower was considered techno-dystopian",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/the-material-world/eiffel-tower-techno-dystopian"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/the-material-world/eiffel-tower-techno-dystopian",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Engineering",
+        "The Material World"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/eiffel-tower-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Before completion for the 1889 World’s Fair, the Eiffel Tower project was treated by some as an industrialist \"Tower of Babel.\""
+    },
+    "guid": "https://www.freethink.com/the-material-world/eiffel-tower-techno-dystopian",
+    "author": "Louis Anslow"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063d8172d8a7fa",
+    "crawlTimeMsec": "1756476047140",
+    "timestampUsec": "1756476047140858",
+    "published": 1756472400,
+    "title": "The writer’s guide to leveraging AI correctly",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/steven-johnson-ai"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/steven-johnson-ai",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/B1-Web-Johnson.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">\"There are things that Notebook does that are genuinely 10 to 100 times faster.\""
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/steven-johnson-ai",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063d85a59628f5",
+    "crawlTimeMsec": "1756494078290",
+    "timestampUsec": "1756494078290165",
+    "published": 1756492500,
+    "title": "We purged worms from our bodies — and may have made ourselves sick",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/worms-immune-system"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/worms-immune-system",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Biology",
+        "Immunology",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/worms-immune-system-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Biotech labs are mining worm chemistry to design medicines that calm the immune system without the risks of live infection."
+    },
+    "guid": "https://www.freethink.com/biotech/worms-immune-system",
+    "author": "Namir Khaliq"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063dec1cb883ca",
+    "crawlTimeMsec": "1756934163694",
+    "timestampUsec": "1756934163694538",
+    "published": 1756933800,
+    "title": "Why AI gets stuck in infinite loops — but conscious minds don’t",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-consciousness-infinite-loops"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-consciousness-infinite-loops",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Neuroscience",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/infinite-loop-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Anil Seth suggests the difference is that living beings are rooted in time and entropy, a grounding that may be essential for consciousness."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-consciousness-infinite-loops",
+    "author": "Anil Seth"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e0e0fcd25c5",
+    "crawlTimeMsec": "1757079975830",
+    "timestampUsec": "1757079975830981",
+    "published": 1757077200,
+    "title": "Why the current moment is bigger than the invention of electricity",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/digital-age-leyden"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/digital-age-leyden",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/B1-Web-Leyden.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">\"This is a monumental world historic shift that we're going through, and most people do not understand how big it is and also how fast it's coming very, very soon.\""
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/digital-age-leyden",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e0e0fcd25da",
+    "crawlTimeMsec": "1757079975831",
+    "timestampUsec": "1757079975831002",
+    "published": 1757079720,
+    "title": "A tragedy, a lawsuit, and the birth of an AI moral panic",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/chatbot-suicide-moral-panic"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/chatbot-suicide-moral-panic",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/ai-panic_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">A lawsuit claiming an AI chatbot caused a teen’s suicide risks sparking a new moral panic, echoing past fears built on distorted evidence."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/chatbot-suicide-moral-panic",
+    "author": "Christopher Ferguson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e6033c2ca2d",
+    "crawlTimeMsec": "1757432766450",
+    "timestampUsec": "1757432766450221",
+    "published": 1757431860,
+    "title": "Ancient Olympians wouldn’t qualify for today’s Games",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/human-body-progress"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/human-body-progress",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Biology",
+        "History",
+        "Opinion",
+        "Sports",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/human-body-thumb-1.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Across history, the human body has been reshaped by discipline, medicine, and now technology — each era redefining peak performance."
+    },
+    "guid": "https://www.freethink.com/biotech/human-body-progress",
+    "author": "Elle Griffin"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e76d76b9fa6",
+    "crawlTimeMsec": "1757530001481",
+    "timestampUsec": "1757530001481638",
+    "published": 1757527200,
+    "title": "We used to celebrate science and innovation",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-1"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-1",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "History",
+        "Inventions",
+        "The Material World"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/the-spirit-we-lost_compressed.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">From the Brooklyn Bridge to the polio vaccine, society once honored signs of progress with parades, fireworks, and festivals."
+    },
+    "guid": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-1",
+    "author": "Jason Crawford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e868b18ea49",
+    "crawlTimeMsec": "1757597440469",
+    "timestampUsec": "1757597440469577",
+    "published": 1757595600,
+    "title": "AI doomerism isn’t new. Meet the original alarmist: Norbert Wiener",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-doomerism"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-doomerism",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "History",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/AI-Doomer-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Decades before Geoffrey Hinton and Eliezer Yudkowsky raised alarms, the computer scientist warned AI could steal jobs and outsmart humans."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-doomerism",
+    "author": "Louis Anslow"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e9a7494c6ee",
+    "crawlTimeMsec": "1757682962056",
+    "timestampUsec": "1757682962056942",
+    "published": 1757682000,
+    "title": "Inside the lab training AI to cure diseases",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/ai-scientist-assistant"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/ai-scientist-assistant",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/B1-Web-Rodriques.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">“The most important thing that we could be doing today is going and trying to build an AI scientist to build something that is better than we are at understanding complex science.”"
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/ai-scientist-assistant",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063e9a7494c6ef",
+    "crawlTimeMsec": "1757682962056",
+    "timestampUsec": "1757682962056943",
+    "published": 1757682000,
+    "title": "No, AI won’t take all the jobs. Here’s why.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-wont-take-all-the-jobs"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-wont-take-all-the-jobs",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Employment",
+        "Opinion",
+        "Technophobia",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/ai-unemployment-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">When you consider the mechanics of integrating AI into the job market, the idea that it will take all our jobs quickly falls apart."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-wont-take-all-the-jobs",
+    "author": "Daniel Jeffries"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063f01579d79a0",
+    "crawlTimeMsec": "1758124857719",
+    "timestampUsec": "1758124857719200",
+    "published": 1758121080,
+    "title": "AI will never be a shortcut to wisdom",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-wisdom"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-wisdom",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Business",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/AI-wisdom-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Real understanding, argues thought leader Jeff DeGraff, doesn’t come from outputs — it comes from practice."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-wisdom",
+    "author": "Jeff DeGraff"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063f27e6519cf3",
+    "crawlTimeMsec": "1758290460646",
+    "timestampUsec": "1758290460646643",
+    "published": 1758286800,
+    "title": "The AI vibe shift: From doom to realism",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-vibe-shift"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-vibe-shift",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/ai-vibe-shift.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Existential anxiety surrounding AI is giving way to more realistic concerns about its potential impact on the workforce and beyond."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-vibe-shift",
+    "author": "Rohit Krishnan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063f77867a0617",
+    "crawlTimeMsec": "1758632450065",
+    "timestampUsec": "1758632450065943",
+    "published": 1758631920,
+    "title": "The search for anti-gravity propulsion",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/space/anti-gravity-propulsion"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/space/anti-gravity-propulsion",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aerospace",
+        "Physics",
+        "Space"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/anti-gravity-lead-image_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Exploring the strange intersection of science, conspiracy, and military secrecy in the decades-long quest for anti-gravity propulsion."
+    },
+    "guid": "https://www.freethink.com/space/anti-gravity-propulsion",
+    "author": "Andrew Cote"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00063f92c2b14e7a",
+    "crawlTimeMsec": "1758749424438",
+    "timestampUsec": "1758749424438906",
+    "published": 1758748800,
+    "title": "“War of the Worlds” didn’t panic America. Newspapers did.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/war-of-the-worlds-anti-radio-propaganda"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/war-of-the-worlds-anti-radio-propaganda",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Entertainment",
+        "Consumer Tech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/war-of-the-worlds-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Legacy newspapers inflated a handful of complaints into \"mass panic\" to blunt radio’s rise and defend their influence."
+    },
+    "guid": "https://www.freethink.com/consumer-tech/war-of-the-worlds-anti-radio-propaganda",
+    "author": "Louis Anslow"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000640088759104c",
+    "crawlTimeMsec": "1759255234941",
+    "timestampUsec": "1759255234941004",
+    "published": 1759255200,
+    "title": "How technocracy made us doubt progress",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "History",
+        "The Material World"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/9.2-the-spirit-we-lost_pt-2.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">The 20th century left us with fatalism, defeatism, and a hollowed-out vision of the future. Techno-humanism can restore our belief in progress."
+    },
+    "guid": "https://www.freethink.com/the-material-world/techno-humanist-manifesto-chapter-9-section-2",
+    "author": "Jason Crawford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000640194cecdc52",
+    "crawlTimeMsec": "1759327269215",
+    "timestampUsec": "1759327269215314",
+    "published": 1759323600,
+    "title": "If aging is a disease, how close are we to curing it?",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/andrew-steele-longevity"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/series/the-freethink-interview/andrew-steele-longevity",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/E1-Web-Steele.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">We've already doubled human life expectancy over the last 200 years. Could we do it again?"
+    },
+    "guid": "https://www.freethink.com/series/the-freethink-interview/andrew-steele-longevity",
+    "author": "Stephmcclain"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b2",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584306",
+    "published": 1759334400,
+    "title": "The promise of longevity: A future with more time — and more meaning",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-issue-introduction"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-issue-introduction",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/2500x1406_FT_Editors_note_4.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">An introduction to Freethink's Longevity Issue: features, essays, and op-eds on the science, ethics, and promise of longer, healthier lives."
+    },
+    "guid": "https://www.freethink.com/biotech/longevity-issue-introduction",
+    "author": "Kristin Houser"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b3",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584307",
+    "published": 1759334400,
+    "title": "Immortality isn’t progress. It’s paralysis.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/immortality-is-dangerous"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/immortality-is-dangerous",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Death",
+        "Opinion"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/horowitz_illustration_v2_LB.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">The pursuit of immortality ignores how death powers life’s natural cycles, from cellular turnover to ecological renewal and adaptation."
+    },
+    "guid": "https://www.freethink.com/opinion/immortality-is-dangerous",
+    "author": "Josie Zayner"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b4",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584308",
+    "published": 1759334400,
+    "title": "Groundhog Day and other eternal nightmares: Five philosophical takes on living forever",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/immortality-in-philosophy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/immortality-in-philosophy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Books",
+        "Death",
+        "Opinion"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Immortality_Hi.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">From eternal recurrence to techno-dualism, five philosophical visions of immortality — and why most paths to forever end badly."
+    },
+    "guid": "https://www.freethink.com/opinion/immortality-in-philosophy",
+    "author": "Jonny Thomson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b5",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584309",
+    "published": 1759334400,
+    "title": "AI deadbots can keep “you” around after death — what does that mean for the living?",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-deadbots"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/ai-deadbots",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "AI",
+        "Death",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Nick_Kempton_Final.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">We can now use AI to create versions of real people that can live on long after their bodies die. But should we?"
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/ai-deadbots",
+    "author": "Christopher Ferguson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b6",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584310",
+    "published": 1759334400,
+    "title": "Experts weigh in on popular “anti-aging” treatments: real or scam?",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/debunking-longevity-scams"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/debunking-longevity-scams",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Biology",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Julia_Dufosse_Final.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Experts cut through longevity hype, debunking supplements, IV drips, and cold plunges while pointing to what actually works."
+    },
+    "guid": "https://www.freethink.com/biotech/debunking-longevity-scams",
+    "author": "Anna Medaris"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b7",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584311",
+    "published": 1759334400,
+    "title": "Forget just living longer. Eric Topol wants to help Americans live better, too.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/eric-topol-super-agers"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/eric-topol-super-agers",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Books",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/2500x1406_FT_Topol_3.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">In \"Super Agers,\" the writer and medical researcher maps a path to extending healthspan with AI, targeted drugs, and lifestyle changes."
+    },
+    "guid": "https://www.freethink.com/biotech/eric-topol-super-agers",
+    "author": "Ross Pomeroy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b8",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584312",
+    "published": 1759334400,
+    "title": "Living longer — and healthier — starts with boosting your brain",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/brainspan"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/brainspan",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Brain",
+        "Neuroscience",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Karan_Singh_Final.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Science is beginning to unravel the reasons behind age-related cognitive decline — and what we can do about it."
+    },
+    "guid": "https://www.freethink.com/biotech/brainspan",
+    "author": "Edd Gent"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0b9",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584313",
+    "published": 1759334400,
+    "title": "The longevity movement is growing — but it needs to go global",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/the-longevity-movement"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/the-longevity-movement",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Biology",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/2500x1406_FT_VitalistBay_02_opener.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Progress in longevity is real, but experts say the field needs government funding, policy reform, and public buy-in to reach its potential."
+    },
+    "guid": "https://www.freethink.com/biotech/the-longevity-movement",
+    "author": "Namir Khaliq"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0ba",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584314",
+    "published": 1759334400,
+    "title": "My time among the immortality tribe",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/vitalist-bay-recap"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/vitalist-bay-recap",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Startups",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/2500x1406_FT_VitalistBay_01_opener.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Field notes from Vitalist Bay, an 8-week longevity zone in Berkeley where CEOs, scientists, and activists united to fight aging."
+    },
+    "guid": "https://www.freethink.com/biotech/vitalist-bay-recap",
+    "author": "Namir Khaliq"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0bb",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584315",
+    "published": 1759334400,
+    "title": "Retro Biosciences wants to add 10 healthy years to your life",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/joe-betts-lacroix-retro-biosciences"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/joe-betts-lacroix-retro-biosciences",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "AI",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/2500x1406_FTI_illo_1.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Backed by $180 million in funding from OpenAI's Sam Altman, Joe Betts-LaCroix’s Retro Biosciences is racing to extend the human healthspan."
+    },
+    "guid": "https://www.freethink.com/biotech/joe-betts-lacroix-retro-biosciences",
+    "author": "R. M. Schneiderman"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0bc",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584316",
+    "published": 1759334400,
+    "title": "Why tomorrow’s longevity treatments could be divided by sex",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-biological-sex"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-biological-sex",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Biology",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Davis_Freethink_final_LB.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Why women consistently outlive men is a mystery — and it may influence the future of longevity medicine."
+    },
+    "guid": "https://www.freethink.com/biotech/longevity-biological-sex",
+    "author": "Rachel Tompa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0bd",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584317",
+    "published": 1759334400,
+    "title": "Aubrey de Grey: “We need a COVID-scale war on aging.”",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-aubrey-de-grey"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/longevity-aubrey-de-grey",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Aubrey-de-grey-lead.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Biomedical gerontologist Aubrey de Grey discusses the burgeoning longevity movement and barriers to its progress."
+    },
+    "guid": "https://www.freethink.com/biotech/longevity-aubrey-de-grey",
+    "author": "R. M. Schneiderman"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0be",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584318",
+    "published": 1759334400,
+    "title": "Who wants to live forever? Not me.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/living-forever"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/living-forever",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Opinion",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/08/JeremyLeung_final_v6.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Most Americans remain wary of immortality, and research helps explain the mix of ethics, faith, and fear behind that resistance."
+    },
+    "guid": "https://www.freethink.com/biotech/living-forever",
+    "author": "Christopher Ferguson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0bf",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584319",
+    "published": 1759334400,
+    "title": "How a dog’s life could extend yours",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/animal-life-extension"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/animal-life-extension",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Animals",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Rui_Pu_final.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Studying animals — from long-lived clams to everyday dogs — is helping scientists understand aging and design therapies to slow decline."
+    },
+    "guid": "https://www.freethink.com/biotech/animal-life-extension",
+    "author": "B. David Zarley"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006401b65a0a0c0",
+    "crawlTimeMsec": "1759336273584",
+    "timestampUsec": "1759336273584320",
+    "published": 1759334400,
+    "title": "Longevity progress is real. So are the scams.",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/biotech/andrew-steele-longevity-progress"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/biotech/andrew-steele-longevity-progress",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Aging",
+        "Medicine",
+        "Biotech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/Freethink_Chow_resized.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Longevity is in a paradoxical place at the moment, with anti-aging influencers misrepresenting real progress in order to make money."
+    },
+    "guid": "https://www.freethink.com/biotech/andrew-steele-longevity-progress",
+    "author": "Andrew Steele"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006402e4aa53e82",
+    "crawlTimeMsec": "1759417425280",
+    "timestampUsec": "1759417425280642",
+    "published": 1759417200,
+    "title": "America’s path to maritime leadership is clear — but it demands urgency",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/maritime-leadership-navier"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/maritime-leadership-navier",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Engineering",
+        "Military",
+        "Opinion",
+        "Transportation"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/10/reclaim-america-maritime-leader_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">America leads the world in aerospace, software, and clean energy. Here's how it can lead in maritime, too."
+    },
+    "guid": "https://www.freethink.com/opinion/maritime-leadership-navier",
+    "author": "Sampriti Bhattacharyya"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000640334ed81a86",
+    "crawlTimeMsec": "1759438970559",
+    "timestampUsec": "1759438970559110",
+    "published": 1759438800,
+    "title": "The left–right twist that could rewrite tech",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/the-material-world/chirality"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/the-material-world/chirality",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Biology",
+        "Engineering",
+        "Physics",
+        "The Material World"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/The-left%E2%80%93right-twist-01.png?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Scientists are harnessing chirality — the left- and right-handedness of molecules — to build better batteries, sharper displays, and more."
+    },
+    "guid": "https://www.freethink.com/the-material-world/chirality",
+    "author": "Philip Maughan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006407d41530338",
+    "crawlTimeMsec": "1759756571312",
+    "timestampUsec": "1759756571312952",
+    "published": 1759755600,
+    "title": "How Ford built “an efficiency engine” around the Model T",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/origins-of-efficiency-excerpt"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/consumer-tech/origins-of-efficiency-excerpt",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Books",
+        "Cars",
+        "Consumer Tech"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/09/origins-of-efficiency-thumb.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">An excerpt from author and structural engineer Brian Potter's forthcoming book, \"The Origins of Efficiency.\""
+    },
+    "guid": "https://www.freethink.com/consumer-tech/origins-of-efficiency-excerpt",
+    "author": "Brian Potter"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000640962f4c55c6",
+    "crawlTimeMsec": "1759863643067",
+    "timestampUsec": "1759863643067846",
+    "published": 1759860000,
+    "title": "Progress is a grand project for humanity",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-10"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-10",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "History",
+        "Inventions",
+        "Opinion"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/10/the-grand-project_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">Progress offers meaning, demands virtue, and calls builders to turn bold ideas into wonders that uplift human life."
+    },
+    "guid": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-10",
+    "author": "Jason Crawford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064137f5c5e66a",
+    "crawlTimeMsec": "1760558462658",
+    "timestampUsec": "1760558462658154",
+    "published": 1760557260,
+    "title": "A playbook for the next century of progress",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-11"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-11",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Education",
+        "Inventions",
+        "Opinion"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/10/The-Progress-Agenda_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">To build a bold, abundant future, we must reform the laws, institutions, and culture that once powered human progress."
+    },
+    "guid": "https://www.freethink.com/opinion/techno-humanist-manifesto-chapter-11",
+    "author": "Jason Crawford"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006415af3d7c4d9",
+    "crawlTimeMsec": "1760708754130",
+    "timestampUsec": "1760708754130137",
+    "published": 1760706000,
+    "title": "A memo from the future",
+    "canonical": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/memo-from-the-future"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.freethink.com/artificial-intelligence/memo-from-the-future",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Opinion",
+        "Artificial Intelligence"
+    ],
+    "origin": {
+        "streamId": "feed/8",
+        "htmlUrl": "https://www.freethink.com//feed/all",
+        "title": "Freethink",
+        "feedUrl": "https://www.freethink.com//feed/all"
+    },
+    "content": {
+        "content": "<img src=\"https://www.freethink.com/wp-content/uploads/2025/10/memo-from-future_compressed.jpg?quality=75&amp;w=1067&amp;h=600&amp;crop=1\">In the world of 2069, humans have more reach, more speed, and more leverage than any previous generation."
+    },
+    "guid": "https://www.freethink.com/artificial-intelligence/memo-from-the-future",
+    "author": "Daniel Jeffries"
+}
+]}

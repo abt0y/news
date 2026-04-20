@@ -1,0 +1,1956 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/47",
+    "title": "List of Open Source Projects - Latest Discoveries articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064d9562553e21",
+    "crawlTimeMsec": "1774153855483",
+    "timestampUsec": "1774153855483425",
+    "published": 1774152360,
+    "title": "Turn any anime or manga into a personalized language learning immersion tool",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/a3d9638b-761b-4aa3-843d-0675cfd248eb"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/a3d9638b-761b-4aa3-843d-0675cfd248eb",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Learning a new language is a grind. Flashcards, grammar drills, repetitive audio lessons—it can feel like homework. What if, instead, you could learn Japanese by immersing yourself in the latest episode of *Jujutsu Kaisen* or a classic like *Cowboy Bebop*? What if the show itself became your interac...\n\nGitHub Repository: https://github.com/KolbyML/Manatan"
+    },
+    "guid": "https://opensourceprojects.dev/post/a3d9638b-761b-4aa3-843d-0675cfd248eb",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/ebf13e7f3d/KolbyML/Manatan",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d9562553e25",
+    "crawlTimeMsec": "1774153855483",
+    "timestampUsec": "1774153855483429",
+    "published": 1774152480,
+    "title": "Clone any voice in seconds with this open-source TTS engine",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/21759282-a8a5-4eb9-adcd-bd2d633af2c2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/21759282-a8a5-4eb9-adcd-bd2d633af2c2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever wanted to generate speech that sounds exactly like a specific person? Maybe for a creative project, a personalized assistant, or just to see if it's possible? The barrier to high-quality, custom voice synthesis has been pretty high—until now.\n\nGitHub Repository: https://github.com/ysharma3501/LuxTTS"
+    },
+    "guid": "https://opensourceprojects.dev/post/21759282-a8a5-4eb9-adcd-bd2d633af2c2",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/686b61c59d/ysharma3501/LuxTTS",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d9562553e26",
+    "crawlTimeMsec": "1774153855483",
+    "timestampUsec": "1774153855483430",
+    "published": 1774152600,
+    "title": "Launch Claude sessions and approve tools directly from your browser",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/def16ecd-1fdb-4ef9-bb43-c155944ab45f"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/def16ecd-1fdb-4ef9-bb43-c155944ab45f",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever find yourself switching between your terminal, browser, and Claude's interface just to manage a simple tool approval? That context switching can pull you right out of the flow. What if you could handle those interactions without ever leaving your browser window?\n\nGitHub Repository: https://github.com/The-Vibe-Company/companion"
+    },
+    "guid": "https://opensourceprojects.dev/post/def16ecd-1fdb-4ef9-bb43-c155944ab45f",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/fb840f6283/The-Vibe-Company/companion",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d9562553e27",
+    "crawlTimeMsec": "1774153855483",
+    "timestampUsec": "1774153855483431",
+    "published": 1774152600,
+    "title": "The open-source framework for building agents that never lose the big picture",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f703fd79-1663-44d0-84b1-f25936d5adc6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f703fd79-1663-44d0-84b1-f25936d5adc6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever built an AI agent that starts off strong, handling tasks with precision, only to watch it get lost in the weeds after a few steps? It’s a common frustration. Agents often fail to maintain context, get stuck in loops, or lose sight of their original goal. What if there was a framework designed s...\n\nGitHub Repository: https://github.com/gsd-build/gsd-2"
+    },
+    "guid": "https://opensourceprojects.dev/post/f703fd79-1663-44d0-84b1-f25936d5adc6",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/98a8e85e04/gsd-build/gsd-2",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d9562553e28",
+    "crawlTimeMsec": "1774153855483",
+    "timestampUsec": "1774153855483432",
+    "published": 1774152720,
+    "title": "The definitive tool for scriptable system control on rootless jailbreaks",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/bfce7110-2195-4467-840a-748dcecfb142"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/bfce7110-2195-4467-840a-748dcecfb142",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever tinkered with a jailbroken iOS device, you know the power it unlocks. But with the rise of rootless jailbreaks, some of the old ways of automating and controlling the system from a computer became a bit more complicated. That's where RemoteCompanion comes in. It's a tool that bridges ...\n\nGitHub Repository: https://github.com/saihgupr/remotecompanion"
+    },
+    "guid": "https://opensourceprojects.dev/post/bfce7110-2195-4467-840a-748dcecfb142",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/1b7f35f0df/saihgupr/remotecompanion",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b79",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826937",
+    "published": 1774327200,
+    "title": "The open-source engine to generate images from text descriptions",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/e55744e3-1caf-4865-b239-f659f85514d4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/e55744e3-1caf-4865-b239-f659f85514d4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever found yourself needing a quick icon, a placeholder image, or a visual concept for a project, but you're not a designer and stock photos just won't cut it? Text-to-image AI has been making waves, but many of the powerful models are locked behind APIs or require serious hardware to run. What if y...\n\nGitHub Repository: https://github.com/Tongyi-MAI/Z-Image"
+    },
+    "guid": "https://opensourceprojects.dev/post/e55744e3-1caf-4865-b239-f659f85514d4",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/1718e7a88f/Tongyi-MAI/Z-Image",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b7a",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826938",
+    "published": 1774327260,
+    "title": "A minimalist dashboard to audit your AI subscription spending",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/31026e6a-d42c-4fc5-9dcf-86a5d6d5635f"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/31026e6a-d42c-4fc5-9dcf-86a5d6d5635f",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Let's be honest: managing AI API costs is becoming its own side hustle. Between ChatGPT, Anthropic, Gemini, and a dozen other services, it's easy to lose track of where your money is going each month. Most existing solutions are either locked inside a vendor's ecosystem or part of a massive, complex...\n\nGitHub Repository: https://github.com/robinebers/openusage"
+    },
+    "guid": "https://opensourceprojects.dev/post/31026e6a-d42c-4fc5-9dcf-86a5d6d5635f",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/c4c2bd3ad3/robinebers/openusage",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b7b",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826939",
+    "published": 1774327380,
+    "title": "Reverse engineer any website into a clean functional React component library",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/98b68ceb-b8af-4a63-be21-a4eaaafd9bfd"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/98b68ceb-b8af-4a63-be21-a4eaaafd9bfd",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever stumbled across a beautifully designed website and thought, \"I wish I could just lift these components and use them in my own React project\"? Maybe you're inheriting a legacy site that needs a modern rebuild, or you're looking for design inspiration that you can actually use. Manually convertin...\n\nGitHub Repository: https://github.com/firecrawl/open-lovable"
+    },
+    "guid": "https://opensourceprojects.dev/post/98b68ceb-b8af-4a63-be21-a4eaaafd9bfd",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/895f95b0a9/firecrawl/open-lovable",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b7d",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826941",
+    "published": 1774327740,
+    "title": "A minimalist framework to enforce guard policies on any AI agent",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/367cc24f-2e94-4771-b8b4-f744a1ab2d1f"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/367cc24f-2e94-4771-b8b4-f744a1ab2d1f",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "AI agents are getting powerful, but letting them run completely wild can be a recipe for trouble. You need guardrails—simple, enforceable rules that keep your agent on task and out of mischief. But implementing those guardrails shouldn't mean building a complex security suite from scratch. That's th...\n\nGitHub Repository: https://github.com/ucsandman/DashClaw"
+    },
+    "guid": "https://opensourceprojects.dev/post/367cc24f-2e94-4771-b8b4-f744a1ab2d1f",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/a39b35d7f2/ucsandman/DashClaw",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b7e",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826942",
+    "published": 1774327800,
+    "title": "Track progress on open mathematics problems with this collaborative community tool",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f63f692f-e20d-4ee5-bda7-16ef3295fe5a"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f63f692f-e20d-4ee5-bda7-16ef3295fe5a",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever fallen down a rabbit hole of unsolved math conjectures, you know the feeling. You find a fascinating problem, but then you're left wondering: Has anyone made progress? Is there a known approach? Who's even working on this? The landscape of open problems can feel vast and disconnected.\n\nGitHub Repository: https://github.com/teorth/erdosproblems"
+    },
+    "guid": "https://opensourceprojects.dev/post/f63f692f-e20d-4ee5-bda7-16ef3295fe5a",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/847d446561/teorth/erdosproblems",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b7f",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826943",
+    "published": 1774327800,
+    "title": "Build and run R code faster with this terminal written in Rust",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/10300a29-53b3-42e6-a680-35dffca8ce17"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/10300a29-53b3-42e6-a680-35dffca8ce17",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you work with R, you know the drill: you write a script, run it, and wait. For data-heavy tasks, that wait can feel longer than a coffee break. The standard R interpreter is reliable, but it’s not exactly built for speed. What if you could get your R code to run faster, right from the terminal, w...\n\nGitHub Repository: https://github.com/eitsupi/arf"
+    },
+    "guid": "https://opensourceprojects.dev/post/10300a29-53b3-42e6-a680-35dffca8ce17",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/0e86cd37ed/eitsupi/arf",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbe3f167b87",
+    "crawlTimeMsec": "1774329357826",
+    "timestampUsec": "1774329357826951",
+    "published": 1774329000,
+    "title": "Manage your entire iOS sideloading workflow with this Rust-based application",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/c9ded1fa-a0a5-4d68-b694-06e9d9dbf005"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/c9ded1fa-a0a5-4d68-b694-06e9d9dbf005",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever sideloaded an app onto an iPhone, you know the drill: juggling certificates, provisioning profiles, device IDs, and a handful of different tools just to get a build from your computer to your device. It's a workflow that can feel more like patching together a Rube Goldberg machine tha...\n\nGitHub Repository: https://github.com/CLARATION/Impactor"
+    },
+    "guid": "https://opensourceprojects.dev/post/c9ded1fa-a0a5-4d68-b694-06e9d9dbf005",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/d81cc7c320/CLARATION/Impactor",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badef9",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592889",
+    "published": 1774331160,
+    "title": "A self-hosted knowledge base for every conversation with ChatGPT and Claude",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/3e6cd957-c969-47c7-b488-f75b2fbfd95e"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/3e6cd957-c969-47c7-b488-f75b2fbfd95e",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever had that moment where you know you had a brilliant solution from ChatGPT or Claude a few weeks back, but now you can't find it? Or maybe you want to keep a private, searchable record of all your AI interactions without relying on a third-party service? That's the exact problem VESTI solves.\n\nGitHub Repository: https://github.com/abraxas914/VESTI"
+    },
+    "guid": "https://opensourceprojects.dev/post/3e6cd957-c969-47c7-b488-f75b2fbfd95e",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/ae9904a119/abraxas914/VESTI",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badefc",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592892",
+    "published": 1774331580,
+    "title": "The definitive Mesa driver for Android container graphics with Freedreno",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/596bfb9a-6db7-4bab-8c9a-92fbbbaa06cd"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/596bfb9a-6db7-4bab-8c9a-92fbbbaa06cd",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever tried to run a graphical Linux application inside an Android container or VM, you've probably run into the same wall: graphics support is a mess. Proprietary drivers, fragmented hardware support, and general hackiness make it a frustrating experience. That's where this project comes i...\n\nGitHub Repository: https://github.com/lfdevs/mesa-for-android-container"
+    },
+    "guid": "https://opensourceprojects.dev/post/596bfb9a-6db7-4bab-8c9a-92fbbbaa06cd",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/f37d37eab9/lfdevs/mesa-for-android-container",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badefd",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592893",
+    "published": 1774331700,
+    "title": "The definitive open-source tool for building fast and portable automations",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/8d4347fa-1ee8-4d57-bf9e-9176549aa922"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/8d4347fa-1ee8-4d57-bf9e-9176549aa922",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever found yourself wanting to automate a physical task—like watering a plant, controlling a light, or monitoring a sensor—but felt bogged down by bulky hardware or complex setups? What if you could build those automations with something as portable and straightforward as a modern web project? That'...\n\nGitHub Repository: https://github.com/sipeed/picoclaw"
+    },
+    "guid": "https://opensourceprojects.dev/post/8d4347fa-1ee8-4d57-bf9e-9176549aa922",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/6233c21a98/sipeed/picoclaw",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badefe",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592894",
+    "published": 1774331760,
+    "title": "Build and manage AI agents directly from your terminal interface",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/7c5aedc0-8700-4faa-a41f-b7342a053d6f"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/7c5aedc0-8700-4faa-a41f-b7342a053d6f",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you’ve been experimenting with AI agents, you know the drill: switch between a browser, a notebook, and your terminal, copy-pasting commands and managing scripts. It’s functional, but it breaks your flow. What if you could stay in your terminal—the developer’s home turf—to build and control these...\n\nGitHub Repository: https://github.com/wevm/incur"
+    },
+    "guid": "https://opensourceprojects.dev/post/7c5aedc0-8700-4faa-a41f-b7342a053d6f",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/eea9005e09/wevm/incur",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badeff",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592895",
+    "published": 1774331880,
+    "title": "Master Seedance API workflows with this open-source prompt engineering guide",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/fe765088-9d13-4024-ad72-1b37be57dea2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/fe765088-9d13-4024-ad72-1b37be57dea2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've been working with AI APIs, you know the feeling: you have a powerful tool at your fingertips, but getting consistent, high-quality outputs can feel like a guessing game. Prompt engineering is part art, part science, and having a solid reference can save hours of trial and error.\n\nGitHub Repository: https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+    },
+    "guid": "https://opensourceprojects.dev/post/fe765088-9d13-4024-ad72-1b37be57dea2",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/5cc527f630/YouMind-OpenLab/awesome-seedance-2-prompts",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badf00",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592896",
+    "published": 1774331940,
+    "title": "Generate efficient C code from Go using this command line transpiler",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/bddcc3b6-8707-440a-a2a4-5533e7423957"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/bddcc3b6-8707-440a-a2a4-5533e7423957",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever find yourself writing performance-critical code in Go, but then you hit a wall? Maybe you need to integrate with an existing C codebase, target a platform without a Go runtime, or squeeze out every last drop of performance from a specific algorithm. The usual path involves a lot of manual trans...\n\nGitHub Repository: https://github.com/solod-dev/solod"
+    },
+    "guid": "https://opensourceprojects.dev/post/bddcc3b6-8707-440a-a2a4-5533e7423957",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/ff387c1839/solod-dev/solod",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badf05",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592901",
+    "published": 1774332060,
+    "title": "Build Claude AI agents that execute code and complete tasks",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/03c9cd8d-578e-42c7-99f6-457e0633cc02"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/03c9cd8d-578e-42c7-99f6-457e0633cc02",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "We've all seen AI assistants that can write code snippets. But what if they could also run that code, check the output, and even use the results to complete a task? That's a different level of utility. The Claude Code Toolkit bridges that gap, turning Claude from a conversational coder into an auton...\n\nGitHub Repository: https://github.com/notque/claude-code-toolkit"
+    },
+    "guid": "https://opensourceprojects.dev/post/03c9cd8d-578e-42c7-99f6-457e0633cc02",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/117a3c90e8/notque/claude-code-toolkit",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbf12badf08",
+    "crawlTimeMsec": "1774332908592",
+    "timestampUsec": "1774332908592904",
+    "published": 1774332600,
+    "title": "Turn your terminal into a complete development and deployment environment",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/64cb5362-6bd6-438b-bf9c-b212f3afbe1b"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/64cb5362-6bd6-438b-bf9c-b212f3afbe1b",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever feel like you’re constantly switching between your terminal, browser, editor, and deployment dashboard just to get a simple project off the ground? What if you could cut that down and do more of it right from the command line? That’s the idea behind IDX0—a project that aims to pack a complete d...\n\nGitHub Repository: https://github.com/galz10/IDX0"
+    },
+    "guid": "https://opensourceprojects.dev/post/64cb5362-6bd6-438b-bf9c-b212f3afbe1b",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/b18b59c517/galz10/IDX0",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc020a83944",
+    "crawlTimeMsec": "1774337437219",
+    "timestampUsec": "1774337437219140",
+    "published": 1774333380,
+    "title": "Code with Claude Code and Gemini offline on your mobile device",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/8b814e4f-bf3f-46d6-b1bd-2ea7ef9d6959"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/8b814e4f-bf3f-46d6-b1bd-2ea7ef9d6959",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever been stuck on a coding problem with no internet? Or maybe you just prefer the idea of your code staying completely on your device. The usual suspects—Claude, Gemini, and other AI coding assistants—require a cloud connection. But what if you could take that power offline, right in your pocket?\n\nGitHub Repository: https://github.com/tiann/hapi"
+    },
+    "guid": "https://opensourceprojects.dev/post/8b814e4f-bf3f-46d6-b1bd-2ea7ef9d6959",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/d42451f419/tiann/hapi",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc020a8394d",
+    "crawlTimeMsec": "1774337437219",
+    "timestampUsec": "1774337437219149",
+    "published": 1774334880,
+    "title": "Automate your entire coding workflow with a team of AI agents",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/941aa352-a600-4503-a5dc-f60ff7f3fccc"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/941aa352-a600-4503-a5dc-f60ff7f3fccc",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever feel like you're spending more time on boilerplate, debugging, and routine tasks than on the actual interesting problems? What if you could offload those tasks to a small, automated team? That's the idea behind oh-my-claudecode, a project that turns Claude Code from a single assistant into a co...\n\nGitHub Repository: https://github.com/Yeachan-Heo/oh-my-claudecode"
+    },
+    "guid": "https://opensourceprojects.dev/post/941aa352-a600-4503-a5dc-f60ff7f3fccc",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/8668512718/Yeachan-Heo/oh-my-claudecode",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dd409fbef51",
+    "crawlTimeMsec": "1774422956175",
+    "timestampUsec": "1774422956175185",
+    "published": 1774420440,
+    "title": "A minimalist React Native client for Bilibili with DASH and danmaku",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/b12f98ba-8f50-46f6-bf2f-53ccdfadfda4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/b12f98ba-8f50-46f6-bf2f-53ccdfadfda4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Sometimes, the best projects come from a developer scratching their own itch. That’s the vibe you get with JKVideo—a clean, open-source React Native client built specifically for Bilibili. It’s not trying to be a full-featured behemoth. Instead, it focuses on delivering a smooth video experience wit...\n\nGitHub Repository: https://github.com/tiajinsha/JKVideo"
+    },
+    "guid": "https://opensourceprojects.dev/post/b12f98ba-8f50-46f6-bf2f-53ccdfadfda4",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/c1c4805336/tiajinsha/JKVideo",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ddd77365b86",
+    "crawlTimeMsec": "1774463443426",
+    "timestampUsec": "1774463443426182",
+    "published": 1774461360,
+    "title": "Turn any HTML template into a PDF or image instantly",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/d6cfd19f-6d74-4c0f-a293-bb28a0bf8115"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/d6cfd19f-6d74-4c0f-a293-bb28a0bf8115",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever needed to generate a PDF or an image from an HTML template, you know the pain. It usually involves headless browsers, complex server setups, or wrestling with finicky libraries that break when your CSS gets a little too fancy. It’s one of those tasks that feels like it should be simpl...\n\nGitHub Repository: https://github.com/plutoprint/plutoprint"
+    },
+    "guid": "https://opensourceprojects.dev/post/d6cfd19f-6d74-4c0f-a293-bb28a0bf8115",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/4ab6b25404/plutoprint/plutoprint",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de6e65c94b4",
+    "crawlTimeMsec": "1774503962907",
+    "timestampUsec": "1774503962907828",
+    "published": 1774500120,
+    "title": "The definitive open-source engine for optimizing UniFi network performance and security",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/7818b02f-db4f-41e3-8b9b-1d11abceb967"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/7818b02f-db4f-41e3-8b9b-1d11abceb967",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you manage a UniFi network at home, in a small office, or even a larger deployment, you know the feeling. The hardware is solid, but getting that perfect blend of performance, security, and stability often feels like a manual, never-ending tuning process. What if you could automate that?\n\nGitHub Repository: https://github.com/Ozark-Connect/NetworkOptimizer"
+    },
+    "guid": "https://opensourceprojects.dev/post/7818b02f-db4f-41e3-8b9b-1d11abceb967",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/d8a1d660bd/Ozark-Connect/NetworkOptimizer",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de6e65c94b5",
+    "crawlTimeMsec": "1774503962907",
+    "timestampUsec": "1774503962907829",
+    "published": 1774500180,
+    "title": "Stop paying for depth APIs Use this self-hosted computer vision model instead",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/cb82b8a0-213e-435b-ad82-71f812e00898"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/cb82b8a0-213e-435b-ad82-71f812e00898",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever needed to add depth estimation to a project—maybe for a cool AR effect, 3D scene reconstruction, or just to understand spatial relationships in an image—only to hit a paywall? Many depth APIs out there are powerful but come with recurring costs and usage limits. What if you could run a state-of...\n\nGitHub Repository: https://github.com/ByteDance-Seed/Depth-Anything-3"
+    },
+    "guid": "https://opensourceprojects.dev/post/cb82b8a0-213e-435b-ad82-71f812e00898",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/0b34a5dce5/ByteDance-Seed/Depth-Anything-3",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de6e65c94b7",
+    "crawlTimeMsec": "1774503962907",
+    "timestampUsec": "1774503962907831",
+    "published": 1774500540,
+    "title": "The open-source specification for building autonomous AI agents",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/6a14c787-b770-47ff-902c-a2d9bcfb9dc2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/6a14c787-b770-47ff-902c-a2d9bcfb9dc2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've been tinkering with AI agents, you've probably felt the pain of starting from scratch every time. You need to define how the agent thinks, how it accesses tools, and how it structures its workflow. It's repetitive and fragments the ecosystem. What if there was a common foundation everyone ...\n\nGitHub Repository: https://github.com/agentskills/agentskills"
+    },
+    "guid": "https://opensourceprojects.dev/post/6a14c787-b770-47ff-902c-a2d9bcfb9dc2",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/f71e722dc6/agentskills/agentskills",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de6e65c94b8",
+    "crawlTimeMsec": "1774503962907",
+    "timestampUsec": "1774503962907832",
+    "published": 1774500720,
+    "title": "Run a powerful conversational AI locally with this open-source project",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/3fe5f078-c9ea-4d42-a328-457b2b4b712c"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/3fe5f078-c9ea-4d42-a328-457b2b4b712c",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever wanted to tinker with a conversational AI without dealing with API keys, usage limits, or sending your data off to a third-party server? That’s exactly the itch that NanoChat scratches. It’s a lightweight, open-source project that lets you run a capable chat model entirely on your own machine. ...\n\nGitHub Repository: https://github.com/karpathy/nanochat"
+    },
+    "guid": "https://opensourceprojects.dev/post/3fe5f078-c9ea-4d42-a328-457b2b4b712c",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/0717cd173b/karpathy/nanochat",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de6e65c94b9",
+    "crawlTimeMsec": "1774503962907",
+    "timestampUsec": "1774503962907833",
+    "published": 1774500840,
+    "title": "Build and deploy autonomous AI product managers with this open-source toolkit",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f31bddd1-0757-4677-afc4-57d30e7b889c"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f31bddd1-0757-4677-afc4-57d30e7b889c",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Imagine having a tireless, data-driven product manager on your team—one that can analyze user feedback, prioritize a backlog, and draft a spec, all while you focus on code. It sounds like a startup fantasy, but an open-source project is making tangible steps in that direction.\n\nGitHub Repository: https://github.com/deanpeters/Product-Manager-Skills"
+    },
+    "guid": "https://opensourceprojects.dev/post/f31bddd1-0757-4677-afc4-57d30e7b889c",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/e446cd9ddd/deanpeters/Product-Manager-Skills",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de7f117be96",
+    "crawlTimeMsec": "1774508437913",
+    "timestampUsec": "1774508437913238",
+    "published": 1774503960,
+    "title": "Route local LLM requests intelligently to maintain quality and reduce spending",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/09cf0336-f813-4a38-9041-c3b21d555c8c"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/09cf0336-f813-4a38-9041-c3b21d555c8c",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you're building with local LLMs, you've probably felt the tension. You want the best possible response for complex tasks, but you also don't want to burn GPU cycles (or time) on simple queries. What if you could automatically send each request to the most appropriate model, balancing quality and ...\n\nGitHub Repository: https://github.com/CommonstackAI/UncommonRoute"
+    },
+    "guid": "https://opensourceprojects.dev/post/09cf0336-f813-4a38-9041-c3b21d555c8c",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/4f27bdc796/CommonstackAI/UncommonRoute",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dfbd965f197",
+    "crawlTimeMsec": "1774593939730",
+    "timestampUsec": "1774593939730839",
+    "published": 1774589520,
+    "title": "The open-source engine for deploying isolated AI agent teams at scale",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/7703f94a-399f-451a-8708-118e3bd8c0ae"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/7703f94a-399f-451a-8708-118e3bd8c0ae",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever tried to manage more than one AI agent at a time? It quickly goes from a neat experiment to a coordination nightmare. You're left juggling separate scripts, state management, and communication channels, wondering if there's a better way to run these digital teams at scale.\n\nGitHub Repository: https://github.com/nextlevelbuilder/goclaw"
+    },
+    "guid": "https://opensourceprojects.dev/post/7703f94a-399f-451a-8708-118e3bd8c0ae",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/54b84d0b1c/nextlevelbuilder/goclaw",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dfbd965f199",
+    "crawlTimeMsec": "1774593939730",
+    "timestampUsec": "1774593939730841",
+    "published": 1774589640,
+    "title": "The definitive tool for converting websites into AI-ready data pipelines",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/bf7714f0-7f6e-4702-a1f2-e52bc75015d0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/bf7714f0-7f6e-4702-a1f2-e52bc75015d0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "We've all been there. You have a cool idea for an AI model, maybe a custom chatbot or a niche analysis tool, and you know the training data is out there on the web. But the thought of building a robust, scalable scraper to collect it all feels like a project in itself. What if you could just point a...\n\nGitHub Repository: https://github.com/anan1213095357/PiPiClaw"
+    },
+    "guid": "https://opensourceprojects.dev/post/bf7714f0-7f6e-4702-a1f2-e52bc75015d0",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/789384cc10/anan1213095357/PiPiClaw",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dfbd965f19a",
+    "crawlTimeMsec": "1774593939730",
+    "timestampUsec": "1774593939730842",
+    "published": 1774589760,
+    "title": "The definitive self-hostable observability platform for mobile applications",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/17f87eb8-9461-456a-b296-3d2127638e42"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/17f87eb8-9461-456a-b296-3d2127638e42",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've ever built a mobile app, you know the struggle. You push an update, and suddenly users are experiencing crashes or weird behavior, but your traditional analytics only tell you the \"what,\" not the \"why.\" You're left sifting through fragmented logs, crash reports, and session replays from di...\n\nGitHub Repository: https://github.com/rejourneyco/rejourney"
+    },
+    "guid": "https://opensourceprojects.dev/post/17f87eb8-9461-456a-b296-3d2127638e42",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/84915b53f6/rejourneyco/rejourney",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dfdf255e060",
+    "crawlTimeMsec": "1774602948042",
+    "timestampUsec": "1774602948042848",
+    "published": 1774599720,
+    "title": "The definitive tool for testing LangGraph and CrewAI agents",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/fdfe8608-14ad-4bc2-9dae-9776ac8b3119"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/fdfe8608-14ad-4bc2-9dae-9776ac8b3119",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Testing complex AI agent workflows is tough. You're often left sifting through terminal logs, trying to piece together a narrative from scattered print statements. It's time-consuming and makes debugging a chore, especially when your agents involve multiple steps, tools, and branching logic. What if...\n\nGitHub Repository: https://github.com/hidai25/eval-view"
+    },
+    "guid": "https://opensourceprojects.dev/post/fdfe8608-14ad-4bc2-9dae-9776ac8b3119",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/2c89dd0a47/hidai25/eval-view",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0e80f33c1b",
+    "crawlTimeMsec": "1774674060196",
+    "timestampUsec": "1774674060196891",
+    "published": 1774673220,
+    "title": "Give your AI agent eyes to see the entire internet for free",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever built an AI agent that felt a bit... blind? You give it a task, but it can't fetch the latest info, check a live webpage, or verify a fact without expensive API calls or complex setups. It's like having a brilliant assistant locked in a room without internet access.\n\nGitHub Repository: https://github.com/Panniantong/Agent-Reach"
+    },
+    "guid": "https://opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/9153cb7357/Panniantong/Agent-Reach",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0e80f33c1c",
+    "crawlTimeMsec": "1774674060196",
+    "timestampUsec": "1774674060196892",
+    "published": 1774673340,
+    "title": "The definitive tool for secure peer-to-peer data transfer over WebRTC",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/a61506a9-16b5-41e7-9f74-78f5318d0717"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/a61506a9-16b5-41e7-9f74-78f5318d0717",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever needed to send a file directly to someone without uploading it to a server first? Maybe it's a large build artifact, a sensitive log file, or you just want lower latency and more privacy than a cloud service offers. WebRTC is the powerful technology that enables peer-to-peer video and audio in ...\n\nGitHub Repository: https://github.com/MatrixSeven/file-transfer-go"
+    },
+    "guid": "https://opensourceprojects.dev/post/a61506a9-16b5-41e7-9f74-78f5318d0717",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/515c2c4324/MatrixSeven/file-transfer-go",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0e80f33c1e",
+    "crawlTimeMsec": "1774674060196",
+    "timestampUsec": "1774674060196894",
+    "published": 1774673520,
+    "title": "Relive the classic 2003 top-down shooter with this faithful rewrite",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/ab519b1d-1f61-497a-a19c-f7f661aa3352"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/ab519b1d-1f61-497a-a19c-f7f661aa3352",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Remember the classic top-down shooters from the early 2000s? The ones with simple controls, satisfying gunplay, and just the right amount of pixelated chaos? Developer banteg does, and they’ve brought one back to life. Crimson is a faithful rewrite of a 2003 shooter, rebuilt from the ground up for t...\n\nGitHub Repository: https://github.com/banteg/crimson"
+    },
+    "guid": "https://opensourceprojects.dev/post/ab519b1d-1f61-497a-a19c-f7f661aa3352",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/454056ee02/banteg/crimson",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0e80f33c20",
+    "crawlTimeMsec": "1774674060196",
+    "timestampUsec": "1774674060196896",
+    "published": 1774673700,
+    "title": "Turn any video stream into a real-time AI agent pipeline",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/1146695e-6f6a-4041-a5c2-604b03c4cc59"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/1146695e-6f6a-4041-a5c2-604b03c4cc59",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever wanted to build an app that watches a video feed and reacts to what it sees in real time? Maybe a security system that spots unusual activity, a sports app that tracks player movement, or a tool that monitors a manufacturing line. The hard part isn’t the AI models—it’s stitching everything toge...\n\nGitHub Repository: https://github.com/GetStream/Vision-Agents"
+    },
+    "guid": "https://opensourceprojects.dev/post/1146695e-6f6a-4041-a5c2-604b03c4cc59",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/10144a1dac/GetStream/Vision-Agents",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0f8c848d0b",
+    "crawlTimeMsec": "1774678549237",
+    "timestampUsec": "1774678549237003",
+    "published": 1774675080,
+    "title": "Deploy and manage AI agents at scale with this open-source runtime",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/090d237a-fd3c-403a-976f-7eae1243d42b"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/090d237a-fd3c-403a-976f-7eae1243d42b",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "So you’ve built a clever AI agent. It works perfectly on your machine. But now you want to deploy it, make it talk to other agents, scale it up, and manage it in production. Suddenly, you’re not just doing AI—you’re doing infrastructure. That’s where Hive comes in.\n\nGitHub Repository: https://github.com/aden-hive/hive"
+    },
+    "guid": "https://opensourceprojects.dev/post/090d237a-fd3c-403a-976f-7eae1243d42b",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/aa1f975677/aden-hive/hive",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0f8c848d1a",
+    "crawlTimeMsec": "1774678549237",
+    "timestampUsec": "1774678549237018",
+    "published": 1774677360,
+    "title": "Run your own skill hub for AI agents with Kubernetes and audit trails",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/97880866-ca4d-410c-9b86-a727ef1732cc"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/97880866-ca4d-410c-9b86-a727ef1732cc",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "AI agents are getting smarter, but managing their capabilities at scale is still a messy problem. How do you safely deploy, version, and monitor the skills your agents can use? If you've been stitching together scripts or wrestling with inconsistent tooling, you're not alone.\n\nGitHub Repository: https://github.com/iflytek/skillhub"
+    },
+    "guid": "https://opensourceprojects.dev/post/97880866-ca4d-410c-9b86-a727ef1732cc",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/64ad5bc182/iflytek/skillhub",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e2309e45fd9",
+    "crawlTimeMsec": "1774762257047",
+    "timestampUsec": "1774762257047513",
+    "published": 1774762020,
+    "title": "Turn your documents into a production-ready AI agent with this repository",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/5b46be26-8fb1-44aa-963e-34847fada55f"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/5b46be26-8fb1-44aa-963e-34847fada55f",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "You've probably seen the pattern: you have a pile of documentation, a knowledge base, or internal processes, and you want to give it a conversational interface. The usual path involves stitching together a RAG pipeline, but then you hit the hard part—making it robust, scalable, and actually useful b...\n\nGitHub Repository: https://github.com/jamwithai/production-agentic-rag-course"
+    },
+    "guid": "https://opensourceprojects.dev/post/5b46be26-8fb1-44aa-963e-34847fada55f",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/3ca5244d15/jamwithai/production-agentic-rag-course",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e241720caa7",
+    "crawlTimeMsec": "1774766774078",
+    "timestampUsec": "1774766774078119",
+    "published": 1774762260,
+    "title": "Automatically convert your app's prices to local user currency",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/efc39e4f-688f-4d04-ab28-aa7ea19e2a8b"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/efc39e4f-688f-4d04-ab28-aa7ea19e2a8b",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you're selling anything in your app, you know the drill. A user from Japan sees a price in USD, does the mental math, and maybe decides it's not worth the friction. You could build a complex backend service to fetch exchange rates, manage caching, and format currencies correctly for every locale....\n\nGitHub Repository: https://github.com/codad5/react-currencynet"
+    },
+    "guid": "https://opensourceprojects.dev/post/efc39e4f-688f-4d04-ab28-aa7ea19e2a8b",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/0c16c8c7d5/codad5/react-currencynet",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e241720caab",
+    "crawlTimeMsec": "1774766774078",
+    "timestampUsec": "1774766774078123",
+    "published": 1774762320,
+    "title": "A minimalist overlay to translate foreign language software and games",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/70effc4b-1e25-480d-8b60-5acab56f8f8e"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/70effc4b-1e25-480d-8b60-5acab56f8f8e",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever stumbled upon a cool game or a useful piece of software, only to find it's in a language you don't understand? Maybe it's a Japanese indie game with no official localization or a powerful utility app only available in Russian. Manually screenshotting and pasting text into a translator breaks th...\n\nGitHub Repository: https://github.com/Danily07/Translumo"
+    },
+    "guid": "https://opensourceprojects.dev/post/70effc4b-1e25-480d-8b60-5acab56f8f8e",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/d9778ed2cd/Danily07/Translumo",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e36bafaa606",
+    "crawlTimeMsec": "1774846832453",
+    "timestampUsec": "1774846832453126",
+    "published": 1774846620,
+    "title": "The definitive open-source tool for downloading videos and audio on desktop",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/96f7e89e-9d5a-4df2-b20a-69c52613f07b"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/96f7e89e-9d5a-4df2-b20a-69c52613f07b",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Let's be honest, we've all been there. You find a great tutorial, a funny clip, or a piece of music online that you want to save for later—maybe for offline viewing, a personal archive, or to use in a project. The usual online converters are clunky, full of ads, or just don't feel trustworthy with y...\n\nGitHub Repository: https://github.com/archisvaze/arcdlp"
+    },
+    "guid": "https://opensourceprojects.dev/post/96f7e89e-9d5a-4df2-b20a-69c52613f07b",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/4cf3c78c08/archisvaze/arcdlp",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e37c74ec35a",
+    "crawlTimeMsec": "1774851334259",
+    "timestampUsec": "1774851334259546",
+    "published": 1774848180,
+    "title": "The self-hosted platform for your autonomous AI employee workforce",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/0a6c8746-24b9-4dc9-a1d4-2ace8227413c"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/0a6c8746-24b9-4dc9-a1d4-2ace8227413c",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever feel like you're juggling too many small tasks that eat into your deep work time? What if you could offload those tasks to a team of AI workers that you manage yourself? That's the idea behind TinyAGI. It’s not just another chatbot; it's a platform for running multiple autonomous AI agents, all...\n\nGitHub Repository: https://github.com/TinyAGI/tinyagi"
+    },
+    "guid": "https://opensourceprojects.dev/post/0a6c8746-24b9-4dc9-a1d4-2ace8227413c",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/f46fc05e17/TinyAGI/tinyagi",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e37c74ec364",
+    "crawlTimeMsec": "1774851334259",
+    "timestampUsec": "1774851334259556",
+    "published": 1774849740,
+    "title": "Stop using static charts for complex data use this visual explorer",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f0a117a3-8a2c-422d-8e5f-6d8b7cffc9f2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f0a117a3-8a2c-422d-8e5f-6d8b7cffc9f2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "We've all been there. You've got a complex dataset, maybe a time series with multiple dimensions, or a model output with dozens of parameters. Your first instinct? Generate a static chart. A PNG or PDF gets slapped into a report or a dashboard, and the story ends there. But what if you, or the perso...\n\nGitHub Repository: https://github.com/SmooSenseAI/smoosense"
+    },
+    "guid": "https://opensourceprojects.dev/post/f0a117a3-8a2c-422d-8e5f-6d8b7cffc9f2",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/3e12e78f8e/SmooSenseAI/smoosense",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e37c74ec366",
+    "crawlTimeMsec": "1774851334259",
+    "timestampUsec": "1774851334259558",
+    "published": 1774849800,
+    "title": "The definitive tool for managing AI skills across multiple coding platforms",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/fd384c09-df9b-47b6-aec3-459503738059"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/fd384c09-df9b-47b6-aec3-459503738059",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "If you've been experimenting with AI-assisted coding, you know the landscape is fragmented. You might have a custom GPT with specific instructions in ChatGPT, a few tailored assistants in Cursor, and another setup entirely in Windsurf or Claude. Remembering what each one can do—or updating a skill a...\n\nGitHub Repository: https://github.com/qufei1993/skills-hub"
+    },
+    "guid": "https://opensourceprojects.dev/post/fd384c09-df9b-47b6-aec3-459503738059",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/7302120196/qufei1993/skills-hub",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e37c74ec367",
+    "crawlTimeMsec": "1774851334259",
+    "timestampUsec": "1774851334259559",
+    "published": 1774850040,
+    "title": "Launch a customizable AI-powered interactive classroom instantly",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/50215a9d-4021-4347-ba9f-52ab5190cd13"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/50215a9d-4021-4347-ba9f-52ab5190cd13",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Launch a customizable AI-powered interactive classroom instantly\n\nGitHub Repository: https://github.com/albertasaftei/plumio"
+    },
+    "guid": "https://opensourceprojects.dev/post/50215a9d-4021-4347-ba9f-52ab5190cd13",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/1698c0ce6b/albertasaftei/plumio",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e38d35b2d12",
+    "crawlTimeMsec": "1774855831366",
+    "timestampUsec": "1774855831366930",
+    "published": 1774851420,
+    "title": "The definitive tool for discovering every device on your local network",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f531ee09-f4a3-4a04-9467-44c10c71ebab"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f531ee09-f4a3-4a04-9467-44c10c71ebab",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "Ever wondered exactly what’s connected to your local network? Maybe you’re troubleshooting a connectivity issue, checking for unexpected devices, or just satisfying your own curiosity about your home lab or office setup. Manually pinging IPs or scanning with overly complex tools can feel like using ...\n\nGitHub Repository: https://github.com/Timmoth/RackPeek"
+    },
+    "guid": "https://opensourceprojects.dev/post/f531ee09-f4a3-4a04-9467-44c10c71ebab",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/7f83cc304c/Timmoth/RackPeek",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e38d35b2d2e",
+    "crawlTimeMsec": "1774855831366",
+    "timestampUsec": "1774855831366958",
+    "published": 1774854120,
+    "title": "Turn a single prompt into a continually learning AI system",
+    "canonical": [
+        {
+            "href": "https://opensourceprojects.dev/post/f7bf9509-0395-40a4-88f7-951e779a90a6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://opensourceprojects.dev/post/f7bf9509-0395-40a4-88f7-951e779a90a6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/47",
+        "htmlUrl": "https://opensourceprojects.dev/",
+        "title": "Open Source Projects - Latest Discoveries",
+        "feedUrl": "https://www.opensourceprojects.dev/rss"
+    },
+    "content": {
+        "content": "We've all seen the pattern: you have a great idea for an AI agent, you craft the perfect prompt, and you run it. It works... once. The next time you need it, you start from scratch. What if your initial prompt could be the seed for an AI that actually learns and improves over time, building on its o...\n\nGitHub Repository: https://github.com/A-EVO-Lab/a-evolve"
+    },
+    "guid": "https://opensourceprojects.dev/post/f7bf9509-0395-40a4-88f7-951e779a90a6",
+    "enclosure": [
+        {
+            "href": "https://opengraph.githubassets.com/ea824f21ec/A-EVO-Lab/a-evolve",
+            "type": "image/png"
+        }
+    ],
+    "author": "githubprojects@opensourceprojects.dev (githubprojects)"
+}
+]}

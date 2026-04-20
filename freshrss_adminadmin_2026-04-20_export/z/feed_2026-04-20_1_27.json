@@ -1,0 +1,2137 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/27",
+    "title": "List of CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f157aa099cf",
+    "crawlTimeMsec": "1775803530516",
+    "timestampUsec": "1775803530516943",
+    "published": 1775802240,
+    "title": "XRP may be less exposed to quantum computer threats than bitcoin, experts say",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/10/xrp-may-be-less-exposed-to-quantum-threats-than-bitcoin-experts-say"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/10/xrp-may-be-less-exposed-to-quantum-threats-than-bitcoin-experts-say",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech",
+        "XRP News",
+        "quantum computing",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "XRP’s design leaves a smaller share of its supply exposed to future quantum attacks than Bitcoin’s, experts said, pointing to additional XRPL features that stand out."
+    },
+    "guid": "1c20c884-0d8a-4f1f-af09-e5fae4407182",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/6d294555fa46239cab430e649b407b22ab988f42-1000x660.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f179468f58a",
+    "crawlTimeMsec": "1775812553012",
+    "timestampUsec": "1775812553012618",
+    "published": 1775811480,
+    "title": "Japan moves to classify cryptocurrencies as financial products",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "Cryptocurrency",
+        "Regulation",
+        "Japan",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The new rules ban insider trading, require issuers to publish annual disclosures, and impose stricter penalties: up to 10 years in prison and 10 million yen in fines for operating without registration."
+    },
+    "guid": "6ae27458-cc19-47d8-b72d-f6a1949bbe6e",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/9a12f071722174853c9625a894931ff37321e344-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues; AI Boost"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f179468f58b",
+    "crawlTimeMsec": "1775812553012",
+    "timestampUsec": "1775812553012619",
+    "published": 1775811480,
+    "title": "David Bailey’s bitcoin holder Nakamoto is trying to stay on Nasdaq with a reverse stock split",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The stock has plunged roughly 99% from its May 2025 peak as pressure builds on the bitcoin treasury firm."
+    },
+    "guid": "e9d98282-1a72-4464-aa03-973085e63ef8",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/3e653e6039ba6c6faf851d6e0638d3b242e6345b-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "James Van Straten"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f189fc03ef7",
+    "crawlTimeMsec": "1775817038249",
+    "timestampUsec": "1775817038249719",
+    "published": 1775811840,
+    "title": "XRP adjacent Flare proposes protocol-level MEV capture and 40% inflation cut",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/10/xrp-adjacent-flare-proposes-protocol-level-mev-capture-and-40-inflation-cut"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/10/xrp-adjacent-flare-proposes-protocol-level-mev-capture-and-40-inflation-cut",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The proposal would move block building away from individual validators, create a revenue entity called FIRE to buy and burn FLR, and reduce annual token inflation to 3%."
+    },
+    "guid": "c04f7c93-3e44-4932-9a11-856758f384d5",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/86730016f67edf241b9325799d95bf55d73781f9-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f189fc03f05",
+    "crawlTimeMsec": "1775817038249",
+    "timestampUsec": "1775817038249733",
+    "published": 1775812740,
+    "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "Hong Kong",
+        "Stablecoins",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The approvals by the Hong Kong Monetary Authority, the territory's central bank, mark the first batch under the Stablecoins Ordinance, which took effect in August 2025."
+    },
+    "guid": "93bb852f-603f-47c0-99bf-61a7a249dc92",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/a0c808e41eda490bc80af522867b52a2671d7cf1-5925x3956.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Sam Reynolds"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f19ad163218",
+    "crawlTimeMsec": "1775821556953",
+    "timestampUsec": "1775821556953624",
+    "published": 1775817240,
+    "title": "Bitcoin holds steady as inflation data looms, bittensor drama unfolds",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/bitcoin-flatlines-as-inflation-data-looms-bittensor-drama-unfolds"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/bitcoin-flatlines-as-inflation-data-looms-bittensor-drama-unfolds",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Traders face a pivotal Friday as narrowing volatility on bitcoin's chart hints at a massive price move while bittensor faces a high-profile developer exit."
+    },
+    "guid": "185cca33-ab5a-43b5-9d5c-1d26c5df7b4e",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/6a4cddb4bc43320a03dab22ed611582c9443d589-2094x1100.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Oliver Knight; Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f19ad16323a",
+    "crawlTimeMsec": "1775821556953",
+    "timestampUsec": "1775821556953658",
+    "published": 1775820540,
+    "title": "Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Crypto Daybook Americas",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Institutions are betting on the bitcoin price hitting $80,000 through call options, but they are also buying downside protection."
+    },
+    "guid": "17b5ccb2-d516-47cf-a817-33d7e1ae9fdf",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/177293196d1f1a2e6bdf7bb9984e72e3943ef8a6-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1ab945365b",
+    "crawlTimeMsec": "1775826056328",
+    "timestampUsec": "1775826056328795",
+    "published": 1775824380,
+    "title": "Bitcoin gains after core CPI rose a less-than-forecast 0.2% in March.",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Inflation",
+        "Bitcoin News",
+        "Top Stories",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Headline inflation rose 0.9% last month, driven by the sharp rise in energy costs due to the Iran war."
+    },
+    "guid": "839f9ec9-9881-4e46-af68-d2e93f22825b",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/d687b13ec3ef7b92cad7c07ff5ad6c8a603ecb40-3999x2666.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "James Van Straten; Stephen Alpher"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1ab9453665",
+    "crawlTimeMsec": "1775826056328",
+    "timestampUsec": "1775826056328805",
+    "published": 1775825280,
+    "title": "Binance offers UAE staff temporary relocation as Middle East conflict disrupts region",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/10/binance-offers-uae-staff-temporary-relocation-as-middle-east-conflict-disrupts-region"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/10/binance-offers-uae-staff-temporary-relocation-as-middle-east-conflict-disrupts-region",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Finance",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The crypto exchange said its operations in the United Arab Emirates remain unchanged and that many employees have chosen to remain"
+    },
+    "guid": "bbe0635d-6bd7-4062-8dd6-6323f5f12d6f",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/1ee17e1310c5c6829bf97b25a87741f3300a9b59-3200x2133.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Olivier Acuna"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1bc754583c",
+    "crawlTimeMsec": "1775830587168",
+    "timestampUsec": "1775830587168828",
+    "published": 1775826840,
+    "title": "Trump-backed WLFI token drops 12% to record lows after team defends multi-million lending position",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million-lending-position"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/trump-backed-wlfi-token-drops-12-to-record-lows-after-team-defends-multi-million-lending-position",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "World Liberty Financial responded to CoinDesk's reporting by saying it would \"simply supply more collateral\" if markets moved against it, a statement that did not reassure holders."
+    },
+    "guid": "0d11036c-c4d9-4901-a58f-304a846fb847",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/a6462c7e6b84bc721cb6296d10cf50ccf716cbb5-1600x1067.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1bc754583d",
+    "crawlTimeMsec": "1775830587168",
+    "timestampUsec": "1775830587168829",
+    "published": 1775826840,
+    "title": "CoinDesk 20 performance update: Hedera (HBAR) drops 1.9%, leading index lower",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/coindesk-indices/2026/04/10/coindesk-20-performance-update-hedera-hbar-drops-1-9-leading-index-lower"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/coindesk-indices/2026/04/10/coindesk-20-performance-update-hedera-hbar-drops-1-9-leading-index-lower",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Cardando (ADA), down 1.3% from Thursday, was also among the underperformers."
+    },
+    "guid": "9f7a2e3f-780a-41a5-83db-50f3dfcfc8ed",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/821ab57bfbfd02c7f746e9ad769ef57bf601b5c5-360x270.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "CoinDesk Indices"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1dddd2381f",
+    "crawlTimeMsec": "1775839554451",
+    "timestampUsec": "1775839554451487",
+    "published": 1775835000,
+    "title": "The magic word for digital assets adoption and success: choice",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/the-magic-word-for-digital-assets-adoption-and-success-choice"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/the-magic-word-for-digital-assets-adoption-and-success-choice",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Opinion",
+        "Tokenization"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "For the digital asset ecosystem of the future to flourish, investors need options, explains Sullivan."
+    },
+    "guid": "877694a2-f939-417e-99bd-c0ce1557f528",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/4e0a2487290de80168580a561cf40241d5232f1a-1000x592.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Tom Sullivan"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f1dddd2382a",
+    "crawlTimeMsec": "1775839554451",
+    "timestampUsec": "1775839554451498",
+    "published": 1775835480,
+    "title": "Star Xu calls CZ a ‘liar’ as founders of world’s largest crypto exchanges argue over past allegations",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Finance",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The dispute between the crypto exchange founders, which included a $1 billion wager from CZ, revives allegations dating back 11 years to Zhao’s time at OKCoin."
+    },
+    "guid": "a8a45672-532d-4e7a-aa99-3f7cbe80708d",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Olivier Acuna"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2425e6c0eb",
+    "crawlTimeMsec": "1775866533560",
+    "timestampUsec": "1775866533560555",
+    "published": 1775863860,
+    "title": "Federal judge blocks Arizona from bringing criminal charges against Kalshi",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/federal-judge-blocks-arizona-from-bringing-criminal-charges-against-kalshi",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "CFTC",
+        "Prediction Markets",
+        "Breaking News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Judge Michael Liburdi ordered Arizona not to bring any enforcement actions under state law against Kalshi, at least temporarily."
+    },
+    "guid": "28a22ea7-5bac-4107-a061-62cf629cebfd",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/53ba714148121088a1e649cc7fccbd1eef261f0d-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Nikhilesh De"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2856a3eb1e",
+    "crawlTimeMsec": "1775884531133",
+    "timestampUsec": "1775884531133214",
+    "published": 1775874600,
+    "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bhutan-has-sold-70-of-its-bitcoin-in-18-months-it-may-have-stopped-btc-mining-too"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bhutan-has-sold-70-of-its-bitcoin-in-18-months-it-may-have-stopped-btc-mining-too",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin Mining",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The kingdom's holdings have dropped from 13,000 BTC to 3,954 since October 2024, with $215.7 million moved out this year alone. Its last mining inflow over $100,000 was recorded more than a year ago."
+    },
+    "guid": "b00d933e-1144-459a-a2c3-06842a71050f",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/850c38128aa8b785d3e9dcb693fdf3c390bde105-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2ea007dc5d",
+    "crawlTimeMsec": "1775911532223",
+    "timestampUsec": "1775911532223581",
+    "published": 1775908920,
+    "title": "The bitcoin market is splitting in two. Here's who is buying and selling amid the war",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/the-bitcoin-market-is-splitting-in-two-here-s-who-is-buying-and-selling-amid-the-war"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/10/the-bitcoin-market-is-splitting-in-two-here-s-who-is-buying-and-selling-amid-the-war",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of."
+    },
+    "guid": "dc0ce56e-8789-4947-880a-5d01df69a007",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2fad118e11",
+    "crawlTimeMsec": "1775916045930",
+    "timestampUsec": "1775916045930001",
+    "published": 1775915940,
+    "title": "Bitwise files updated S-1 for Hyperliquid ETF as HYPE fund race heats up",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitwise-files-updated-s-1-for-hyperliquid-etf-as-hype-fund-race-heats-up"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitwise-files-updated-s-1-for-hyperliquid-etf-as-hype-fund-race-heats-up",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "ETFs",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "HYPE has surged around 200% over the last 12 months. Other asset managers including Grayscale, 21Shares, and VanEck are also eyeing  HYPE-linked ETFs."
+    },
+    "guid": "bc0dae29-290f-4665-9ebf-a72d948a5493",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/cd95fb32b7390b1a2fcb4ba5b3f712c2f2d9b4ca-1195x799.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f30b93ea7c8",
+    "crawlTimeMsec": "1775920545179",
+    "timestampUsec": "1775920545179592",
+    "published": 1775916000,
+    "title": "Crypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "Consensus Miami 2026",
+        "Exclusive",
+        "Wintermute",
+        "Regulation",
+        "Clarity Act",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Wintermute’s head of policy Ron Hammond pegs chances at 30%, citing political friction, stalled negotiations and shifting timelines despite signs of progress."
+    },
+    "guid": "159573a1-b794-455c-8db4-590d2b105353",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/4dec48a4de02d9c1920873e81c7ebfddd5b66bd1-3228x1816.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Will Canny"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f30b93ea7d9",
+    "crawlTimeMsec": "1775920545179",
+    "timestampUsec": "1775920545179609",
+    "published": 1775918760,
+    "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Crypto Trading",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Over half (57%) of Monday market opens is s already reflected in crypto markets' perpetual futures products."
+    },
+    "guid": "39319bc4-942f-4ee1-88c6-b5e7cd99f8f3",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/83ada520132c533b438a7a871347a3c8553f3ccf-1920x1442.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f31c489ceac",
+    "crawlTimeMsec": "1775925029621",
+    "timestampUsec": "1775925029621420",
+    "published": 1775923200,
+    "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Finance",
+        "Iran",
+        "Stablecoins",
+        "Exclusive",
+        "Oil",
+        "Inflation",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "As oil shocks revive investor anxiety, stablecoins solved payments, but not purchasing power, says Michael Ashton, who's USDi token aims to fix that."
+    },
+    "guid": "0adabf70-82e7-4c33-85cb-c9e00e6d0869",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/e10fe6ba56883a11ab1e1240f1e64d5c330f946a-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Will Canny; AI Boost"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f31c489ceb9",
+    "crawlTimeMsec": "1775925029621",
+    "timestampUsec": "1775925029621433",
+    "published": 1775924700,
+    "title": "Bitcoin, broader market flat as U.S.-Iran negotiations begin",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions."
+    },
+    "guid": "76aaac94-6e4f-48d6-9594-b981abd47b37",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/bf561a642f3be8c46f6333801b0479a2f758219c-1537x865.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f32d136c807",
+    "crawlTimeMsec": "1775929537251",
+    "timestampUsec": "1775929537251335",
+    "published": 1775926680,
+    "title": "$1.6 billion Ether Machine SPAC deal collapses over unfavorable market",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/11/usd1-6-billion-ether-machine-spac-deal-collapses-over-unfavorable-market",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Finance",
+        "Ethereum News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The Ether Machine, an ether treasury firm, currently has more than $1 billion in ether in its treasury."
+    },
+    "guid": "d78f1689-8555-454d-b85a-8c13697d8d57",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/915bbce115c5a32c0f84df9ecfe38a6e8bdc8b77-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f32d136c808",
+    "crawlTimeMsec": "1775929537251",
+    "timestampUsec": "1775929537251336",
+    "published": 1775926800,
+    "title": "The crypto honeymoon is over for now as analysts warn of a major first-quarter profit squeeze",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-profit-squeeze"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-profit-squeeze",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Coinbase",
+        "Circle",
+        "Bullish",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Several major investment firms have preemptively downgraded Coinbase and other platforms as a sharp drop in trading activity and falling token prices threaten to derail upcoming first-quarter earnings results."
+    },
+    "guid": "148d1587-96c9-4f1e-b82f-f7b077cb55b2",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/41fba73aa2a6d555b22a8525b287f3dd87350b4d-6655x4437.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Helene Braun; AI Boost"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f33dd20b843",
+    "crawlTimeMsec": "1775934032099",
+    "timestampUsec": "1775934032099395",
+    "published": 1775930400,
+    "title": "Bitcoin signals potential seller exhaustion as realized losses decline",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying."
+    },
+    "guid": "5b26edb6-023c-42e8-94d7-ef024e320671",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/9ce781de0f1b3cbda56dc0337d3498fc4c768d8a-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "James Van Straten"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f34e9442018",
+    "crawlTimeMsec": "1775938530713",
+    "timestampUsec": "1775938530713624",
+    "published": 1775935800,
+    "title": "Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push."
+    },
+    "guid": "3ef5949b-f545-4790-bb50-4e27c62478ca",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3a2676a2a1",
+    "crawlTimeMsec": "1775961032270",
+    "timestampUsec": "1775961032270497",
+    "published": 1775959500,
+    "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Breaking News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan, sending crypto prices down between 1.5% and 2%."
+    },
+    "guid": "ffc1947e-3b9e-40e4-9620-806400f180fe",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/24d76f2d1f67b2839c51e07fb0937c88622a987a-1540x866.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Nikhilesh De"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3d4b02c830",
+    "crawlTimeMsec": "1775974530336",
+    "timestampUsec": "1775974530336816",
+    "published": 1775973420,
+    "title": "XRP drops to $1.33 as bitcoin weakness pulls down majors",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Sudden selloff triggered liquidation-style move, with weak recovery reinforcing bearish structure despite compressed volatility setup."
+    },
+    "guid": "d37b75cf-142c-4f39-847a-ea6ec2992b5c",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/16711fd60828d61cef6f5d62bf4cd2979b4f74ef-1192x732.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f417bfed0a4",
+    "crawlTimeMsec": "1775992532029",
+    "timestampUsec": "1775992532029604",
+    "published": 1775988000,
+    "title": "Why North Korea keeps stealing billions in crypto — out in the open",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/12/why-north-korea-keeps-stealing-billions-in-crypto-out-in-the-open"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/12/why-north-korea-keeps-stealing-billions-in-crypto-out-in-the-open",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech",
+        "hacking",
+        "Cryptocurrency",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "As North Korea's infiltration tactics grow more sophisticated, security experts say the crypto industry needs to understand what sets the regime apart from every other state-backed hacker — and why that difference makes it a dangerous threat to the ecosystem."
+    },
+    "guid": "c066f7ff-0f2c-42d4-95b9-966499630256",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Margaux Nijkerk"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f417bfed0b3",
+    "crawlTimeMsec": "1775992532029",
+    "timestampUsec": "1775992532029619",
+    "published": 1775991120,
+    "title": "Trump token sees whale accumulation ahead of Mar-a-Lago gala; senators raise questions over event",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/trump-token-sees-whale-accumulation-ahead-of-mar-a-lago-gala-senators-raise-questions-over-event"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/trump-token-sees-whale-accumulation-ahead-of-mar-a-lago-gala-senators-raise-questions-over-event",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Trump",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Some whales have withdrawn large amounts of TRUMP tokens to private wallets, according to Lookonchain."
+    },
+    "guid": "adaefdc9-3fd6-4e43-a677-aaa3c354223f",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/b8ca17ed896b7798a86d4c465630294ca949fbad-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f428829f3fe",
+    "crawlTimeMsec": "1775997031150",
+    "timestampUsec": "1775997031150590",
+    "published": 1775994540,
+    "title": "Tron’s Justin Sun slams Trump-backed WLFI for treating users as ‘personal ATM’ after $75 Million DeFi loan",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/tron-s-justin-sun-slams-trump-backed-wlfi-for-treating-users-as-personal-atm-after-usd75-million-defi-loan"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/tron-s-justin-sun-slams-trump-backed-wlfi-for-treating-users-as-personal-atm-after-usd75-million-defi-loan",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Donald Trump",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Once WLFI's largest outside backer, Sun is going public days after the Trump-family venture borrowed $75 million against its own token on a DeFi protocol advised by one of its own insiders."
+    },
+    "guid": "3a5fa5ce-05d4-4664-bd57-70035b2f0698",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/b99999d62aab6c5ebdb7ef6c9d8536d270e5177b-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Sam Reynolds"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f428829f401",
+    "crawlTimeMsec": "1775997031150",
+    "timestampUsec": "1775997031150593",
+    "published": 1775995200,
+    "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Finance",
+        "Stablecoins",
+        "Exclusive",
+        "Iran",
+        "Trade Finance",
+        "Commodities",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "As banks retreat from trade finance amid Iran-linked risk fears, non-bank lenders and traders are increasingly turning to stablecoins for settlement, according to Haycen’s Luke Sully."
+    },
+    "guid": "0d8352ef-f6e2-4354-adc0-bfb1e4eec6ad",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/52a69064520f219eaa4067b84f5da2bb819d68b1-1920x1079.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Will Canny"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f43945add40",
+    "crawlTimeMsec": "1776001530649",
+    "timestampUsec": "1776001530649920",
+    "published": 1775998800,
+    "title": "Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "Tether",
+        "Donald Trump",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The Fellowship PAC spent $300,000 with Nxum Group that was co-founded by Bo Hines, the chief of Tether's U.S. arm and former adviser to President Donald Trump."
+    },
+    "guid": "2e5e2ed0-7af8-4b25-ba17-6cecc7847faa",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/99dc294f833b46c672b0cdc7f4decad2cdcd8126-4030x2267.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Jesse Hamilton"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f43945add44",
+    "crawlTimeMsec": "1776001530649",
+    "timestampUsec": "1776001530649924",
+    "published": 1776000060,
+    "title": "Bitcoin analysts flag triggers for a massive surge to $88,000 even as war risks linger",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Key factors, such as ETF flows, macro factors and on-chain supply favor a rally in bitcoin even as war risks linger."
+    },
+    "guid": "750afc13-4bc4-4845-a75b-2e7bdff1d6f5",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f44a12560bf",
+    "crawlTimeMsec": "1776006040215",
+    "timestampUsec": "1776006040215743",
+    "published": 1776001560,
+    "title": "Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Top Stories",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "\"Effective immediately, the United States Navy ... will begin the process of blockading any and all ships trying to enter, or leave, the Strait of Hormuz,\" said the president in a social media post."
+    },
+    "guid": "bcdd31ae-9461-4ecf-9fc8-22dcbf4414da",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Stephen Alpher"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f44a12560cd",
+    "crawlTimeMsec": "1776006040215",
+    "timestampUsec": "1776006040215757",
+    "published": 1776002400,
+    "title": "Market makers are fleeing public blockchains to protect their secret trading playbooks",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/market-makers-are-fleeing-public-blockchains-to-protect-their-secret-trading-playbooks"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/market-makers-are-fleeing-public-blockchains-to-protect-their-secret-trading-playbooks",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Market Makers",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Crypto trading is almost entirely public. One startup thinks it has borrowed an idea from Wall Street that could change that."
+    },
+    "guid": "73b5af5b-9be2-4ff8-bf13-4427d3ae1a4d",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/37fcdab3cd9ef1a9ea853a293523b2b5fa6816c9-736x446.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Oliver Knight"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f44a12560d2",
+    "crawlTimeMsec": "1776006040215",
+    "timestampUsec": "1776006040215762",
+    "published": 1776003360,
+    "title": "Oil futures up 7% on Hyperliquid as Trump orders Naval blockade of Hormuz",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Oil",
+        "Trump",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Oil prices spiked on the Hyperliquid platform after President Donald Trump ordered a naval blockade of the Strait of Hormuz"
+    },
+    "guid": "349501ac-29df-4f33-920e-358f1adfd757",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/2bce99616419507d65a4f7a0aa5e280da00c697f-1500x1153.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f45acb38cde",
+    "crawlTimeMsec": "1776010529049",
+    "timestampUsec": "1776010529049822",
+    "published": 1776006000,
+    "title": "Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "Oil",
+        "Iran",
+        "Exclusive",
+        "Fidelity Digital Assets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Jurrien Timmer, director of global macro at Fidelity Investments, says strong earnings are helping markets absorb geopolitical shocks, despite ongoing risks."
+    },
+    "guid": "d881b1fd-ce49-470c-a153-234ac75c356c",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/19be7778374a432a1d25e3cc4f6c1334f21f9e4d-4368x2912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Will Canny; AI Boost"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f46b910b054",
+    "crawlTimeMsec": "1776015031447",
+    "timestampUsec": "1776015031447636",
+    "published": 1775926800,
+    "title": "How U.S. sports teams can launch their fan-token strategies right now",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/how-u-s-sports-teams-can-launch-their-fan-token-strategies-right-now"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/how-u-s-sports-teams-can-launch-their-fan-token-strategies-right-now",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Opinion",
+        "Tokenization"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Dreyfus, CEO of Chiliz, examines the implications of the SEC and CFTC’s recent joint guidance on digital assets and what the regulatory clarity means for the future of blockchain fan engagement."
+    },
+    "guid": "6daf73cc-00a4-4e9d-a301-ff47b658e6b9",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/eacdb78b3b6a5d9f0353da3cbcf1fe2b6a86fa07-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Alexandre Dreyfus"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f47c51fe230",
+    "crawlTimeMsec": "1776019528737",
+    "timestampUsec": "1776019528737328",
+    "published": 1776015000,
+    "title": "DeFi’s shakeout is a stress test, not a death sentence",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Opinion",
+        "DeFi"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient."
+    },
+    "guid": "8619de03-8827-4bcb-b74a-77578a69525b",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/1e3a2d00bfed4f5b35ba79d8cc489f7b4312830f-1500x1001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Alex Novozhenov"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f47c51fe241",
+    "crawlTimeMsec": "1776019528737",
+    "timestampUsec": "1776019528737345",
+    "published": 1776016800,
+    "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Policy",
+        "CFTC",
+        "Prediction Markets",
+        "Polymarket",
+        "Kalshi",
+        "Mike Selig",
+        "Newsletters",
+        "State of Crypto",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Selig said states do not have the ability to police prediction market providers, echoing his agency's stance as it pursues court cases to cement its authority."
+    },
+    "guid": "6a345fee-bd73-44a1-ba5f-27ddaa34c8eb",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/4fa4a2a8d5048a9e3deb5174673798ba2a1f3b71-4486x2523.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Nikhilesh De"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f513350fa6b",
+    "crawlTimeMsec": "1776060032154",
+    "timestampUsec": "1776060032154219",
+    "published": 1776056460,
+    "title": "Strategy signals another bitcoin buy as company needs just 2% annual BTC growth to cover dividends",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/strategy-signals-another-bitcoin-buy-as-company-needs-just-2-annual-btc-growth-to-cover-dividends"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/strategy-signals-another-bitcoin-buy-as-company-needs-just-2-annual-btc-growth-to-cover-dividends",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The company bought nearly three times more bitcoin than miners produced in March and is signaling it isn't done, even as its holdings remain billions underwater."
+    },
+    "guid": "ef0c7585-8d49-4a0d-bdaf-1a4bdde178ce",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/8a5dba87ad94ba079e2f4c60317ed8bbef4fb85e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f513350fa7b",
+    "crawlTimeMsec": "1776060032154",
+    "timestampUsec": "1776060032154235",
+    "published": 1776059040,
+    "title": "Bitcoin hits a wall – the chart just challenged the $88,000 bull case",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hits-a-wall-the-chart-just-delayed-the-bull-case"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hits-a-wall-the-chart-just-delayed-the-bull-case",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "Technical Analysis",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The price action is sending a clear warning signal that analysts' optimism may be running ahead of itself."
+    },
+    "guid": "7f95c25e-3023-4372-91a0-dc07c53c9d11",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/5eacdd73ba72f3eedd0a32373e35b6b74ce1abc9-5472x3080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f513350fa7c",
+    "crawlTimeMsec": "1776060032154",
+    "timestampUsec": "1776060032154236",
+    "published": 1776059760,
+    "title": "WLFI threatens legal action against Justin Sun after he accuses Trump-linked project of deceptive DeFi deals",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Trump",
+        "Donald Trump",
+        "Tron",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Trump-backed crypto project says it has ‘contracts’ and ‘evidence’ after Sun accused it of exploiting users."
+    },
+    "guid": "8a918355-df6f-44f6-9582-d61965576c85",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/24d558771558726ccebabb4b0d14e6fd77a91f7a-4498x3000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Sam Reynolds"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04565",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693221",
+    "published": 1776063480,
+    "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Solana News",
+        "Sam Bankman-Fried",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Alameda unstakes $16 million worth of Solana's SOL token, according to Arkham."
+    },
+    "guid": "2bfbad60-7245-4eca-84d9-2b6d84b71cd5",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/2ed84b2e67185c91def23615bb78ff0e770a2dd7-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bab0",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422704",
+    "published": 1776062760,
+    "title": "Aave passes landmark vote ending months-long fight over protocol revenue control",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "The proposal directs 100% of application and product revenue back to AAVE token holders, resolving a governance dispute that began when swap fees were quietly redirected away from the DAO treasury in late 2025."
+    },
+    "guid": "d42951ec-cf96-491d-84b8-7f5c108eb654",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/f4155656b1fb2de2f9cbccd873863e4eb98410ed-3840x2160.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21baba",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422714",
+    "published": 1776064560,
+    "title": "Attacker mints $1 billion Polkadot tokens on Ethereum, ends up stealing just $250,000",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/13/attacker-mints-usd1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-usd250-000"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/tech/2026/04/13/attacker-mints-usd1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-usd250-000",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000."
+    },
+    "guid": "dcd56f51-0eb5-4809-ae4c-dbe38b67c22d",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Shaurya Malwa"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bad6",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422742",
+    "published": 1776067920,
+    "title": "Bitcoin hit by $20 million-an-hour selling pressure above $70,000",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hit-by-usd20-million-an-hour-selling-pressure-above-usd70-000"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hit-by-usd20-million-an-hour-selling-pressure-above-usd70-000",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Bitcoin has once again seen heavy profit-taking above $70,000, according to Glassnode."
+    },
+    "guid": "4cdafeca-7231-44dc-a18f-d958faca24ea",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/5bb6665603cba898a64327ba8e6718a4e62e81f0-5652x3780.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Omkar Godbole"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bada",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422746",
+    "published": 1776068280,
+    "title": "Clarity Act returns to U.S. Senate, bank earnings: Crypto Week Ahead",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/clarity-act-returns-to-u-s-senate-bank-earnings-crypto-week-ahead"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/clarity-act-returns-to-u-s-senate-bank-earnings-crypto-week-ahead",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "week ahead",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Your look at what's coming in the week starting April 13."
+    },
+    "guid": "32fd73a6-aed4-45b1-9948-b398967a1ef0",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/6b0b079065f34f1baccdc523981c920683b2ddcb-4030x2267.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Francisco Rodrigues"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f55",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144149",
+    "published": 1776073680,
+    "title": "StarkWare cuts jobs in reorganization as Starknet revenue plunges 99% from peak",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/starkware-cuts-jobs-in-reorganization-as-starknet-revenue-plunges-99-from-peak"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/starkware-cuts-jobs-in-reorganization-as-starknet-revenue-plunges-99-from-peak",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Jobs",
+        "Ethereum News",
+        "quantum computing",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Days after unveiling a quantum-safe bitcoin method, a StarkWare researcher was tapped to lead a new applications unit as Layer-2 revenue dries up."
+    },
+    "guid": "8344950c-78e9-4623-a9cd-e236a732f501",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/fb9191ef3546d9a96048f7eef3d1d839914e2bba-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "Sam Reynolds"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f63",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144163",
+    "published": 1776075360,
+    "title": "The one metric investors are overlooking in Michael Saylor’s Strategy",
+    "canonical": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/the-one-metric-investors-are-overlooking-in-michael-saylor-s-strategy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.coindesk.com/markets/2026/04/13/the-one-metric-investors-are-overlooking-in-michael-saylor-s-strategy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Markets",
+        "Bitcoin News",
+        "MicroStrategy",
+        "News"
+    ],
+    "origin": {
+        "streamId": "feed/27",
+        "htmlUrl": "https://www.coindesk.com/",
+        "title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "feedUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "content": {
+        "content": "Increased preferred-equity issuance and surging STRC trading volumes are reshaping how Strategy's common stock trades."
+    },
+    "guid": "ad57a475-4d70-4dde-b0c4-eae17e164c84",
+    "enclosure": [
+        {
+            "href": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip",
+            "type": "image/*"
+        }
+    ],
+    "author": "James Van Straten"
+}
+]}

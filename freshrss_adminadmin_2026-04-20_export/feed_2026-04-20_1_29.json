@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/29",
+    "title": "List of Hackr.io articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/0006459c37a5b3c3",
+    "crawlTimeMsec": "1765387111084",
+    "timestampUsec": "1765387111084995",
+    "published": 1765386935,
+    "title": "Microsoft’s biggest Asia investment yet puts India at the center of its AI strategy",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/microsoft-india-investment-ai-expansion"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/microsoft-india-investment-ai-expansion",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/microsoft-india-investment-ai-expansion"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645aed41d788b",
+    "crawlTimeMsec": "1765467045591",
+    "timestampUsec": "1765467045591179",
+    "published": 1765467007,
+    "title": "How AWS Graviton5 Will Shape the Next Decade of Developer Skills",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/how-aws-graviton5-will-shape-next-decade"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/how-aws-graviton5-will-shape-next-decade",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/how-aws-graviton5-will-shape-next-decade"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645aed41d788c",
+    "crawlTimeMsec": "1765467045591",
+    "timestampUsec": "1765467045591180",
+    "published": 1765467007,
+    "title": "Oracle Revenue Miss Sparks Selloff Across AI Tech Stocks",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/oracle-earnings-impact-ai-stock-market"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/oracle-earnings-impact-ai-stock-market",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/oracle-earnings-impact-ai-stock-market"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645c4a107d5ec",
+    "crawlTimeMsec": "1765560677815",
+    "timestampUsec": "1765560677815788",
+    "published": 1765560614,
+    "title": "Can Sailfish OS Break Through as Europe's Answer to Android and iOS?",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/jolla-linux-smartphone-sailfish-os-development"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/jolla-linux-smartphone-sailfish-os-development",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/jolla-linux-smartphone-sailfish-os-development"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645c4a107d5ed",
+    "crawlTimeMsec": "1765560677815",
+    "timestampUsec": "1765560677815789",
+    "published": 1765560614,
+    "title": "OpenAI's Dominance Is Crumbling as Google and Rivals Close In",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/openai-struggles-amid-ai-market-competition"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/openai-struggles-amid-ai-market-competition",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/openai-struggles-amid-ai-market-competition"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645c6b74d21f6",
+    "crawlTimeMsec": "1765569641390",
+    "timestampUsec": "1765569641390582",
+    "published": 1765569608,
+    "title": "The Agile Manifesto Explained: A Foundation for Better Software",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/agile-manifesto"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/agile-manifesto",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/agile-manifesto"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645ff4c8f3f81",
+    "crawlTimeMsec": "1765812663697",
+    "timestampUsec": "1765812663697281",
+    "published": 1765812611,
+    "title": "Google's AI Accidentally Wipes Developer's Entire Hard Drive: What Went Wrong",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/google-ai-system-causes-catastrophic-data-loss"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/google-ai-system-causes-catastrophic-data-loss",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/google-ai-system-causes-catastrophic-data-loss"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000645ff4c8f3f82",
+    "crawlTimeMsec": "1765812663697",
+    "timestampUsec": "1765812663697282",
+    "published": 1765812611,
+    "title": "Micro-Robot Tech Stack: Embedded Systems, AI, and IoT Security",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/micro-robot-tech-stack"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/micro-robot-tech-stack",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/micro-robot-tech-stack"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000646154bcfc86a",
+    "crawlTimeMsec": "1765907140429",
+    "timestampUsec": "1765907140429930",
+    "published": 1765907107,
+    "title": "The Digital Wall That Wasn't: Denmark Scraps VPN Ban",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/denmark-scraps-vpn-ban"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/denmark-scraps-vpn-ban",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/denmark-scraps-vpn-ban"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006462a408928d9",
+    "crawlTimeMsec": "1765997145565",
+    "timestampUsec": "1765997145565401",
+    "published": 1765997107,
+    "title": "Amazon’s rumored $10B-plus OpenAI talks are really about chips, not chatbots",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/openai-amazon-investment"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/openai-amazon-investment",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/openai-amazon-investment"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006463c10719a9d",
+    "crawlTimeMsec": "1766073648126",
+    "timestampUsec": "1766073648126621",
+    "published": 1766073608,
+    "title": "Apple Music on ChatGPT: Anatomy of a Headless Application",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/write-only-handshake-openai-apple-music"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/write-only-handshake-openai-apple-music",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/write-only-handshake-openai-apple-music"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006465105230e67",
+    "crawlTimeMsec": "1766163652742",
+    "timestampUsec": "1766163652742759",
+    "published": 1766163608,
+    "title": "Amazon Catches North Korean Spy Using Keystroke Timing Analysis",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/amazon-catches-north-korean-it-infiltrator"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/amazon-catches-north-korean-it-infiltrator",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/amazon-catches-north-korean-it-infiltrator"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006465105230e68",
+    "crawlTimeMsec": "1766163652742",
+    "timestampUsec": "1766163652742760",
+    "published": 1766163608,
+    "title": "LinkedIn CEO Says Five-Year Career Plans Are Obsolete",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/linkedin-ceo-career-planning-ai-disruption"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/linkedin-ceo-career-planning-ai-disruption",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/linkedin-ceo-career-planning-ai-disruption"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006468ed5752390",
+    "crawlTimeMsec": "1766429140788",
+    "timestampUsec": "1766429140788112",
+    "published": 1766429106,
+    "title": "Archival Group Releases 300TB Spotify Music Library via Torrents",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/spotify-music-library-massive-archive-leaked"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/spotify-music-library-massive-archive-leaked",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/spotify-music-library-massive-archive-leaked"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006472c0035d475",
+    "crawlTimeMsec": "1767104167924",
+    "timestampUsec": "1767104167924853",
+    "published": 1767104109,
+    "title": "OpenAI’s $555k Job Listing Reads Like a Sci-Fi Warning",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/openai-high-salary-ai-safety-role"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/openai-high-salary-ai-safety-role",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/openai-high-salary-ai-safety-role"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064740f42dc3ae",
+    "crawlTimeMsec": "1767194160382",
+    "timestampUsec": "1767194160382894",
+    "published": 1767194116,
+    "title": "The ChatGPT confidence gap, why AI help can feel smarter than it is",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/ai-users-overestimate-reasoning-performance"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/ai-users-overestimate-reasoning-performance",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/ai-users-overestimate-reasoning-performance"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064753cf7b16db",
+    "crawlTimeMsec": "1767275149072",
+    "timestampUsec": "1767275149072091",
+    "published": 1767275111,
+    "title": "Central Florida Expressway Tests Wireless Power for EVs",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/florida-wireless-charging-highway-ev-innovation"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/florida-wireless-charging-highway-ev-innovation",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/florida-wireless-charging-highway-ev-innovation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006476c1e1981a7",
+    "crawlTimeMsec": "1767379547292",
+    "timestampUsec": "1767379547292071",
+    "published": 1767379508,
+    "title": "UK Researchers Send Furnace to Space to Forge Ultra-Pure Semiconductor Chips",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/space-furnace-semiconductor-research-uk-innovation"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/space-furnace-semiconductor-research-uk-innovation",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/space-furnace-semiconductor-research-uk-innovation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647a5bfc48354",
+    "crawlTimeMsec": "1767627072766",
+    "timestampUsec": "1767627072766804",
+    "published": 1767627014,
+    "title": "Steam’s CPU split is tightening fast, and Intel’s old advantage is fading",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/amd-cpu-market-share-rises-steam-platform"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/amd-cpu-market-share-rises-steam-platform",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/amd-cpu-market-share-rises-steam-platform"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647cc83a80d00",
+    "crawlTimeMsec": "1767793567993",
+    "timestampUsec": "1767793567993088",
+    "published": 1767793511,
+    "title": "Brave Browser Cuts Memory Usage 75 Percent with Update",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/brave-browser-adblock-engine-memory-reduction"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/brave-browser-adblock-engine-memory-reduction",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/brave-browser-adblock-engine-memory-reduction"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647cc83a80d01",
+    "crawlTimeMsec": "1767793567993",
+    "timestampUsec": "1767793567993089",
+    "published": 1767793511,
+    "title": "Microsoft layoffs report, AI spending stays the priority",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/microsoft-job-cuts-ai-investment-strategy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/microsoft-job-cuts-ai-investment-strategy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/microsoft-job-cuts-ai-investment-strategy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000647df5f82c5db",
+    "crawlTimeMsec": "1767874565948",
+    "timestampUsec": "1767874565948891",
+    "published": 1767874507,
+    "title": "Discord Eyes Public Markets as Chat Platform Files for Confidential IPO",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/discord-confidential-ipo-filing-us-markets"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/discord-confidential-ipo-filing-us-markets",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/discord-confidential-ipo-filing-us-markets"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648311949a804",
+    "crawlTimeMsec": "1768225575118",
+    "timestampUsec": "1768225575118852",
+    "published": 1768225512,
+    "title": "Malaysia and Indonesia Block X Over Deepfake Content",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/malaysia-indonesia-block-x-over-deepfake-content"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/malaysia-indonesia-block-x-over-deepfake-content",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/malaysia-indonesia-block-x-over-deepfake-content"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648482594abda",
+    "crawlTimeMsec": "1768324565609",
+    "timestampUsec": "1768324565609434",
+    "published": 1768324511,
+    "title": "Windows 11 is testing a hidden Copilot button inside File Explorer",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/windows-11-copilot-file-explorer-integration"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/windows-11-copilot-file-explorer-integration",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/windows-11-copilot-file-explorer-integration"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006486ee8e642e5",
+    "crawlTimeMsec": "1768491051270",
+    "timestampUsec": "1768491051270885",
+    "published": 1768491010,
+    "title": "Digg is back, and it wants to fix the trust problem Reddit never solved",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/digg-revives-social-news-platform-for-users"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/digg-revives-social-news-platform-for-users",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/digg-revives-social-news-platform-for-users"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006488191649614",
+    "crawlTimeMsec": "1768571187533",
+    "timestampUsec": "1768571187533332",
+    "published": 1768571112,
+    "title": "OpenAI Could Run Out of Money in 18 Months, Analyst Warns",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/openai-financial-sustainability-questioned-by-expert"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/openai-financial-sustainability-questioned-by-expert",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/openai-financial-sustainability-questioned-by-expert"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648d2aa1a2333",
+    "crawlTimeMsec": "1768919494435",
+    "timestampUsec": "1768919494435635",
+    "published": 1768919417,
+    "title": "Wine 11 puts Linux gaming performance on a new track, and the kernel is the reason",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/wine-11-quiet-linux-gaming-upgrade"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/wine-11-quiet-linux-gaming-upgrade",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/wine-11-quiet-linux-gaming-upgrade"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000648ea55b8f817",
+    "crawlTimeMsec": "1769021157996",
+    "timestampUsec": "1769021157996567",
+    "published": 1769021106,
+    "title": "Google Says Gemini Will Stay Ad-Free as ChatGPT Tests Sponsored Answers",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/gemini-chatgpt-diverge-on-advertising-strategy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/gemini-chatgpt-diverge-on-advertising-strategy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/gemini-chatgpt-diverge-on-advertising-strategy"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064948d73ad919",
+    "crawlTimeMsec": "1769427057695",
+    "timestampUsec": "1769427057695001",
+    "published": 1769427014,
+    "title": "Posts per member exposes which Digg communities are actually alive",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/digg-relaunch-silent-communities"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/digg-relaunch-silent-communities",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/digg-relaunch-silent-communities"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000649588e957f69",
+    "crawlTimeMsec": "1769494558375",
+    "timestampUsec": "1769494558375785",
+    "published": 1769494515,
+    "title": "New TikTok US Joint Venture Enables Precise Location Tracking",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/tiktok-location-data-collection-us-users"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/tiktok-location-data-collection-us-users",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/tiktok-location-data-collection-us-users"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006496e8ee8d42b",
+    "crawlTimeMsec": "1769589053117",
+    "timestampUsec": "1769589053117483",
+    "published": 1769589013,
+    "title": "Microsoft Cloud PC Service Disruption Challenges Windows 365 Reliability",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/microsoft-cloud-pc-service-outage-raises-concerns"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/microsoft-cloud-pc-service-outage-raises-concerns",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/microsoft-cloud-pc-service-outage-raises-concerns"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006499ef76c0b09",
+    "crawlTimeMsec": "1769796964977",
+    "timestampUsec": "1769796964977417",
+    "published": 1769796918,
+    "title": "France is ditching Teams and Zoom for a homegrown alternative",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/france-sovereign-video-platform-replaces-foreign-tools"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/france-sovereign-video-platform-replaces-foreign-tools",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/france-sovereign-video-platform-replaces-foreign-tools"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000649dc27ba0dd2",
+    "crawlTimeMsec": "1770059768401",
+    "timestampUsec": "1770059768401362",
+    "published": 1770127223,
+    "title": "Students Are Using AI to Prove They Didn't Use AI",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/students-ai-tools-combat-academic-plagiarism-worries"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/students-ai-tools-combat-academic-plagiarism-worries",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/students-ai-tools-combat-academic-plagiarism-worries"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a01a8aa5e67",
+    "crawlTimeMsec": "1770220845424",
+    "timestampUsec": "1770220845424231",
+    "published": 1770220811,
+    "title": "Volvo Predicts Electric Vehicle Prices Will Drop Within Five Years",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/volvo-ev-prices-expected-to-match-gas-cars"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/volvo-ev-prices-expected-to-match-gas-cars",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/volvo-ev-prices-expected-to-match-gas-cars"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a286e6e1aad",
+    "crawlTimeMsec": "1770387372120",
+    "timestampUsec": "1770387372120749",
+    "published": 1770387322,
+    "title": "Amazon's AI Spending Surge Tests Investor Confidence",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/amazon-ai-investment-challenges-market-sentiment"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/amazon-ai-investment-challenges-market-sentiment",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/amazon-ai-investment-challenges-market-sentiment"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064a62103304aa",
+    "crawlTimeMsec": "1770634899293",
+    "timestampUsec": "1770634899293354",
+    "published": 1770634835,
+    "title": "Apple's Lockdown Mode Prevents FBI Access to Reporter's iPhone",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/iphone-lockdown-mode-prevents-fbi-device-access"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/iphone-lockdown-mode-prevents-fbi-device-access",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/iphone-lockdown-mode-prevents-fbi-device-access"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064aa1f6a77d7e",
+    "crawlTimeMsec": "1770909348625",
+    "timestampUsec": "1770909348625790",
+    "published": 1770909313,
+    "title": "The Feel-Good Ring Ad That Reignited the Surveillance Debate",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/amazon-ring-ad-sparks-surveillance-privacy-debate"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/amazon-ring-ad-sparks-surveillance-privacy-debate",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/amazon-ring-ad-sparks-surveillance-privacy-debate"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b1a3ded0486",
+    "crawlTimeMsec": "1771425940440",
+    "timestampUsec": "1771425940440198",
+    "published": 1771425912,
+    "title": "Roblox age checks go global, Reddit and Discord follow with stricter age assurance",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/online-platforms-biometric-id-verification-system"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/online-platforms-biometric-id-verification-system",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/online-platforms-biometric-id-verification-system"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b7e33388490",
+    "crawlTimeMsec": "1771855257568",
+    "timestampUsec": "1771855257568400",
+    "published": 1771855231,
+    "title": "The end of the anonymous internet? Discord, Reddit, and mandatory IDs.",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/uk-online-safety-act-age-verification-challenges"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/uk-online-safety-act-age-verification-challenges",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/uk-online-safety-act-age-verification-challenges"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064b97222ea4d7",
+    "crawlTimeMsec": "1771962345891",
+    "timestampUsec": "1771962345891031",
+    "published": 1771962313,
+    "title": "IBM fell 13%. Discord fired its verification partner. And data centers are running out of storage. Three tech stories that matter this week.",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/ibm-fell-discord-fired-data-centers-out-of-storage"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/ibm-fell-discord-fired-data-centers-out-of-storage",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/ibm-fell-discord-fired-data-centers-out-of-storage"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0a2dce767c",
+    "crawlTimeMsec": "1772456462153",
+    "timestampUsec": "1772456462153340",
+    "published": 1772456417,
+    "title": "Silent Signals: Why Your Car's Unencrypted Sensors Are a Hacker's Dream",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/your-cars-unencrypted-sensors-are-a-hackers-dream"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/your-cars-unencrypted-sensors-are-a-hackers-dream",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/your-cars-unencrypted-sensors-are-a-hackers-dream"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c0e5f04a7b3",
+    "crawlTimeMsec": "1772474467657",
+    "timestampUsec": "1772474467657651",
+    "published": 1772474418,
+    "title": "Paying $200 a Month for AI That Won't Let You Log In Reveals a Problem Nobody's Talking About",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/ai-service-outage-blocks-user-access"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/ai-service-outage-blocks-user-access",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/ai-service-outage-blocks-user-access"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c490a11d3cb",
+    "crawlTimeMsec": "1772726445528",
+    "timestampUsec": "1772726445528011",
+    "published": 1772726413,
+    "title": "Living Brain Cells Are Now Running Software. What Happens When They Get Better at It Than We Are?",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/living-brain-cells-are-now-running-software"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/living-brain-cells-are-now-running-software",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/living-brain-cells-are-now-running-software"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c9ac2d20a46",
+    "crawlTimeMsec": "1773077437483",
+    "timestampUsec": "1773077437483590",
+    "published": 1773077411,
+    "title": "The People Who Built AI Are Starting to Worry About Who Controls It",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/ai-ceos-are-worried-governments-will-take-their-companies"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/ai-ceos-are-worried-governments-will-take-their-companies",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/ai-ceos-are-worried-governments-will-take-their-companies"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d257c355cde",
+    "crawlTimeMsec": "1773673253264",
+    "timestampUsec": "1773673253264606",
+    "published": 1773673213,
+    "title": "How AI Became the Gatekeeper for Jobs, Math, and Your TV",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/the-machine-in-the-middle-how-ai-became-the-gatekeeper"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/the-machine-in-the-middle-how-ai-became-the-gatekeeper",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/the-machine-in-the-middle-how-ai-became-the-gatekeeper"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d642364cf0c",
+    "crawlTimeMsec": "1773942346141",
+    "timestampUsec": "1773942346141452",
+    "published": 1773942312,
+    "title": "Meta Ends Horizon Worlds, AI Code Fails at Scale, and the FBI Buys Your Location",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/meta-ends-horizon-worlds-ai-code-fails-fbi-buys-location"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/meta-ends-horizon-worlds-ai-code-fails-fbi-buys-location",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/meta-ends-horizon-worlds-ai-code-fails-fbi-buys-location"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dd948418a61",
+    "crawlTimeMsec": "1774445475760",
+    "timestampUsec": "1774445475760737",
+    "published": 1774445413,
+    "title": "Who Controls the Stack? Four Stories About Platforms Tightening Their Grip",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/who-controls-the-stack-four-stories-about-platforms"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/who-controls-the-stack-four-stories-about-platforms",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/who-controls-the-stack-four-stories-about-platforms"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dda5589fd2e",
+    "crawlTimeMsec": "1774449993579",
+    "timestampUsec": "1774449993579822",
+    "published": 1774449912,
+    "title": "The Best CompTIA Alternatives",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/comptia-alternatives"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/comptia-alternatives",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/comptia-alternatives"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e4135f084f6",
+    "crawlTimeMsec": "1774891845059",
+    "timestampUsec": "1774891845059830",
+    "published": 1774891813,
+    "title": "China's Research Budget Will Surpass the US by 2029. Here's What's Driving It.",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/chinas-research-budget-will-surpass-the-us"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/chinas-research-budget-will-surpass-the-us",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/chinas-research-budget-will-surpass-the-us"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064edeffd9315f",
+    "crawlTimeMsec": "1775569542394",
+    "timestampUsec": "1775569542394207",
+    "published": 1775569512,
+    "title": "AI Layoffs 2026: Goldman Sachs Warns Displaced Tech Workers Face Longer Searches and Pay Cuts",
+    "canonical": [
+        {
+            "href": "https://hackr.io/blog/goldman-sachs-warns-displaced-tech-workers-face-longer-searches"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://hackr.io/blog/goldman-sachs-warns-displaced-tech-workers-face-longer-searches",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/29",
+        "htmlUrl": "https://hackr.io/",
+        "title": "Hackr.io",
+        "feedUrl": "https://hackr.io/programming/rss.xml"
+    },
+    "content": {
+        "content": ""
+    },
+    "guid": "https://hackr.io/blog/goldman-sachs-warns-displaced-tech-workers-face-longer-searches"
+}
+]}

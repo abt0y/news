@@ -1,0 +1,1739 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/15",
+    "title": "List of ScienceAlert articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064da730c2017a",
+    "crawlTimeMsec": "1774230333161",
+    "timestampUsec": "1774230333161850",
+    "published": 1774229400,
+    "title": "Mysterious Structure on Mars Looks Uncannily Like an Ancient Egyptian Pyramid",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-structure-on-mars-looks-uncannily-like-an-ancient-egyptian-pyramid"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-structure-on-mars-looks-uncannily-like-an-ancient-egyptian-pyramid",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/tetra-header.jpg\" alt=\"Mysterious Structure on Mars Looks Uncannily Like an Ancient Egyptian Pyramid\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A fascinating illusion.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195576",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064da83d8c9e3a",
+    "crawlTimeMsec": "1774234842734",
+    "timestampUsec": "1774234842734138",
+    "published": 1774231200,
+    "title": "Magnetic Fluid Injected Into The Heart May Prevent Strokes, Scientists Think",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/magnetic-fluid-injected-into-the-heart-may-prevent-strokes-scientists-think"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/magnetic-fluid-injected-into-the-heart-may-prevent-strokes-scientists-think",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/magnetic-fluid-atrial-fibrillation.jpg\" alt=\"Magnetic Fluid Injected Into The Heart May Prevent Strokes, Scientists Think\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">This could have a substantial impact on global health.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195792",
+    "author": "David C. Gaze， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064daf961cf7ed",
+    "crawlTimeMsec": "1774266393360",
+    "timestampUsec": "1774266393360365",
+    "published": 1774263600,
+    "title": "World Meteorological Day: Ocean Heat Breaks Record, Scientists Warn",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/world-meteorology-day-ocean-heat-breaks-record-scientists-warn"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/world-meteorology-day-ocean-heat-breaks-record-scientists-warn",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/the-ocean-seen-through-the-eye-of-hurricane-melissa.jpg\" alt=\"World Meteorological Day: Ocean Heat Breaks Record, Scientists Warn\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"Climate chaos is accelerating and delay is deadly.\"</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195483",
+    "author": "Jess Cockerill"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064db0a162c55c",
+    "crawlTimeMsec": "1774270877451",
+    "timestampUsec": "1774270877451612",
+    "published": 1774267200,
+    "title": "Microbe in Human Gut May Boost Muscle Strength, Study Finds",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/microbe-in-human-gut-may-boost-muscle-strength-study-finds"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/microbe-in-human-gut-may-boost-muscle-strength-study-finds",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/lego-weight-lifting.jpg\" alt=\"LEGO person lifting weights and grimacing\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">New evidence of a \"gut-muscle axis\".</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195454",
+    "author": "Russell McLendon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064db1ad527c46",
+    "crawlTimeMsec": "1774275372678",
+    "timestampUsec": "1774275372678214",
+    "published": 1774274400,
+    "title": "How Will Gravity on Mars Affect Humans? A New Study Reveals a Clue.",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/how-will-gravity-on-mars-affect-humans-a-new-study-reveals-a-clue"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/how-will-gravity-on-mars-affect-humans-a-new-study-reveals-a-clue",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/IllustrationVallesMarinerisCanyonSystemOnMars.jpg\" alt=\"How Will Gravity on Mars Affect Humans? A New Study Reveals a Clue.\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Maintaining muscle mass is key. </p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195821",
+    "author": "Matthew Williams， Universe Today"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064db5dcc0fb72",
+    "crawlTimeMsec": "1774293348318",
+    "timestampUsec": "1774293348318066",
+    "published": 1774292400,
+    "title": "Sunken Soviet Submarine Is Leaking Radioactive Material in The Ocean",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/sunken-soviet-submarine-is-leaking-radioactive-material-in-the-ocean"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/sunken-soviet-submarine-is-leaking-radioactive-material-in-the-ocean",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/submarine-plume.jpg\" alt=\"Sunken Soviet Submarine Is Leaking Radioactive Material in The Ocean\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A tragic disaster.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195670",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dba0d168598",
+    "crawlTimeMsec": "1774311339099",
+    "timestampUsec": "1774311339099544",
+    "published": 1774310580,
+    "title": "Gigantic 'Heat Dome' Baking The Whole US May Be Historic, Scientists Say",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/gigantic-heat-dome-baking-the-whole-us-may-be-historic-scientists-say"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/gigantic-heat-dome-baking-the-whole-us-may-be-historic-scientists-say",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/hot-sun-in-sky.jpg\" alt=\"hot sun in sky\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"The entire US is going to be hot... that's really bizarre.”</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195933",
+    "author": "SETH BORENSTEIN， ASSOCIATED PRESS"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbb198ba548",
+    "crawlTimeMsec": "1774315843069",
+    "timestampUsec": "1774315843069256",
+    "published": 1774312740,
+    "title": "The 'Biggest Mistake' People Make With GLP-1 Drugs, And How to Avoid It",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/the-biggest-mistake-people-make-with-glp-1-drugs-and-how-to-avoid-it"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/the-biggest-mistake-people-make-with-glp-1-drugs-and-how-to-avoid-it",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/woman-holds-injector.jpg\" alt=\"woman holds injector\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">The evidence is clear.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195949",
+    "author": "JONEL ALECCIA， ASSOCIATED PRESS"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dbb198ba555",
+    "crawlTimeMsec": "1774315843069",
+    "timestampUsec": "1774315843069269",
+    "published": 1774315740,
+    "title": "Huge Freshwater Reservoir Found Hidden Under The Great Salt Lake",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/huge-freshwater-reservoir-found-hidden-under-the-great-salt-lake"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/huge-freshwater-reservoir-found-hidden-under-the-great-salt-lake",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/GreatLake.jpg\" alt=\"The Great Salt Lake In Utah\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">The scale was truly unexpected.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195915",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc3482b4913",
+    "crawlTimeMsec": "1774350985021",
+    "timestampUsec": "1774350985021715",
+    "published": 1774350000,
+    "title": "World TB Day: A New Clue Offers Hope Against The Deadliest Infection",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/world-tb-day-a-new-clue-offers-hope-against-the-deadliest-infection"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/world-tb-day-a-new-clue-offers-hope-against-the-deadliest-infection",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/x-ray-with-red-highlight.jpg\" alt=\"x-ray with red highlight\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A vital insight has been revealed.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195295",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc454b2d6a0",
+    "crawlTimeMsec": "1774355490199",
+    "timestampUsec": "1774355490199200",
+    "published": 1774353600,
+    "title": "Giant Star's Mysterious X-Rays Finally Explained After 50 Years",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/giant-stars-mysterious-x-rays-finally-explained-after-50-years"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/giant-stars-mysterious-x-rays-finally-explained-after-50-years",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/gamma-cas.jpg\" alt=\"Giant Star's Mysterious X-Rays Finally Explained After 50 Years\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Astronomers have puzzled over this for half a century.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195839",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc66cf4b88d",
+    "crawlTimeMsec": "1774364487104",
+    "timestampUsec": "1774364487104653",
+    "published": 1774360800,
+    "title": "The True Story of a Tornado Scientist Who Got Trapped Inside One",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/the-true-story-of-a-tornado-scientist-who-got-trapped-inside-one"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/the-true-story-of-a-tornado-scientist-who-got-trapped-inside-one",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/tornado-in-oklahoma.jpg\" alt=\"tornado in oklahoma\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"I do not want to ever be in that situation again.\"</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195971",
+    "author": "Perry Samson， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc7769e46e9",
+    "crawlTimeMsec": "1774368944178",
+    "timestampUsec": "1774368944178921",
+    "published": 1774368000,
+    "title": "'Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/dead-end-radical-20-year-study-reveals-genetic-cloning-hits-a-limit"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/dead-end-radical-20-year-study-reveals-genetic-cloning-hits-a-limit",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/MouseClone.jpg\" alt=\"'Dead End': Radical 20-Year Study Reveals Genetic Cloning Hits a Limit\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">How many times can you clone a clone?</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195923",
+    "author": "Carly Cassella"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dc98f05d579",
+    "crawlTimeMsec": "1774377943553",
+    "timestampUsec": "1774377943553401",
+    "published": 1774375200,
+    "title": "Severe UTIs May Be an Overlooked Dementia Risk Factor",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/severe-utis-may-be-an-overlooked-dementia-risk-factor"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/severe-utis-may-be-an-overlooked-dementia-risk-factor",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/HospitalPatient.jpg\" alt=\"Male patient in a hospital bed\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A concerning link has surfaced.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195769",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dcdbf9a2078",
+    "crawlTimeMsec": "1774395938447",
+    "timestampUsec": "1774395938447480",
+    "published": 1774391580,
+    "title": "Your Poop Schedule Says a Lot About Your Overall Health, Study Reveals",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/your-poop-schedule-says-a-lot-about-your-overall-health-study-reveals"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/your-poop-schedule-says-a-lot-about-your-overall-health-study-reveals",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2025/11/Mans-hands-holding-a-roll-of-toilet-paper.jpg\" alt=\"A man sitting on a toilet, fully clothed, holding a roll of toilet paper. To illustrate a connection between bowel movement frequency and overall health\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">It matters more than you think.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196061",
+    "author": "Michael Irving"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dcfd979f82c",
+    "crawlTimeMsec": "1774404962482",
+    "timestampUsec": "1774404962482220",
+    "published": 1774401480,
+    "title": "NASA Abandons Its Ambitious Lunar Space Station in Major Shake-Up",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/nasa-abandons-its-ambitious-lunar-space-station-in-major-shake-up"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/nasa-abandons-its-ambitious-lunar-space-station-in-major-shake-up",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/artists-impression-of-gateway.jpg\" alt=\"NASA Abandons Its Ambitious Lunar Space Station in Major Shake-Up\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Here's what we know.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196073",
+    "author": "Charlotte Causit ＆amp； Maggy Donaldson， AFP"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dcfd979f82d",
+    "crawlTimeMsec": "1774404962482",
+    "timestampUsec": "1774404962482221",
+    "published": 1774402500,
+    "title": "World's First Antimatter Delivery by Truck Signals a 'New Era' in Physics",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/worlds-first-antimatter-delivery-by-truck-signals-a-new-era-in-physics"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/worlds-first-antimatter-delivery-by-truck-signals-a-new-era-in-physics",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Physics"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/antimatter-truck-delivery-device.jpg\" alt=\"antimatter truck delivery device\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Woah!</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196082",
+    "author": "Nina LARSON， AFP"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dd0e4703947",
+    "crawlTimeMsec": "1774409441360",
+    "timestampUsec": "1774409441360199",
+    "published": 1774409220,
+    "title": "This Unique Diet Could Slow Your Brain Aging by Over 2 Years, Study Suggests",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/this-unique-diet-could-slow-your-brain-aging-by-over-2-years-study-suggests"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/this-unique-diet-could-slow-your-brain-aging-by-over-2-years-study-suggests",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/PinkBrain-1.jpg\" alt=\"Pink brain\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Food for thought.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195628",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dd83b345177",
+    "crawlTimeMsec": "1774440961823",
+    "timestampUsec": "1774440961823095",
+    "published": 1774436400,
+    "title": "Earth's Days Are Getting Longer, And Humans May Be Why",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/earths-days-are-getting-longer-and-humans-may-be-why"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/earths-days-are-getting-longer-and-humans-may-be-why",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/earth-from-space.jpg\" alt=\"earth from space\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">“Attributed primarily to human influences.”</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195872",
+    "author": "Ivan Farkas"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dd83b34519c",
+    "crawlTimeMsec": "1774440961823",
+    "timestampUsec": "1774440961823132",
+    "published": 1774440000,
+    "title": "Migratory Freshwater Fish Numbers Are Close To Collapse, UN Report Warns",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/migratory-freshwater-fish-numbers-are-close-to-collapse-un-report-warns"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/migratory-freshwater-fish-numbers-are-close-to-collapse-un-report-warns",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/salmon.jpg\" alt=\"Migratory Freshwater Fish Numbers Are Close To Collapse, UN Report Warns\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"Among the most imperiled vertebrates.\"</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196160",
+    "author": "AFP"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064dda5589fd0b",
+    "crawlTimeMsec": "1774449993579",
+    "timestampUsec": "1774449993579787",
+    "published": 1774447200,
+    "title": "Mysterious Ancient Ape May Have Evolved a Key Human Trait",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-ancient-ape-may-have-evolved-a-key-human-trait"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-ancient-ape-may-have-evolved-a-key-human-trait",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/graecopithecus.jpg\" alt=\"Mysterious Ancient Ape May Have Evolved a Key Human Trait\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A new path for a controversial hypothesis.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=194711",
+    "author": "Ivan Farkas"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ddf8f6db838",
+    "crawlTimeMsec": "1774472439642",
+    "timestampUsec": "1774472439642168",
+    "published": 1774468800,
+    "title": "Sharks Are Testing Positive For Cocaine And Caffeine in The Bahamas",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/sharks-are-testing-positive-for-cocaine-and-caffeine-in-the-bahamas"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/sharks-are-testing-positive-for-cocaine-and-caffeine-in-the-bahamas",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/CirclingSharks.jpg\" alt=\"Silhouette of circling sharks\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Even remote waters aren't safe from human influence.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196047",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de1a84b454c",
+    "crawlTimeMsec": "1774481446749",
+    "timestampUsec": "1774481446749516",
+    "published": 1774479240,
+    "title": "After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/after-60-years-diabetes-drug-revealed-to-unexpectedly-affect-the-brain"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/after-60-years-diabetes-drug-revealed-to-unexpectedly-affect-the-brain",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2025/11/Illustration-of-metformin-and-protoporphyrin-bound-to-human-cytochrome-CYP3A4.jpg\" alt=\"Illustration showing diabetes drug metformin working in the body\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Scientists haven't been exactly sure how it works.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196216",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de3c09769c9",
+    "crawlTimeMsec": "1774490444327",
+    "timestampUsec": "1774490444327369",
+    "published": 1774488000,
+    "title": "Frequent Ejaculations Can Boost Sperm Quality, Study Suggests",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/frequent-ejaculations-can-boost-sperm-quality-study-suggests"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/frequent-ejaculations-can-boost-sperm-quality-study-suggests",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/sperm-egg.jpg\" alt=\"sperm egg\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">This is really important.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196231",
+    "author": "Rebecca Dean et al.， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de3c09769d1",
+    "crawlTimeMsec": "1774490444327",
+    "timestampUsec": "1774490444327377",
+    "published": 1774489920,
+    "title": "Oldest Dog DNA Ever Found Reveals How Ancient Our Friendship Really Is",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/oldest-dog-dna-ever-found-reveals-how-ancient-our-friendship-really-is"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/oldest-dog-dna-ever-found-reveals-how-ancient-our-friendship-really-is",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/hand-holds-ancient-dog-fossil.jpg\" alt=\"Oldest Dog DNA Ever Found Reveals How Ancient Our Friendship Really Is\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Old friends, best friends.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196241",
+    "author": "Frederic Bourigault， AFP"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064de4cc24a7c7",
+    "crawlTimeMsec": "1774494933100",
+    "timestampUsec": "1774494933100487",
+    "published": 1774490700,
+    "title": "There Are 10 Signs of Faster Aging Hidden in Your Blood, Study Says",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/there-are-10-signs-of-faster-aging-hidden-in-your-blood-study-says"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/there-are-10-signs-of-faster-aging-hidden-in-your-blood-study-says",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/ElderlyFace.jpg\" alt=\"Elderly male face\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">You might be older than you think.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195762",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ded2f873d17",
+    "crawlTimeMsec": "1774530960243",
+    "timestampUsec": "1774530960243991",
+    "published": 1774530060,
+    "title": "Eating The Same Meals Every Day May Have a Surprising Effect on Weight Loss",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/eating-the-same-meals-every-day-may-have-a-surprising-effect-on-weight-loss"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/eating-the-same-meals-every-day-may-have-a-surprising-effect-on-weight-loss",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/Leftovers.jpg\" alt=\"Eating The Same Meals Every Day May Have a Surprising Effect on Weight Loss\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Consistency is key?</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196230",
+    "author": "Carly Cassella"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df0536155e5",
+    "crawlTimeMsec": "1774544446641",
+    "timestampUsec": "1774544446641637",
+    "published": 1774540800,
+    "title": "Sperm Get Lost in Microgravity, And It Could Seriously Impact Space Travel",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/sperm-get-lost-in-microgravity-and-it-could-seriously-impact-space-travel"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/sperm-get-lost-in-microgravity-and-it-could-seriously-impact-space-travel",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/SpermGravity.jpg\" alt=\"Sperm Get Lost in Microgravity, And It Could Seriously Impact Space Travel\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Stumbling in the dark.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196135",
+    "author": "Carly Cassella"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df15f1c5ecb",
+    "crawlTimeMsec": "1774548938415",
+    "timestampUsec": "1774548938415819",
+    "published": 1774548000,
+    "title": "Incredible Video Shows Sperm Whales Come Together to Birth a Calf",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/incredible-video-shows-sperm-whales-come-together-to-birth-a-calf"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/incredible-video-shows-sperm-whales-come-together-to-birth-a-calf",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/calf-support.jpg\" alt=\"Incredible Video Shows Sperm Whales Come Together to Birth a Calf\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">It takes a village.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195973",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df58fe4bb03",
+    "crawlTimeMsec": "1774566936722",
+    "timestampUsec": "1774566936722179",
+    "published": 1774563960,
+    "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg\" alt=\"Chernobyl Fungus Appears to Have Evolved an Incredible Ability\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">It's thriving.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196271",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df7a84ba253",
+    "crawlTimeMsec": "1774575936053",
+    "timestampUsec": "1774575936053843",
+    "published": 1774572300,
+    "title": "AI Is Giving You Bad Advice to Make You Feel Validated, Scientists Warn",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/ai-is-giving-you-bad-advice-to-make-you-feel-validated-scientists-warn"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/ai-is-giving-you-bad-advice-to-make-you-feel-validated-scientists-warn",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Tech"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/woman-looks-at-computer.jpg\" alt=\"woman looks at computer\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Flattery will get you nowhere.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196366",
+    "author": "MATT O＆#039；BRIEN， ASSOCIATED PRESS"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df7a84ba263",
+    "crawlTimeMsec": "1774575936053",
+    "timestampUsec": "1774575936053859",
+    "published": 1774575000,
+    "title": "Caffeine May Reverse Memory Loss From Lack of Sleep, Study Suggests",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/caffeine-may-reverse-memory-loss-from-lack-of-sleep-study-suggests"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/caffeine-may-reverse-memory-loss-from-lack-of-sleep-study-suggests",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/SleepyWoman.jpg\" alt=\"Shot of a young woman yawning while having coffee\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"Caffeine can reverse these disruptions at both the molecular and behavioral levels.\"</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196054",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064df8b48fd590",
+    "crawlTimeMsec": "1774580436817",
+    "timestampUsec": "1774580436817296",
+    "published": 1774576800,
+    "title": "Oral Alternative to Ozempic May Be Even More Effective For Weight Loss",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/oral-alternative-to-ozempic-may-be-even-more-effective-for-weight-loss"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/oral-alternative-to-ozempic-may-be-even-more-effective-for-weight-loss",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/pills-hand.jpg\" alt=\"Oral Alternative to Ozempic May Be Even More Effective For Weight Loss\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Meet orforglipron.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196378",
+    "author": "Martin Whyte， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e000ad981bb",
+    "crawlTimeMsec": "1774611949257",
+    "timestampUsec": "1774611949257147",
+    "published": 1774609200,
+    "title": "One Predator Scares Away White Sharks Even More Than Orcas",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/one-predator-scares-away-white-sharks-even-more-than-orcas"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/one-predator-scares-away-white-sharks-even-more-than-orcas",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Nature",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/dead-white-shark.jpg\" alt=\"One Predator Scares Away White Sharks Even More Than Orcas\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">An even more fearsome predator lurks.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195524",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e011759daaf",
+    "crawlTimeMsec": "1774616453962",
+    "timestampUsec": "1774616453962415",
+    "published": 1774612800,
+    "title": "The Long-Lost Bones of The Fourth Musketeer May Have Been Found",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/the-long-lost-bones-of-the-fourth-musketeer-may-have-been-found"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/the-long-lost-bones-of-the-fourth-musketeer-may-have-been-found",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/dartagnan.jpg\" alt=\"The Long-Lost Bones of The Fourth Musketeer May Have Been Found\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Could it be?</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196380",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e02239a7eb5",
+    "crawlTimeMsec": "1774620954492",
+    "timestampUsec": "1774620954492597",
+    "published": 1774620000,
+    "title": "The 4 Rarer Kinds of Dementia Most People Don't Know Exist",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/the-4-rarer-kinds-of-dementia-most-people-dont-know-exist"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/the-4-rarer-kinds-of-dementia-most-people-dont-know-exist",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/brain-in-dish-illustration.jpg\" alt=\"brain in dish illustration\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">This goes beyond Alzheimer's.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196379",
+    "author": "Clarissa Giebel， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e06532a3206",
+    "crawlTimeMsec": "1774638932308",
+    "timestampUsec": "1774638932308486",
+    "published": 1774634400,
+    "title": "Excess Brain Waste May Lead to Psychosis, And The Risks Could Start in Childhood",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/excess-brain-waste-may-lead-to-psychosis-and-the-risks-could-start-in-childhood"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/excess-brain-waste-may-lead-to-psychosis-and-the-risks-could-start-in-childhood",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/PinkBrain.jpg\" alt=\"Pink brain illustration\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">When waste removal fails.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195462",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e086b773941",
+    "crawlTimeMsec": "1774647929944",
+    "timestampUsec": "1774647929944385",
+    "published": 1774645200,
+    "title": "Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2025/11/Bacteria-on-the-intestinal-epithelium-surface-illustration.jpg\" alt=\"Artist's impression of microbes on the gut lining.\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Inching closer to the full picture.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196279",
+    "author": "Tessa Koumoundouros"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e0b9120dd99",
+    "crawlTimeMsec": "1774661446720",
+    "timestampUsec": "1774661446720921",
+    "published": 1774659600,
+    "title": "Brain Pattern Reveals Why Chronic Pain Leads to Depression",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/brain-pattern-reveals-why-chronic-pain-leads-to-depression"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/brain-pattern-reveals-why-chronic-pain-leads-to-depression",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/chronic-pain.jpg\" alt=\"Brain Pattern Reveals Why Chronic Pain Leads to Depression\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Brain scans showed something surprising.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196026",
+    "author": "Barbara Jacquelyn Sahakian et al.， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e13bcfeb5d9",
+    "crawlTimeMsec": "1774696542418",
+    "timestampUsec": "1774696542418393",
+    "published": 1774695600,
+    "title": "This Week in Science: Cloning Limits, Sperm in Space, And Much More!",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/this-week-in-science-cloning-limits-sperm-in-space-and-much-more"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/this-week-in-science-cloning-limits-sperm-in-space-and-much-more",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Explainer",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/SpermGravity.jpg\" alt=\"Sperm Get Lost in Microgravity, And It Could Seriously Impact Space Travel\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Our weekly science news roundup.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196435",
+    "author": "ScienceAlert Staff"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e14c944d15b",
+    "crawlTimeMsec": "1774701043306",
+    "timestampUsec": "1774701043306843",
+    "published": 1774699200,
+    "title": "One Blood Type Appears to Carry a Higher Risk of Type 2 Diabetes",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/one-blood-type-appears-to-carry-a-higher-risk-of-type-2-diabetes"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/one-blood-type-appears-to-carry-a-higher-risk-of-type-2-diabetes",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/blood-vial.jpg\" alt=\"One Blood Type Appears to Carry a Higher Risk of Type 2 Diabetes\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">Here's what we know.</p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195997",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e16e17b93fb",
+    "crawlTimeMsec": "1774710039483",
+    "timestampUsec": "1774710039483387",
+    "published": 1774706400,
+    "title": "Couples Share a Surprising Percentage of Gut Bacteria That May Impact Health",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/couples-share-a-surprising-percentage-of-gut-bacteria-that-may-impact-health"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/couples-share-a-surprising-percentage-of-gut-bacteria-that-may-impact-health",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/CouplesGuts.jpg\" alt=\"Couples Share a Surprising Percentage of Gut Bacteria That May Impact Health\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">How... romantic?</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195940",
+    "author": "Conor Meehan and Janelle Mwerinde， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e19d06b9487",
+    "crawlTimeMsec": "1774722638124",
+    "timestampUsec": "1774722638124167",
+    "published": 1774720800,
+    "title": "Extremely Rare Star Preserves Traces of The Universe's First Light",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/extremely-rare-star-preserves-traces-of-the-universes-first-light"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/extremely-rare-star-preserves-traces-of-the-universes-first-light",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/pictor-ii.jpg\" alt=\"Extremely Rare Star Preserves Traces of The Universe's First Light\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">\"At the edge of what we thought possible.\"</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195408",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e1cf531928a",
+    "crawlTimeMsec": "1774736139981",
+    "timestampUsec": "1774736139981450",
+    "published": 1774731600,
+    "title": "One Form of Exercise Improves Sleep The Most, Study Reveals",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/one-form-of-exercise-improves-sleep-the-most-study-reveals"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/one-form-of-exercise-improves-sleep-the-most-study-reveals",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2025/11/A-young-brunette-woman-with-closed-eyes.jpg\" alt=\"Close up on face of a young brunette woman with closed eyes, lying on a white pillow\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">And it takes less than 30 minutes.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196282",
+    "author": "Carly Cassella"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e20195ecb6b",
+    "crawlTimeMsec": "1774749631826",
+    "timestampUsec": "1774749631826795",
+    "published": 1774746000,
+    "title": "Collagen Supplements May Offer Real Benefits, Large Review Suggests",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/collagen-supplements-may-offer-real-benefits-large-review-suggests"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/collagen-supplements-may-offer-real-benefits-large-review-suggests",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/woman-holds-pill.jpg\" alt=\"woman holds pill\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">The overall picture was cautiously positive.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196140",
+    "author": "Heba Ghazal， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e29525b0fd3",
+    "crawlTimeMsec": "1774789242589",
+    "timestampUsec": "1774789242589139",
+    "published": 1774785600,
+    "title": "Scientists Figured Out How to Turn Plastic Waste Into a Parkinson's Drug",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/scientists-figured-out-how-to-turn-plastic-waste-into-a-parkinsons-drug"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/scientists-figured-out-how-to-turn-plastic-waste-into-a-parkinsons-drug",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Environment",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/PlasticBottle.jpg\" alt=\"Recycling a plastic bottle\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">From pollutants to pharmaceuticals.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195635",
+    "author": "David Nield"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e2a5f023b83",
+    "crawlTimeMsec": "1774793749838",
+    "timestampUsec": "1774793749838723",
+    "published": 1774792800,
+    "title": "March Madness: Brain Activity Reveals Why Basketball Players Hit or Miss Shots",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/march-madness-brain-activity-reveals-why-basketball-players-hit-or-miss-shots"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/march-madness-brain-activity-reveals-why-basketball-players-hit-or-miss-shots",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/basketball-player-shooting.jpg\" alt=\"basketball player shooting\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">The difference is how you think.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196436",
+    "author": "David Van den Heever， The Conversation"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e2e8e48a2c1",
+    "crawlTimeMsec": "1774811722851",
+    "timestampUsec": "1774811722851009",
+    "published": 1774807200,
+    "title": "Mysterious Ancient Culture Forged a Weapon From a Fallen Star",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-ancient-culture-forged-a-weapon-from-a-fallen-star"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/mysterious-ancient-culture-forged-a-weapon-from-a-fallen-star",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Humans",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/03/meteor.jpg\" alt=\"Mysterious Ancient Culture Forged a Weapon From a Fallen Star\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">A treasure beyond treasures.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=195900",
+    "author": "Michelle Starr"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e317d97d25b",
+    "crawlTimeMsec": "1774824327729",
+    "timestampUsec": "1774824327729755",
+    "published": 1774823460,
+    "title": "Cheap Daily Supplement Appears to Boost Brain Functions in Older People",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/cheap-daily-supplement-appears-to-boost-brain-functions-in-older-people"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/cheap-daily-supplement-appears-to-boost-brain-functions-in-older-people",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Health",
+        "MSFT Content"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2024/03/Hand-holding-2-white-capsule-pills-in-sunlight.jpg\" alt=\"Close up of a hand holding 2 white capsule pills in sunlight, black background\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">The effect can be seen within weeks.</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196284",
+    "author": "Carly Cassella"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064e328bbbd440",
+    "crawlTimeMsec": "1774828859937",
+    "timestampUsec": "1774828859937856",
+    "published": 1774827600,
+    "title": "NASA Astronaut Suddenly Couldn't Speak in Space, And Doctors Don't Know Why",
+    "canonical": [
+        {
+            "href": "https://www.sciencealert.com/nasa-astronaut-suddenly-couldnt-speak-in-space-and-doctors-dont-know-why"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.sciencealert.com/nasa-astronaut-suddenly-couldnt-speak-in-space-and-doctors-dont-know-why",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Space"
+    ],
+    "origin": {
+        "streamId": "feed/15",
+        "htmlUrl": "https://www.sciencealert.com/feed",
+        "title": "ScienceAlert",
+        "feedUrl": "https://www.sciencealert.com/feed"
+    },
+    "content": {
+        "content": "<p><img width=\"1200\" height=\"675\" src=\"https://www.sciencealert.com/images/2026/02/mike_fincke_header.jpg\" alt=\"Mike Fincke in his spacesuit, being assisted from the SpaceX Crew-11 capsule\" decoding=\"async\" loading=\"lazy\" data-sanitized-class=\"attachment-large size-large wp-post-image\">“My crewmates definitely saw that I was in distress.”</p><p><a href=\"https://www.sciencealert.com/newsletter?utm_source=rss_feed&amp;utm_medium=feed&amp;utm_campaign=rss_feed_promo\" target=\"_blank\" rel=\"noopener\">ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.</a></p>"
+    },
+    "guid": "https://www.sciencealert.com/?p=196468",
+    "author": "Marcia Dunn， Associated Press"
+}
+]}

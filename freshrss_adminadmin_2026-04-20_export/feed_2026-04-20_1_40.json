@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/40",
+    "title": "List of Paper Index on ACL Anthology articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83cc",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813580",
+    "published": 1773705600,
+    "title": "WikiLingDiv: a dataset for quantifying digital linguistic diversity using Wikipedia page views",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.19/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.19/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Hannes Essfors and Andreas Baumann in Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026"
+    },
+    "guid": "2026.latechclfl-1.19"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83cd",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813581",
+    "published": 1773705600,
+    "title": "WikiFirst: A Genre-Fixed, Content-controlled Corpus for Evaluating Content Effects in Authorship Analysis",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.31/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.31/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Dung Nguyen, G. Çağatay Sat, Evgeny Pyshkin and John Blake in Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026"
+    },
+    "guid": "2026.latechclfl-1.31"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ce",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813582",
+    "published": 1773705600,
+    "title": "Why Are We Lonely? Leveraging LLMs to Measure and Understand Loneliness in Caregivers and Non-caregivers",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.19/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.19/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Michelle Damin Kim, Ellie S. Paek, Yufen Lin, Emily Mroz, Jane Chung and Jinho D. Choi in Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing 2026)"
+    },
+    "guid": "2026.healing-1.19"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83cf",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813583",
+    "published": 1773705600,
+    "title": "Whom to Trust? Analyzing the Divergence Between User Satisfaction and LLM-as-a-Judge in E-Commerce RAG Systems",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.12/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.12/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Arif Türkmen and Kaan Efe Keleş in Proceedings of the First Workshop on Multilingual Multicultural Evaluation"
+    },
+    "guid": "2026.mme-main.12"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d0",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813584",
+    "published": 1773705600,
+    "title": "Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.12/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.12/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Ikram Belmadani, Oumaima El Khettari, Pacôme Constant dit Beaufils, Richard Dufour and Benoit Favre in Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing 2026)"
+    },
+    "guid": "2026.healing-1.12"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d1",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813585",
+    "published": 1773705600,
+    "title": "Which course? Discourse! Teaching Discourse and Generation in the Era of LLMs",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.teachingnlp-1.9/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.teachingnlp-1.9/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Junyi Jessy Li, Yang Janet Liu, Kanishka Misra, Valentina Pyatkin and William Sheffield in Proceedings of the Seventh Workshop on Teaching Natural Language Processing (TeachNLP 2026)"
+    },
+    "guid": "2026.teachingnlp-1.9"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d2",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813586",
+    "published": 1773705600,
+    "title": "Where Are We at with Automatic Speech Recognition for the Bambara Language?",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.26/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.26/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Seydou Diallo, Yacouba Diarra, Panga Azazia Kamaté, Aboubacar Ouattara, Mamadou K. Keita and Adam Bouno Kampo in Proceedings of the 7th Workshop on African Natural Language Processing (AfricaNLP 2026)"
+    },
+    "guid": "2026.africanlp-main.26"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d3",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813587",
+    "published": 1773705600,
+    "title": "When Semantic Overlap Is Not Enough: Cross-Lingual Euphemism Transfer Between Turkish and English",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.11/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.11/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Hasan Can Biyik, Libby Barak, Jing Peng and Anna Feldman in Proceedings of the Second Workshop Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+    },
+    "guid": "2026.sigturk-1.11"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d4",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813588",
+    "published": 1773705600,
+    "title": "When Multilingual Evaluation Assumptions Fail: Tokenization Effects Across Scripts",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Manodyna K H and Luc De Nardi in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.4"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d5",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813589",
+    "published": 1773705600,
+    "title": "When LLMs Annotate: Reliability Challenges in Low-Resource NLI",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.17/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.17/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Solmaz Panahi, John Kelleher and Vasudevan Nedumpozhimana in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.17"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d6",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813590",
+    "published": 1773705600,
+    "title": "What does Surprisal have to do with Information Status?",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigtyp-main.4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigtyp-main.4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Andrew Thomas Dyer in Proceedings of the 8th Workshop on Research in Computational Linguistic Typology and Multilingual NLP"
+    },
+    "guid": "2026.sigtyp-main.4"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d7",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813591",
+    "published": 1773705600,
+    "title": "Weakly-supervised Argument Mining with Boundary Refinement and Relation Denoising",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.fever-1.1/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.fever-1.1/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Wei Sun, Mingxiao Li, Jesse Davis, Elena Cabrio, Serena Villata and Marie-Francine Moens in Proceedings of the Ninth Fact Extraction and VERification Workshop (FEVER)"
+    },
+    "guid": "2026.fever-1.1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d8",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813592",
+    "published": 1773705600,
+    "title": "Weakly Supervised Named Entity Recognition for Historical Texts",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.6/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.6/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Marco Sorbi, Laurent Moccozet and Stephane Marchand-Maillet in Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026"
+    },
+    "guid": "2026.latechclfl-1.6"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83d9",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813593",
+    "published": 1773705600,
+    "title": "VisAffect at MWE-2026 AdMIRe 2: IMMCAN Idiom Multimodal Cross-Attention Network",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.19/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.19/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Barış Bilen, Ali Azmoudeh, Hazım Kemal Ekenel and Hatice Kose in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.19"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83da",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813594",
+    "published": 1773705600,
+    "title": "Vinclat: Evaluating Reasoning, Cognition and Culture in One Game",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Marc Pàmies, Javier Aula-Blasco, Aitor Gonzalez-Agirre and Marta Villegas in Proceedings of the First Workshop on Multilingual Multicultural Evaluation"
+    },
+    "guid": "2026.mme-main.4"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83db",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813595",
+    "published": 1773705600,
+    "title": "VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.fever-1.9/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.fever-1.9/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Jaeyoon Jung, Yejun Yoon, Seunghyun Yoon and Kunwoo Park in Proceedings of the Ninth Fact Extraction and VERification Workshop (FEVER)"
+    },
+    "guid": "2026.fever-1.9"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83dc",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813596",
+    "published": 1773705600,
+    "title": "Using Subword-Embeddings for Bilingual Lexicon Induction in Bantu Languages",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.29/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.29/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Adrian Breiding and Alan Akbik in Proceedings of the 7th Workshop on African Natural Language Processing (AfricaNLP 2026)"
+    },
+    "guid": "2026.africanlp-main.29"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83dd",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813597",
+    "published": 1773705600,
+    "title": "Using Correspondence Patterns to Identify Irregular Words in Cognate Sets Through Leave-One-Out Validation",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.6/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.6/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Frederic Blum and Johann-Mattis List in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.6"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83de",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813598",
+    "published": 1773705600,
+    "title": "Using BERT to Explore Lexical Semantic Change of Prepositions",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.10/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.10/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Liudmila Radchankava and Vasily Konovalov in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.10"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83df",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813599",
+    "published": 1773705600,
+    "title": "UrHiOdSynth: A Multilingual Synthetic Corpus for Speech-to-Speech Translation in Low-Resource Indic Languages",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.50/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.50/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Jamaluddin, Subhankar Panda, Aditya Narendra, Kamanksha Prasad Dubey and Mohammad Nadeem in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.50"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e0",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813600",
+    "published": 1773705600,
+    "title": "UNSC-Bench: Evaluating LLM Diplomatic Role-Playing Through UN Security Council Vote Prediction",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.10/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mme-main.10/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Ayush Nangia, Aman Gokrani and Ruggero Marino Lazzaroni in Proceedings of the First Workshop on Multilingual Multicultural Evaluation"
+    },
+    "guid": "2026.mme-main.10"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e1",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813601",
+    "published": 1773705600,
+    "title": "Unmasking the Factual-Conceptual Gap in Persian Language Models",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.silkroadnlp-1.1/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.silkroadnlp-1.1/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Alireza Sakhaeirad, Ali Ma'manpoosh and Arshia Hemmat in The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family"
+    },
+    "guid": "2026.silkroadnlp-1.1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e2",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813602",
+    "published": 1773705600,
+    "title": "UniBO at MWE-2026 PARSEME 2.0 Subtask 2: A Cross-lingual Approach to Multiword Expression Paraphrasing",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.28/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.28/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Debora Ciminari and Alberto Barrón-Cedeño in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.28"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e3",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813603",
+    "published": 1773705600,
+    "title": "Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.28/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.28/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Chahan Vidal-Gorène, Bastien Kindt and Florian Cafiero in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.28"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e4",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813604",
+    "published": 1773705600,
+    "title": "Ukrainian Multiword Expressions Corpus: Creation, Annotation, and Linguistic Analysis",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Hanna Sytar, Maria Shvedova and Olha Kanishcheva in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.4"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e5",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813605",
+    "published": 1773705600,
+    "title": "Two Birds with One Stone: Annotating Romanian Multiword Expressions with an Eye to the PARSEME 2.0 Guidelines Applicability",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.8/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.8/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Verginica Mititelu, Mihaela Cristescu, Elena Irimia and Carmen Mîrzea Vasile in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.8"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e6",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813606",
+    "published": 1773705600,
+    "title": "TurkBench: A Benchmark for Evaluating Turkish Large Language Models",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.12/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.12/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Cagri Toraman, Ahmet Kaan Sever, Ayşe Aysu Cengiz, Elif Ecem Arslan, Görkem Sevinç, Sarp Kantar, Mete Mert Birdal, Yusuf Faruk Güldemir, Ali Buğra Kanburoğlu, Sezen Felekoğlu, Birsen Şahin Kütük, Büşra Tufan, Elif Genç, Serkan Coşkun, Gupse Ekin Demir, Muhammed Emin Arayıcı, Olgun Dursun, Onur Gungor, Susan Üsküdarlı, Abdullah Topraksoy and Esra Darıcı in Proceedings of the Second Workshop Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+    },
+    "guid": "2026.sigturk-1.12"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e7",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813607",
+    "published": 1773705600,
+    "title": "TUNE: A Task For Turkish Machine Unlearning For Data Privacy",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.3/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.3/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Doruk Benli, Ada Canoğlu, Nehir İlkim Gönençer and Dilara Keküllüoğlu in Proceedings of the Second Workshop Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+    },
+    "guid": "2026.sigturk-1.3"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e8",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813608",
+    "published": 1773705600,
+    "title": "Transparent Semantic Change Detection with Dependency-Based Profiles",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.8/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.8/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Bach Phan Tat, Kris Heylen, Dirk Geeraerts, Stefano De Pascale and Dirk Speelman in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.8"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83e9",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813609",
+    "published": 1773705600,
+    "title": "Tracking the evolution of LLM capabilities for Belarusian with OpenAI Evals",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.33/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.33/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Vladislav Poritski, Oksana Volchek, Maksim Aparovich, Volha Harytskaya and Pavel Smrz in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.33"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ea",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813610",
+    "published": 1773705600,
+    "title": "Tracking Autism Stigma in Italian Newspapers: A Longitudinal Analysis of Media Discourse (2016–2025)",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.18/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.18/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Ginevra Martinelli, Chiara Barattieri di San Pietro, Daniela Ovadia, Marta Bosia and Valentina Bambini in Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing 2026)"
+    },
+    "guid": "2026.healing-1.18"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83eb",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813611",
+    "published": 1773705600,
+    "title": "TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.5/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.5/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Figen Eğin and Aytuğ Onan in Proceedings of the Second Workshop Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+    },
+    "guid": "2026.sigturk-1.5"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ec",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813612",
+    "published": 1773705600,
+    "title": "Towards Simulating Social Media Users with LLMs: Evaluating the Operational Validity of Conditioned Comment Prediction",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.wassa-1.16/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.wassa-1.16/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Nils Schwager, Simon Münker, Alistair Plum and Achim Rettinger in The Proceedings for the 15th Workshop on Computational Approaches to Subjectivity, Sentiment Social Media Analysis (WASSA 2026)"
+    },
+    "guid": "2026.wassa-1.16"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ed",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813613",
+    "published": 1773705600,
+    "title": "Towards Inclusive Communication in Cancer Prevention and Treatment: A Case Study on Italian Informational Materials",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.24/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.healing-1.24/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Chiara Cassani, Luca Brigada Villa, Marco Forlano, Serena Coschignano, Amelia Barcellini, Silvia Luraghi, Alberto Giovanni Leone, Chiara Zanchi and Adalberto Lovotti in Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing 2026)"
+    },
+    "guid": "2026.healing-1.24"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ee",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813614",
+    "published": 1773705600,
+    "title": "Too Long, Didn’t Model: Decomposing LLM Long Context Understanding With Novels",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.28/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.latechclfl-1.28/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Sil Hamilton, Rebecca Hicke, Mia Ferrante, Matthew Wilkens and David Mimno in Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026"
+    },
+    "guid": "2026.latechclfl-1.28"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83ef",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813615",
+    "published": 1773705600,
+    "title": "Tone in Yoruba ASR: Evaluating the Impact of Tone Recognition on Transformer-Based ASR Models",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.14/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.14/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Joy Olusanya in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.14"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f0",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813616",
+    "published": 1773705600,
+    "title": "Tokenization Cost, Retention, and Orthography Robustness for Ladin and Italian Varieties",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.49/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.49/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Alessio Staffini in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.49"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f1",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813617",
+    "published": 1773705600,
+    "title": "Tokenization and Morphological Fidelity in Uralic NLP: A Cross-Lingual Evaluation",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.43/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.43/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Nuo Xu and Ahrii Kim in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.43"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f2",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813618",
+    "published": 1773705600,
+    "title": "Tokenisation of Turkic Copula Constructions in Universal Dependencies",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.14/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.sigturk-1.14/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Cagri Coltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Sardana Ivanova, Gulnura Dzhumalieva, Aida Kasieva, Nikolett Mus and Jonathan Washington in Proceedings of the Second Workshop Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+    },
+    "guid": "2026.sigturk-1.14"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f3",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813619",
+    "published": 1773705600,
+    "title": "To make someone do something: mining alert-style directives in Bulgarian social media for low-resource language modelling",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.6/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.6/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Ruslana Margova and Stanislav Penkov in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.6"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f4",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813620",
+    "published": 1773705600,
+    "title": "tiberiucarp at MWE-2026 AdMIRe 2: GLIMMER-Gloss-based Image Multiword Meaning Expression Ranker",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.23/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.23/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Andrei Tiberiu Carp in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.23"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f5",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813621",
+    "published": 1773705600,
+    "title": "Threshold-Calibrated Word Sense Disambiguation: Semantic Broadening Without Sense Redistribution in Schizophrenia",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.5/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.5/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Naomi Baes and Nick Haslam in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.5"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f6",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813622",
+    "published": 1773705600,
+    "title": "The Tonogenesis Continuum in Tibetan: A Computational Investigation",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.3/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.3/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Siyu Liang and Zhaxi Zerong in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.3"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f7",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813623",
+    "published": 1773705600,
+    "title": "The Token Tax: Systematic Bias in Multilingual Tokenization",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.10/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.africanlp-main.10/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Jessica M. Lundin, Ada Zhang, Nihal Karim, Hamza Louzan, Guohao Wei, David Ifeoluwa Adelani and Cody Carroll in Proceedings of the 7th Workshop on African Natural Language Processing (AfricaNLP 2026)"
+    },
+    "guid": "2026.africanlp-main.10"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f8",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813624",
+    "published": 1773705600,
+    "title": "The SlangTrack Dataset: Supporting the Detection of Words Used in Slang Senses",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.1/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.1/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Afnan Mohammed Aloraini, Riza Batista-Navarro, Goran Nenadic and Viktor Schlegel in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.1"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83f9",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813625",
+    "published": 1773705600,
+    "title": "The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.silkroadnlp-1.0/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.silkroadnlp-1.0/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Rayyan Merchant and Karine Megerdoomian in The Proceedings of the First Workshop on NLP and LLMs for the Iranian Language Family"
+    },
+    "guid": "2026.silkroadnlp-1.0"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83fa",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813626",
+    "published": 1773705600,
+    "title": "The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.0/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.lchange-1.0/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Nina Tahmasebi, Pierluigi Cassotti, Syrielle Montariol, Andrey Kutuzov, Netta Huebscher, Elena Spaziani and Naomi Baes in The Proceedings for the 6th International Workshop on Computational Approaches to Language Change (LChange’26)"
+    },
+    "guid": "2026.lchange-1.0"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83fb",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813627",
+    "published": 1773705600,
+    "title": "The Proceedings for the 15th Workshop on Computational Approaches to Subjectivity, Sentiment Social Media Analysis (WASSA 2026)",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.wassa-1.0/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.wassa-1.0/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Jeremy Barnes, Valentin Barriere, Orphée De Clercq, Roman Klinger, Célia Nouri, Debora Nozza and Pranaydeep Singh in The Proceedings for the 15th Workshop on Computational Approaches to Subjectivity, Sentiment Social Media Analysis (WASSA 2026)"
+    },
+    "guid": "2026.wassa-1.0"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83fc",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813628",
+    "published": 1773705600,
+    "title": "The Lock, Stock, and Barrel of Marathi Multiwords",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.11/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.mwe-1.11/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Aakanksha Padhye and Ashwini Vaidya in Proceedings of the 22nd Workshop on Multiword Expressions (MWE 2026)"
+    },
+    "guid": "2026.mwe-1.11"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d79191a83fd",
+    "crawlTimeMsec": "1774032367813",
+    "timestampUsec": "1774032367813629",
+    "published": 1773705600,
+    "title": "The Indonesian Religiolect Corpus: Data Curation for Muslim, Protestant, and Catholic Language Varieties",
+    "canonical": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.36/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://aclanthology.org/2026.loreslm-1.36/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/40",
+        "htmlUrl": "https://aclanthology.org/papers/",
+        "title": "Paper Index on ACL Anthology",
+        "feedUrl": "https://aclanthology.org/papers/index.xml"
+    },
+    "content": {
+        "content": "Dan Sachs in Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)"
+    },
+    "guid": "2026.loreslm-1.36"
+}
+]}

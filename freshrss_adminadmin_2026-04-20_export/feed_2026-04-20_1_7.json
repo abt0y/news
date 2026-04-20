@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/7",
+    "title": "List of New Scientist - Home articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064c9cdb4a71f0",
+    "crawlTimeMsec": "1773086437962",
+    "timestampUsec": "1773086437962224",
+    "published": 1773072000,
+    "title": "Frailty sets in far earlier than you’d expect, but you can reverse it",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "We’re learning that frailty can quietly arrive decades before old age, with some people in their 30s or 40s unknowingly in a pre-frail state. There are surprising ways to stay strong – and it’s not all about weight training"
+    },
+    "guid": "2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it|2516419"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064c9de7798716",
+    "crawlTimeMsec": "1773090937341",
+    "timestampUsec": "1773090937341718",
+    "published": 1773079200,
+    "title": "We’ve only just confirmed that Homo habilis really existed",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518316-weve-only-just-confirmed-that-homo-habilis-really-existed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518316-weve-only-just-confirmed-that-homo-habilis-really-existed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Their species name is well known, but until recently we’ve understood very little for certain about Homo habilis. Columnist Michael Marshall reveals what new fossils are telling us about the hominins that have been considered the first humans"
+    },
+    "guid": "2518316-weve-only-just-confirmed-that-homo-habilis-really-existed|2518316"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cad696b6fe7",
+    "crawlTimeMsec": "1773157541965",
+    "timestampUsec": "1773157541965799",
+    "published": 1773144000,
+    "title": "Mathematics is undergoing the biggest change in its history",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The speed at which artificial intelligence is gaining in mathematical ability has taken many by surprise. It is rewriting what it means to be a mathematician"
+    },
+    "guid": "2518526-mathematics-is-undergoing-the-biggest-change-in-its-history|2518526"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cb0586b8a54",
+    "crawlTimeMsec": "1773170141661",
+    "timestampUsec": "1773170141661780",
+    "published": 1773158400,
+    "title": "How our ancestors used mushrooms to change the course of human history",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2516720-how-our-ancestors-used-mushrooms-to-change-the-course-of-human-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2516720-how-our-ancestors-used-mushrooms-to-change-the-course-of-human-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Mushrooms have been used by ancient humans for millennia, but archaeologists have only just uncovered their pivotal role in shaping civilisation"
+    },
+    "guid": "2516720-how-our-ancestors-used-mushrooms-to-change-the-course-of-human-history|2516720"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cc2282f8e4a",
+    "crawlTimeMsec": "1773246641835",
+    "timestampUsec": "1773246641835594",
+    "published": 1773230400,
+    "title": "Parkinson's disease may reduce enjoyment of pleasant smells",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The \"world smells different\" for people with Parkinson's disease, a discovery that could help doctors spot the condition sooner"
+    },
+    "guid": "2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells|2518748"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cc54c8cda58",
+    "crawlTimeMsec": "1773260136831",
+    "timestampUsec": "1773260136831576",
+    "published": 1773252000,
+    "title": "King penguins are thriving in a warmer climate, but it may not last",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519046-king-penguins-are-thriving-in-a-warmer-climate-but-it-may-not-last/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519046-king-penguins-are-thriving-in-a-warmer-climate-but-it-may-not-last/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Longer summers are allowing more king penguin chicks to bulk up and survive the winter, but the penguins' main fishing area is shifting further away as temperatures rise"
+    },
+    "guid": "2519046-king-penguins-are-thriving-in-a-warmer-climate-but-it-may-not-last|2519046"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cc54c8cda59",
+    "crawlTimeMsec": "1773260136831",
+    "timestampUsec": "1773260136831577",
+    "published": 1773252000,
+    "title": "A miniature magnet rivals behemoths in strength for the first time",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518964-a-miniature-magnet-rivals-behemoths-in-strength-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518964-a-miniature-magnet-rivals-behemoths-in-strength-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Strong magnets tend to be large and power-hungry, but a new design has produced a powerful magnet that fits in the palm of your hand, making it more practical and affordable"
+    },
+    "guid": "2518964-a-miniature-magnet-rivals-behemoths-in-strength-for-the-first-time|2518964"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd1df9450f6",
+    "crawlTimeMsec": "1773314143178",
+    "timestampUsec": "1773314143178998",
+    "published": 1773310500,
+    "title": "Undisclosed ads on TikTok skirt ban on profiling minors",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519141-undisclosed-ads-on-tiktok-skirt-ban-on-profiling-minors/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519141-undisclosed-ads-on-tiktok-skirt-ban-on-profiling-minors/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Teenagers are being bombarded with highly targeted commercial content on TikTok, despite an EU law that prohibits profiling minors for advertising"
+    },
+    "guid": "2519141-undisclosed-ads-on-tiktok-skirt-ban-on-profiling-minors|2519141"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd3f7847bcc",
+    "crawlTimeMsec": "1773323134729",
+    "timestampUsec": "1773323134729164",
+    "published": 1773314100,
+    "title": "Rumours of a Firefly reboot abound, but should the Serenity fly again?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519189-rumours-of-a-firefly-reboot-abound-but-should-the-serenity-fly-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519189-rumours-of-a-firefly-reboot-abound-but-should-the-serenity-fly-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Star Nathan Fillion is stoking rumours that cult western-in-space television series Firefly could be rebooted. Emily H. Wilson realises she is being toyed with – but is still praying for its return"
+    },
+    "guid": "2519189-rumours-of-a-firefly-reboot-abound-but-should-the-serenity-fly-again|2519189"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd9356627db",
+    "crawlTimeMsec": "1773345647765",
+    "timestampUsec": "1773345647765467",
+    "published": 1773331200,
+    "title": "Why drug overdose deaths have suddenly plummeted in the US",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519030-why-drug-overdose-deaths-have-suddenly-plummeted-in-the-us/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519030-why-drug-overdose-deaths-have-suddenly-plummeted-in-the-us/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Fentanyl-related overdose deaths fell by nearly 30 per cent in the space of a year in the US, which could represent a significant turning point in the country's opioid addiction crisis"
+    },
+    "guid": "2519030-why-drug-overdose-deaths-have-suddenly-plummeted-in-the-us|2519030"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd9356627de",
+    "crawlTimeMsec": "1773345647765",
+    "timestampUsec": "1773345647765470",
+    "published": 1773334800,
+    "title": "Chemistry may not be the 'killer app' for quantum computers after all",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519172-chemistry-may-not-be-the-killer-app-for-quantum-computers-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519172-chemistry-may-not-be-the-killer-app-for-quantum-computers-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Two popular quantum computing algorithms for problems in chemistry may have very limited use even as quantum hardware improves"
+    },
+    "guid": "2519172-chemistry-may-not-be-the-killer-app-for-quantum-computers-after-all|2519172"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd9356627ed",
+    "crawlTimeMsec": "1773345647765",
+    "timestampUsec": "1773345647765485",
+    "published": 1773338400,
+    "title": "Can species evolve fast enough to survive as the planet heats up?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519241-can-species-evolve-fast-enough-to-survive-as-the-planet-heats-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519241-can-species-evolve-fast-enough-to-survive-as-the-planet-heats-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The story of a wildflower that adapted to a severe drought in California raises hopes that evolution will come to the rescue of species hit by climate change, but there are limits"
+    },
+    "guid": "2519241-can-species-evolve-fast-enough-to-survive-as-the-planet-heats-up|2519241"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cd9356627ee",
+    "crawlTimeMsec": "1773345647765",
+    "timestampUsec": "1773345647765486",
+    "published": 1773338400,
+    "title": "How worried should you be about your BMI?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519214-how-worried-should-you-be-about-your-bmi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519214-how-worried-should-you-be-about-your-bmi/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Body mass index (BMI) is used as a global standard for measuring health, but does it actually tell you anything about how healthy you are on an individual level? Carissa Wong explains the problems with this flawed tool"
+    },
+    "guid": "2519214-how-worried-should-you-be-about-your-bmi|2519214"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce08a112848",
+    "crawlTimeMsec": "1773377133029",
+    "timestampUsec": "1773377133029448",
+    "published": 1773360060,
+    "title": "We don’t know if AI-powered toys are safe, but they’re here anyway",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518741-we-dont-know-if-ai-powered-toys-are-safe-but-theyre-here-anyway/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518741-we-dont-know-if-ai-powered-toys-are-safe-but-theyre-here-anyway/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Toys powered by AI show a worrying lack of emotional understanding. But we need to understand the risks and benefits of the technology so the industry can be regulated, not outright banned"
+    },
+    "guid": "2518741-we-dont-know-if-ai-powered-toys-are-safe-but-theyre-here-anyway|2518741"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce3af091a98",
+    "crawlTimeMsec": "1773390638160",
+    "timestampUsec": "1773390638160536",
+    "published": 1773385200,
+    "title": "The race to solve the biggest problem in quantum computing",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The errors that quantum computers make are holding the technology back. But recent progress in quantum error correction has excited many researchers"
+    },
+    "guid": "2518974-the-race-to-solve-the-biggest-problem-in-quantum-computing|2518974"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce6d480e512",
+    "crawlTimeMsec": "1773404151670",
+    "timestampUsec": "1773404151670034",
+    "published": 1773252000,
+    "title": "A glimpse into the rare earth riches of Greenland",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2517988-a-glimpse-into-the-rare-earth-riches-of-greenland/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2517988-a-glimpse-into-the-rare-earth-riches-of-greenland/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Photographer Jonas Kako travelled to Greenland to explore how mining for the rare earth elements and minerals that are vital for new green technologies is impacting locals"
+    },
+    "guid": "2517988-a-glimpse-into-the-rare-earth-riches-of-greenland|2517988"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce6d480e513",
+    "crawlTimeMsec": "1773404151670",
+    "timestampUsec": "1773404151670035",
+    "published": 1773252000,
+    "title": "New Scientist recommends sci-fi novel Under the Eye of the Big Bird",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935863-800-new-scientist-recommends-sci-fi-novel-under-the-eye-of-the-big-bird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935863-800-new-scientist-recommends-sci-fi-novel-under-the-eye-of-the-big-bird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The books, TV, games and more that New Scientist staff have enjoyed this week"
+    },
+    "guid": "mg26935863-800-new-scientist-recommends-sci-fi-novel-under-the-eye-of-the-big-bird|2518806"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce6d480e514",
+    "crawlTimeMsec": "1773404151670",
+    "timestampUsec": "1773404151670036",
+    "published": 1773392400,
+    "title": "Why are we so suspicious of do-gooders?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518983-why-are-we-so-suspicious-of-do-gooders/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518983-why-are-we-so-suspicious-of-do-gooders/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "A growing body of research shows that we tend to discount a person’s good deeds if they stand to benefit from them. Columnist David Robson explores where this instinct comes from – and whether we should resist it"
+    },
+    "guid": "2518983-why-are-we-so-suspicious-of-do-gooders|2518983"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064ce9f83f0276",
+    "crawlTimeMsec": "1773417636233",
+    "timestampUsec": "1773417636233846",
+    "published": 1773414000,
+    "title": "The 3 things you need to know about passwords, from a security expert",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519280-the-3-things-you-need-to-know-about-passwords-from-a-security-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519280-the-3-things-you-need-to-know-about-passwords-from-a-security-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "There are a few simple things you can do to make your digital life much more secure, says cybersecurity expert Jake Moore - follow these tips to tighten up your passwords"
+    },
+    "guid": "2519280-the-3-things-you-need-to-know-about-passwords-from-a-security-expert|2519280"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cedf3baf5ad",
+    "crawlTimeMsec": "1773434740340",
+    "timestampUsec": "1773434740340141",
+    "published": 1773410400,
+    "title": "Single-celled organism with no brain is capable of Pavlovian learning",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519284-single-celled-organism-with-no-brain-is-capable-of-pavlovian-learning/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519284-single-celled-organism-with-no-brain-is-capable-of-pavlovian-learning/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "A trumpet-shaped, single-celled organism seems able to predict one thing will follow another, hinting that such associative learning emerged long before multicellular nervous systems"
+    },
+    "guid": "2519284-single-celled-organism-with-no-brain-is-capable-of-pavlovian-learning|2519284"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cedf3baf5ae",
+    "crawlTimeMsec": "1773434740340",
+    "timestampUsec": "1773434740340142",
+    "published": 1773417600,
+    "title": "Our extinct Australopithecus relatives may have had difficult births",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519325-our-extinct-australopithecus-relatives-may-have-had-difficult-births/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519325-our-extinct-australopithecus-relatives-may-have-had-difficult-births/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Simulations of Australopithecus hominins’ anatomy suggest that when they gave birth, they may have exerted tremendous pressure on their pelvic floors, putting them at risk of tearing"
+    },
+    "guid": "2519325-our-extinct-australopithecus-relatives-may-have-had-difficult-births|2519325"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cf5495b0861",
+    "crawlTimeMsec": "1773466241665",
+    "timestampUsec": "1773466241665121",
+    "published": 1773446460,
+    "title": "A smartphone app can help men last longer in bed",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519306-a-smartphone-app-can-help-men-last-longer-in-bed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519306-a-smartphone-app-can-help-men-last-longer-in-bed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "In a randomised trial, men who experience premature ejaculation benefitted from using an app to learn techniques for extending intercourse"
+    },
+    "guid": "2519306-a-smartphone-app-can-help-men-last-longer-in-bed|2519306"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064cf761978837",
+    "crawlTimeMsec": "1773475238217",
+    "timestampUsec": "1773475238217783",
+    "published": 1773252000,
+    "title": "Why are we so obsessed with protein? A new book looks for answers",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935863-900-why-are-we-so-obsessed-with-protein-a-new-book-looks-for-answers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935863-900-why-are-we-so-obsessed-with-protein-a-new-book-looks-for-answers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Samantha King and Gavin Weedon's new book Protein digs deep into the nutrient's role in our health. But can it tell you how much you should be eating? Alexandra Thompson explores"
+    },
+    "guid": "mg26935863-900-why-are-we-so-obsessed-with-protein-a-new-book-looks-for-answers|2518807"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2257079f8d",
+    "crawlTimeMsec": "1773659744608",
+    "timestampUsec": "1773659744608141",
+    "published": 1773163260,
+    "title": "How a midlife tune-up could help prepare you for a healthy old age",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518934-how-a-midlife-tune-up-could-help-prepare-you-for-a-healthy-old-age/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518934-how-a-midlife-tune-up-could-help-prepare-you-for-a-healthy-old-age/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Most of us don’t worry about our health in old age until we get there, but research is increasingly showing that how you live in your mid-50s can have a real impact in your 90s"
+    },
+    "guid": "2518934-how-a-midlife-tune-up-could-help-prepare-you-for-a-healthy-old-age|2518934"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2257079f9a",
+    "crawlTimeMsec": "1773659744608",
+    "timestampUsec": "1773659744608154",
+    "published": 1773651600,
+    "title": "What does it mean if the universe has extra dimensions?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519272-what-does-it-mean-if-the-universe-has-extra-dimensions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519272-what-does-it-mean-if-the-universe-has-extra-dimensions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Dimensions beyond the four we’re familiar with could solve a host of problems in physics and cosmology. Columnist Leah Crane explores what a higher-dimensional universe might be like – and how we could find out if we live in one"
+    },
+    "guid": "2519272-what-does-it-mean-if-the-universe-has-extra-dimensions|2519272"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2474401d35",
+    "crawlTimeMsec": "1773668824784",
+    "timestampUsec": "1773668824784181",
+    "published": 1773662400,
+    "title": "The ancient Goths were an ethnically diverse group",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519371-the-ancient-goths-were-an-ethnically-diverse-group/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519371-the-ancient-goths-were-an-ethnically-diverse-group/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Ancient DNA reveals that the Goths of eastern Europe, some of whom would ultimately sack the city of Rome, may have been a mix of peoples from three continents"
+    },
+    "guid": "2519371-the-ancient-goths-were-an-ethnically-diverse-group|2519371"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d257c355c8e",
+    "crawlTimeMsec": "1773673253264",
+    "timestampUsec": "1773673253264526",
+    "published": 1773666000,
+    "title": "AI is nearly exclusively designed by men – here's how to fix it",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519419-ai-is-nearly-exclusively-designed-by-men-heres-how-to-fix-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519419-ai-is-nearly-exclusively-designed-by-men-heres-how-to-fix-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "With the Trump administration’s attacks on so-called woke AI it is becoming even harder to make the technology we use fairer and more diverse. Leading voices are speaking out, reports Catherine de Lange"
+    },
+    "guid": "2519419-ai-is-nearly-exclusively-designed-by-men-heres-how-to-fix-it|2519419"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d29acb47e06",
+    "crawlTimeMsec": "1773691246771",
+    "timestampUsec": "1773691246771718",
+    "published": 1773673200,
+    "title": "Why global warming is accelerating and what it means for the future",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519386-why-global-warming-is-accelerating-and-what-it-means-for-the-future/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519386-why-global-warming-is-accelerating-and-what-it-means-for-the-future/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Scientists disagree whether human-made climate change or natural fluctuations are mostly to blame for worse-than-expected heat in recent years"
+    },
+    "guid": "2519386-why-global-warming-is-accelerating-and-what-it-means-for-the-future|2519386"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d29acb47e07",
+    "crawlTimeMsec": "1773691246771",
+    "timestampUsec": "1773691246771719",
+    "published": 1773676800,
+    "title": "The asteroid Ryugu has all of the main ingredients for life",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519423-the-asteroid-ryugu-has-all-of-the-main-ingredients-for-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519423-the-asteroid-ryugu-has-all-of-the-main-ingredients-for-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "All five of the canonical nucleobases – the underpinnings of DNA, RNA and life on Earth – have been found in samples from the asteroid Ryugu"
+    },
+    "guid": "2519423-the-asteroid-ryugu-has-all-of-the-main-ingredients-for-life|2519423"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d29acb47e08",
+    "crawlTimeMsec": "1773691246771",
+    "timestampUsec": "1773691246771720",
+    "published": 1773676800,
+    "title": "Forget the multiverse. In the pluriverse, we create reality together",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "A radical idea that resolves many quantum paradoxes suggests there is no objective view of reality. How can the cosmos be stitched together from interlocking perspectives?"
+    },
+    "guid": "2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together|2518470"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d342863a6dc",
+    "crawlTimeMsec": "1773736271521",
+    "timestampUsec": "1773736271521500",
+    "published": 1773730800,
+    "title": "3I/ATLAS: Interstellar comet has water unlike any in our solar system",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The levels of a heavy form of hydrogen in 3I/ATLAS are 30 to 40 times higher than in Earth's oceans, suggesting the comet has a cold and distant origin"
+    },
+    "guid": "2519428-3i-atlas-interstellar-comet-has-water-unlike-any-in-our-solar-system|2519428"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba26320",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737376",
+    "published": 1773738000,
+    "title": "Particle discovered at CERN solves a 20-year-old mystery",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Physicists working on the LHCb experiment have spotted an elusive and fleeting particle, a heavier and more charming cousin to the proton, that has been sought for decades"
+    },
+    "guid": "2519595-particle-discovered-at-cern-solves-a-20-year-old-mystery|2519595"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3ea0a24968",
+    "crawlTimeMsec": "1773781238565",
+    "timestampUsec": "1773781238565224",
+    "published": 1773763200,
+    "title": "A very serious guide to buying your own humanoid robot butler",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2517880-a-very-serious-guide-to-buying-your-own-humanoid-robot-butler/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2517880-a-very-serious-guide-to-buying-your-own-humanoid-robot-butler/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "You can now buy a humanoid robot housekeeper for less than the price of a second-hand car. But before splashing out, there’s something you need to know"
+    },
+    "guid": "2517880-a-very-serious-guide-to-buying-your-own-humanoid-robot-butler|2517880"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3ea0a24969",
+    "crawlTimeMsec": "1773781238565",
+    "timestampUsec": "1773781238565225",
+    "published": 1773764460,
+    "title": "Social media is a defective product",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519708-social-media-is-a-defective-product/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519708-social-media-is-a-defective-product/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Two lawsuits are being brought against giant tech firms for the dangers their apps pose to young people. Columnist Annalee Newitz says the outcome of those cases could dramatically change social media for the better"
+    },
+    "guid": "2519708-social-media-is-a-defective-product|2519708"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4f66dd8a86",
+    "crawlTimeMsec": "1773853283814",
+    "timestampUsec": "1773853283814022",
+    "published": 1773846000,
+    "title": "Psychedelics may be no better than antidepressants for depression",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519824-psychedelics-may-be-no-better-than-antidepressants-for-depression/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519824-psychedelics-may-be-no-better-than-antidepressants-for-depression/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Drugs like psilocybin that induce psychedelic effects have shown promise for treating depression. Now, a review of the evidence suggests that they are effective, but no more so than traditional antidepressants"
+    },
+    "guid": "2519824-psychedelics-may-be-no-better-than-antidepressants-for-depression|2519824"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4f66dd8ab4",
+    "crawlTimeMsec": "1773853283814",
+    "timestampUsec": "1773853283814068",
+    "published": 1773849600,
+    "title": "Ice core reveals low CO2 during warm spell 3 million years ago",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519771-ice-core-reveals-low-co2-during-warm-spell-3-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519771-ice-core-reveals-low-co2-during-warm-spell-3-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "For the first time, scientists have measured atmospheric gases from the late Pliocene, yielding data that could help to predict the future climate"
+    },
+    "guid": "2519771-ice-core-reveals-low-co2-during-warm-spell-3-million-years-ago|2519771"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4f66dd8ab5",
+    "crawlTimeMsec": "1773853283814",
+    "timestampUsec": "1773853283814069",
+    "published": 1773849600,
+    "title": "The mystery of how volcanic lightning happens has been solved",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519363-the-mystery-of-how-volcanic-lightning-happens-has-been-solved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519363-the-mystery-of-how-volcanic-lightning-happens-has-been-solved/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "When particles in volcanic ash cloud rub together, some pick up positive charge and others negative – now physicists have finally elucidated how these different charges are determined"
+    },
+    "guid": "2519363-the-mystery-of-how-volcanic-lightning-happens-has-been-solved|2519363"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d535fd15a0d",
+    "crawlTimeMsec": "1773870345443",
+    "timestampUsec": "1773870345443853",
+    "published": 1773851280,
+    "title": "Will war in the Middle East accelerate the clean energy transition?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519862-will-war-in-the-middle-east-accelerate-the-clean-energy-transition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519862-will-war-in-the-middle-east-accelerate-the-clean-energy-transition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Disruption to shipping traffic through the Strait of Hormuz has led to a spike in oil and natural gas prices, which could spur countries to boost the roll-out of renewable energy and electric vehicles"
+    },
+    "guid": "2519862-will-war-in-the-middle-east-accelerate-the-clean-energy-transition|2519862"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d535fd15a12",
+    "crawlTimeMsec": "1773870345443",
+    "timestampUsec": "1773870345443858",
+    "published": 1773856800,
+    "title": "Neanderthals may have treated wounds with antibiotic sticky tar",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519668-neanderthals-may-have-treated-wounds-with-antibiotic-sticky-tar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519668-neanderthals-may-have-treated-wounds-with-antibiotic-sticky-tar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Tar made from birch tree bark is commonly found at Neanderthal sites, and experiments show that it kills some bacteria that cause skin infections"
+    },
+    "guid": "2519668-neanderthals-may-have-treated-wounds-with-antibiotic-sticky-tar|2519668"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d535fd15a13",
+    "crawlTimeMsec": "1773870345443",
+    "timestampUsec": "1773870345443859",
+    "published": 1773856800,
+    "title": "Boosting the blood-brain barrier could avert brain damage in athletes",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519756-boosting-the-blood-brain-barrier-could-avert-brain-damage-in-athletes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519756-boosting-the-blood-brain-barrier-could-avert-brain-damage-in-athletes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The neurodegenerative condition chronic traumatic encephalopathy appears to be driven by damage to the blood-brain barrier due to repetitive head injuries, like those that occur in boxing. This suggests that drugs that strengthen this barrier could prevent or slow the condition"
+    },
+    "guid": "2519756-boosting-the-blood-brain-barrier-could-avert-brain-damage-in-athletes|2519756"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d535fd15a17",
+    "crawlTimeMsec": "1773870345443",
+    "timestampUsec": "1773870345443863",
+    "published": 1773860400,
+    "title": "Fluorescent ruby-like gems have been found on Mars for the first time",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "The Perseverance rover has found tiny crystals that seem to be rubies or sapphires inside pebbles on Mars, where they have never been seen before"
+    },
+    "guid": "2519933-fluorescent-ruby-like-gems-have-been-found-on-mars-for-the-first-time|2519933"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ccd94ff01",
+    "crawlTimeMsec": "1773910841687",
+    "timestampUsec": "1773910841687809",
+    "published": 1773252000,
+    "title": "Maggie Aderin's dream: To walk by the footprints of Neil Armstrong",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2518966-maggie-aderins-dream-to-walk-by-the-footprints-of-neil-armstrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2518966-maggie-aderins-dream-to-walk-by-the-footprints-of-neil-armstrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Space scientist Maggie Aderin talks telescopes, neurodiversity and being underestimated with Rowan Hooper on the New Scientist podcast, as her memoir Starchild comes out"
+    },
+    "guid": "2518966-maggie-aderins-dream-to-walk-by-the-footprints-of-neil-armstrong|2518966"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ccd94ff04",
+    "crawlTimeMsec": "1773910841687",
+    "timestampUsec": "1773910841687812",
+    "published": 1773856800,
+    "title": "It's time to monetise the moon! Definitely! Maybe?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935873-700-its-time-to-monetise-the-moon-definitely-maybe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935873-700-its-time-to-monetise-the-moon-definitely-maybe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Feedback discovers an accounting firm has unveiled its latest \"lunar market assessment\", which predicts huge profits to be had. Suit up, lunar entrepreneurs!"
+    },
+    "guid": "mg26935873-700-its-time-to-monetise-the-moon-definitely-maybe|2519623"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ccd94ff41",
+    "crawlTimeMsec": "1773910841687",
+    "timestampUsec": "1773910841687873",
+    "published": 1773907200,
+    "title": "How worried should you be about ultra-processed foods?",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519704-how-worried-should-you-be-about-ultra-processed-foods/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519704-how-worried-should-you-be-about-ultra-processed-foods/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "We are constantly told to watch out for the health risks of eating ultra-processed food, but should you be worried every time you sit down for a meal? Sam Wong takes a look at the evidence"
+    },
+    "guid": "2519704-how-worried-should-you-be-about-ultra-processed-foods|2519704"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ff4b917f5",
+    "crawlTimeMsec": "1773924383266",
+    "timestampUsec": "1773924383266805",
+    "published": 1773914400,
+    "title": "Physicists create formula for how many times you can fold a crêpe",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519634-physicists-create-formula-for-how-many-times-you-can-fold-a-crepe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519634-physicists-create-formula-for-how-many-times-you-can-fold-a-crepe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "When you fold a flexible material such as a pancake or a tortilla, its behaviour depends on a competition between gravity and elasticity"
+    },
+    "guid": "2519634-physicists-create-formula-for-how-many-times-you-can-fold-a-crepe|2519634"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ff4b91802",
+    "crawlTimeMsec": "1773924383266",
+    "timestampUsec": "1773924383266818",
+    "published": 1773918000,
+    "title": "Mathematician wins 2026 Abel prize for solving 60-year-old mystery",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519762-mathematician-wins-2026-abel-prize-for-solving-60-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519762-mathematician-wins-2026-abel-prize-for-solving-60-year-old-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Gerd Faltings shocked mathematicians around the world for his 1983 proof of the Mordell conjecture, which brought together seemingly disparate mathematical fields"
+    },
+    "guid": "2519762-mathematician-wins-2026-abel-prize-for-solving-60-year-old-mystery|2519762"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d663bb8ed4f",
+    "crawlTimeMsec": "1773951344241",
+    "timestampUsec": "1773951344241999",
+    "published": 1773940020,
+    "title": "Probiotic cream that ramps up heat production could prevent frostbite",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2520006-probiotic-cream-that-ramps-up-heat-production-could-prevent-frostbite/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2520006-probiotic-cream-that-ramps-up-heat-production-could-prevent-frostbite/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Tweaking our skin's microbiome via a probiotic cream could prevent frostbite and hypothermia in extreme environments"
+    },
+    "guid": "2520006-probiotic-cream-that-ramps-up-heat-production-could-prevent-frostbite|2520006"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d70b59c4250",
+    "crawlTimeMsec": "1773996338856",
+    "timestampUsec": "1773996338856528",
+    "published": 1773856800,
+    "title": "Rebecca Solnit: 'The great majority of people want climate action'",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935871-500-rebecca-solnit-the-great-majority-of-people-want-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/mg26935871-500-rebecca-solnit-the-great-majority-of-people-want-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "Climate activist and author Rebecca Solnit tells Rowan Hooper why she still has hope, even in these \"catastrophic\" times"
+    },
+    "guid": "mg26935871-500-rebecca-solnit-the-great-majority-of-people-want-climate-action|2519451"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d73dce968d1",
+    "crawlTimeMsec": "1774009883125",
+    "timestampUsec": "1774009883125969",
+    "published": 1773748800,
+    "title": "Your partner probably wakes you up at night without you even realising",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519388-your-partner-probably-wakes-you-up-at-night-without-you-even-realising/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519388-your-partner-probably-wakes-you-up-at-night-without-you-even-realising/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "People who share a bed with a partner are woken by them multiple times per night, but don’t remember most of these disturbances"
+    },
+    "guid": "2519388-your-partner-probably-wakes-you-up-at-night-without-you-even-realising|2519388"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d73dce968d2",
+    "crawlTimeMsec": "1774009883125",
+    "timestampUsec": "1774009883125970",
+    "published": 1773844860,
+    "title": "Route-planning AI cut climate-warming contrails on over 100 flights",
+    "canonical": [
+        {
+            "href": "https://www.newscientist.com/article/2519687-route-planning-ai-cut-climate-warming-contrails-on-over-100-flights/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.newscientist.com/article/2519687-route-planning-ai-cut-climate-warming-contrails-on-over-100-flights/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/7",
+        "htmlUrl": "https://www.newscientist.com/",
+        "title": "New Scientist - Home",
+        "feedUrl": "https://feeds.newscientist.com/home"
+    },
+    "content": {
+        "content": "A weather-forecasting AI was used to recommend routes for American Airlines flights between the US and Europe to reduce the formation of contrails, which contribute to global warming"
+    },
+    "guid": "2519687-route-planning-ai-cut-climate-warming-contrails-on-over-100-flights|2519687"
+}
+]}

@@ -1,0 +1,1717 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/4",
+    "title": "List of WunderTech articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/000616342494dad8",
+    "crawlTimeMsec": "1713263068109",
+    "timestampUsec": "1713263068109528",
+    "published": 1711404000,
+    "title": "UGreen NASync DXP4800 Plus Review",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/ugreen-nasync-dxp4800-plus-review/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/ugreen-nasync-dxp4800-plus-review/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/03/Ugreen-NASync.jpg\"></p>\n<p>At first glance, the UGreen NASync DXP4800 Plus has impressive hardware, especially when compared to other manufacturers. The main question is – can the software stack up? UGreen NASync DXP4800 Plus The UGreen NASync DXP4800 Plus comes with an Intel Gold 8505 processor, 8GB of DDR5 memory (upgradable to 64GB), and 2.5Gb and 10Gb NICs. […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16614",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000616342494dad9",
+    "crawlTimeMsec": "1713263068109",
+    "timestampUsec": "1713263068109529",
+    "published": 1712956500,
+    "title": "Configuring 10GbE on a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/10gbe-on-a-synology-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/10gbe-on-a-synology-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/04/10GbE-on-a-Synology-NAS.jpg\"></p>\n<p>If you’re interested in implementing 10GbE on a Synology NAS, you’re probably left wondering where to start. While the process of adding 10GbE on a Synology NAS is fairly straightforward (from a hardware perspective), without configuring it properly on the software side or having the correct hardware, you won’t see any of the benefits. Before […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16648",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061665aea69d4a",
+    "crawlTimeMsec": "1713475837926",
+    "timestampUsec": "1713475837926730",
+    "published": 1713475800,
+    "title": "Configuring Replication for Proxmox VMs &amp; Containers",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/proxmox-replication/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/proxmox-replication/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Proxmox"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/04/Proxmox-Replication.jpg\"></p>\n<p>If you’re interested in implementing high availability for Proxmox, one of the first things you’ll see is that you must use shared storage or replication for Proxmox VMs or Containers. This is required so that the data exists on the nodes in which you’d like high availability to work. Shared storage is the easiest and […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16674",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006173d19df053f",
+    "crawlTimeMsec": "1714401054754",
+    "timestampUsec": "1714401054754111",
+    "published": 1714338900,
+    "title": "How to Set Up Pi-hole on a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-setup-pi-hole-on-a-synology-nas-two-methods/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-setup-pi-hole-on-a-synology-nas-two-methods/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology",
+        "DNS Server",
+        "Docker",
+        "NAS",
+        "Pi-hole"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2020/08/Thumbnail-1.png\"></p>\n<p>In this tutorial, we are going to look at how to set up Pi-hole on a Synology NAS. Before we get started, I want to be clear that this process changed drastically after DSM 7.2 was released in May of 2023. Now, Container Manager is used as opposed to Docker and the UI is entirely […]</p>"
+    },
+    "guid": "http://www.wundertech.net/?p=3478",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006174361b6adfd",
+    "crawlTimeMsec": "1714428029873",
+    "timestampUsec": "1714428029873661",
+    "published": 1714428000,
+    "title": "Proxmox VE 8.2 Released",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/proxmox-ve-8-2-released/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/proxmox-ve-8-2-released/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Proxmox"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/04/Proxmox-VE-8.2.jpg\"></p>\n<p>Proxmox VE 8.2 was released on April 24, 2024, and brings a bunch of enhancements to an already great platform. Proxmox VE 8.2 Changes and New Features At its core, Proxmox VE 8.2 now runs Debian 12.5 (Bookworm) and supports the Linux Kernel 6.8. With those updates, QEMU 8.1, Ceph Reef 18.2, LXC 6.0, and […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16707",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006175820c02791",
+    "crawlTimeMsec": "1714517134288",
+    "timestampUsec": "1714517134288785",
+    "published": 1714514400,
+    "title": "Synology Data &amp; RAID Scrubbing",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-data-scrubbing/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-data-scrubbing/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/04/Synology-Data-Scrubbing.jpg\"></p>\n<p>When you purchase a Synology NAS and configure it using best practices, a few of the options generally suggested are Btrfs volumes and some sort of RAID type (SHR, RAID 5, 6, etc). These are extremely important options and there’s a lot of confusion over them, so I wanted to take some time to explain […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16714",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006176b9e5e569b",
+    "crawlTimeMsec": "1714600846186",
+    "timestampUsec": "1714600846186139",
+    "published": 1714600800,
+    "title": "Synology RAID Calculator: How to Use It",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-raid-calculator-how-to-use-it/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-raid-calculator-how-to-use-it/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-RAID-Calc.jpg\"></p>\n<p>One of the most common questions I receive is about the RAID type a new user should configure with their Synology NAS. The truth is, there’s not a single answer that can be applied to everyone, so utilizing the Synology RAID Calculator is the best place to start. As soon as you understand exactly how […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16731",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006178027840b24",
+    "crawlTimeMsec": "1714689046481",
+    "timestampUsec": "1714689046481700",
+    "published": 1714687200,
+    "title": "Quick Steps to Configuring a VPN on a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/openvpn-on-a-synology-nas-quick-steps/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/openvpn-on-a-synology-nas-quick-steps/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/OpenVPN-on-a-Synology-NAS.jpg\"></p>\n<p>OpenVPN is arguably the best way that you can access your Synology NAS remotely if you don’t have a separate device capable of running a VPN server. We have a complete guide on how to set up OpenVPN on a Synology NAS, but due to its length, I thought it made sense to take a […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16737",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006178d91039dac",
+    "crawlTimeMsec": "1714746651024",
+    "timestampUsec": "1714746651024812",
+    "published": 1714255200,
+    "title": "Setting Up a WireGuard VPN on a Raspberry Pi",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/setup-wireguard-on-a-raspberry-pi-vpn-setup-tutorial/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/setup-wireguard-on-a-raspberry-pi-vpn-setup-tutorial/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Raspberry Pi",
+        "VPN",
+        "WireGuard"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2020/08/thumb.png\"></p>\n<p>In this tutorial, we will look at how to set up WireGuard VPN on a Raspberry Pi using PiVPN! The goal is to provide easy instructions that will help you set up the WireGuard Raspberry Pi VPN server. WireGuard is awesome! Up until WireGuard, the gold standard for VPNs has been OpenVPN, which is still […]</p>"
+    },
+    "guid": "http://www.wundertech.net/?p=3616",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061794b0c6d40c",
+    "crawlTimeMsec": "1714777248683",
+    "timestampUsec": "1714777248683020",
+    "published": 1714773600,
+    "title": "UGreen NAS Roundtable: Should You Back It?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/ugreen-nas-roundtable-should-you-back-it/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/ugreen-nas-roundtable-should-you-back-it/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/UGreen-NAS.jpg\"></p>\n<p>Over the course of the past month or so, there have been countless UGreen NAS reviews, ranging from 2-bay devices to 8-bay devices, with a full range of products that even cover an all-flash NAS. The issue has been and always will be: are you going to back a device line that’s in a Kickstarter […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16745",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000617a1e2a0978a",
+    "crawlTimeMsec": "1714833919612",
+    "timestampUsec": "1714833919612810",
+    "published": 1714831200,
+    "title": "Plex vs Emby: Which Media Server is Best?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/plex-vs-emby-side-by-side-comparison/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/plex-vs-emby-side-by-side-comparison/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2023/03/thumb2-15.jpg\"></p>\n<p>In this article, we will look at Plex vs Emby by comparing them side-by-side to determine which is the best media server software you can use. Before comparing both, we’re going to look at exactly what Plex and Emby are so that you can get an understanding of each before comparing them. If you’re interested […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=12274",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000617b7aee8ea12",
+    "crawlTimeMsec": "1714927541217",
+    "timestampUsec": "1714927541217810",
+    "published": 1714917600,
+    "title": "pfSense vs. OPNsense: Complete Firewall Comparison",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/pfsense-vs-opnsense/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/pfsense-vs-opnsense/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology",
+        "OPNsense",
+        "pfSense"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2022/10/thumb2.jpg\"></p>\n<p>In this article, we’re going to look at pfSense vs. OPNsense. Both are firewalls that have many similarities, but also a bunch of differences which is why we’ll compare pfSense vs. OPNsense below. Overall, they both will function as great firewalls and allow you to set up various types of things like VLANs, VPNs, and […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=10262",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000617d032b4e8e1",
+    "crawlTimeMsec": "1715032831617",
+    "timestampUsec": "1715032831617249",
+    "published": 1715032800,
+    "title": "Tailscale or a Self-Hosted VPN for Accessing a Synology Remotely?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/tailscale-or-a-self-hosted-vpn-for-accessing-a-synology-remotely/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/tailscale-or-a-self-hosted-vpn-for-accessing-a-synology-remotely/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Self-Hosted-VPN-vs-Tailscale.jpg\"></p>\n<p>One of the most common questions I receive is how to access a Synology NAS remotely. One of the most natural follow-up questions after responding “the best way for most is to use a VPN”, is about which type of VPN they should use. Generally, there are self-hosted options and third-party options and they each […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16764",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000617e4865e414a",
+    "crawlTimeMsec": "1715120134570",
+    "timestampUsec": "1715120134570314",
+    "published": 1715119200,
+    "title": "Should You Use Pi-hole as your DNS server?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/should-you-use-pi-hole-as-your-dns-server/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/should-you-use-pi-hole-as-your-dns-server/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Pi-hole.png\"></p>\n<p>The internet has slowly evolved to a point where there are ads just about everywhere (yes, this site as well). Outside of browser-based ad blockers, the only real defense a user has for their entire network is implementing a DNS ad blocker like Pi-hole. The issue is, that you’re implementing another layer that you have […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16770",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000617f9121e41b7",
+    "crawlTimeMsec": "1715208378532",
+    "timestampUsec": "1715208378532279",
+    "published": 1715205600,
+    "title": "If you need a new NAS, buy a 4-bay device (2-bay is a waste of money)",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/if-you-need-a-new-nas-buy-a-4-bay-device-2-bay-is-a-waste-of-money/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/if-you-need-a-new-nas-buy-a-4-bay-device-2-bay-is-a-waste-of-money/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Do-not-buy-a-2-bay-NAS.png\"></p>\n<p>When you’re looking for a new NAS or just want to buy your first NAS, one of the first options you’re going to think of is “I’ll just get a 2-bay device”. I mean, you went all this time just using external hard drives or internal storage – why would you need more than two […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16779",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006180c8ee182b6",
+    "crawlTimeMsec": "1715292076081",
+    "timestampUsec": "1715292076081846",
+    "published": 1715292000,
+    "title": "How to Configure Wake-on-LAN on a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-configure-wake-on-lan-on-a-synology-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-configure-wake-on-lan-on-a-synology-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Wake-on-LAN-Synology.png\"></p>\n<p>If you’re ever in a situation where your Synology NAS is offline, turning it on remotely can save you. Keep in mind that if you’re not on the local network where the device is, you’d have to configure a VPN to access/turn it on, but the point is that configuring Wake-on-LAN on a Synology NAS […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16800",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000618214add9e9c",
+    "crawlTimeMsec": "1715381129289",
+    "timestampUsec": "1715381129289372",
+    "published": 1715378400,
+    "title": "How to Use Ceph Storage on Proxmox",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/proxmox-ceph/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/proxmox-ceph/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Proxmox"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Proxmox-Ceph.png\"></p>\n<p>If you’re a Proxmox user and you’re interested in distributed storage, Ceph storage on Proxmox is most likely your best option. It functions extremely well with high availability and is scalable. Ceph can handle large amounts of data, is self-healing, and can help protect your VMs and Containers in the event of a hardware failure. […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16884",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006185da3ea1410",
+    "crawlTimeMsec": "1715640321315",
+    "timestampUsec": "1715640321315856",
+    "published": 1715637600,
+    "title": "Should You Virtualize a Firewall?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/should-you-virtualize-a-firewall/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/should-you-virtualize-a-firewall/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Firewall"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Virtualize-Firewall-1.png\"></p>\n<p>A question that comes up from time to time (and one that I spent a long time thinking about for a while) is if you should virtualize a firewall. I’m not talking about doing it for testing purposes – I am talking about running a firewall operating system like pfSense or OPNsense virtually and if […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16901",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061871f78be8ae",
+    "crawlTimeMsec": "1715727623776",
+    "timestampUsec": "1715727623776430",
+    "published": 1715724000,
+    "title": "Synology Cloud Sync is NOT a Backup – Use Hyper Backup",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-cloud-sync-is-not-a-backup-use-hyper-backup/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-cloud-sync-is-not-a-backup-use-hyper-backup/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Cloud-Sync.png\"></p>\n<p>From time to time, I’ll receive a message from someone asking why I suggest Hyper Backup and not Synology Cloud Sync for backups, and the simple answer is that Synology Cloud Sync is not a backup. Don’t get me wrong, Cloud Sync is a great tool, but it’s a sync tool, not a backup tool. […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16907",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000618854130c505",
+    "crawlTimeMsec": "1715810463696",
+    "timestampUsec": "1715810463696133",
+    "published": 1715810400,
+    "title": "Monitor your Entire Home Lab with Uptime Kuma",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/uptime-kuma/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/uptime-kuma/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Docker"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Uptime-Kuma.png\"></p>\n<p>Uptime Kuma is something that I configured a long time ago, but never really configured until this past weekend. I sat down, added all of my important servers, services, networking equipment, security cameras, and basically anything that I actually want to stay online, then configured notifications, and now I have a functional monitoring service running […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16915",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061899fdd6e264",
+    "crawlTimeMsec": "1715899528045",
+    "timestampUsec": "1715899528045156",
+    "published": 1715896800,
+    "title": "Your Security Cameras NEED an NTP Server",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/ntp-server-ubuntu/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/ntp-server-ubuntu/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Blue Iris"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/NTP-Server.png\"></p>\n<p>Time is something we all take for granted, but when it comes to security cameras, having a consistent and reliable time for ALL of them is extremely important. Ultimately, you need to ensure that each camera is reporting the exact same time, always. If you don’t, you won’t be able to track what happened, at […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16931",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000618adb086640a",
+    "crawlTimeMsec": "1715984130270",
+    "timestampUsec": "1715984130270218",
+    "published": 1715983200,
+    "title": "My Synology NAS was Attacked! Learn How to Protect Your NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/my-synology-nas-was-attacked-learn-how-to-protect-your-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/my-synology-nas-was-attacked-learn-how-to-protect-your-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-NAS-Attacked.png\"></p>\n<p>Over the past few months, I ran a test with two Synology NAS devices to see exactly what can be done to improve the overall security of them. Out of the box, Synology devices aren’t set up in a way that would be considered insecure, but as we start to configure the NAS, there are […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16942",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000618eaab0b750a",
+    "crawlTimeMsec": "1716246031332",
+    "timestampUsec": "1716246031332618",
+    "published": 1716242400,
+    "title": "Why You Should Use Docker on a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/why-you-should-use-docker-on-a-synology-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/why-you-should-use-docker-on-a-synology-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-NAS-Docker.png\"></p>\n<p>One of the most common questions new users ask is why exactly they should use Docker. The truth is, Docker is kind of confusing initially, and a lot of the things that users want to install already have packages or alternatives in Synology’s Package Center. For this reason, a lot of people naturally fall back […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=16985",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000618fe281ab74c",
+    "crawlTimeMsec": "1716329733863",
+    "timestampUsec": "1716329733863244",
+    "published": 1716328800,
+    "title": "What Synology NAS to Buy? 5 Steps to Pick the Right Model",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/what-synology-nas-to-buy/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/what-synology-nas-to-buy/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/What-Synology-NAS-to-buy.png\"></p>\n<p>I’ve tested various network-attached storage (NAS) devices from many manufacturers, NAS operating systems, and if you’ve followed me for any length of time, you’ll know that I always fall back to Synology as the best overall brand. From an investment perspective, as well as a feature and functionality perspective, Synology models are generally the best […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17007",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061912afcc31ac",
+    "crawlTimeMsec": "1716417909764",
+    "timestampUsec": "1716417909764524",
+    "published": 1716415200,
+    "title": "An Example Synology NAS Setup: Apps, Backups, and More",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/an-example-synology-nas-setup-apps-backups-and-more/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/an-example-synology-nas-setup-apps-backups-and-more/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/My-Synology-NAS-Setup-1.png\"></p>\n<p>When I bought my first Synology NAS, it was at the center of everything that I did. I’d connect to my local network using the VPN Server application. I’d run my Docker containers directly on the NAS. I even hosted this website directly from the NAS, which is questionable in hindsight, but it worked. There […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17030",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000619262e352b74",
+    "crawlTimeMsec": "1716501634952",
+    "timestampUsec": "1716501634952052",
+    "published": 1716501600,
+    "title": "17+ Project Ideas for a Synology NAS",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/17-project-ideas-for-a-synology-nas/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/17-project-ideas-for-a-synology-nas/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/17-SYNOLOGY-PROJECTS.png\"></p>\n<p>Buying a Synology NAS device starts with the desire to…store data on it, but after getting and configuring it following best practices, you’re left with a device that can do way more than you initially thought but have absolutely no idea where to start. So the question is, what are some things you can use […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17049",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006193ab707889f",
+    "crawlTimeMsec": "1716589829785",
+    "timestampUsec": "1716589829785759",
+    "published": 1716588000,
+    "title": "Synology Photos vs Google Photos: Which is Best?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-photos-vs-google-photos/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-photos-vs-google-photos/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-Photos-vs-Google-Photos.jpg\"></p>\n<p>One of the most common use cases for Synology NAS devices is managing photo collections. Whether you’re a photographer or a home user that just wants a location to store your photos, storing them on a Synology NAS is a great, private option. The downside is that from a functionality perspective, it’s limiting compared to […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17067",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061977107da3fb",
+    "crawlTimeMsec": "1716849028735",
+    "timestampUsec": "1716849028735995",
+    "published": 1716847200,
+    "title": "Meet Dockge: A Beautiful Docker Container Management Tool",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/dockge-docker-manager/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/dockge-docker-manager/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Docker"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/DOCKGE.jpg\"></p>\n<p>I’ve used various forms of Docker management tools, generally falling back to using Portainer. Though I’ve always preferred Portainer, I’ve tried Yacht, used Synology’s Container Manager (and previously, their Docker manager), and many others. I’m late to the show, but there’s a “new” Docker Container manager called Dockge that’s causing a bunch of users to […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17091",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006198b995b5498",
+    "crawlTimeMsec": "1716937224311",
+    "timestampUsec": "1716937224311960",
+    "published": 1716933600,
+    "title": "Use a Synology NAS as a NUT Server",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/use-a-synology-nas-as-a-nut-server/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/use-a-synology-nas-as-a-nut-server/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-NAS-as-a-NUT-Server.jpg\"></p>\n<p>If you own a Synology NAS and a UPS that has monitoring, you can configure your Synology NAS as a NUT server (network UPS tools). This means that it can send communication through the network to devices that are listening and they’ll be able to monitor the UPS through the NAS for UPS battery information. […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17115",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006199f16c3809a",
+    "crawlTimeMsec": "1717020932669",
+    "timestampUsec": "1717020932669594",
+    "published": 1717020000,
+    "title": "Building a Mini PC Proxmox Cluster",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/mini-pc-proxmox-cluster/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/mini-pc-proxmox-cluster/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Proxmox"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Mini-PC-Proxmox-Cluster-with-HA.jpg\"></p>\n<p>I’ve been using Proxmox in my home lab for years at this point, and I’ve had a high-availability cluster configured, but never really used it if I’m being honest. I’d migrate VMs/LXCs back and forth but never really used the high availability portion. That all changed when I was sent (free from GMKtec) three GMKtec […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17126",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000619b3d5bec918",
+    "crawlTimeMsec": "1717110036154",
+    "timestampUsec": "1717110036154648",
+    "published": 1717106400,
+    "title": "Synology Drive vs. Mapped Network Drives",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-drive-vs-mapped-network-drives/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-drive-vs-mapped-network-drives/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/05/Synology-Drive-vs.-Mapped-Network-Drive-1.jpg\"></p>\n<p>Let me start out by saying that I am an absolutely huge Synology Drive fan. I can honestly say that it’s an application that I use every single day, even though I’m not necessarily interacting with it. I have all of my important data syncing to and from the NAS so that each device I […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17134",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000619c7880de035",
+    "crawlTimeMsec": "1717194632060",
+    "timestampUsec": "1717194632060981",
+    "published": 1717192800,
+    "title": "Split Tunnel vs. Full Tunnel VPNs",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/split-tunnel-vs-full-tunnel-vpn/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/split-tunnel-vs-full-tunnel-vpn/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "VPN"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2023/04/thumb2-1-1.jpg\"></p>\n<p>This article will look at the difference between split tunnel vs. full tunnel VPNs. When you configure a VPN, you’ll have two options for VPN types that you can configure and use: split tunnel or full tunnel. The way that these two VPN types operate is drastically different and it’s important to understand exactly how […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=12602",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061b03bd3d860f",
+    "crawlTimeMsec": "1718552734041",
+    "timestampUsec": "1718552734041615",
+    "published": 1718550000,
+    "title": "Setting up a Cloudflare Tunnel using Docker",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/setting-up-a-cloudflare-tunnel-using-docker/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/setting-up-a-cloudflare-tunnel-using-docker/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Docker"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/06/Cloudflare-NAS-Apps.jpg\"></p>\n<p>The video above displays how to set up a Cloudflare Tunnel using Docker for a complete Zero Trust Network. Cloudflare Tunnels require no port forwarding and allow you to expose multiple services safely and securely. Cloudflare Tunnel Docker Compose Example Add your token below or customize this generic Docker Compose file for Cloudflared.</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17150",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061bc08aad2c0e",
+    "crawlTimeMsec": "1719363634539",
+    "timestampUsec": "1719363634539534",
+    "published": 1719360000,
+    "title": "Synology NAS Prime Day Deals (2024)",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/synology-nas-prime-day-deals-2024/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/synology-nas-prime-day-deals-2024/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/06/Synology-NAS-Prime-Day-Deals.jpg\"></p>\n<p>This article will focus on Synology NAS Prime Day deals from Amazon. If you’re interested in picking up a Synology NAS on sale, now is the time to do it as there are very few days throughout the year where these are on sale. The models below are what I expect will be on sale, […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17165",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061d12f600500a",
+    "crawlTimeMsec": "1720817134096",
+    "timestampUsec": "1720817134096394",
+    "published": 1720814400,
+    "title": "Was the Synology DS1825+ Leaked?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/was-the-synology-ds1825-leaked/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/was-the-synology-ds1825-leaked/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/07/SYNOLOGY-DS1825.jpg\"></p>\n<p>If you’ve been waiting for Synology to release a new device, we might not be that far from seeing it. User ministry on the r/synology subreddit found an image on Synology’s website with what appears to be a new entry to the lineup – the Synology DS1825+. It doesn’t have any details, but it does […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17198",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061d37009745da",
+    "crawlTimeMsec": "1720971930584",
+    "timestampUsec": "1720971930584538",
+    "published": 1720969200,
+    "title": "Local SSL for Home Lab Services with Nginx Proxy Manager",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/local-ssl-for-home-lab-services-nginx-proxy-manager/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/local-ssl-for-home-lab-services-nginx-proxy-manager/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Home Lab",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/07/Local-SSL-Certificates.jpg\"></p>\n<p>If you start adding more services to your home lab, the inevitable scenario you’ll find yourself in is forgetting IP addresses and ports. If you happen to remember the IP and port, you’ll find yourself constantly clicking through “Not Secure” errors since the service(s) use self-signed certificates that aren’t trusted. Generally, this will be annoying […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17180",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061d99e7937692",
+    "crawlTimeMsec": "1721396712666",
+    "timestampUsec": "1721396712666770",
+    "published": 1721393100,
+    "title": "What is the Best Synology NAS?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/which-synology-nas-should-i-buy/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/which-synology-nas-should-i-buy/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2023/05/thumb-1.jpg\"></p>\n<p>I’ve tested various network-attached storage (NAS) devices from many manufacturers, NAS operating systems, and if you’ve followed me for any length of time, you’ll know that I always fall back to Synology as the best overall brand. From an investment perspective, as well as a feature and functionality perspective, Synology models are generally the best […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=12812",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061dc3d64e479c",
+    "crawlTimeMsec": "1721576811546",
+    "timestampUsec": "1721576811546524",
+    "published": 1721574000,
+    "title": "Configuring a Home Lab Self-Hosted Dashboard with Homarr",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/home-lab-self-hosted-dashboard-homarr/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/home-lab-self-hosted-dashboard-homarr/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Docker"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/07/homarr-6-1.jpg\"></p>\n<p>One of the first things that I wanted to do as soon as my home lab started growing was to configure a self-hosted dashboard. It makes accessing your services quick and easy and quite honestly, keeps everything that you may access throughout the day directly in front of you. There are a bunch of options […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17299",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061eba746cfd3d",
+    "crawlTimeMsec": "1722636026314",
+    "timestampUsec": "1722636026314045",
+    "published": 1722636000,
+    "title": "How to Set Up and Configure a Synology Router",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-and-configure-a-synology-router/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-and-configure-a-synology-router/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/08/SynologyRouter.jpg\"></p>\n<p>In this article, we’re going to look at how to set up and configure a Synology router. Synology Routers run an operating system called Synology Router Manager (SRM). If you’ve ever used a Synology NAS, it’s very similar to the DSM operating system but has a few key differences. However, a lot of the knowledge […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17322",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061f69d8950467",
+    "crawlTimeMsec": "1723389325935",
+    "timestampUsec": "1723389325935719",
+    "published": 1723388400,
+    "title": "How to Set Up Pi-hole and Unbound on Docker",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-pi-hole-and-unbound-on-docker/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-pi-hole-and-unbound-on-docker/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Docker",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/08/Pihole-Unbound.jpg\"></p>\n<p>If you’ve ever configured Pi-hole, you’ll know just how well it works when it comes to blocking ads. However, did you know that you could add Unbound to Pi-hole to function as a recursive DNS server? This allows you to use Unbound to directly reach out to the authoritative servers, increasing privacy by removing your […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17346",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00061ffbe6eda2ff",
+    "crawlTimeMsec": "1724016631849",
+    "timestampUsec": "1724016631849727",
+    "published": 1724013660,
+    "title": "Lower the Attack Surface of a Synology NAS to Improve Security",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/lower-synology-nas-attack-surface/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/lower-synology-nas-attack-surface/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/08/synology-nas-ransomware-protection.jpg\"></p>\n<p>When looking at Synology NAS security, most people are generally looking to harden the NAS itself. While that’s important, securing everything around the NAS is equally important, and potentially better. Disclosure: Some links below are affiliate links which means that I earn a percentage of each sale at no cost to you. Thank you for your […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17385",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006218b4be82330",
+    "crawlTimeMsec": "1725732017939",
+    "timestampUsec": "1725732017939248",
+    "published": 1725731820,
+    "title": "TrueNAS Core vs Scale: Which NAS OS Should You Use?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/truenas-core-vs-truenas-scale/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/truenas-core-vs-truenas-scale/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "TrueNAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2022/08/thumb2-4.jpg\"></p>\n<p>In this article, we’re going to look at TrueNAS Core vs Scale and compare both solutions for home lab and enterprise environments. TrueNAS Core and Scale are two NAS operating systems designed and developed by iXsystems. While both, TrueNAS Core and Scale are similar, they differ in architecture, functionality, and performance. This article will compare […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=9650",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000623bc0d3e405a",
+    "crawlTimeMsec": "1728140443271",
+    "timestampUsec": "1728140443271258",
+    "published": 1728137460,
+    "title": "How to Set Up GPU Passthrough on Proxmox",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-gpu-passthrough-on-proxmox/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-set-up-gpu-passthrough-on-proxmox/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Proxmox"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2023/02/thumb2-8.jpg\"></p>\n<p>In this tutorial, we will look at how to set up GPU Passthrough on Proxmox so that you can pass a GPU to a virtual machine, which can be done using GPU passthrough. This means that the entire PCI device is passed through to the virtual machine and it will use the VM as if […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=11828",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000623f683c1cdc8",
+    "crawlTimeMsec": "1728391539707",
+    "timestampUsec": "1728391539707336",
+    "published": 1728390480,
+    "title": "9 Best Prime Day Big Deals 2024: NAS, Networking, HDDs, Mini PCs, &amp; More",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/best-prime-day-big-deals-2024/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/best-prime-day-big-deals-2024/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Hardware"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/10/Amazon-Prime-Day-Big-Deals-2024-1.jpg\"></p>\n<p>Today is Amazon’s Prime Big Day Deals, and we’ll be looking at some of the best Prime Day Big Deals of 2024. This list will focus on home lab equipment, meaning NAS devices, networking (routers &amp; switches), hard drives, Mini PCs, and more. Disclosure: Some links below are Amazon affiliate links which means that I earn […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17523",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000624fe55a7bec3",
+    "crawlTimeMsec": "1729524637613",
+    "timestampUsec": "1729524637613763",
+    "published": 1729522680,
+    "title": "UNAS Pro: Everything you NEED to Know",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/unas-pro/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/unas-pro/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/10/UNAS-Pro-1.jpg\"></p>\n<p>Ubiquiti released a new NAS device, the UNAS Pro, which is a seven-bay, 2U rackmount NAS that supports 10Gb and more. It bridges the gap by adding a new tool to its UniFi Site Manager called UniFi Drive. Learn everything you need to know about the easy-to-use, UNAS Pro by watching the video below!</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17820",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00062576675d9cb5",
+    "crawlTimeMsec": "1730040330820",
+    "timestampUsec": "1730040330820789",
+    "published": 1730037600,
+    "title": "Adding Docker &amp; Jellyfin to the UNAS Pro",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/adding-docker-jellyfin-to-the-unas-pro/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/adding-docker-jellyfin-to-the-unas-pro/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/10/Adding-Docker-Jellyfin-to-the-UNAS-Pro.jpg\"></p>\n<p>This article will be supplementary to the video below, which highlights how to add Docker and Jellyfin to the UNAS Pro using a Mini PC. This allows you to utilize the UNAS Pro for Snapshots and Backups, but leave the heavy lifting to the Mini PC. Disclosure: Some links on this page are Amazon affiliate links […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17851",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006261aaeb8a37b",
+    "crawlTimeMsec": "1730745902605",
+    "timestampUsec": "1730745902605179",
+    "published": 1730725200,
+    "title": "What is the Best SSD for NAS Devices?",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/what-is-the-best-ssd-for-nas-devices/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/what-is-the-best-ssd-for-nas-devices/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "NAS"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2022/10/thumb2-2.jpg\"></p>\n<p>In this article, we’re going to look at the best SSD for NAS devices. In general, NAS devices normally use mechanical hard drives due to their longevity (check out our list of the best NAS hard drives), price, and reliable performance. A lot of NAS devices also have 1GbE NICs, meaning that you won’t receive […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17897",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000626fb8b028c94",
+    "crawlTimeMsec": "1731711671110",
+    "timestampUsec": "1731711671110804",
+    "published": 1731708000,
+    "title": "How to Configure UniFi Firewall Rules",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/how-to-configure-unifi-firewall-rules/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/how-to-configure-unifi-firewall-rules/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "UniFi"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/11/UniFi-Firewall-Rules.jpg\"></p>\n<p>In this article, we’ll look at how to configure UniFi Firewall Rules so that you can build a secure, home or small business network. There are various options we’ll look at, from the source and the destination, to the type (LAN In, LAN Out, LAN Local, etc). This is arguably the most important setup of […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17903",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/0006278d622086ea",
+    "crawlTimeMsec": "1732338050434",
+    "timestampUsec": "1732338050434794",
+    "published": 1732316400,
+    "title": "Complete Home Server Build Guide",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/complete-home-server-build-guide/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/complete-home-server-build-guide/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Home Lab"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/11/Perfect-Home-Server.jpg\"></p>\n<p>If you’re interested in building a home server, whether it’s a NAS, hypervisor, or just something to use as a simple file server, using a custom build gives you the most overall control. The reality is that desktop components have come a long way, with tons of cores and threads, great power efficiency, support for […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=17959",
+    "author": "WunderTech"
+},
+{
+    "id": "tag:google.com,2005:reader/item/000627bea2170e1b",
+    "crawlTimeMsec": "1732549576953",
+    "timestampUsec": "1732549576953371",
+    "published": 1732549260,
+    "title": "Best Black Friday Deals 2024: Synology, NAS, HDDs, Networking, &amp; More",
+    "canonical": [
+        {
+            "href": "https://www.wundertech.net/best-black-friday-deals-2024/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.wundertech.net/best-black-friday-deals-2024/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Synology",
+        "Black Friday Deals 2024"
+    ],
+    "origin": {
+        "streamId": "feed/4",
+        "htmlUrl": "https://www.wundertech.net/",
+        "title": "WunderTech",
+        "feedUrl": "https://www.wundertech.net/feed/"
+    },
+    "content": {
+        "content": "<p><img src=\"https://www.wundertech.net/wp-content/uploads/2024/11/Black-Friday-Deals-2024.jpg\"></p>\n<p>BLACK FRIDAY IS OVER BUT CHECK OUT OUR CYBER MONDAY DEALS FOR 2024! Black Friday starts on Friday, 11/29/2024, but there are a ton of great deals already, so we’re going to take a look at the best Black Friday deals for Synology, NAS, networking, and just about anything home lab related. More importantly, most […]</p>"
+    },
+    "guid": "https://www.wundertech.net/?p=18002",
+    "author": "WunderTech"
+}
+]}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily AI & Tech News</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@latest"></script>
+</head>
+<body class="bg-gray-900 text-white">
+
+<div class="max-w-6xl mx-auto p-6">
+  <h1 class="text-3xl font-bold mb-6">Today's AI & Tech Highlights</h1>
+
+  <input id="search" placeholder="Search..." class="w-full p-3 mb-6 rounded bg-gray-800">
+
+  <div id="articles" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+    {% for a in articles %}
+    <div class="p-4 bg-gray-800 rounded-xl">
+      <h2 class="font-semibold text-lg">{{ a.title }}</h2>
+      <p class="text-sm text-gray-400">{{ a.source }}</p>
+      <p class="text-sm mt-2">{{ a.summary }}</p>
+      <a href="{{ a.link }}" target="_blank" class="text-blue-400">Read more</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+const search = document.getElementById("search");
+search.addEventListener("input", () => {
+  const val = search.value.toLowerCase();
+  document.querySelectorAll("#articles > div").forEach(card => {
+    card.style.display = card.innerText.toLowerCase().includes(val) ? "block" : "none";
+  });
+});
+</script>
+
+</body>
+</html>

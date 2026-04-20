@@ -1,0 +1,1787 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/44",
+    "title": "List of Geeky Gadgets articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f2962d1436e",
+    "crawlTimeMsec": "1775889030398",
+    "timestampUsec": "1775889030398830",
+    "published": 1775887200,
+    "title": "OpenAI MYTHOS, Gemini Agents &amp; Anthropic’s New Strategy Explained",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/openai-mythos-model/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/openai-mythos-model/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/google-gemini-agent-mode-schedules-skills-tab.jpg\" alt=\"Side-by-side visual of AI assistants shifting from plain text answers to interactive 3D and data visuals.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>OpenAI’s latest advancements, as highlighted by Universe of AI, showcase a growing emphasis on security and integrated functionality in artificial intelligence. Among these developments is the MYTHOS model, a restricted AI system designed exclusively for cybersecurity applications. Built on the GPT-5.3 Codex framework, MYTHOS focuses on detecting and mitigating cyber threats while being available only […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/openai-mythos-model/\">OpenAI MYTHOS, Gemini Agents &amp; Anthropic’s New Strategy Explained</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489406",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2a6f77757a",
+    "crawlTimeMsec": "1775893537584",
+    "timestampUsec": "1775893537584506",
+    "published": 1775890800,
+    "title": "The Samsung Galaxy Z Fold 8 Wide Is Shorter, Wider, and Exactly What We Wanted",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/foldable-cover-inner-mirroring/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/foldable-cover-inner-mirroring/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/samsung-galaxy-z-wide-fold-43-aspect-leak.jpg\" alt=\"Render-style view of a Samsung Galaxy Z Wide Fold concept showing a wider 4:3 inner screen layout.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Samsung’s rumored Galaxy Z Fold 8 Wide is poised to make a significant impact on the foldable smartphone market. By addressing persistent design challenges and emphasizing practicality and usability, this device could set a new standard for foldable technology. With a potential 4:3 aspect ratio and seamless display transitions, the Galaxy Z Fold 8 Wide […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/foldable-cover-inner-mirroring/\">The Samsung Galaxy Z Fold 8 Wide Is Shorter, Wider, and Exactly What We Wanted</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489294",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2b7b772226",
+    "crawlTimeMsec": "1775898033857",
+    "timestampUsec": "1775898033857062",
+    "published": 1775894400,
+    "title": "Xbox Project Helix Insiders Just Revealed the Radical New Dashboard",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/project-helix-dashboard/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/project-helix-dashboard/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming News",
+        "Top News",
+        "Xbox"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/unified-xbox-pc-handheld-game-library-ui.jpg\" alt=\"Insider Hub preview screen highlighting the new Xbox dashboard layout and controller-first navigation options.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Microsoft’s Project Helix introduces a hybrid gaming system that combines console and PC capabilities, aiming to streamline user experiences across platforms. A key feature of this initiative is the “Full Screen Experience” dashboard, currently being tested by Insider Hub members. According to Colt Eastwood, the dashboard prioritizes customization and cross-platform functionality, bringing services like Steam, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/project-helix-dashboard/\">Xbox Project Helix Insiders Just Revealed the Radical New Dashboard</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489409",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2ca14ec5c2",
+    "crawlTimeMsec": "1775902963713",
+    "timestampUsec": "1775902963713474",
+    "published": 1775898000,
+    "title": "Goodbye iPad Mini? How the iPhone Fold’s 7.8-inch Display Redefines “Mobile”",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-iphone-fold-details/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-iphone-fold-details/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-ultra-fold-inner-screen-size.jpg\" alt=\"Concept render of Apple’s book-style foldable iPhone showing a tall outer screen and tablet-like inner display.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple is reportedly working on its first foldable iPhone, tentatively named the “iPhone Ultra.” This highly anticipated device could reshape the smartphone landscape by combining the portability of an iPhone with the expanded functionality of an iPad. Featuring a book-style foldable design, advanced hardware and software tailored for hybrid use, the iPhone Fold aims to […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/apple-iphone-fold-details/\">Goodbye iPad Mini? How the iPhone Fold’s 7.8-inch Display Redefines “Mobile”</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489340",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2ca14ec5c7",
+    "crawlTimeMsec": "1775902963713",
+    "timestampUsec": "1775902963713479",
+    "published": 1775901600,
+    "title": "Why IKEA’s $10 Bluetooth Speaker Lets You Pair 100 Units at Once",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/ikea-kallsup-speaker-unboxing/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/ikea-kallsup-speaker-unboxing/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Design News",
+        "Gadgets News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ikea-kallsup-multi-speaker-pairing.jpg\" alt=\"Hands holding the IKEA KALLSUP Bluetooth speaker during unboxing, showing the small size and minimalist design.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The IKEA KALLSUP Bluetooth speaker has garnered attention for its remarkable affordability and practical design. Priced at just $10, this compact device offers features like USB-C charging and multi-unit pairing, making it an intriguing option for budget-conscious users. Phones &amp; Drones explores how the KALLSUP balances cost and functionality, highlighting its minimalist aesthetic and straightforward […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/ikea-kallsup-speaker-unboxing/\">Why IKEA’s $10 Bluetooth Speaker Lets You Pair 100 Units at Once</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489412",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2d93f38628",
+    "crawlTimeMsec": "1775907034596",
+    "timestampUsec": "1775907034596904",
+    "published": 1775905200,
+    "title": "Is the Samsung Galaxy Z Fold 8 Ultra Worth the $1,999 Price Tag? Everything We Know",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-price/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-price/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/galaxy-z-fold-8-price-tiers-1999-2499.jpg\" alt=\"Price chart showing Galaxy Z Fold 8 tiers, including $1,999 for 12GB/256GB and $2,499 for 12GB/512GB.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Samsung is poised to redefine the foldable smartphone market with the highly anticipated release of its flagship device, the Galaxy Z Fold 8 Ultra 5G, set for July 2026. This next-generation foldable phone is expected to combine state-of-the-art technology, a refined design, and robust performance, all while maintaining a competitive pricing strategy. Alongside the Galaxy […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-price/\">Is the Samsung Galaxy Z Fold 8 Ultra Worth the $1,999 Price Tag? Everything We Know</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489358",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2ea007dc58",
+    "crawlTimeMsec": "1775911532223",
+    "timestampUsec": "1775911532223576",
+    "published": 1775908800,
+    "title": "Ray-Ban Meta Blazer Optics &amp; Scribe Optics Add Prescription-First Fit",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/meta-blazer-scribe-optics/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/meta-blazer-scribe-optics/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ray-ban-meta-scribe-optics-rounded-frames.jpg\" alt=\"Ray-Ban Meta Scribe Optics displayed with rounded frame shape, adjustable nose pads, and flexible hinges for all-day wear.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Meta’s latest smart glasses, the Ray-Ban Meta Blayzer Optics and Scriber Optics, combine advanced functionality with practical design. As noted by TechAvid, these second-generation glasses emphasize user comfort through features like slimmer frames and adjustable temple tips, making sure a secure and lightweight fit. They also support prescription lenses, accommodating both single-vision and progressive options, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/meta-blazer-scribe-optics/\">Ray-Ban Meta Blazer Optics &amp; Scribe Optics Add Prescription-First Fit</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489452",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2fad118dfb",
+    "crawlTimeMsec": "1775916045929",
+    "timestampUsec": "1775916045929979",
+    "published": 1775912400,
+    "title": "Move Over Pro Max: Why the Foldable iPhone Ultra Is Apple’s New $2,000 Flagship",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-ultra-details-2/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-ultra-details-2/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-ultra-48mp-dual-camera-layout.jpg\" alt=\"Close-up concept of the iPhone Ultra liquid metal hinge with 3D-printed internal parts to reduce screen creasing.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple is preparing to make a significant impact on the smartphone market with its upcoming iPhone lineup, which includes the iPhone 18 Pro, iPhone 18 Pro Max and the highly anticipated iPhone Ultra. Scheduled for release this September, the iPhone Ultra is positioned as the flagship model, offering a foldable design, innovative performance and a […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-ultra-details-2/\">Move Over Pro Max: Why the Foldable iPhone Ultra Is Apple’s New $2,000 Flagship</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489350",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f2fad118e12",
+    "crawlTimeMsec": "1775916045930",
+    "timestampUsec": "1775916045930002",
+    "published": 1775916000,
+    "title": "Google Just Put NotebookLM Inside Gemini: Here’s What You Can Do Now",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/notebooklm-gemini-integration-3/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/notebooklm-gemini-integration-3/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/notebooklm-gemini-unified-interface.jpg\" alt=\"B2B sales prospecting setup using NotebookLM sources to draft tailored outreach messages inside Gemini chat.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Google’s integration of NotebookLM with the Gemini AI platform introduces a structured way to handle information and streamline tasks. As explained by Universe of AI, one standout feature is persistent memory, which allows the system to remember details from previous interactions. This is particularly useful for long-term projects, as it reduces repetitive data entry and […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/notebooklm-gemini-integration-3/\">Google Just Put NotebookLM Inside Gemini: Here’s What You Can Do Now</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489455",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f30b93ea7e3",
+    "crawlTimeMsec": "1775920545179",
+    "timestampUsec": "1775920545179619",
+    "published": 1775919600,
+    "title": "Apple’s Biggest Camera Jump Ever: The iPhone 18 Pro Max Brings Pro-Level Glass to Your Pocket",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-pro-max-camera-upgrade/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-pro-max-camera-upgrade/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-18-pro-max-periscope-zoom-10x-lens.jpg\" alt=\"Timeline graphic showing Apple’s iPhone 18 Pro launch in September and the standard model in spring.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The iPhone 18 Pro Max represents a pivotal moment in Apple’s flagship smartphone lineup. With its focus on innovative camera technology, improved battery performance and enhanced connectivity, the device is designed to deliver a superior user experience. Apple is also introducing a new release strategy, featuring a staggered launch schedule that includes the standard iPhone […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-18-pro-max-camera-upgrade/\">Apple’s Biggest Camera Jump Ever: The iPhone 18 Pro Max Brings Pro-Level Glass to Your Pocket</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489331",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3d4b02c815",
+    "crawlTimeMsec": "1775974530336",
+    "timestampUsec": "1775974530336789",
+    "published": 1775970000,
+    "title": "Finally, a Foldable That Fits: Samsung Galaxy Z Fold 8 Wide Leaks a Massive 4:3 Screen Upgrade",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-leaks/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-leaks/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/samsung-tri-fold-device-4-3-aspect-plan.jpg\" alt=\"Render of Samsung Galaxy Z Wide Fold opened flat, showing a wide 4:3 inner display for tablet-style apps.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Samsung is set to reshape the foldable smartphone market with the highly anticipated Galaxy Z Wide Fold. Featuring a unique 4:3 aspect ratio and tablet-like functionality, this device could establish a new standard for multitasking and media consumption. As competition with Apple intensifies, the race for innovation in foldable technology is accelerating, promising significant advancements […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-leaks/\">Finally, a Foldable That Fits: Samsung Galaxy Z Fold 8 Wide Leaks a Massive 4:3 Screen Upgrade</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489343",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3d4b02c832",
+    "crawlTimeMsec": "1775974530336",
+    "timestampUsec": "1775974530336818",
+    "published": 1775973600,
+    "title": "The Rise and Sudden Fall of OpenAI’s Sora",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/openai-sora-shutdown-2/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/openai-sora-shutdown-2/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1600\" height=\"936\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/openai-costs-revenue-chart-sora-2026.jpg\" alt=\"Roadmap graphic shows OpenAI shifting focus from consumer video apps to enterprise tools, robotics, and an IPO.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>OpenAI’s abrupt decision to shut down its AI video generation app, Sora, just 103 days after launch has sparked widespread debate about the company’s strategic direction and financial health. Despite a $1 billion partnership with Disney and a viral debut that garnered over one million downloads, Sora’s operational costs reportedly reached an unsustainable $15 million […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/openai-sora-shutdown-2/\">The Rise and Sudden Fall of OpenAI’s Sora</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489458",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3e5842517f",
+    "crawlTimeMsec": "1775979047571",
+    "timestampUsec": "1775979047571839",
+    "published": 1775977200,
+    "title": "Galaxy Z Roll 5G: Samsung’s Motorized Display Solves the Foldable Crease",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-rollable-phone-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-rollable-phone-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/galaxy-z-roll-5g-titanium-body-s-pen.jpg\" alt=\"Render of Samsung Galaxy Z Roll 5G expanding into a larger screen, showing the rollable panel mechanism.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Samsung Galaxy Z Roll 5G is poised to reshape the smartphone industry with its new features and forward-thinking design. At its core is a motorized rollable display, a technological innovation that enhances how users interact with their devices. By focusing on productivity, performance and user experience, the Galaxy Z Roll 5G aspires to set […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/samsung-rollable-phone-2026/\">Galaxy Z Roll 5G: Samsung’s Motorized Display Solves the Foldable Crease</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489446",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f3f65493474",
+    "crawlTimeMsec": "1775983561094",
+    "timestampUsec": "1775983561094260",
+    "published": 1775980800,
+    "title": "DJI Osmo Pocket 4 Features a 1-Inch Sensor, But There’s a Hidden Catch",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/osmo-pocket-4-launch/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/osmo-pocket-4-launch/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Camera News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/dji-osmo-pocket-4-launch-date-teaser.jpg\" alt=\"Slow-motion timeline illustrating rumored 4K 240fps recording compared with Osmo Pocket 3 frame rates.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The DJI Osmo Pocket 4, set for release on April 16, 2026, introduces significant updates to DJI’s compact camera lineup. According to TechAvid, one of the most notable features is the rumored 1-inch sensor, which could enhance low-light performance and support versatile framing options for various shooting formats. However, these advancements may present challenges, such […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/osmo-pocket-4-launch/\">DJI Osmo Pocket 4 Features a 1-Inch Sensor, But There’s a Hidden Catch</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489461",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f40701a53f7",
+    "crawlTimeMsec": "1775988037538",
+    "timestampUsec": "1775988037538807",
+    "published": 1775984400,
+    "title": "The Apple Watch Ultra 4 is Getting Thinner: Leaks Reveal the Design Change We’ve Been Waiting For",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-watch-ultra-4-design-changes/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-watch-ultra-4-design-changes/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Gadgets News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Apple-Watch-Ultra-4-1.jpg\" alt=\"Apple Watch Ultra 4\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Apple Watch Ultra 4 is rumored to tackle one of the most persistent criticisms of its predecessors: battery life. With speculation surrounding enhanced performance, innovative features, and a refined design, this upcoming release could redefine Apple’s premium smartwatch lineup. While the Ultra series has been celebrated for its durability and functionality, its relatively short […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/apple-watch-ultra-4-design-changes/\">The Apple Watch Ultra 4 is Getting Thinner: Leaks Reveal the Design Change We’ve Been Waiting For</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489365",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f40701a540a",
+    "crawlTimeMsec": "1775988037538",
+    "timestampUsec": "1775988037538826",
+    "published": 1775988000,
+    "title": "Are Xbox Exclusives Returning Under Asha Sharma?",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/xbox-exclusives-asha-sharma/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/xbox-exclusives-asha-sharma/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming News",
+        "Top News",
+        "Xbox"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/asha-sharma-xbox-exclusives-discussion.jpg\" alt=\"State of Decay 3 scene used to illustrate playtester notes about deeper gameplay and stronger systems.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Xbox’s current direction has drawn attention with discussions around the potential revival of exclusive titles under Asha Sharma’s leadership. According to Colt Eastwood, key issues such as management struggles at Halo Studios and the extended development timeline of State of Decay 3 illustrate the challenges Xbox faces in maintaining its first-party lineup. These examples underscore […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/xbox-exclusives-asha-sharma/\">Are Xbox Exclusives Returning Under Asha Sharma?</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489464",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f417bfed0b8",
+    "crawlTimeMsec": "1775992532029",
+    "timestampUsec": "1775992532029624",
+    "published": 1775991600,
+    "title": "iPhone 18 Pro: Everything We Know (So Far)",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-pro-details-specs/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-pro-details-specs/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iPhone-18-pro-max-1.jpg\" alt=\"iPhone 18 pro max\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple’s iPhone 18 Pro is shaping up to be a highly anticipated release, blending innovative technology with thoughtful design refinements. From the introduction of a foldable variant to satellite-based web browsing capabilities, this lineup is expected to push the boundaries of smartphone innovation. Below is a detailed exploration of the most exciting features and advancements […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-18-pro-details-specs/\">iPhone 18 Pro: Everything We Know (So Far)</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489374",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f428829f3ff",
+    "crawlTimeMsec": "1775997031150",
+    "timestampUsec": "1775997031150591",
+    "published": 1775995200,
+    "title": "10 NotebookLM Tips &amp; Tricks to Instatntly Improve &amp; Speedup Your Workflows",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/notebooklm-gemini-integration-4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/notebooklm-gemini-integration-4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/notebooklm-google-gemini-notebooks.jpg\" alt=\"NotebookLM interface showing a 2026 notebook with PDFs, Drive files, and web sources grouped together.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>NotebookLM has become a versatile platform for research and organization, combining efficiency with adaptability. According to Skill Leap AI, its integration with Google Gemini enables users to consolidate resources such as PDFs, Drive files and web content into unified notebooks, making it easier to manage complex projects. For example, its Deep Research mode supports detailed […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/notebooklm-gemini-integration-4/\">10 NotebookLM Tips &amp; Tricks to Instatntly Improve &amp; Speedup Your Workflows</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489467",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f43945add3e",
+    "crawlTimeMsec": "1776001530649",
+    "timestampUsec": "1776001530649918",
+    "published": 1775998800,
+    "title": "Samsung Galaxy S27 Pro Rumored to Feature 200MP Camera and No S Pen",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-s27-pro-specs/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-s27-pro-specs/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/galaxy-s27-lineup-plus-pro-ultra-compare.jpg\" alt=\"A lineup graphic shows Galaxy S27 Plus, S27 Pro, and S27 Ultra tiers with major features highlighted.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Samsung has introduced a significant evolution in its flagship smartphone lineup with the Galaxy S27 Pro, a model designed to bridge the gap between the base/Plus models and the Ultra. This addition reflects a deliberate strategy to cater to diverse consumer preferences while refining its competitive edge in the premium smartphone market. By offering premium […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/samsung-galaxy-s27-pro-specs/\">Samsung Galaxy S27 Pro Rumored to Feature 200MP Camera and No S Pen</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489252",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f44a12560cb",
+    "crawlTimeMsec": "1776006040215",
+    "timestampUsec": "1776006040215755",
+    "published": 1776002400,
+    "title": "Complete Seedance 2 Tutorial for Beginners to AI Video Creation",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/seedance-2-beginners-guide-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/seedance-2-beginners-guide-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/seedance-2-0-higgs-field-dashboard.jpg\" alt=\"Higgs Field interface showing Seedance 2.0 video generator with prompt box, settings panel, and credit balance.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Seedance 2.0 is an AI-driven platform designed to simplify video creation while offering extensive customization options. Hosted on the Higgsfield platform, it operates entirely within desktop browsers, eliminating the need for downloads or installations. As highlighted by Teacher’s Tech, one standout feature is its multimodal input system, which allows users to combine text, images, audio […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/seedance-2-beginners-guide-2026/\">Complete Seedance 2 Tutorial for Beginners to AI Video Creation</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489470",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f45acb38cdc",
+    "crawlTimeMsec": "1776010529049",
+    "timestampUsec": "1776010529049820",
+    "published": 1776006000,
+    "title": "Apple TV 2026: The First Streaming Box Built for Apple Intelligence?",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-tv-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-tv-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Apple-TV.jpg\" alt=\"Apple TV 2026\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Apple TV 2026 is shaping up to be a noteworthy evolution in Apple’s streaming device lineup. Recent leaks suggest a range of updates that could enhance its performance, connectivity, and smart home integration. While these changes may not represent a complete overhaul, they could significantly improve the device’s appeal for gaming enthusiasts, streaming aficionados, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/apple-tv-2026/\">Apple TV 2026: The First Streaming Box Built for Apple Intelligence?</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489380",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f513350fa68",
+    "crawlTimeMsec": "1776060032154",
+    "timestampUsec": "1776060032154216",
+    "published": 1776056400,
+    "title": "Samsung Galaxy S26 Ultra vs iPhone 17 Pro Max: Is There a Clear Winner in 2026?",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max-8/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max-8/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Apple iPhone",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-17-pro-max-battery-life-two-day-use-1.jpg\" alt=\"Galaxy S26 Ultra and iPhone 17 Pro Max shown together, highlighting size, camera bump shape, and materials.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>After a month of hands-on experience, the Galaxy S26 Ultra and iPhone 17 Pro Max stand out as two of the most advanced smartphones available in 2023. Each device is tailored to meet specific user needs, excelling in areas such as design, performance, and ecosystem integration. This detailed comparison video from Nick Ackerman explores their […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max-8/\">Samsung Galaxy S26 Ultra vs iPhone 17 Pro Max: Is There a Clear Winner in 2026?</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489322",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04551",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693201",
+    "published": 1776060000,
+    "title": "Updating to iOS 26.4.1? Check These 5 Things Immediately After Updating",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/updating-to-ios-26-4-1-check-these-5-things-immediately-after-updating/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/updating-to-ios-26-4-1-check-these-5-things-immediately-after-updating/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ios-26-4-1-5-things-to-do-immediately-after-updating.jpg\" alt=\"Featured image for iOS 26.4.1 - 5 Things TO DO Immediately After Updating !\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The release of iOS 26.4.1 brings a host of new features, enhanced security measures, and performance improvements. However, installing the update is just the first step. To fully optimize your iPhone, protect your data, and ensure seamless functionality, there are several critical actions you should take right after updating. These steps will help you get […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/updating-to-ios-26-4-1-check-these-5-things-immediately-after-updating/\">Updating to iOS 26.4.1? Check These 5 Things Immediately After Updating</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489368",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04558",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693208",
+    "published": 1776060900,
+    "title": "Why Excel Power Users Are Switching to “Zero-Click” Workflows",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/excel-report-automation/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/excel-report-automation/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/onedrive-saved-excel-file-automation.jpg\" alt=\"Office Scripts editor with a script that replaces report data and calculates total sales.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Automation in Excel has advanced well beyond basic formulas and macros, allowing more efficient handling of repetitive tasks. Excel Off The Grid explains how combining Office Scripts with Power Automate can establish workflows that run without manual input. For instance, a daily sales overview can be automated by saving emailed sales data to OneDrive, using […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/excel-report-automation/\">Why Excel Power Users Are Switching to “Zero-Click” Workflows</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489508",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb0455e",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693214",
+    "published": 1776062940,
+    "title": "Latest SteamOS Update Completely Changes Steam Deck Download Management",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/steamos-remote-downloads/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/steamos-remote-downloads/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/steam-deck-wake-to-download-feature.jpg\" alt=\"SteamOS beta notes highlighting UI changes, new graphics drivers, and stability improvements for handheld play.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Valve’s latest SteamOS update brings a range of enhancements designed to improve both functionality and user experience. Deck Ready highlights key additions, such as remote download management, which allows users to initiate and control game downloads on their Steam Deck or other devices from anywhere. This feature, combined with updates like FPS-based game recommendations and […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/steamos-remote-downloads/\">Latest SteamOS Update Completely Changes Steam Deck Download Management</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489511",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb0456a",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693226",
+    "published": 1776063600,
+    "title": "Google Pixel 11 Pro: Every Specification and Release Date Rumor So Far",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/pixel-11-series-pricing-launch/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/pixel-11-series-pricing-launch/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Pixel.jpg\" alt=\"Google Pixel 11 Pro\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Google Pixel 11 Pro series is set to redefine the smartphone landscape with its blend of advanced AI capabilities, innovative camera technology and significant performance enhancements. Scheduled for release in August 2026, the lineup includes the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL, with prices starting at $799. Whether you’re a […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/pixel-11-series-pricing-launch/\">Google Pixel 11 Pro: Every Specification and Release Date Rumor So Far</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489377",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f523fb04570",
+    "crawlTimeMsec": "1776064534693",
+    "timestampUsec": "1776064534693232",
+    "published": 1776064500,
+    "title": "Why China’s AI Models Are Secretly Struggling With Complex Reasoning",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/china-ai-benchmark-gap/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/china-ai-benchmark-gap/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/frontier-math-test-ai-reasoning-comparison.jpg\" alt=\"Chart comparing ARC AGI 2 scores shows Chinese AI models lagging behind top Western systems by months.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>China’s artificial intelligence (AI) development has often been portrayed as a rapidly advancing force, but recent evaluations suggest a more nuanced reality. AI Grid examines how Chinese AI models perform on critical benchmarks like the ARC AGI 2 Test, which measures novel reasoning and problem-solving abilities. Findings reveal that these systems lag approximately eight months […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/china-ai-benchmark-gap/\">Why China’s AI Models Are Secretly Struggling With Complex Reasoning</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489514",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bac4",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422724",
+    "published": 1776065400,
+    "title": "iPhone 18 Pro Leak: Apple Testing ‘Mini’ Dynamic Island With 35% Smaller Footprint",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-smaller-dynamic-island/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-18-smaller-dynamic-island/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/under-display-face-id-iphone-18-diagram.jpg\" alt=\"Close-up graphic explaining Face ID parts moved under the display for the iPhone 18 lineup.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The iPhone 18 Pro is shaping up to be a significant release for Apple, with leaks pointing to notable advancements in design, display technology, and hardware. Rumored updates include a smaller Dynamic Island, under-display Face ID, and a potential shift in Apple’s release strategy. These changes highlight Apple’s commitment to refining its flagship product while […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-18-smaller-dynamic-island/\">iPhone 18 Pro Leak: Apple Testing ‘Mini’ Dynamic Island With 35% Smaller Footprint</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489431",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bac7",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422727",
+    "published": 1776066300,
+    "title": "Running Windows 11 on Apple’s New MacBook Neo’s A18 Pro Chip",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/macbook-neo-windows-performance/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/macbook-neo-windows-performance/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Laptops",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1600\" height=\"939\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/parallels-vs-vmware-fusion-vs-utm-macbook-neo.jpg\" alt=\"Performance view showing MacBook Neo running a Windows 11 virtual machine with limited RAM allocation and CPU cores.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Running Windows 11 on the MacBook Neo, equipped with Apple’s A18 Pro chip, offers a surprisingly functional experience despite the challenges posed by Apple Silicon’s architecture. ETA Prime explores how virtualization options like Parallels Desktop enable users to create a virtual machine for the ARM version of Windows, bridging the gap between macOS and Windows […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/macbook-neo-windows-performance/\">Running Windows 11 on Apple’s New MacBook Neo’s A18 Pro Chip</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489517",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21baca",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422730",
+    "published": 1776067200,
+    "title": "Forget Slim, Think Efficient: iPhone Air 2 Leaks Reveal a New Era of Battery Tech",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-air-2-leaks-4/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-air-2-leaks-4/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Air-2.jpg\" alt=\"iPhone Air 2\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The iPhone Air 2 is poised to redefine Apple’s lightweight smartphone lineup, offering a blend of advanced technology and practical enhancements. Building on the foundation of its predecessor, the iPhone Air 2 introduces significant upgrades in performance, battery efficiency, and connectivity. Leaks suggest that features such as satellite-based 5G connectivity, dual rear camera,s and improved […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-air-2-leaks-4/\">Forget Slim, Think Efficient: iPhone Air 2 Leaks Reveal a New Era of Battery Tech</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489353",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f534c21bad4",
+    "crawlTimeMsec": "1776069038422",
+    "timestampUsec": "1776069038422740",
+    "published": 1776067860,
+    "title": "Sam Altman’s AI Warnings, Google Jules V2 &amp; Meta’s Hybrid Strategy Explained",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/altman-superintelligence-warning/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/altman-superintelligence-warning/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Technology News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/sam-altman-superintelligence-warning-2026.jpg\" alt=\"Screenshot-style view of Google Jitro Jules V2 showing goal-based tasks, KPIs, and suggested code changes for a team.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Artificial intelligence is advancing rapidly, with significant developments and growing concerns shaping the conversation. Sam Altman, CEO of OpenAI, has voiced serious warnings about the potential dangers of superintelligent AI, emphasizing risks such as destabilizing economies and allowing harmful technologies like bioweapons. To address these challenges, Altman has proposed measures including a Public Wealth Fund […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/altman-superintelligence-warning/\">Sam Altman’s AI Warnings, Google Jules V2 &amp; Meta’s Hybrid Strategy Explained</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489520",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f54586da970",
+    "crawlTimeMsec": "1776073539692",
+    "timestampUsec": "1776073539692912",
+    "published": 1776069000,
+    "title": "Samsung Galaxy Z Fold 8 &amp; ‘Wide’ Leak: July 22 Launch Set for London",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/galaxy-z-fold-8-launch-london/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/galaxy-z-fold-8-launch-london/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Fold-8-4-1-1.jpg\" alt=\"Samsung Galaxy Z Fold 8\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Leaks have suggested that Samsung has scheduled the launch of its highly anticipated foldable smartphones: the Galaxy Z Fold 8, Z Fold 8 Wide, and Z Flip 8. These devices will make their debut on July 22, 2026, during a flagship event in London, UK. Following the unveiling, the release window is scheduled between August […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/galaxy-z-fold-8-launch-london/\">Samsung Galaxy Z Fold 8 &amp; ‘Wide’ Leak: July 22 Launch Set for London</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489419",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f54586da976",
+    "crawlTimeMsec": "1776073539692",
+    "timestampUsec": "1776073539692918",
+    "published": 1776069900,
+    "title": "The Future of Renewable Energy Storage Could Be Compressed Air",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/storing-energy-with-compressed-air/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/storing-energy-with-compressed-air/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/diagram-of-caes-system-jpg.jpg\" alt=\"A detailed diagram showing the process of compressing, storing, and expanding air in a CAES facility.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Compressed air energy storage (CAES) is emerging as a practical solution to one of renewable energy’s biggest challenges: balancing supply and demand. By compressing air during periods of excess energy production and storing it in underground caverns, CAES systems can release this stored energy when demand rises. Engineering with Rosie explores how advancements like adiabatic […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/storing-energy-with-compressed-air/\">The Future of Renewable Energy Storage Could Be Compressed Air</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489563",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f54586da979",
+    "crawlTimeMsec": "1776073539692",
+    "timestampUsec": "1776073539692921",
+    "published": 1776070800,
+    "title": "The iPhone Fold is Real: Leaked Dummy Units Reveal Apple’s Bold New Design",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-fold-leaked-design/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-fold-leaked-design/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-fold-hinge-crease-dummy-unit.jpg\" alt=\"Unfolded iPhone Fold dummy displays a 7.8-inch landscape screen with room for video playback and split-screen apps.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple is reportedly preparing to make its debut in the foldable smartphone market with a device rumored to be called the iPhone Fold. According to leaks, this highly anticipated product aims to combine the portability of an iPhone with the versatility of an iPad, offering users a hybrid device that caters to both casual and […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-fold-leaked-design/\">The iPhone Fold is Real: Leaked Dummy Units Reveal Apple’s Bold New Design</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489312",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f54586da97d",
+    "crawlTimeMsec": "1776073539692",
+    "timestampUsec": "1776073539692925",
+    "published": 1776071940,
+    "title": "DJI Osmo Pocket 4 Unboxed : Hands on Look at New Design &amp; Features",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/pocket-4-release-date/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/pocket-4-release-date/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Camera News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/dji-osmo-pocket-4-creator-combo-unboxing.jpg\" alt=\"Close view of Osmo Pocket 4 accessories including Mic 3 transmitter, windscreen, clip magnet, and carry bags.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The DJI Osmo Pocket 4 has been fully unboxed and TechAvid provides a detailed overview of its features and updates. This compact camera introduces a rotating screen for flexible shooting angles and two new buttons for quicker access to essential functions. The Creator Combo package includes a wireless microphone system and a wide-angle lens, offering […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/pocket-4-release-date/\">DJI Osmo Pocket 4 Unboxed : Hands on Look at New Design &amp; Features</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489566",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f54586da985",
+    "crawlTimeMsec": "1776073539692",
+    "timestampUsec": "1776073539692933",
+    "published": 1776072600,
+    "title": "Best iOS 26 Depth Effect Wallpaper Apps: 2026 Customization Guide",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/ios-26-depth-effect-wallpaper-apps/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/ios-26-depth-effect-wallpaper-apps/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/wallpaper-z-scrollable-packs-months-view.jpg\" alt=\"Wallpaper Central interface after the redesign with depth wallpapers, live wallpapers, and ringtones listed together.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Customizing your iOS 26 lock screen has become more engaging and versatile with the advent of innovative wallpaper apps. These tools go far beyond static images, offering features such as depth effect wallpapers, live animations, AI-generated designs, and advanced customization options. Whether you prioritize aesthetics, functionality, or a combination of both, these apps provide the […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/ios-26-depth-effect-wallpaper-apps/\">Best iOS 26 Depth Effect Wallpaper Apps: 2026 Customization Guide</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489428",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f56",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144150",
+    "published": 1776073740,
+    "title": "How the Legion Tab Gen 5 Transforms From a Tablet to a Pro Console",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/android-gaming-handheld-tablet/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/android-gaming-handheld-tablet/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Gaming News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/legion-tab-gen-5-dual-usb-c-video-out.jpg\" alt=\"Side view of Legion Tab Gen 5 highlighting the secondary USB-C port used for video output.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Legion Tab Gen 5 stands out as a unique hybrid device, blending the capabilities of a high-performance Android tablet with the precision of a dedicated gaming handheld. Powered by the Snapdragon 8 Elite Gen 5 processor and featuring up to 24GB of RAM, it delivers smooth performance for demanding tasks, from multitasking to lag-free […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/android-gaming-handheld-tablet/\">How the Legion Tab Gen 5 Transforms From a Tablet to a Pro Console</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489575",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f5e",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144158",
+    "published": 1776074400,
+    "title": "Apple’s $599 Miracle: Is the MacBook Neo Actually Better Than the Air?",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/macbook-air-vs-macbook-neo-3/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/macbook-air-vs-macbook-neo-3/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Neo-1-1.jpg\" alt=\"MacBook Neo and MacBook Air\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Choosing between the MacBook Neo and MacBook Air can be a complex decision, as both models cater to distinct user needs. The MacBook Neo is a more affordable option, designed for general computing and light creative tasks, while the MacBook Air offers enhanced performance and flexibility, making it ideal for users with demanding workflows or […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/macbook-air-vs-macbook-neo-3/\">Apple’s $599 Miracle: Is the MacBook Neo Actually Better Than the Air?</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489303",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f65",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144165",
+    "published": 1776075540,
+    "title": "Inside Seedance 2.0 : The Next Big Shift in AI Video Generation",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/seedance-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/seedance-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ai-avatar-lip-sync-seedance-2-demo.jpg\" alt=\"Close-up of an AI avatar with natural mouth movement, demonstrating Seedance 2.0 lip-sync accuracy in a short scene.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Seedance 2.0 has officially launched, bringing a new level of precision and creativity to AI-driven video production. Highlighted by Paul Lipsky, this release introduces features like lifelike avatars with natural movements and detailed facial expressions, as well as precise sound synchronization that aligns audio seamlessly with visuals. These capabilities are designed to enhance storytelling across […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/seedance-2026/\">Inside Seedance 2.0 : The Next Big Shift in AI Video Generation</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489578",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f6f",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144175",
+    "published": 1776076200,
+    "title": "Samsung Galaxy Z Fold 8 Wide Leak: Samsung’s New 4:3 Aspect Ratio Divides Foldable Fans",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/ssamsung-galaxy-z-fold-8-wide-leak/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/ssamsung-galaxy-z-fold-8-wide-leak/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Android News",
+        "Mobile Phone News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/Fold-8-2.jpg\" alt=\"Samsung Galaxy Z Fold 8 Wide\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>  Samsung continues to redefine the foldable smartphone market with its Galaxy Z Fold 8 series, introducing two distinct models: the Z Fold 8 and the Z Fold 8 Wide. This dual-model strategy reflects Samsung’s commitment to addressing diverse consumer needs while sparking debate among enthusiasts. The standard Z Fold 8 emphasizes portability and sleekness, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/ssamsung-galaxy-z-fold-8-wide-leak/\">Samsung Galaxy Z Fold 8 Wide Leak: Samsung’s New 4:3 Aspect Ratio Divides Foldable Fans</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489498",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5565b07f78",
+    "crawlTimeMsec": "1776078057144",
+    "timestampUsec": "1776078057144184",
+    "published": 1776077340,
+    "title": "Why Linux Is Quietly Becoming the Ultimate Gaming Platform in 2026",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/linux-gaming-massive-upgrade-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/linux-gaming-massive-upgrade-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gaming News",
+        "Linux News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"715\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/close-up-of-the-steam-deck-running-a-high-end-aaa-game-with-proton-enabled-e1776078787238.jpg\" alt=\"Steam Deck handheld console displaying a modern PC game using Proton\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Linux gaming has undergone a remarkable evolution, becoming a legitimate choice for gamers seeking alternatives to traditional platforms. A key factor in this progress is Valve’s Proton compatibility layer, which enables many Windows-exclusive games to run smoothly on Linux by translating Windows APIs into Linux-friendly instructions. Hardware Overview examines how recent updates to Proton, such […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/linux-gaming-massive-upgrade-2026/\">Why Linux Is Quietly Becoming the Ultimate Gaming Platform in 2026</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489581",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f56711cc244",
+    "crawlTimeMsec": "1776082543755",
+    "timestampUsec": "1776082543755844",
+    "published": 1776078000,
+    "title": "Mastering Find My in 2026: How to Use AirTag 2’s Extended Precision Finding",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-air-tag-find-my/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-air-tag-find-my/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/airtag-share-item-tracking-five-people.jpg\" alt=\"Separation alert settings showing trusted locations like home to reduce notifications for an AirTag.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple’s AirTag and the Find My app provide a reliable and intuitive solution for tracking personal belongings. Whether you’re trying to locate your keys, wallet, or backpack, these tools use advanced technologies such as Bluetooth, Ultra-Wideband (UWB), GPS, and NFC to help you find your items with remarkable accuracy. By understanding how to use AirTag […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/apple-air-tag-find-my/\">Mastering Find My in 2026: How to Use AirTag 2’s Extended Precision Finding</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489297",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f56711cc24f",
+    "crawlTimeMsec": "1776082543755",
+    "timestampUsec": "1776082543755855",
+    "published": 1776078900,
+    "title": "Claude Opus 4.7 Leaks &amp; Anthropic’s Full-Stack AI Studio",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/claude-opus-4-7-leak-anthropic-updates/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/claude-opus-4-7-leak-anthropic-updates/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/a-photograph-of-a-factory-worker-wearing-a-head-mounted-camera-on-an-industrial-assembly-line.jpg\" alt=\"Industrial factory worker wearing a head-mounted camera for AI training data collection.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Anthropic has reportedly introduced Claude Opus 4.7, a development that follows performance adjustments seen in its predecessor, Claude Opus 4.6. According to World of AI, this update is part of a broader effort by Anthropic to refine its AI systems, alongside work on a full-stack app creation platform aimed at simplifying AI application workflows. Additionally, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/claude-opus-4-7-leak-anthropic-updates/\">Claude Opus 4.7 Leaks &amp; Anthropic’s Full-Stack AI Studio</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/claude-opus-4-7-leak-anthropic-updates/",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f56711cc261",
+    "crawlTimeMsec": "1776082543755",
+    "timestampUsec": "1776082543755873",
+    "published": 1776080940,
+    "title": "Why Most Professionals Are Stuck at Level 1 of the AI Skill Ladder",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/ai-skill-ladder-levels/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/ai-skill-ladder-levels/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/ai-skill-ladder-seven-levels-diagram.jpg\" alt=\"Diagram showing seven AI skill levels, from basic prompts to workflow builders and custom app creation.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Artificial Intelligence (AI) proficiency can be thought of as a progression, moving from simple interactions to creating complex, automated systems. Marketing Against the Grain introduces the concept of the “AI Skill Ladder,” a framework that categorizes AI expertise into four levels. At the foundational level, users engage in basic question-asking, such as retrieving straightforward information […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/ai-skill-ladder-levels/\">Why Most Professionals Are Stuck at Level 1 of the AI Skill Ladder</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489587",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f56711cc268",
+    "crawlTimeMsec": "1776082543755",
+    "timestampUsec": "1776082543755880",
+    "published": 1776081600,
+    "title": "Apple Watch Ultra 4: Why 2026 Is Finally the Year for a Redesign",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-watch-ultra-4-redesign-2/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/apple-watch-ultra-4-redesign-2/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Gadgets News",
+        "Technology News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/apple-watch-ultra-4-battery-life-rumor-1.jpg\" alt=\"Graphic-style image showing a rumored T8320 processor, with notes about power efficiency and performance for smartwatch use.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>The Apple Watch Ultra series has long been celebrated for its premium design and innovative features. However, one persistent challenge has been its limited battery life, a critical factor for outdoor enthusiasts and athletes who rely on their devices for extended periods. With the Apple Watch Ultra 4 anticipated to debut in September 2026, Apple […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/apple-watch-ultra-4-redesign-2/\">Apple Watch Ultra 4: Why 2026 Is Finally the Year for a Redesign</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489501",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f577d4cbd63",
+    "crawlTimeMsec": "1776087043194",
+    "timestampUsec": "1776087043194211",
+    "published": 1776082740,
+    "title": "The Hidden Difference Between New &amp; Classic Outlook Scheduling",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/send-outlook-emails-later/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/send-outlook-emails-later/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1472\" height=\"874\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/professional-typing-on-a-laptop-with-a-clock-icon-overlay-indicating-scheduled-time.jpg\" alt=\"Person working on a laptop with a digital clock graphic representing delayed emails\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Scheduling emails in Outlook allows you to send messages at a time that aligns with your needs, whether you’re coordinating across time zones or maintaining professional etiquette. Andy Park explains how this feature operates in both the new and classic versions of Outlook, noting key distinctions such as the new version’s cloud-based functionality. For example, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/send-outlook-emails-later/\">The Hidden Difference Between New &amp; Classic Outlook Scheduling</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489590",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f577d4cbd79",
+    "crawlTimeMsec": "1776087043194",
+    "timestampUsec": "1776087043194233",
+    "published": 1776084060,
+    "title": "How to Automate CRM &amp; Project Management Using Claude Code",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/automate-tasks-with-claude-code/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/automate-tasks-with-claude-code/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "AI",
+        "Guides"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/a-split-screen-showing-a-business-owner-working-on-a-laptop-and-a-visual-representation-of-claude-code-automating-tasks.jpg\" alt=\"Business owner using Claude Code to automate daily workflow tasks on a laptop.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Claude Code provides business owners with a structured approach to managing tasks and improving efficiency. According to Simon Scrapes, this AI-driven system supports activities like content generation, workflow automation and integration with CRMs or project management platforms. A standout feature is the customizable Claude.md file, which allows users to specify preferences such as tone and […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/automate-tasks-with-claude-code/\">How to Automate CRM &amp; Project Management Using Claude Code</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489593",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f577d4cbd7f",
+    "crawlTimeMsec": "1776087043194",
+    "timestampUsec": "1776087043194239",
+    "published": 1776085200,
+    "title": "Mac Wi-Fi Issues? Why You Should Update to macOS Tahoe 26.4.1 Immediately",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/macos-26-4-1-security-updates/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/macos-26-4-1-security-updates/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Laptops"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/rosetta-ghost-window-after-close.jpg\" alt=\"A Mac running macOS 26.4.1 update screen, highlighting bug fixes, security patches, and a 2.5 GB storage increase.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple has rolled out the macOS 26.4.1 update, bringing a blend of system stability, security enhancements, and refinements designed to improve the overall user experience. While the update primarily focuses on addressing existing issues, it also introduces subtle improvements to Apple’s creative tools and system performance. Below is a detailed breakdown of the key changes, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/macos-26-4-1-security-updates/\">Mac Wi-Fi Issues? Why You Should Update to macOS Tahoe 26.4.1 Immediately</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489386",
+    "author": "Roland Hutchinson"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f577d4cbd91",
+    "crawlTimeMsec": "1776087043194",
+    "timestampUsec": "1776087043194257",
+    "published": 1776086100,
+    "title": "Ray-Ban Meta Blazer vs Gen 2: Is the $499 Upgrade Actually Worth It?",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/ray-ban-meta-blayzer-upgrades-2026/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/ray-ban-meta-blayzer-upgrades-2026/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Gadgets News",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/person-wearing-the-transparent-frame-ray-ban-meta-blayzer-outdoors.jpg\" alt=\"Transparent frame option for the Ray-Ban Meta Blayzer smart glasses\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Ray-Ban’s latest smart glasses, the Meta Blayzer, bring notable refinements compared to the Gen 2 models, offering updates that cater to both functionality and user comfort. As Steven Sullivan highlights, one key improvement is the addition of a sixth microphone, enhancing noise cancellation and voice command accuracy. This upgrade ensures clearer communication in noisy environments, […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/ray-ban-meta-blayzer-upgrades-2026/\">Ray-Ban Meta Blazer vs Gen 2: Is the $499 Upgrade Actually Worth It?</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489596",
+    "author": "Julian Horsey"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f5889b4d49f",
+    "crawlTimeMsec": "1776091546309",
+    "timestampUsec": "1776091546309791",
+    "published": 1776088800,
+    "title": "iPhone Fold Leaks: Apple’s New Hinge Technology Finally Eliminates the Crease",
+    "canonical": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-fold-hinge-leaks/"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.geeky-gadgets.com/iphone-fold-hinge-leaks/",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread",
+        "Apple",
+        "Apple iPhone",
+        "Top News"
+    ],
+    "origin": {
+        "streamId": "feed/44",
+        "htmlUrl": "https://www.geeky-gadgets.com/",
+        "title": "Geeky Gadgets",
+        "feedUrl": "https://www.geeky-gadgets.com/feed/"
+    },
+    "content": {
+        "content": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/04/iphone-fold-under-display-camera-no-notch.jpg\" alt=\"Close-up illustration of a 3D-printed hinge concept intended to reduce the visible crease on the foldable display.\" link_thumbnail=\"\" decoding=\"async\" data-sanitized-class=\"webfeedsFeaturedVisual wp-post-image\"><p>Apple’s rumored foldable iPhone, potentially debuting alongside the iPhone 18 lineup, represents a pivotal moment in the evolution of smartphone design. Industry leaks suggest a shorter, wider foldable design, positioning Apple to compete directly with established players like Samsung and Google in the foldable device market. While production timelines remain uncertain, Apple’s emphasis on innovation […]</p>\n<p>The post <a href=\"https://www.geeky-gadgets.com/iphone-fold-hinge-leaks/\">iPhone Fold Leaks: Apple’s New Hinge Technology Finally Eliminates the Crease</a> appeared first on <a href=\"https://www.geeky-gadgets.com/\">Geeky Gadgets</a>.</p>"
+    },
+    "guid": "https://www.geeky-gadgets.com/?p=489383",
+    "author": "Roland Hutchinson"
+}
+]}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Mon, 20 Apr 2026 17:29:07 +0700</dateCreated>
+  </head>
+  <body>
+    <outline text="AI">
+      <outline text="Geeky Gadgets" type="rss" xmlUrl="https://www.geeky-gadgets.com/feed/" htmlUrl="https://www.geeky-gadgets.com/" description="The Latest Technology News"/>
+      <outline text="Google Alert - Neural network" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156" htmlUrl="https://www.google.com/alerts/feeds/03013219760151597796/2175154584174914156" description=""/>
+      <outline text="https://www.geeky-gadgets.com/" type="rss" xmlUrl="https://www.geeky-gadgets.com/feed/" htmlUrl="https://www.geeky-gadgets.com/" description="The Latest Technology News"/>
+      <outline text="InfoQ" type="rss" xmlUrl="https://feed.infoq.com/" htmlUrl="https://www.infoq.com/" description="InfoQ feed"/>
+      <outline text="Open Source Projects - Latest Discoveries" type="rss" xmlUrl="https://www.opensourceprojects.dev/rss" htmlUrl="https://opensourceprojects.dev/" description="Discover the best open-source projects from GitHub. Curated collection of trending repositories, hidden gems, and amazing developer tools."/>
+      <outline text="Tech - South China Morning Post" type="rss" xmlUrl="https://www.scmp.com/rss/36/feed/" htmlUrl="https://www.scmp.com/rss/36/feed" description="The latest technology news, reviews, gadgets, launches and products."/>
+      <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description="Startup and Technology News"/>
+      <outline text="Оповещение Google – Ai news" type="rss" xmlUrl="https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448" htmlUrl="https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448" description=""/>
+    </outline>
+    <outline text="CyberSecurity">
+      <outline text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/" description="Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com"/>
+    </outline>
+    <outline text="IT" frss:opmlUrl="https://towardsdatascience.com/?source=rss">
+      <outline text="WunderTech" type="rss" xmlUrl="https://www.wundertech.net/feed/" htmlUrl="https://www.wundertech.net/" description="Tutorials that make sense"/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="9to5Google" type="rss" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/" description="Google news, Pixel, Android, Home, Chrome OS, more"/>
+      <outline text="Analytics India Magazine" type="rss" xmlUrl="https://analyticsindiamag.com/feed/" htmlUrl="https://analyticsindiamag.com/" description="News and Insights on AI, GCC, IT, and Tech"/>
+      <outline text="Analytics Insight" type="rss" xmlUrl="https://media.rss.com/analyticsinsightmagazine/feed.xml" htmlUrl="https://rss.com/podcasts/analyticsinsightmagazine" description="Analytics Insight® is an influential platform dedicated to insights, trends, and opinion from the world of data-driven technologies. It monitors developments, recognition, and achievements made by Artificial Intelligence, Big Data and Analytics companies across the globe."/>
+      <outline text="Big Think" type="rss" xmlUrl="https://bigthink.com//feed/all" htmlUrl="https://bigthink.com//feed/all" description="Smarter, Faster"/>
+      <outline text="Biz &amp; IT – Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab" htmlUrl="https://arstechnica.com/" description="Serving the Technologist since 1998. News, reviews, and analysis."/>
+      <outline text="CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data" type="rss" xmlUrl="https://www.coindesk.com/arc/outboundfeeds/rss/" htmlUrl="https://www.coindesk.com/" description="Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates."/>
+      <outline text="Dataconomy" type="rss" xmlUrl="https://dataconomy.com/feed/" htmlUrl="https://dataconomy.com/" description="Bridging the gap between technology and business"/>
+      <outline text="DEV Community" type="rss" xmlUrl="https://dev.to/feed" htmlUrl="https://dev.to/" description="The most recent home feed on DEV Community."/>
+      <outline text="freeCodeCamp.org" type="rss" xmlUrl="https://www.freecodecamp.org/news/rss/" htmlUrl="https://www.freecodecamp.org/news/" description="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."/>
+      <outline text="Freethink" type="rss" xmlUrl="https://www.freethink.com//feed/all" htmlUrl="https://www.freethink.com//feed/all" description="Move the world"/>
+      <outline text="Gridfiti" type="rss" xmlUrl="https://gridfiti.com/feed/" htmlUrl="https://gridfiti.com/" description="Where Productivity Meets Aesthetics"/>
+      <outline text="Hackaday" type="rss" xmlUrl="https://hackaday.com/feed/" htmlUrl="https://hackaday.com/" description="Fresh hacks every day"/>
+      <outline text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/" description="Links for the intellectually curious, ranked by readers."/>
+      <outline text="Hackr.io" type="rss" xmlUrl="https://hackr.io/programming/rss.xml" htmlUrl="https://hackr.io/" description="Latest Articles"/>
+      <outline text="How-To Geek" type="rss" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="https://www.howtogeek.com/" description="We explain technology. Learn more with our articles, reviews, tips, and the best answers to your most pressing tech questions."/>
+      <outline text="https://blog.roboflow.com/" type="rss" xmlUrl="https://blog.roboflow.com/rss/" htmlUrl="https://blog.roboflow.com/" description="Computer vision, explained, on the Roboflow blog."/>
+      <outline text="Hugging Face - Blog" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" description="The Hugging Face blog"/>
+      <outline text="MachineLearningMastery.com" type="rss" xmlUrl="https://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/" description="Making developers awesome at machine learning"/>
+      <outline text="MakeUseOf" type="rss" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com/" description="MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet."/>
+      <outline text="MarkTechPost" type="rss" xmlUrl="https://www.marktechpost.com/feed/" htmlUrl="https://www.marktechpost.com/" description="An Artificial Intelligence News Platform"/>
+      <outline text="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/" description=""/>
+      <outline text="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current" description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community."/>
+      <outline text="New Scientist - Home" type="rss" xmlUrl="https://feeds.newscientist.com/home" htmlUrl="https://www.newscientist.com/" description="New Scientist - Home"/>
+      <outline text="Paper Index on ACL Anthology" type="rss" xmlUrl="https://aclanthology.org/papers/index.xml" htmlUrl="https://aclanthology.org/papers/" description="Recent content in Paper Index on ACL Anthology"/>
+      <outline text="Roboflow Blog" type="rss" xmlUrl="https://blog.roboflow.com/rss/" htmlUrl="https://blog.roboflow.com/" description="Computer vision, explained, on the Roboflow blog."/>
+      <outline text="Scholar Idea" type="rss" xmlUrl="https://scholaridea.com/feed/" htmlUrl="https://scholaridea.com/" description="Education, Scholarships and Research"/>
+      <outline text="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed" htmlUrl="https://www.sciencealert.com/feed" description="The Best in Science News and Amazing Breakthroughs"/>
+      <outline text="Source" type="rss" xmlUrl="https://news.microsoft.com/source/feed/" htmlUrl="https://news.microsoft.com/source/" description=""/>
+      <outline text="Techmeme" type="rss" xmlUrl="https://www.techmeme.com/feed.xml" htmlUrl="http://www.techmeme.com/" description="Top news and commentary for technology's leaders, from all around the web"/>
+      <outline text="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" description="Updates, ideas, and inspiration from GitHub to help developers build and design software."/>
+      <outline text="The New Stack | DevOps, Open Source, and Cloud Native News" type="rss" xmlUrl="https://thenewstack.io/blog/feed/" htmlUrl="https://thenewstack.io/blog/" description=""/>
+      <outline text="Tomshardware RSS Feed" type="rss" xmlUrl="https://www.tomshardware.com/feeds.xml" htmlUrl="https://www.tomshardware.com/" description="All the latest content from the Tom's Hardware team"/>
+      <outline text="Top Technology News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/top/technology.xml" htmlUrl="https://www.sciencedaily.com/news/top/technology/" description="Top stories featured on ScienceDaily's Space &amp; Time, Matter &amp; Energy, and Computers &amp; Math sections."/>
+      <outline text="VentureBeat" type="rss" xmlUrl="https://venturebeat.com/feed/" htmlUrl="https://venturebeat.com/feed/" description="Transformative tech coverage that matters"/>
+      <outline text="WIRED" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" description="The latest from www.wired.com"/>
+    </outline>
+    <outline text="research journals">
+      <outline text="editorialmanager.com/acs/default2.aspx" type="HTML+XPath" xmlUrl="https://www.editorialmanager.com/acs/default2.aspx" htmlUrl="https://www.editorialmanager.com/acs/default2.aspx" description=""/>
+    </outline>
+    <outline text="torrent">
+      <outline text="Общая по всем разделам" type="rss" xmlUrl="https://feed.rutracker.cc/atom/f/0.atom" htmlUrl="http://rutracker.org/forum/" description=""/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,2206 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/46",
+    "title": "List of Tech - South China Morning Post articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064d071a13a517",
+    "crawlTimeMsec": "1773542757868",
+    "timestampUsec": "1773542757868823",
+    "published": 1773540000,
+    "title": "Companies ramp up AI spending even as most pilots fail to deploy: Lenovo executive",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346506/companies-ramp-ai-spending-even-most-pilots-fail-deploy-lenovo-executive?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346506/companies-ramp-ai-spending-even-most-pilots-fail-deploy-lenovo-executive?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Global businesses are pouring billions into artificial intelligence amid a growing fear of missing out on enterprise AI strategies, according to Ken Wong, president of Lenovo’s Solutions &amp; Services Group (SSG).\nHowever, despite projections of massive financial returns, the vast majority of these initiatives were not deemed a success, he added.\nWong, whose division helps businesses build and maintain AI infrastructure, estimated more than 90 per cent of these pilots fail to reach satisfactory..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346506/companies-ramp-ai-spending-even-most-pilots-fail-deploy-lenovo-executive?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/5286c925-b229-4658-86c9-1549b5c696cd_7dc58783.jpg?itok=KCl4T7HP&amp;v=1773394211",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/5286c925-b229-4658-86c9-1549b5c696cd_7dc58783.jpg?itok=KCl4T7HP&amp;v=1773394211",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Eunice Xu; Eunice Xu"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d09321c3d96",
+    "crawlTimeMsec": "1773551751019",
+    "timestampUsec": "1773551751019926",
+    "published": 1773547200,
+    "title": "China mall shuffle: as EVs exit, who’s filling the ground-floor showrooms?",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/article/3346537/china-mall-shuffle-evs-exit-whos-filling-ground-floor-showrooms?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/article/3346537/china-mall-shuffle-evs-exit-whos-filling-ground-floor-showrooms?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Several years ago, prime ground-floor spaces in major shopping malls across Beijing and Shanghai’s business districts were commonly occupied by electric vehicle (EV) showrooms, with staff often escorting customers to car parks for test drives.\nMany of these stores have now closed amid sluggish EV sales – yet mall owners have not been left disappointed. Instead, a new retail landscape is emerging, filled with tenants who are proving to be even more effective at drawing crowds and boosting rental..."
+    },
+    "guid": "https://www.scmp.com/business/article/3346537/china-mall-shuffle-evs-exit-whos-filling-ground-floor-showrooms?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/f361958e-4d02-4025-a92a-ffbb46875151_9adcab92.jpg?itok=c5YGvumC&amp;v=1773403091",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/f361958e-4d02-4025-a92a-ffbb46875151_9adcab92.jpg?itok=c5YGvumC&amp;v=1773403091",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Zhu Wenqian; Zhu Wenqian"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0c5769f741",
+    "crawlTimeMsec": "1773565261772",
+    "timestampUsec": "1773565261772609",
+    "published": 1773563400,
+    "title": "How jet engines can help power the global AI economy",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/opinion/world-opinion/article/3346359/how-jet-engines-can-help-power-global-ai-economy?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/opinion/world-opinion/article/3346359/how-jet-engines-can-help-power-global-ai-economy?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Artificial intelligence (AI) runs on electricity. Sometimes that electricity might come from a jet engine. FTAI Aviation, a New York-based aircraft engine lessor and maintenance provider valued at more than US$25 billion, plans to convert roughly 100 retired CFM56 engines a year into turbines producing about 25 megawatts each.\nThe CFM56 is one of the most widely used jet engines, with more than 30,000 delivered to date, powering the Boeing 737 and Airbus A320 families. Having exhausted their..."
+    },
+    "guid": "https://www.scmp.com/opinion/world-opinion/article/3346359/how-jet-engines-can-help-power-global-ai-economy?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/6642d61d-7986-42a7-81df-bc062838048b_b929c54e.jpg?itok=jrkUNpMU&amp;v=1773538368",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/6642d61d-7986-42a7-81df-bc062838048b_b929c54e.jpg?itok=jrkUNpMU&amp;v=1773538368",
+            "type": "image/jpeg",
+            "length": 3000
+        }
+    ],
+    "author": "Aldo Giovannitti; Aldo Giovannitti"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0d62f21a61",
+    "crawlTimeMsec": "1773569750211",
+    "timestampUsec": "1773569750211169",
+    "published": 1773565800,
+    "title": "ByteDance reportedly suspends launch of Seedance video AI model after copyright disputes",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346654/bytedance-reportedly-suspends-launch-seedance-video-ai-model-after-copyright-disputes?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346654/bytedance-reportedly-suspends-launch-seedance-video-ai-model-after-copyright-disputes?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "TikTok’s ⁠Chinese parent, ByteDance, has put ⁠on hold the global ⁠launch of its latest video-generation model, Seedance 2.0, after copyright disputes with major Hollywood studios and streaming platforms, The Information reported on Saturday, citing two people with direct knowledge of the situation.\nReuters could not ‌immediately verify the report. ByteDance did not immediately respond to a request for comment. ByteDance said last month it would take steps to prevent the unauthorised use of..."
+    },
+    "guid": "https://www.scmp.com/tech/big-tech/article/3346654/bytedance-reportedly-suspends-launch-seedance-video-ai-model-after-copyright-disputes?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/d1b1aac4-a965-4903-be8d-f6dc81d4048c_dc3e940b.jpg?itok=vMgIhSyT&amp;v=1773565850",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/d1b1aac4-a965-4903-be8d-f6dc81d4048c_dc3e940b.jpg?itok=vMgIhSyT&amp;v=1773565850",
+            "type": "image/jpeg",
+            "length": 3868
+        }
+    ],
+    "author": "Reuters; Reuters"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0d62f21a70",
+    "crawlTimeMsec": "1773569750211",
+    "timestampUsec": "1773569750211184",
+    "published": 1773568800,
+    "title": "China AI start-up Moonshot snags funds at US$18 billion valuation",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346659/china-ai-start-moonshot-snags-funds-us18-billion-valuation?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346659/china-ai-start-moonshot-snags-funds-us18-billion-valuation?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Moonshot AI is seeking to raise as much as US$1 billion in an expanded funding round that would value the start-up at about US$18 billion, more than quadrupling its valuation in just three months and underscoring growing interest in Chinese artificial intelligence developers racing to rival Silicon Valley leaders.\nThe company behind the Kimi chatbot kicked off discussions for the latest round, people familiar with the matter said, after securing more than US$700 million earlier this year, which..."
+    },
+    "guid": "https://www.scmp.com/tech/big-tech/article/3346659/china-ai-start-moonshot-snags-funds-us18-billion-valuation?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/823ac011-d20e-44ad-87a9-a21c1681e390_122b44ed.jpg?itok=kqzvJM1p&amp;v=1773567314",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/823ac011-d20e-44ad-87a9-a21c1681e390_122b44ed.jpg?itok=kqzvJM1p&amp;v=1773567314",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Bloomberg; Bloomberg"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d0f7a432c68",
+    "crawlTimeMsec": "1773578731334",
+    "timestampUsec": "1773578731334760",
+    "published": 1773577800,
+    "title": "‘Two sessions’ signals China-US tech contest is entering a new era",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346402/two-sessions-signals-china-us-tech-contest-entering-new-era?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346402/two-sessions-signals-china-us-tech-contest-entering-new-era?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "With the conclusion of China’s annual parliamentary “two sessions” meetings, emerging policy priorities suggest its relationship with the United States is entering a new technological era.\nThis year’s government work report set an economic growth target of 4.5 to 5 per cent and announced increased fiscal support for science and technology, including a 10 per cent funding rise for research and development and over 16 per cent for basic research. More than routine budget adjustments, these figures..."
+    },
+    "guid": "https://www.scmp.com/opinion/china-opinion/article/3346402/two-sessions-signals-china-us-tech-contest-entering-new-era?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/14/06bc6f34-9e38-4190-85bb-876ab4f7b453_e599a416.jpg?itok=Me6RwHTM&amp;v=1773480090",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/14/06bc6f34-9e38-4190-85bb-876ab4f7b453_e599a416.jpg?itok=Me6RwHTM&amp;v=1773480090",
+            "type": "image/jpeg",
+            "length": 2728
+        }
+    ],
+    "author": "Denis Simon; Denis Simon"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d19f5901689",
+    "crawlTimeMsec": "1773623749645",
+    "timestampUsec": "1773623749645961",
+    "published": 1773619200,
+    "title": "Precision strike: China targets US, Japan stranglehold on photoresist supply",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346555/precision-strike-china-targets-us-japan-stranglehold-photoresist-supply?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346555/precision-strike-china-targets-us-japan-stranglehold-photoresist-supply?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "China’s push for semiconductor self-sufficiency is shifting from broad aspiration to a precision strike on chokepoint materials, with photoresist – the light-sensitive chemical essential for etching microscopic circuits onto silicon wafers – emerging as a new battlefield.\nThe sector, which provides the key material for lithography, was expected to enter a critical stage of “accelerated breakthroughs and large-scale application” over the coming years, according to Fu Zhiwei, chairman of Xuzhou..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346555/precision-strike-china-targets-us-japan-stranglehold-photoresist-supply?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/2d6d5352-a864-4462-9dc3-73bf761e733a_43a33600.jpg?itok=BETZ0-8Q&amp;v=1773410817",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/13/2d6d5352-a864-4462-9dc3-73bf761e733a_43a33600.jpg?itok=BETZ0-8Q&amp;v=1773410817",
+            "type": "image/jpeg",
+            "length": 3000
+        }
+    ],
+    "author": "Ann Cao; Ann Cao"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d1b00ee8c6a",
+    "crawlTimeMsec": "1773628235353",
+    "timestampUsec": "1773628235353194",
+    "published": 1773626220,
+    "title": "Hong Kong stocks advance as tech sector lifts sentiment amid prolonged conflict",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346696/hong-kong-stocks-edge-lower-us-iran-stand-oil-supply-fears?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346696/hong-kong-stocks-edge-lower-us-iran-stand-oil-supply-fears?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Hong Kong stocks rose on Monday, led by technology heavyweights, as improving sentiment towards the sector offset concerns over prolonged tensions in the Middle East, after prominent investor Michael Burry suggested the city’s tech shares may be undervalued.\nThe Hang Seng Index gained 1.5 per cent to 25,834.02 at the close of trading, reversing the 1 per cent loss recorded on Friday. The Hang Seng Tech Index gained 2.7 per cent. On the mainland, the CSI 300 Index added 0.1 per cent and the..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3346696/hong-kong-stocks-edge-lower-us-iran-stand-oil-supply-fears?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/91dfb53b-75fc-4cc8-a4ad-55aa1548940f_d7382fea.jpg?itok=IfufcPT2&amp;v=1773626202",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/91dfb53b-75fc-4cc8-a4ad-55aa1548940f_d7382fea.jpg?itok=IfufcPT2&amp;v=1773626202",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Yulu Ao; Yulu Ao"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d1e25a048ca",
+    "crawlTimeMsec": "1773641735882",
+    "timestampUsec": "1773641735882954",
+    "published": 1773637620,
+    "title": "Hong Kong attracts wave of biotech IPO filings amid AI drug research boom",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3346710/hong-kong-attracts-wave-biotech-ipo-filings-amid-ai-drug-boom?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3346710/hong-kong-attracts-wave-biotech-ipo-filings-amid-ai-drug-boom?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "More than 10 loss-making biotechnology companies have filed for Hong Kong stock exchange listings this year, bringing cutting-edge drugs and artificial intelligence-powered drug discovery platforms to market, as the city’s bourse presses ahead with reforms aimed at supporting the real economy.\nThe latest applications came as healthcare and biotechnology equity capital market activity – stock sales by companies and their shareholders – in Hong Kong reached US$15.6 billion last year, the second..."
+    },
+    "guid": "https://www.scmp.com/business/banking-finance/article/3346710/hong-kong-attracts-wave-biotech-ipo-filings-amid-ai-drug-boom?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/257586c1-62f7-4fd9-b9e1-64441b525683_e0b20921.jpg?itok=jgX5Dii9&amp;v=1773637631",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/257586c1-62f7-4fd9-b9e1-64441b525683_e0b20921.jpg?itok=jgX5Dii9&amp;v=1773637631",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Julie Zhang; Julie Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d1f31fd59c5",
+    "crawlTimeMsec": "1773646238276",
+    "timestampUsec": "1773646238276037",
+    "published": 1773644400,
+    "title": "AI to narrow China’s rural-urban economic divide",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/plus/tech/tech-trends/article/3346713/ai-narrow-chinas-rural-urban-economic-divide?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/plus/tech/tech-trends/article/3346713/ai-narrow-chinas-rural-urban-economic-divide?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "China is counting on artificial intelligence (AI) to help the 450 million people living in rural areas left behind by the nation’s economic boom.\nFarmers are already benefiting from the technology, using AI offerings such as DeepSeek or ByteDance’s Doubao for help with issues like pig rearing, pest control and government subsidies. The State Council’s “No 1 document” of 2026, extended a push for the “digital upgrading” of farming, with an emphasis on the greater integration of AI, drones, robots..."
+    },
+    "guid": "https://www.scmp.com/plus/tech/tech-trends/article/3346713/ai-narrow-chinas-rural-urban-economic-divide?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/a3f1f81d-8932-4386-8117-5c1173fc07bf_f5e3adbc.jpg?itok=-Zd1mf9n&amp;v=1773638226",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/a3f1f81d-8932-4386-8117-5c1173fc07bf_f5e3adbc.jpg?itok=-Zd1mf9n&amp;v=1773638226",
+            "type": "image/jpeg",
+            "length": 2480
+        }
+    ],
+    "author": "Wency Chen，Zhang Tong; Wency Chen，Zhang Tong"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2257079fdf",
+    "crawlTimeMsec": "1773659744608",
+    "timestampUsec": "1773659744608223",
+    "published": 1773657000,
+    "title": "Chinese smartphone makers Vivo, Oppo raise prices as memory costs surge",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346758/chinese-smartphone-makers-vivo-oppo-raise-prices-memory-costs-surge?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346758/chinese-smartphone-makers-vivo-oppo-raise-prices-memory-costs-surge?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese smartphone maker Vivo on Monday said it will increase handset prices, citing surging semiconductor and memory costs, joining peers such as Oppo and Honor.\nVivo, along with its sub-brand iQOO, will adjust prices from Wednesday, though the scale has not yet been disclosed. The move came in response to the “continued sharp rise in global semiconductor and memory costs”, the company said.\nLast week, Oppo said it would adjust prices, with the new pricing taking effect on Monday.\n“We..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3346758/chinese-smartphone-makers-vivo-oppo-raise-prices-memory-costs-surge?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/396a9fed-f799-4348-887b-705ac3acb605_43fdd663.jpg?itok=Sbrbh6S1&amp;v=1773653915",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/396a9fed-f799-4348-887b-705ac3acb605_43fdd663.jpg?itok=Sbrbh6S1&amp;v=1773653915",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2363727aa1",
+    "crawlTimeMsec": "1773664247904",
+    "timestampUsec": "1773664247904929",
+    "published": 1773662400,
+    "title": "AI poisoning: fake fitness tracker fools chatbots in China, sparking outcry",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346761/ai-poisoning-fake-fitness-tracker-fools-chatbots-china-sparking-outcry?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346761/ai-poisoning-fake-fitness-tracker-fools-chatbots-china-sparking-outcry?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "An undercover investigation by state-run China Central Television (CCTV) has cast a harsh light on a controversial practice in a nascent industry: the “poisoning” of artificial intelligence models with fabricated information.\nThe report showed how techniques of generative engine optimisation (GEO) – the AI version of search engine optimisation (SEO) – could be used to manipulate AI chatbots, provoking widespread public concern and debate as both industry insiders and observers anticipated..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346761/ai-poisoning-fake-fitness-tracker-fools-chatbots-china-sparking-outcry?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/8a813c24-7e4a-4e82-bbc6-03fda6210e2f_f5b6f833.jpg?itok=f5nKb9QA&amp;v=1773654301",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/8a813c24-7e4a-4e82-bbc6-03fda6210e2f_f5b6f833.jpg?itok=f5nKb9QA&amp;v=1773654301",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Coco Feng; Coco Feng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2474401d6c",
+    "crawlTimeMsec": "1773668824784",
+    "timestampUsec": "1773668824784236",
+    "published": 1773667140,
+    "title": "Alibaba reshuffles AI units into a new ‘Token Hub’ group, led by CEO Eddie Wu",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346789/alibaba-reshuffles-ai-units-new-token-hub-group-led-ceo-eddie-wu?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3346789/alibaba-reshuffles-ai-units-new-token-hub-group-led-ceo-eddie-wu?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Alibaba Group Holding has reshuffled its artificial intelligence operations, creating a new top level business group and placing CEO Eddie Wu Yongming in charge as the AI and e-commerce powerhouse accelerates its push into the emerging token economy.\nThe company said on Monday it had established the Alibaba Token Hub (ATH) Business Group, which brings all its core AI teams and products together under one umbrella.\nThis includes Tongyi Laboratory – the developer of Alibaba’s Qwen series of..."
+    },
+    "guid": "https://www.scmp.com/tech/big-tech/article/3346789/alibaba-reshuffles-ai-units-new-token-hub-group-led-ceo-eddie-wu?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/c206d610-1ae5-4102-981c-43f8a9196b48_d0b0b4b8.jpg?itok=N00S_jhM&amp;v=1773667135",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/c206d610-1ae5-4102-981c-43f8a9196b48_d0b0b4b8.jpg?itok=N00S_jhM&amp;v=1773667135",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2474401d79",
+    "crawlTimeMsec": "1773668824784",
+    "timestampUsec": "1773668824784249",
+    "published": 1773667800,
+    "title": "China’s industrial robot output accelerates as factories ramp up deployment",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346775/chinas-industrial-robot-output-accelerates-factories-ramp-deployment?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346775/chinas-industrial-robot-output-accelerates-factories-ramp-deployment?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "China’s industrial robot production accelerated in the first two months of the year, according to government data, amid Beijing’s policy support and industry efforts to promote wider adoption.\nChina produced 143,608 industrial robots in January and February, an increase of 31 per cent from the same period last year, according to data from the National Bureau of Statistics (NBS) on Monday.\nThe growth outpaced the 27 per cent increase in the same period last year, when production totalled 91,088..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3346775/chinas-industrial-robot-output-accelerates-factories-ramp-deployment?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/f6f4ac28-36dc-4a2e-90a9-cf7c0b21ba09_b7428bae.jpg?itok=iF8KoWC0&amp;v=1773660004",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/f6f4ac28-36dc-4a2e-90a9-cf7c0b21ba09_b7428bae.jpg?itok=iF8KoWC0&amp;v=1773660004",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d257c355cd7",
+    "crawlTimeMsec": "1773673253264",
+    "timestampUsec": "1773673253264599",
+    "published": 1773672240,
+    "title": "Tencent sponsors OpenClaw after creator’s complaints of copying",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346796/tencent-sponsors-openclaw-after-creators-complaints-copying?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346796/tencent-sponsors-openclaw-after-creators-complaints-copying?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese tech giant Tencent Holdings has become a sponsor of OpenClaw after public complaints from the creator of the popular open-source artificial intelligence agent.\nTencent and its cloud computing unit officially became sponsors of OpenClaw on Monday, as featured on the project’s GitHub page alongside OpenAI and Chinese AI giant Baidu. The GitHub page has a section that lists the project’s sponsors.\nEarlier on Sunday, an account belonging to Tencent Cloud Lighthouse – the tech giant’s team..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3346796/tencent-sponsors-openclaw-after-creators-complaints-copying?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/6c30750a-6a65-4bd8-9cb3-ac9b25c03412_303fff43.jpg?itok=sPZXUrAF&amp;v=1773672075",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/6c30750a-6a65-4bd8-9cb3-ac9b25c03412_303fff43.jpg?itok=sPZXUrAF&amp;v=1773672075",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2687a2b435",
+    "crawlTimeMsec": "1773677739947",
+    "timestampUsec": "1773677739947061",
+    "published": 1773676800,
+    "title": "Cyberport Career Fair 2026 to offer more than 2,000 I&amp;T positions",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/presented/tech/topics/cyberport-2026-job-fair/article/3346694/cyberport-career-fair-2026-offer-more-2000-it-positions?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/presented/tech/topics/cyberport-2026-job-fair/article/3346694/cyberport-career-fair-2026-offer-more-2000-it-positions?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "[The content of this article has been produced by our advertising partner.]\nYoung job seekers in Hong Kong will gain access to more than 2,000 positions in technology fields when the Cyberport Career Fair 2026 takes place on March 20 and 21. The event continues to serve as one of Hong Kong’s largest platforms connecting young people with tech-related careers.\nNow in its 12th edition, the expo brings together companies from 21 sectors, ranging from artificial intelligence and fintech to data..."
+    },
+    "guid": "https://www.scmp.com/presented/tech/topics/cyberport-2026-job-fair/article/3346694/cyberport-career-fair-2026-offer-more-2000-it-positions?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/03/16/1_Cyberport-held.jpg?itok=6ctfii88",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/03/16/1_Cyberport-held.jpg?itok=6ctfii88",
+            "type": "image/jpeg",
+            "length": 7036
+        }
+    ],
+    "author": "Advertising partner; Advertising partner"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2cd0da0b0a",
+    "crawlTimeMsec": "1773704738114",
+    "timestampUsec": "1773704738114314",
+    "published": 1773702000,
+    "title": "HKGAI to launch world’s first governed AI agent network amid OpenClaw frenzy",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346777/hong-kong-launch-worlds-first-governed-ai-agent-network-amid-openclaw-frenzy?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346777/hong-kong-launch-worlds-first-governed-ai-agent-network-amid-openclaw-frenzy?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Hong Kong is poised to launch the world’s first open-source human-AI agent collaboration network, along with a series of everyday artificial intelligence products to assist citizens with activities such as applying for schools and analysing horse racing.\nThe Hong Kong Generative AI Research and Development Centre (HKGAI) said it would soon offer on an open-source basis a human-AI agent collaboration network named “ClawNet”, designed to ensure AI agents “only do things that are allowed”,..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346777/hong-kong-launch-worlds-first-governed-ai-agent-network-amid-openclaw-frenzy?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/1150ec4d-8bb8-4d44-80a1-3aa60895f4fc_982dcb79.jpg?itok=bV5DZNBt&amp;v=1773661541",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/1150ec4d-8bb8-4d44-80a1-3aa60895f4fc_982dcb79.jpg?itok=bV5DZNBt&amp;v=1773661541",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Eunice Xu; Eunice Xu"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d2cd0da0b19",
+    "crawlTimeMsec": "1773704738114",
+    "timestampUsec": "1773704738114329",
+    "published": 1773703800,
+    "title": "South Korea and Japan bear brunt of global stock sell-offs amid oil shock",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346729/south-korea-and-japan-bear-brunt-global-stock-sell-offs-amid-oil-shock?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346729/south-korea-and-japan-bear-brunt-global-stock-sell-offs-amid-oil-shock?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "South Korea and Japan have led declines in global stock markets amid the oil shock, underscoring how supply disruptions in the Middle East are weighing on growth in economies heavily reliant on fuel imports.\nThe Kospi index in Seoul has slumped 12 per cent since the US-Israel war with Iran broke out on February 28, while Tokyo’s Nikkei 225 has slid nearly 9 per cent. South Korea last week moved to cap oil price increases to limit inflation, while rising crude costs added to price pressures in..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3346729/south-korea-and-japan-bear-brunt-global-stock-sell-offs-amid-oil-shock?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/e5b2c6d9-dc5a-4475-b651-9a7760f41227_c68ed4fc.jpg?itok=sTxne251&amp;v=1773644847",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/16/e5b2c6d9-dc5a-4475-b651-9a7760f41227_c68ed4fc.jpg?itok=sTxne251&amp;v=1773644847",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Zhang Shidong; Zhang Shidong"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d331aff864d",
+    "crawlTimeMsec": "1773731751888",
+    "timestampUsec": "1773731751888461",
+    "published": 1773729600,
+    "title": "First HKIC bet SmartMore seeks Hong Kong IPO amid booming tech pipeline",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3346854/smartmore-first-firm-backed-hong-kong-wealth-fund-seeks-ipo-tech-pipeline-heats?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3346854/smartmore-first-firm-backed-hong-kong-wealth-fund-seeks-ipo-tech-pipeline-heats?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "SmartMore, the first company backed by the Hong Kong government’s investment fund, has applied for a listing, underscoring the city’s crowded pipeline of technology initial public offerings (IPOs).\nThe unicorn, founded in 2019 and specialising in industrial artificial intelligence, submitted its application on Monday night, with Morgan Stanley, China International Capital Corporation and Deutsche Bank as joint sponsors. SmartMore provides intelligent manufacturing and digital innovation through..."
+    },
+    "guid": "https://www.scmp.com/business/banking-finance/article/3346854/smartmore-first-firm-backed-hong-kong-wealth-fund-seeks-ipo-tech-pipeline-heats?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/4c3db1eb-6c4b-4ecc-8b71-0b94e9efd5c5_363ab030.jpg?itok=YNbP_eM6&amp;v=1773728102",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/4c3db1eb-6c4b-4ecc-8b71-0b94e9efd5c5_363ab030.jpg?itok=YNbP_eM6&amp;v=1773728102",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Themis Qi; Themis Qi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3533a955a0",
+    "crawlTimeMsec": "1773740755604",
+    "timestampUsec": "1773740755604896",
+    "published": 1773740100,
+    "title": "Tencent’s Pony Ma to open museum in Shenzhen, led by Tai Kwun’s former head of art Pi Li",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/lifestyle/arts/article/3346881/tencents-pony-ma-open-museum-shenzhen-led-tai-kwuns-former-head-art-pi-li?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/lifestyle/arts/article/3346881/tencents-pony-ma-open-museum-shenzhen-led-tai-kwuns-former-head-art-pi-li?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Details of the Shenzhen museum being built by Pony Ma Huateng, co-founder and CEO of internet giant Tencent Holdings, were unveiled on March 17 after months of speculation.\nIn a public letter, Pi Li, the former head of art at Hong Kong’s Tai Kwun, revealed that he is the founding director and first employee of Rong Museum of Art, a cultural institution with around 4,500 square metres (48,400 sq ft) in total floor area that will open in 2027.\nThe name Rong refers to the Chinese character for..."
+    },
+    "guid": "https://www.scmp.com/lifestyle/arts/article/3346881/tencents-pony-ma-open-museum-shenzhen-led-tai-kwuns-former-head-art-pi-li?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/dacdbf2e-a20e-49d0-a3cf-78c08a67a6ba_3dc875ac.jpg?itok=Jmf7fXlW&amp;v=1773740327",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/dacdbf2e-a20e-49d0-a3cf-78c08a67a6ba_3dc875ac.jpg?itok=Jmf7fXlW&amp;v=1773740327",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Enid Tsui; Enid Tsui"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba2636f",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737455",
+    "published": 1773748080,
+    "title": "US reshoring drive casts shadow over China’s contract drug makers: analyst",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346911/us-reshoring-drive-casts-shadow-over-chinas-contract-drug-makers-analyst?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346911/us-reshoring-drive-casts-shadow-over-chinas-contract-drug-makers-analyst?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese contract drug makers – including WuXi AppTec, WuXi Biologics and WuXi XDC – face a less certain long-term revenue outlook as US pharmaceutical companies bring production in-house and reconfigure supply chains amid rising US-China tensions.\nWhile near-term earnings remained largely locked in, visibility beyond that was limited, according to Cui Cui, head of healthcare research for Asia at Jefferies.\n“Earnings visibility for 2026 and 2027 is still very strong – revenue momentum is largely..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3346911/us-reshoring-drive-casts-shadow-over-chinas-contract-drug-makers-analyst?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b774fcd8-6878-4acd-bcca-2c75f169ee66_45c5dce7.jpg?itok=-UrCzaY4&amp;v=1773748119",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b774fcd8-6878-4acd-bcca-2c75f169ee66_45c5dce7.jpg?itok=-UrCzaY4&amp;v=1773748119",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Julie Zhang; Julie Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d374ba26379",
+    "crawlTimeMsec": "1773749747737",
+    "timestampUsec": "1773749747737465",
+    "published": 1773748800,
+    "title": "China’s Oppo doubles down on foldable smartphones as potential Apple entry looms",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346829/chinas-oppo-doubles-down-foldable-smartphones-potential-apple-entry-looms?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346829/chinas-oppo-doubles-down-foldable-smartphones-potential-apple-entry-looms?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese smartphone maker Oppo is mounting a fresh challenge in the foldable handset market after launching the latest product in its Find N series, as the industry faces rising memory prices and anticipation builds around Apple’s foldable iPhone.\nFind N6, launched globally on Tuesday, featured upgraded hinge technology designed to make the crease on the foldable screen “virtually imperceptible”, according to the company.\n“While foldables offer the advantage of a larger display, the crease has..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346829/chinas-oppo-doubles-down-foldable-smartphones-potential-apple-entry-looms?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/ee1429be-1f01-43f2-bd90-3dea511ba715_f49f11bf.jpg?itok=Z-6EmnVz&amp;v=1773719191",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/ee1429be-1f01-43f2-bd90-3dea511ba715_f49f11bf.jpg?itok=Z-6EmnVz&amp;v=1773719191",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d385a80118a",
+    "crawlTimeMsec": "1773754292113",
+    "timestampUsec": "1773754292113802",
+    "published": 1773752400,
+    "title": "China leads world in anti-drone patent race with US and South Korea far behind: law firm",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346874/china-leads-world-anti-drone-patents-us-and-south-korea-far-behind-law-firm-finds?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346874/china-leads-world-anti-drone-patents-us-and-south-korea-far-behind-law-firm-finds?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "China leads the world in patent applications for anti-drone technology, which has drawn heightened attention during the wars in Ukraine and Iran and a spate of suspicious sightings in the West, according to intellectual property law firm Mathys &amp; Squire.\nPatent applications for anti-drone systems rose 27 per cent over the past year, with China submitting 82 compared with 22 from the US, the second-largest filer, the 115-year-old UK-based law firm said on Monday. South Korea ranked third with six..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346874/china-leads-world-anti-drone-patents-us-and-south-korea-far-behind-law-firm-finds?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b98e6d75-fcf6-4897-9033-fb147a0128f8_a0bcae62.jpg?itok=Mf1bLVaD&amp;v=1773735070",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b98e6d75-fcf6-4897-9033-fb147a0128f8_a0bcae62.jpg?itok=Mf1bLVaD&amp;v=1773735070",
+            "type": "image/jpeg",
+            "length": 3648
+        }
+    ],
+    "author": "Ralph Jennings; Ralph Jennings"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d39654e940c",
+    "crawlTimeMsec": "1773758768387",
+    "timestampUsec": "1773758768387084",
+    "published": 1773756000,
+    "title": "How Nvidia’s inference bet at GTC poses a challenge and opportunity for China",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346880/how-nvidias-inference-bet-gtc-poses-challenge-and-opportunity-china?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346880/how-nvidias-inference-bet-gtc-poses-challenge-and-opportunity-china?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Nvidia’s latest language processing chip, unveiled at the company’s annual artificial intelligence conference, has opened a new frontier in the AI inference arms race, as the booming market for AI agents like OpenClaw presents a complex new reality for China’s semiconductor industry, according to analysts.\nThe Nvidia Groq 3 Language Processing Unit (LPU), introduced on Monday at GTC 2026 in San Jose, California, was described by the company as an accelerator with fast memory and low latency..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346880/how-nvidias-inference-bet-gtc-poses-challenge-and-opportunity-china?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/22e0758d-afb2-4cb3-94fa-7155e3d32147_32605323.jpg?itok=mdSSZwKU&amp;v=1773737001",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/22e0758d-afb2-4cb3-94fa-7155e3d32147_32605323.jpg?itok=mdSSZwKU&amp;v=1773737001",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Coco Feng，Yeon Woo Lee; Coco Feng，Yeon Woo Lee"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d3fad05a6a4",
+    "crawlTimeMsec": "1773785741371",
+    "timestampUsec": "1773785741371044",
+    "published": 1773783000,
+    "title": "Frenzy over AI agent OpenClaw shows the lobster has escaped the pot",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346562/frenzy-over-ai-agent-openclaw-shows-lobster-has-escaped-pot?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346562/frenzy-over-ai-agent-openclaw-shows-lobster-has-escaped-pot?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "In China this month, people have been lining up on streets to install an AI programme on their computers. Some had travelled from other cities. Others had waited for hours for engineers to set it up for them. There were even “birth certificates” given out upon installation.\nThe programme is OpenClaw. Its logo is a red lobster. Chinese internet users quickly coined a phrase for the phenomenon: raising lobsters.\nThe scene looks quirky, even amusing. But beneath the spectacle lies a revealing..."
+    },
+    "guid": "https://www.scmp.com/opinion/china-opinion/article/3346562/frenzy-over-ai-agent-openclaw-shows-lobster-has-escaped-pot?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/c30c70e5-5b8d-416e-99a4-9598b6f56bc4_05aa0476.jpg?itok=0wvOUZ0b&amp;v=1773714042",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/c30c70e5-5b8d-416e-99a4-9598b6f56bc4_05aa0476.jpg?itok=0wvOUZ0b&amp;v=1773714042",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Ken Ip; Ken Ip"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d40bac4b44b",
+    "crawlTimeMsec": "1773790266963",
+    "timestampUsec": "1773790266963019",
+    "published": 1773786660,
+    "title": "Nvidia is restarting production of China AI chip variant, says CEO Jensen Huang",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/news/article/3346943/nvidia-restarting-production-china-ai-chip-variant-says-ceo-jensen-huang?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/news/article/3346943/nvidia-restarting-production-china-ai-chip-variant-says-ceo-jensen-huang?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Nvidia is restarting ⁠the production of one of the company’s chips that is designed to comply with US export restrictions on China, CEO Jensen Huang said at a press conference on Tuesday.\nThe company had halted ‌manufacturing last year of its H200 chip, which is based on its ageing Hopper technology, because of increasing regulatory hurdles in the US and China, according to a report at the time.\nSince then, Nvidia has received licences to export the H200 from the US government ⁠and has taken..."
+    },
+    "guid": "https://www.scmp.com/news/article/3346943/nvidia-restarting-production-china-ai-chip-variant-says-ceo-jensen-huang?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/ee35daa5-1113-4961-8e83-8281f059c222_26e302ce.jpg?itok=iL2CCAyV&amp;v=1773786624",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/ee35daa5-1113-4961-8e83-8281f059c222_26e302ce.jpg?itok=iL2CCAyV&amp;v=1773786624",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Reuters; Reuters"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d41c557f90d",
+    "crawlTimeMsec": "1773794739353",
+    "timestampUsec": "1773794739353869",
+    "published": 1773792000,
+    "title": "How Chinese robot makers are tapping OpenClaw to take on real-world tasks",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346916/how-chinese-robot-makers-are-tapping-openclaw-take-real-world-tasks?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346916/how-chinese-robot-makers-are-tapping-openclaw-take-real-world-tasks?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Artificial intelligence is stepping off the screen and into the physical world, as Chinese engineers integrate OpenClaw, the open-source AI agent that has taken China by storm, into robots capable of executing real-world tasks.\nDomestic robotics giant Ecovacs unveiled Bajie, a robot integrated with OpenClaw, at the Appliance and Electronics World Expo in Shanghai last week.\nEquipped with a robotic arm and gripper mounted on a round, vacuum-shaped wheeled base, Bajie demonstrated its ability to..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3346916/how-chinese-robot-makers-are-tapping-openclaw-take-real-world-tasks?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b68e7f4d-d444-4a26-a909-d4a9da9b3e24_921262dc.jpg?itok=wUthamkR&amp;v=1773750299",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/b68e7f4d-d444-4a26-a909-d4a9da9b3e24_921262dc.jpg?itok=wUthamkR&amp;v=1773750299",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Eunice Xu; Eunice Xu"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d42d2004ef7",
+    "crawlTimeMsec": "1773799246679",
+    "timestampUsec": "1773799246679799",
+    "published": 1773795600,
+    "title": "Tencent and Alibaba quarterly earnings preview: key things to watch",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346920/tencent-and-alibaba-quarterly-earnings-preview-key-things-watch?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3346920/tencent-and-alibaba-quarterly-earnings-preview-key-things-watch?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Tencent Holdings and Alibaba Group Holding are set to report quarterly earnings this week, against a backdrop of an artificial intelligence boom that is reshaping the global economy and fuelling a frenzy in China around open-source AI agents such as OpenClaw.\nThe South China Morning Post examines market expectations for their results and the key themes investors will be watching.\nWhat are the expectations for top line and bottom line performances?\nShenzhen-based Tencent, operator of China’s..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3346920/tencent-and-alibaba-quarterly-earnings-preview-key-things-watch?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/57068241-f2df-446e-890b-9b1397a6c024_375f7ae3.jpg?itok=5Pw8iNEj&amp;v=1773753653",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/57068241-f2df-446e-890b-9b1397a6c024_375f7ae3.jpg?itok=5Pw8iNEj&amp;v=1773753653",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng，Wency Chen; Iris Deng，Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d43de2b95ed",
+    "crawlTimeMsec": "1773803745809",
+    "timestampUsec": "1773803745809901",
+    "published": 1773799440,
+    "title": "Hong Kong stocks extend winning streak amid stabilising oil prices despite Iran conflict",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346952/hong-kong-stocks-extend-winning-streak-amid-stabilising-oil-prices-despite-iran-conflict?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3346952/hong-kong-stocks-extend-winning-streak-amid-stabilising-oil-prices-despite-iran-conflict?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Hong Kong stocks rose for a third day on Wednesday as investors tracked overnight gains on Wall Street and took cues from stabilising oil prices, despite lingering geopolitical tensions in the Middle East.\nThe Hang Seng Index added 0.6 per cent to 26,025.42 at the close of trading, marking its third consecutive day of gains and the longest winning streak since January 29. The Hang Seng Tech Index was little changed. On the mainland, the CSI 300 Index gained 0.5 per cent and the Shanghai..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3346952/hong-kong-stocks-extend-winning-streak-amid-stabilising-oil-prices-despite-iran-conflict?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/2befacf4-3e19-45a3-b7ec-a5bd9d872bde_38ae4927.jpg?itok=LA6_DlFE&amp;v=1773799399",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/2befacf4-3e19-45a3-b7ec-a5bd9d872bde_38ae4927.jpg?itok=LA6_DlFE&amp;v=1773799399",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Yulu Ao; Yulu Ao"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4702555379",
+    "crawlTimeMsec": "1773817237427",
+    "timestampUsec": "1773817237427065",
+    "published": 1773817080,
+    "title": "As ‘lobster fever’ grips China, Tencent makes OpenClaw-based tool available on WeChat",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346994/lobster-fever-grips-china-tencent-makes-openclaw-based-tool-available-wechat?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3346994/lobster-fever-grips-china-tencent-makes-openclaw-based-tool-available-wechat?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese tech giant Tencent Holdings has integrated its QClaw AI agent as a mini-program in its flagship WeChat app as it pushes to expand adoption of its OpenClaw-based tool.\nIt said QClaw was now accessible as a mini-program inside WeChat after an upgrade on Wednesday that allowed users to transfer files to their personal computers.\nQClaw was launched last week as an OpenClaw-based artificial intelligence agent for personal computers that users could control remotely from WeChat on their..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3346994/lobster-fever-grips-china-tencent-makes-openclaw-based-tool-available-wechat?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/ff31008b-cb72-4c92-891e-33db963e2e73_aabc36a5.jpg?itok=Eogr9Se3&amp;v=1773817132",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/ff31008b-cb72-4c92-891e-33db963e2e73_aabc36a5.jpg?itok=Eogr9Se3&amp;v=1773817132",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d491b8b5190",
+    "crawlTimeMsec": "1773826250330",
+    "timestampUsec": "1773826250330512",
+    "published": 1773821700,
+    "title": "Korea, Taiwan chip sectors most exposed to helium shortage amid Middle East war: Fitch",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347005/korea-taiwan-chip-sectors-most-exposed-helium-shortage-amid-middle-east-war-fitch?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347005/korea-taiwan-chip-sectors-most-exposed-helium-shortage-amid-middle-east-war-fitch?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "As semiconductor industries across South Korea, Taiwan and Japan contend with possible energy shortages due to the ongoing conflict in the Middle East, they also face differing levels of vulnerability regarding helium supply, according to Fitch Ratings.\nHelium, a by-product of natural gas extraction used in semiconductor manufacturing for ultra-clean cooling, leak detection and inert shielding, faces a global squeeze, with Qatar among the world’s most important suppliers.\nThis comes as the..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347005/korea-taiwan-chip-sectors-most-exposed-helium-shortage-amid-middle-east-war-fitch?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/e3cb2ada-f28d-463b-b7e0-72e67cb2aea3_7bdc3531.jpg?itok=pHMHlM5N&amp;v=1773821645",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/e3cb2ada-f28d-463b-b7e0-72e67cb2aea3_7bdc3531.jpg?itok=pHMHlM5N&amp;v=1773821645",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d491b8b51a5",
+    "crawlTimeMsec": "1773826250330",
+    "timestampUsec": "1773826250330533",
+    "published": 1773823920,
+    "title": "China’s Tencent pledges new wave of AI investment as it bets on WeChat agents",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3347023/chinas-tencent-meets-expectations-fourth-quarter-results-ai-wave-lifts-all-boats?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/big-tech/article/3347023/chinas-tencent-meets-expectations-fourth-quarter-results-ai-wave-lifts-all-boats?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Tencent Holdings pledged to double its investment in artificial intelligence products and models in 2026, a bigger bet from the tech giant as it gains greater confidence in the technology’s capability to drive future growth across its businesses.\nThe Shenzhen-based company dedicated 18 billion yuan (US$2.6 billion) to the development of new AI products in 2025, including 7 billion yuan in the fourth quarter alone, said Tencent president Martin Lau Chi-ping at a media briefing on Wednesday.\n“We..."
+    },
+    "guid": "https://www.scmp.com/tech/big-tech/article/3347023/chinas-tencent-meets-expectations-fourth-quarter-results-ai-wave-lifts-all-boats?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/517300a0-d7ae-480f-aec9-63d0c43709c5_775dbf5a.jpg?itok=AJxgkDTk&amp;v=1773823930",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/517300a0-d7ae-480f-aec9-63d0c43709c5_775dbf5a.jpg?itok=AJxgkDTk&amp;v=1773823930",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d491b8b51aa",
+    "crawlTimeMsec": "1773826250330",
+    "timestampUsec": "1773826250330538",
+    "published": 1773824460,
+    "title": "Nvidia restarts H200 AI chip production as China allows sales",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/plus/tech/tech-war/article/3347013/nvidia-restarts-h200-ai-chip-production-china-allows-sales?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/plus/tech/tech-war/article/3347013/nvidia-restarts-h200-ai-chip-production-china-allows-sales?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Nvidia is restarting production of H200s, its second-most powerful artificial intelligence (AI) chip, after getting long-awaited approval from Beijing to sell the processors in China.\nThe US chip giant has won licences for “many customers in China” and has received orders from “many” companies, CEO Jensen Huang said Tuesday at a developer conference in San Jose, California. “Our supply chain is getting fired up.” Production of the chip was halted last year.\nChinese regulators have opened the..."
+    },
+    "guid": "https://www.scmp.com/plus/tech/tech-war/article/3347013/nvidia-restarts-h200-ai-chip-production-china-allows-sales?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/70136c4c-fc29-4ff9-9ab1-b39f8358556b_0297db91.jpg?itok=TDd2A-3J&amp;v=1773823072",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/70136c4c-fc29-4ff9-9ab1-b39f8358556b_0297db91.jpg?itok=TDd2A-3J&amp;v=1773823072",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Neil Denslow，Raymond Ma; Neil Denslow，Raymond Ma"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4a2877d335",
+    "crawlTimeMsec": "1773830762124",
+    "timestampUsec": "1773830762124085",
+    "published": 1773829800,
+    "title": "Alibaba and Baidu lift cloud prices by up to 34% amid AI demand surge",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347030/alibaba-and-baidu-lift-cloud-prices-34-amid-ai-demand-surge?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347030/alibaba-and-baidu-lift-cloud-prices-34-amid-ai-demand-surge?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "The cloud-computing units of Alibaba Group Holding and Baidu are raising prices for certain services by as much as 34 per cent, following similar moves by their American peers earlier this year as artificial intelligence demand and infrastructure costs rise.\nStarting April 18, Alibaba Cloud’s services running on its AI chips – such as the T-Head Zhengwu 810E unveiled in late January – would cost between 5 and 34 per cent more, the company said in a statement on Wednesday.\nThe price of its Cloud..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347030/alibaba-and-baidu-lift-cloud-prices-34-amid-ai-demand-surge?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/d016837d-a20b-49d5-9d6d-50b3d5a82ce7_470620f6.jpg?itok=Rg6T-c-p&amp;v=1773825245",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/d016837d-a20b-49d5-9d6d-50b3d5a82ce7_470620f6.jpg?itok=Rg6T-c-p&amp;v=1773825245",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Xinyi Wu，Wency Chen，Coco Feng; Xinyi Wu，Wency Chen，Coco Feng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d4d51d7e120",
+    "crawlTimeMsec": "1773844341186",
+    "timestampUsec": "1773844341186848",
+    "published": 1773842400,
+    "title": "Apple’s Tim Cook visits China as reliance on Chinese supply chains endures",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347062/apples-tim-cook-visits-china-reliance-chinese-supply-chains-endures?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347062/apples-tim-cook-visits-china-reliance-chinese-supply-chains-endures?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Apple CEO Tim Cook kicked off his first tour of China this year on Wednesday, while the iPhone maker’s chief operating officer visited key suppliers, including Foxconn and Sunwoda, in a sign of the company’s continued focus on the country’s huge market and manufacturing ecosystem.\nCook turned up at an Apple Store in Chengdu, the capital of southwestern Sichuan province, in the afternoon as part of the company’s 50th anniversary celebrations. He interacted with celebrities and customers,..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347062/apples-tim-cook-visits-china-reliance-chinese-supply-chains-endures?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/a3035c95-5573-4cba-ada3-283b58859831_68e0ad86.jpg?itok=J5nKbDYM&amp;v=1773835447",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/a3035c95-5573-4cba-ada3-283b58859831_68e0ad86.jpg?itok=J5nKbDYM&amp;v=1773835447",
+            "type": "image/jpeg",
+            "length": 1845
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d535fd15a42",
+    "crawlTimeMsec": "1773870345443",
+    "timestampUsec": "1773870345443906",
+    "published": 1773869400,
+    "title": "China’s OpenClaw mania driven by fear of missing next tech gold rush",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346830/chinas-openclaw-mania-driven-fear-missing-next-tech-gold-rush?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/opinion/china-opinion/article/3346830/chinas-openclaw-mania-driven-fear-missing-next-tech-gold-rush?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "The first night I installed OpenClaw on my laptop, I didn’t dare give it much authorisation. From numerous news reports and warnings, I knew that if it made a mistake, there could be serious consequences, like exposing my bank account password, deleting files or sending an offensive message to my boss.\nI only asked it to do some research, visit a few media websites, find China-centred topics over the past few months and list them, watch some videos and summarise the content for me. It had the..."
+    },
+    "guid": "https://www.scmp.com/opinion/china-opinion/article/3346830/chinas-openclaw-mania-driven-fear-missing-next-tech-gold-rush?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/5c97cfcd-6a1d-4a46-8e0a-282eb6c5dfae_c79de99b.jpg?itok=350ojIAg&amp;v=1773805121",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/18/5c97cfcd-6a1d-4a46-8e0a-282eb6c5dfae_c79de99b.jpg?itok=350ojIAg&amp;v=1773805121",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Phoebe Zhang; Phoebe Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d57910134fa",
+    "crawlTimeMsec": "1773888350532",
+    "timestampUsec": "1773888350532858",
+    "published": 1773888000,
+    "title": "China’s global tech push",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/plus/tech/article/3347093/chinas-global-tech-push?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/plus/tech/article/3347093/chinas-global-tech-push?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "–"
+    },
+    "guid": "https://www.scmp.com/plus/tech/article/3347093/chinas-global-tech-push?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/bb3b9596-8ad2-4f2d-8b27-cff813c9dc82_88edcfa0.jpg?itok=SzODWosz&amp;v=1773887128",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/bb3b9596-8ad2-4f2d-8b27-cff813c9dc82_88edcfa0.jpg?itok=SzODWosz&amp;v=1773887128",
+            "type": "image/jpeg",
+            "length": 2481
+        }
+    ],
+    "author": "Junjie Wang; Junjie Wang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ccd94ff33",
+    "crawlTimeMsec": "1773910841687",
+    "timestampUsec": "1773910841687859",
+    "published": 1773906600,
+    "title": "China presses EV makers to end price war and focus on innovation as demand cools",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3347145/china-presses-ev-makers-end-price-war-and-focus-innovation-demand-cools?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3347145/china-presses-ev-makers-end-price-war-and-focus-innovation-demand-cools?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese authorities have renewed their push for stricter oversight of the electric vehicle (EV) market, urging carmakers to move away from aggressive discounting and focus instead on technological innovation.\nThe directive comes as domestic manufacturers struggle with cooling demand and the phasing out of long-standing government subsidies.\nAt a high-level meeting on March 17, the Ministry of Industry and Information Technology, the National Development and Reform Commission and the State..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3347145/china-presses-ev-makers-end-price-war-and-focus-innovation-demand-cools?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/b2c50c0e-645f-455c-bb51-24830b70cb24_214ab3ff.jpg?itok=ElPJyaeL&amp;v=1773906466",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/b2c50c0e-645f-455c-bb51-24830b70cb24_214ab3ff.jpg?itok=ElPJyaeL&amp;v=1773906466",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Themis Qi，Julie Zhang; Themis Qi，Julie Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ee64588fb",
+    "crawlTimeMsec": "1773919845845",
+    "timestampUsec": "1773919845845243",
+    "published": 1773916740,
+    "title": "Alibaba aims for US$100b annual revenue from cloud, AI business despite missing estimates",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347177/alibaba-discloses-gpu-production-first-time-quarterly-profit-misses-estimates?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347177/alibaba-discloses-gpu-production-first-time-quarterly-profit-misses-estimates?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Alibaba Group Holding on Thursday said it aimed to generate US$100 billion in annual external revenue from its combined cloud and AI businesses within five years after disclosing for the first time the production progress of its T-Head chip unit, even as it missed its quarterly earnings estimates.\n“Over the past three months, token consumption on the Model Studio platform has grown by six times,” said CEO Eddie Wu Yongming on the earnings call, adding that model-as-a-service offerings would..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347177/alibaba-discloses-gpu-production-first-time-quarterly-profit-misses-estimates?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/80dbd979-3be2-4ec9-b163-d01bef118803_c9dc0ebc.jpg?itok=_gL92izU&amp;v=1773914881",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/80dbd979-3be2-4ec9-b163-d01bef118803_c9dc0ebc.jpg?itok=_gL92izU&amp;v=1773914881",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d5ff4b91832",
+    "crawlTimeMsec": "1773924383266",
+    "timestampUsec": "1773924383266866",
+    "published": 1773921600,
+    "title": "Huawei capitalises on OpenClaw frenzy to boost computing demand for its chips",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3347160/huawei-capitalises-openclaw-frenzy-boost-computing-demand-its-chips?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3347160/huawei-capitalises-openclaw-frenzy-boost-computing-demand-its-chips?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese telecommunications gear giant Huawei Technologies is capitalising on the OpenClaw frenzy with new enterprise agent tools and a series of Kunpeng and Ascend compute offerings, as it bets on surging demand for agentic artificial intelligence services.\nThe Shenzhen-based company announced at its China Partner Conference on Thursday that it would launch AgentArts, an agent development platform for enterprises, on April 30 for public beta testing, followed by the official release of the..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3347160/huawei-capitalises-openclaw-frenzy-boost-computing-demand-its-chips?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/49e95da8-6e8e-4a2e-bee7-0ad01c68cbfc_dea1a1aa.jpg?itok=hFIAF6h_&amp;v=1773911421",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/49e95da8-6e8e-4a2e-bee7-0ad01c68cbfc_dea1a1aa.jpg?itok=hFIAF6h_&amp;v=1773911421",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d652f72cb5b",
+    "crawlTimeMsec": "1773946843351",
+    "timestampUsec": "1773946843351899",
+    "published": 1773943140,
+    "title": "TP-Link’s Chinese founder Jeffrey Chao seeks US$1 million Trump Gold Card visa",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/news/world/united-states-canada/article/3347222/tp-links-chinese-founder-jeffrey-chao-seeks-us1-million-trump-gold-card-visa?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/news/world/united-states-canada/article/3347222/tp-links-chinese-founder-jeffrey-chao-seeks-us1-million-trump-gold-card-visa?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "The Chinese founder of the massive router maker facing national security probes by the Trump administration has applied for an expedited visa under the Trump Gold Card programme, according to people familiar with the matter.\nCalifornia-based TP-Link Systems told the federal agencies scrutinising its operations that founder and Chief Executive Officer Jeffrey Chao had applied for permanent residency under the programme, the people said.\nSuccessful Gold Card applicants must give a US$1 million..."
+    },
+    "guid": "https://www.scmp.com/news/world/united-states-canada/article/3347222/tp-links-chinese-founder-jeffrey-chao-seeks-us1-million-trump-gold-card-visa?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/bb164b54-ff91-4169-a209-693dcb77ec5a_8b3d16d5.jpg?itok=dLooVrri&amp;v=1773943158",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/bb164b54-ff91-4169-a209-693dcb77ec5a_8b3d16d5.jpg?itok=dLooVrri&amp;v=1773943158",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Bloomberg; Bloomberg"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d6c84be3ed7",
+    "crawlTimeMsec": "1773978339131",
+    "timestampUsec": "1773978339131095",
+    "published": 1773977520,
+    "title": "Huawei’s commitment to global connectivity bridges digital divide",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/native/tech/topics/technological-game-changers/article/3347140/huaweis-commitment-global-connectivity-bridges-digital-divide?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/native/tech/topics/technological-game-changers/article/3347140/huaweis-commitment-global-connectivity-bridges-digital-divide?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "The use of artificial intelligence (AI) and digital technologies has advanced rapidly around the world in recent years, but the benefits are not available to everyone.\nMore than a quarter of the world’s population – about 2.2 billion people, according to figures released last November by the International Telecommunication Union (ITU) – remains disconnected from the internet, unable to access essential services such as education and finance, which continue to move online.\nThis disconnect is..."
+    },
+    "guid": "https://www.scmp.com/native/tech/topics/technological-game-changers/article/3347140/huaweis-commitment-global-connectivity-bridges-digital-divide?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/1e0c989c-8a99-4942-980a-c96f9272fb34_5c1fb133.jpg?itok=kNS1hMIO&amp;v=1773972794",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/1e0c989c-8a99-4942-980a-c96f9272fb34_5c1fb133.jpg?itok=kNS1hMIO&amp;v=1773972794",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Morning Studio editors; Morning Studio editors"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d6e9d36a4b3",
+    "crawlTimeMsec": "1773987339609",
+    "timestampUsec": "1773987339609267",
+    "published": 1773984540,
+    "title": "Xiaomi’s new-generation SU7 launch sparks fresh EV fight with Tesla in China",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-evs/article/3347259/xiaomis-new-generation-su7-launch-sparks-fresh-ev-fight-tesla-china?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-evs/article/3347259/xiaomis-new-generation-su7-launch-sparks-fresh-ev-fight-tesla-china?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Xiaomi’s updated SU7 electric vehicle (EV) is expected to bite into the market share of Tesla and some domestic rivals in China, as demand weakens and regulators tighten oversight.\nFounder and CEO Lei Jun on Thursday announced official pricing for the new-generation smart sedan, with the standard edition starting at 219,900 yuan (US$31,900) and the pro and max variants set at 249,900 yuan and 303,900 yuan, respectively.\nThe figures are 10,000 yuan lower than pre-sale estimates, but 4,000 yuan..."
+    },
+    "guid": "https://www.scmp.com/business/china-evs/article/3347259/xiaomis-new-generation-su7-launch-sparks-fresh-ev-fight-tesla-china?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/0d3fa5d8-e1ff-4144-8453-9e94296eaec0_f5a57d4e.jpg?itok=vcHsXdAK&amp;v=1773983775",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/0d3fa5d8-e1ff-4144-8453-9e94296eaec0_f5a57d4e.jpg?itok=vcHsXdAK&amp;v=1773983775",
+            "type": "image/jpeg",
+            "length": 2105
+        }
+    ],
+    "author": "Themis Qi; Themis Qi"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d6fa970a7ef",
+    "crawlTimeMsec": "1773991839705",
+    "timestampUsec": "1773991839705071",
+    "published": 1773988200,
+    "title": "Global drug giants double down on China amid trend to build self-reliant supply chains",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3347266/global-drug-giants-double-down-china-amid-trend-build-self-reliant-supply-chains?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/china-business/article/3347266/global-drug-giants-double-down-china-amid-trend-build-self-reliant-supply-chains?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "AstraZeneca said it would establish drug manufacturing facilities in Guangzhou and Shanghai as well as a separate innovation centre in Shanghai, joining a group of foreign players building new plants in China amid geopolitical tensions.\nThe moves are part of a US$15 billion commitment the British firm pledged to make in the world’s second-largest drug market through 2030, unveiled during UK Prime Minister Keir Starmer’s visit to Beijing in January.\nChina’s manufacturing capabilities, integrated..."
+    },
+    "guid": "https://www.scmp.com/business/china-business/article/3347266/global-drug-giants-double-down-china-amid-trend-build-self-reliant-supply-chains?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/cd177d62-c5dd-4f69-a0c4-d1de8948811b_e167a6da.jpg?itok=7dLcVXT4&amp;v=1773985588",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/cd177d62-c5dd-4f69-a0c4-d1de8948811b_e167a6da.jpg?itok=7dLcVXT4&amp;v=1773985588",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Julie Zhang; Julie Zhang"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d6fa970a7f3",
+    "crawlTimeMsec": "1773991839705",
+    "timestampUsec": "1773991839705075",
+    "published": 1773990000,
+    "title": "Preview of Alibaba’s strongest AI model tops Chinese peers in ranking, lags US rivals",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347272/preview-alibabas-strongest-ai-model-tops-chinese-peers-ranking-lags-us-rivals?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347272/preview-alibabas-strongest-ai-model-tops-chinese-peers-ranking-lags-us-rivals?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Alibaba Group Holding unveiled the preview version of its most powerful artificial intelligence model to date, solidifying its position as China’s leader in the race to catch American giants like Anthropic, Google and OpenAI.\nQwen3.5-Max-Preview, the flagship model of Alibaba’s Qwen 3.5 family, is now available on Arena, formerly known as LMArena, a model performance community created by researchers from UC Berkeley. Alibaba, which owns the South China Morning Post, unveiled the model on..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347272/preview-alibabas-strongest-ai-model-tops-chinese-peers-ranking-lags-us-rivals?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/d0ae63f7-7af1-49b5-9693-b8f6887ea3b4_2ffab496.jpg?itok=xQovzibN&amp;v=1773987121",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/d0ae63f7-7af1-49b5-9693-b8f6887ea3b4_2ffab496.jpg?itok=xQovzibN&amp;v=1773987121",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Coco Feng; Coco Feng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d73dce96922",
+    "crawlTimeMsec": "1774009883126",
+    "timestampUsec": "1774009883126050",
+    "published": 1774006320,
+    "title": "ByteDance sells games studio Moonton to Saudi firm for over US$6 billion amid pivot to AI",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347352/bytedance-sells-games-studio-moonton-saudi-firm-over-us6-billion-amid-pivot-ai?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/article/3347352/bytedance-sells-games-studio-moonton-saudi-firm-over-us6-billion-amid-pivot-ai?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "ByteDance has struck a deal to sell its gaming studio Moonton to Savvy Games Group, a Saudi gaming company owned by the country’s sovereign wealth fund, for more than US$6 billion, according to information from the two sides on Friday.\nMoonton, known for the popular online battle title Mobile Legends: Bang Bang, recently signed an agreement to sell to Savvy, owned by Saudi Arabia’s Public Investment Fund, Moonton CEO Zhang Yunfan said in an internal memo on Thursday seen by the South China..."
+    },
+    "guid": "https://www.scmp.com/tech/article/3347352/bytedance-sells-games-studio-moonton-saudi-firm-over-us6-billion-amid-pivot-ai?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/c539c293-4714-4f8d-87f8-e49c465f7d53_02bdfd5f.jpg?itok=TX_M5iwX&amp;v=1774006291",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/c539c293-4714-4f8d-87f8-e49c465f7d53_02bdfd5f.jpg?itok=TX_M5iwX&amp;v=1774006291",
+            "type": "image/jpeg",
+            "length": 2190
+        }
+    ],
+    "author": "Coco Feng，Wency Chen; Coco Feng，Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d74e73adc5f",
+    "crawlTimeMsec": "1774014351203",
+    "timestampUsec": "1774014351203423",
+    "published": 1774011600,
+    "title": "China’s Unitree Robotics rides humanoid tide as it targets US$610m IPO",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3347365/chinas-unitree-robotics-rides-humanoid-tide-it-targets-us610m-ipo?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/business/banking-finance/article/3347365/chinas-unitree-robotics-rides-humanoid-tide-it-targets-us610m-ipo?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Unitree Robotics, a Hangzhou-based maker of quadruped and humanoid robots, has filed for an initial public offering (IPO) on Shanghai’s Star Market, seeking to raise 4.2 billion yuan (US$610 million) as revenue and profits surge on the back of rising interest in embodied artificial intelligence.\nThe listing application has been formally accepted by Shanghai’s exchange following a “preliminary review” on Friday.\nThe 10-year-old company recorded revenue of 1.71 billion yuan last year, up 335 per..."
+    },
+    "guid": "https://www.scmp.com/business/banking-finance/article/3347365/chinas-unitree-robotics-rides-humanoid-tide-it-targets-us610m-ipo?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/302efd7d-47b7-4efa-acee-408bf7d303eb_cca7a951.jpg?itok=WwiJvYCd&amp;v=1774008972",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/302efd7d-47b7-4efa-acee-408bf7d303eb_cca7a951.jpg?itok=WwiJvYCd&amp;v=1774008972",
+            "type": "image/jpeg",
+            "length": 4096
+        }
+    ],
+    "author": "Wency Chen; Wency Chen"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d74e73adc60",
+    "crawlTimeMsec": "1774014351203",
+    "timestampUsec": "1774014351203424",
+    "published": 1774011600,
+    "title": "Huawei challenges Nvidia with powerful new AI accelerator card",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3347346/huawei-challenges-nvidia-powerful-new-ai-accelerator-card?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/tech-trends/article/3347346/huawei-challenges-nvidia-powerful-new-ai-accelerator-card?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "Chinese tech giant Huawei Technologies has launched the Atlas 350 accelerator card for inference, boasting higher computing power for artificial intelligence applications and better performance than US rival Nvidia’s H20, as AI rapidly advances into the agentic era.\nThe Atlas 350 AI accelerator card would be powered by Huawei’s latest Ascend 950PR chip, designed to deliver enhanced computing power and storage for AI inferencing, said Ma Haixu, a vice-president at Huawei, at the firm’s China..."
+    },
+    "guid": "https://www.scmp.com/tech/tech-trends/article/3347346/huawei-challenges-nvidia-powerful-new-ai-accelerator-card?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/e538d1e5-200f-4a1a-9998-5976ccb9178d_aacea212.jpg?itok=wp911HgX&amp;v=1774003883",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/e538d1e5-200f-4a1a-9998-5976ccb9178d_aacea212.jpg?itok=wp911HgX&amp;v=1774003883",
+            "type": "image/jpeg",
+            "length": 4095
+        }
+    ],
+    "author": "Iris Deng; Iris Deng"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d817b7a5b92",
+    "crawlTimeMsec": "1774068378000",
+    "timestampUsec": "1774068378000274",
+    "published": 1774065600,
+    "title": "Will Hong Kong’s ‘regulatory clarity’ on crypto forge a path to global hub status?",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/tech/blockchain/article/3347286/will-hong-kongs-regulatory-clarity-crypto-forge-path-global-hub-status?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/tech/blockchain/article/3347286/will-hong-kongs-regulatory-clarity-crypto-forge-path-global-hub-status?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "In late 2022, Syed Musheer Ahmed packed his bags and departed Hong Kong. The founder of fintech advisory firm FinStep Asia headed for Dubai, where he joined the founding team of the Gulf city’s new digital-asset regulator, Virtual Assets Regulatory Authority (VARA).\nLike many in Hong Kong’s crypto scene at the time, Ahmed was drawn by the Middle East’s regulatory clarity – a stark contrast to the uncertainty and Covid-19 restrictions still lingering in his adopted home.\n“Dubai came up as a good..."
+    },
+    "guid": "https://www.scmp.com/tech/blockchain/article/3347286/will-hong-kongs-regulatory-clarity-crypto-forge-path-global-hub-status?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/01c7c65b-a72e-4754-be0a-95e6dc786e7c_c07f9c64.jpg?itok=CsgYVDBd&amp;v=1773990554",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/01c7c65b-a72e-4754-be0a-95e6dc786e7c_c07f9c64.jpg?itok=CsgYVDBd&amp;v=1773990554",
+            "type": "image/jpeg",
+            "length": 3839
+        }
+    ],
+    "author": "Eunice Xu; Eunice Xu"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064d8392bc1265",
+    "crawlTimeMsec": "1774077358117",
+    "timestampUsec": "1774077358117477",
+    "published": 1774072800,
+    "title": "How China’s tech transformation is putting the ‘world’s factory’ in a tough spot",
+    "canonical": [
+        {
+            "href": "https://www.scmp.com/economy/china-economy/article/3347333/how-chinas-tech-transformation-putting-worlds-factory-tough-spot?utm_source=rss_feed"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.scmp.com/economy/china-economy/article/3347333/how-chinas-tech-transformation-putting-worlds-factory-tough-spot?utm_source=rss_feed",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/46",
+        "htmlUrl": "https://www.scmp.com/rss/36/feed",
+        "title": "Tech - South China Morning Post",
+        "feedUrl": "https://www.scmp.com/rss/36/feed/"
+    },
+    "content": {
+        "content": "As China undergoes a sweeping economic transition, its regions are also in the process of embracing change. The powerhouses of yesteryear must adapt or risk falling behind, as traditional industries become less reliable growth drivers and new sectors take prominence. In this series, we explore three representative areas of the country as they attempt to navigate this rapidly changing environment.\nOne morning in December, Zhang Li showed up for work as normal at Everwin Toys in Dongguan to find a..."
+    },
+    "guid": "https://www.scmp.com/economy/china-economy/article/3347333/how-chinas-tech-transformation-putting-worlds-factory-tough-spot?utm_source=rss_feed",
+    "enclosure": [
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/3aa9b319-71eb-452c-b10b-182820fdbb1d_be3cae13.jpg?itok=Hd3Vgo5g&amp;v=1774001132",
+            "type": "image/jpeg"
+        },
+        {
+            "href": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/20/3aa9b319-71eb-452c-b10b-182820fdbb1d_be3cae13.jpg?itok=Hd3Vgo5g&amp;v=1774001132",
+            "type": "image/jpeg",
+            "length": 2756
+        }
+    ],
+    "author": "He Huifeng; He Huifeng"
+}
+]}

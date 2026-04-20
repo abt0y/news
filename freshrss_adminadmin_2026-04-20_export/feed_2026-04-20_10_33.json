@@ -1,0 +1,1606 @@
+{
+    "id": "user/adminadmin/state/org.freshrss/feed/33",
+    "title": "List of Оповещение Google – Ai news articles",
+    "author": "adminadmin",
+    "items": [
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ef250040b",
+    "crawlTimeMsec": "1776393949021",
+    "timestampUsec": "1776393949021195",
+    "published": 1776383280,
+    "title": "Allbirds drops sneakers, reinvents itself as an AI infrastructure company - Fox Business",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/markets/allbirds-drops-sneakers-reinvents-itself-ai-infrastructure-company&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0wX1kp4BEQMxr2ZpKAnWWL"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/markets/allbirds-drops-sneakers-reinvents-itself-ai-infrastructure-company&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0wX1kp4BEQMxr2ZpKAnWWL",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>artificial intelligence</b> (<b>AI</b>). ... Legal Statement. This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX <b>News</b> Network, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:577349133169986158"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ef250040c",
+    "crawlTimeMsec": "1776393949021",
+    "timestampUsec": "1776393949021196",
+    "published": 1776384660,
+    "title": "White House Works to Give US Agencies Anthropic Mythos AI - Bloomberg News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2YdjW_fKZ99eSUT1tqWg0V"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2YdjW_fKZ99eSUT1tqWg0V",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "The US government is preparing to make a version of Anthropic PBC's powerful new <b>artificial intelligence</b> model available to major federal agencies ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:13359953799540616356"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b84a",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640330",
+    "published": 1776388200,
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://blog.cloudflare.com/ai-platform/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1sw1X6r51RFqy48tZbODAn"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://blog.cloudflare.com/ai-platform/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1sw1X6r51RFqy48tZbODAn",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Discuss on Hacker <b>News</b> · Agents WeekAgents<b>AIAI</b> GatewayWorkers <b>AI</b>DevelopersDeveloper PlatformLLM. Follow on X. Ming Lu|/minglu. Michelle Chen|@_mchenco."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17103157298414582289"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b84b",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640331",
+    "published": 1776388500,
+    "title": "Canva's AI 2.0 update goes all in on prompt-powered design tools | The Verge",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1ODcV62_gmX_k3QzpPQDNv"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1ODcV62_gmX_k3QzpPQDNv",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Jess started her career at TechRadar, covering <b>news</b> and hardware reviews. Canva has overhauled its design and workspace suite as it attempts to become ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3131070713680324855"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064f9ffe45b84c",
+    "crawlTimeMsec": "1776398444640",
+    "timestampUsec": "1776398444640332",
+    "published": 1776390180,
+    "title": "Alaska Airlines and Tailsight launch AI-powered maintenance planning solution",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.alaskaair.com/innovation/alaska-airlines-and-tailsight-launch-ai-powered-maintenance-planning-solution/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Vx0P8ZVbHm0xjXBxbFDik"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.alaskaair.com/innovation/alaska-airlines-and-tailsight-launch-ai-powered-maintenance-planning-solution/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Vx0P8ZVbHm0xjXBxbFDik",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Learn more about what's happening at Alaska and Hawaiian at <b>news</b>.alaskaair.com. Alaska Air Group is traded on the New York Stock Exchange (NYSE) as “ ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:2640457970360449666"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f1a",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564570",
+    "published": 1776392520,
+    "title": "TSMC Raises 2026 Outlook in Sign of Confidence in AI Demand - Bloomberg News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/tsmc-s-profit-beats-estimates-after-war-failed-to-dent-ai-demand&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw06S54oh2luLVNzesZPVGpa"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/tsmc-s-profit-beats-estimates-after-war-failed-to-dent-ai-demand&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw06S54oh2luLVNzesZPVGpa",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Taiwan Semiconductor Manufacturing Co. raised its revenue outlook for 2026, an upbeat forecast that underscores the resilience of <b>AI</b> chip demand ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8032147348755532439"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f1b",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564571",
+    "published": 1776394620,
+    "title": "Emory convenes national conference for honest talk about AI",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://together.emory.edu/news/2026-04-17-emory-convenes-national-conference-honest-talk-about-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0ac2xe1anUaWhuCbMYuGir"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://together.emory.edu/news/2026-04-17-emory-convenes-national-conference-honest-talk-about-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0ac2xe1anUaWhuCbMYuGir",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Almost everyone is familiar with the way <b>artificial intelligence</b> (<b>AI</b>) ... About the Emory <b>News</b> Center · Contact · People Directory · Help and Resources ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12684682462920213547"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f1d",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564573",
+    "published": 1776399120,
+    "title": "Upscale AI in talks to raise at $2B valuation, says report - TechCrunch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1K9TzD-uPQP6ezbX3Y1APN"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1K9TzD-uPQP6ezbX3Y1APN",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "<b>AI</b> infrastructure company Upscale <b>AI</b> is reportedly in talks to ... TechCrunch Mobility is your destination for transportation <b>news</b> and insight."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:9134602308520490016"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f27",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564583",
+    "published": 1776400320,
+    "title": "Mythos AI Sparks Fear and Confusion Among Global Finance Elite - Bloomberg News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/mythos-ai-sparks-fear-and-confusion-among-global-finance-elite&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2x4HFk5CQb9rlTy__vgaD0"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-16/mythos-ai-sparks-fear-and-confusion-among-global-finance-elite&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2x4HFk5CQb9rlTy__vgaD0",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Takeaways by Bloomberg <b>AI</b> Subscribe. War and an historic energy shock are tough financial stability risks to compete with. Yet Anthropic's as-yet ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3048788861520716225"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f28",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564584",
+    "published": 1776400440,
+    "title": "Canva's AI assistant can now call various tools to make designs for you | TechCrunch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2UOLF0NSIFfNFClKP6BkEW"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2UOLF0NSIFfNFClKP6BkEW",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Canva is leaning into this paradigm in the latest version of its Canva <b>AI</b> assistant, which uses its <b>AI</b> model to let users create editable designs with ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:7273009989130484378"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa216695f3b",
+    "crawlTimeMsec": "1776407439564",
+    "timestampUsec": "1776407439564603",
+    "published": 1776402240,
+    "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model - BBC",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c2ev24yx4rmo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Ye_SzTGF_sSBR8XCtArMe"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c2ev24yx4rmo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Ye_SzTGF_sSBR8XCtArMe",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "<b>News</b> · Sport · Business · Technology · Health · Culture · Arts · Travel · Earth · Audio · Video · Live · Documentaries · Home · <b>News</b> · US &amp; Canada."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:10347516692272970906"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c35122e",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573102",
+    "published": 1776403200,
+    "title": "New trailer features AI-generated version of Val Kilmer, a year after his death - NBC News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/nightly-news/video/new-trailer-features-ai-generated-version-of-val-kilmer-a-year-after-his-death-261534277542&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3hxBqS0w4Qj6ix9lS1_l_U"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/nightly-news/video/new-trailer-features-ai-generated-version-of-val-kilmer-a-year-after-his-death-261534277542&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3hxBqS0w4Qj6ix9lS1_l_U",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "The first clips from “As Deep as the Grave” feature an <b>AI</b>-generated version of Val Kilmer, who died in 2025. The filmmakers say the movie was in ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:10224553327891500993"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c35122f",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573103",
+    "published": 1776406260,
+    "title": "Makers of As Deep as the Grave defend use of AI-generated Val Kilmer in movie",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-04-17/as-deep-as-the-grave-filmmakers-defend-use-ai-val-kilmer/106576814&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0agX2D-HOO2XWuLbqa5swN"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-04-17/as-deep-as-the-grave-filmmakers-defend-use-ai-val-kilmer/106576814&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0agX2D-HOO2XWuLbqa5swN",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Kilmer plays a prominent role in As Deep as the Grave, which will be released this year. abc.net.au/<b>news</b>/as-deep-as-the-grave-filmmakers-defend-use-<b>ai</b> ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15411060977368534047"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351230",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573104",
+    "published": 1776406860,
+    "title": "OpenAI Agents SDK improves governance with sandbox execution - AI News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0NxJG5BWFvDn8xAy9ld2Kf"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0NxJG5BWFvDn8xAy9ld2Kf",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6590004087221609225"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351231",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573105",
+    "published": 1776407100,
+    "title": "Val Kilmer's AI-Generated Performance in 'As Deep as the Grave' Debuts With Trailer",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAsLuF31u3Io&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1vbbNhcjYVW46ih9Nsun76"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAsLuF31u3Io&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1vbbNhcjYVW46ih9Nsun76",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>news</b>/val-kilmer-<b>ai</b>-generated-as-deep-as-the-grave-trailer-1236565441/ ▻▻Subscribe for more entertainment <b>news</b>: http://thr.cm/dwtPxG2 ▻▻ See ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17811437968976304234"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351232",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573106",
+    "published": 1776411060,
+    "title": "The $10 Billion Startup Training AI to Replace the White-Collar Workforce - Bloomberg.com",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2BgHTAH-KM52cx6FKazfDy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2BgHTAH-KM52cx6FKazfDy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "“I saw the mom got her glow back, and she started getting more consistent work shifts,” Kozak says. Contact us: Provide <b>news</b> feedback or report an ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3121957729623867982"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351240",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573120",
+    "published": 1776414420,
+    "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3K8ISG38X5gy1m8q1tR_jM"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3K8ISG38X5gy1m8q1tR_jM",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... next few months.” Explore more on these topics. <b>AI</b> (<b>artificial intelligence</b>) · Banking · Technology sector · <b>news</b>. Share. Reuse this content. More on ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:6995950566727014774"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c351241",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573121",
+    "published": 1776414540,
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises - TechCrunch",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0nmyHHFa_BXvlK7Tmaw8c6"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0nmyHHFa_BXvlK7Tmaw8c6",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "More than three years after the emergence of generative <b>AI</b>, <b>AI</b> ... TechCrunch Mobility is your destination for transportation <b>news</b> and insight."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:995473610729243799"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c35124c",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573132",
+    "published": 1776415920,
+    "title": "Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3_OSPa1iWrnpiDWJKMOrw-"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3_OSPa1iWrnpiDWJKMOrw-",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... and private <b>AI</b> labs like DeepMind. Explore more on these topics. <b>AI</b> (<b>artificial intelligence</b>) · Computing · <b>news</b>. Share. Reuse this content. Related ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15646756111603712247"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa53c35125d",
+    "crawlTimeMsec": "1776420958573",
+    "timestampUsec": "1776420958573149",
+    "published": 1776417480,
+    "title": "Iran war's big winners: Wall Street, weapons firms, AI and green energy - Al Jazeera",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw029bOlALRn9LVehhe_2O2g"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw029bOlALRn9LVehhe_2O2g",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "How well do you know Iran? EXPLAINER. <b>News</b>|Business and Economy. Iran war's big winners: Wall Street, weapons firms, <b>AI</b> and green energy. The global ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:7075597151223712764"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb44",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048196",
+    "published": 1776409080,
+    "title": "Anthropic Releases AI Model With Weaker Cyber Skills Than Mythos - YouTube",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJv1O9SfkT9I&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw26cHmk6YtDyjxj6SaYT7qt"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJv1O9SfkT9I&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw26cHmk6YtDyjxj6SaYT7qt",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>news</b>/ TikTok: https ... An <b>AI</b> Just Retaliated Against a Developer... Is This Just The ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:12146981069434210197"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb45",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048197",
+    "published": 1776409560,
+    "title": "An AI economic boom may be underway, and economists say the US is best positioned to benefit",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/an-ai-economic-boom-may-be-underway-and-economists-say-the-us-is-best-positioned-to-benefit-182949936.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2BbhsymgYTlhSQFc87y3LT"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/an-ai-economic-boom-may-be-underway-and-economists-say-the-us-is-best-positioned-to-benefit-182949936.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2BbhsymgYTlhSQFc87y3LT",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "US GDP could grow by more than 10% by 2034 on the back of large-scale economic growth driven by the boom in <b>AI</b>, according to BNP Paribas ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:362284414499729852"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb46",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048198",
+    "published": 1776410820,
+    "title": "How a judge in Texas is using AI to deal with his caseload - NBC News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/tech-news/judge-texas-using-ai-deal-caseload-rcna331830&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0lComX5d6AoL-vWxeUrJfj"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/tech-news/judge-texas-using-ai-deal-caseload-rcna331830&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0lComX5d6AoL-vWxeUrJfj",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "U.S. District Judge Xavier Rodriguez said he uses “legally curated tools” to help with his work as <b>AI</b> is starting to show up in all parts of the ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:14723648892991763226"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb47",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048199",
+    "published": 1776414240,
+    "title": "What most predictions miss about AI job loss - The Washington Post",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/opinions/2026/04/16/calculations-ai-job-losses-ignore-full-equation/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2YxWP7-XgV_DjBEJNxVWZ4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/opinions/2026/04/16/calculations-ai-job-losses-ignore-full-equation/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2YxWP7-XgV_DjBEJNxVWZ4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "The simplest approach is to think about jobs which currently exist that <b>AI</b> could do. ... Send a <b>News</b> Tip · Report a Vulnerability. Terms of Use. Digital ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8467352601376735753"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb55",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048213",
+    "published": 1776418500,
+    "title": "Nvidia rivals eye huge funding rounds as AI chip market booms - CNBC",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1dyH3FnxHhcQbF9aaDdx7w"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1dyH3FnxHhcQbF9aaDdx7w",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Investor interest for <b>AI</b> chip startups is rising, but big ... Global Business and Financial <b>News</b>, Stock Quotes, and Market Data and Analysis."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:433375542129491843"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb69",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048233",
+    "published": 1776420600,
+    "title": "Bringing AI-driven protein-design tools to biologists everywhere | MIT News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3YQ4zTh-3te65wfnq_fj5l"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3YQ4zTh-3te65wfnq_fj5l",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "OpenProtein.<b>AI</b> is helping biologists stay on the cutting edge of <b>AI</b> with a no-code platform for protein engineering. It was founded by MIT alumni ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:4854007538037314212"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb7c",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048252",
+    "published": 1776421980,
+    "title": "New trailer features AI-generated version of Val Kilmer, a year after his death - YouTube",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHmVxgnEs23s&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3UlSUIciqk9xUJypuTcoj2"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHmVxgnEs23s&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3UlSUIciqk9xUJypuTcoj2",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>AI</b>-generated version of Val Kilmer, a year after his death. 4.3K views · 10 hours ago. NBC Nightly <b>News</b> with Tom Llamas ...more. NBC <b>News</b>. 11.9M."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:963892677923412046"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa64715eb82",
+    "crawlTimeMsec": "1776425436048",
+    "timestampUsec": "1776425436048258",
+    "published": 1776423540,
+    "title": "AI-generated images behind increase in insurance fraud - BBC News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/news/videos/cx2318rm5meo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1s62CY7IPWYdahnreUZpo4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/news/videos/cx2318rm5meo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1s62CY7IPWYdahnreUZpo4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Get the <b>news</b>, your way. Sign in for podcasts, documentaries and analysis. Sign in. orRegister. Maybe later. The fake images behind <b>AI</b> insurance scams."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:2919147652347367298"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fef98",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051416",
+    "published": 1776410580,
+    "title": "Cloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0VPNV77Fsc-T021pc4xNad"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0VPNV77Fsc-T021pc4xNad",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Anthropic Designs Three-Agent Harness Supports Long-Running Full-Stack <b>AI</b> Development · Java <b>News</b> Roundup: JDK 27 Release Schedule, Hibernate, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:5793607526480061579"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fef99",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051417",
+    "published": 1776420420,
+    "title": "Franklin Graham defends Trump over AI image critics say depicted Jesus - Fox News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/politics/franklin-graham-defends-trump-letter-shared-truth-social-ai-jesus-image-backlash&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1rTklup1iKvlTLOlB74R8T"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/politics/franklin-graham-defends-trump-letter-shared-truth-social-ai-jesus-image-backlash&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1rTklup1iKvlTLOlB74R8T",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>News</b>' \"Hannity\" Thursday night. The controversy began Sunday night when Trump posted an <b>AI</b>-generated image on Truth Social showing himself ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17107337346832524637"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fef9a",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051418",
+    "published": 1776423960,
+    "title": "AI \"agents\" can do your shopping. Should you let them? - CBS News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/ai-agentic-artificial-inteligence-what-is-it/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2nKg2Aq5bw6EcmpeZn6Gxb"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/ai-agentic-artificial-inteligence-what-is-it/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2nKg2Aq5bw6EcmpeZn6Gxb",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Big retailers are embracing agentic commerce as a new way to shop. But you should think twice before handing over your credit card, tech experts ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15124324279798351595"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fefc1",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051457",
+    "published": 1776430560,
+    "title": "New ways to create personalized images in the Gemini app - Google Blog",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2hKPA44zhJoulelrryLc5V"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2hKPA44zhJoulelrryLc5V",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "You can simply ask for a picture of yourself or your family, and the <b>AI</b> will use your saved photos to make it happen. If the result isn't perfect, you ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:18180804730736367625"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa82a0fefc2",
+    "crawlTimeMsec": "1776433539051",
+    "timestampUsec": "1776433539051458",
+    "published": 1776430740,
+    "title": "I replaced my to-do list with ChatGPT Tasks — and it was the productivity boost I needed",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.tomsguide.com/ai/i-replaced-my-to-do-list-with-chatgpt-tasks-and-it-was-the-productivity-boost-i-needed&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw21P4pEDGRFAZI2KazHJBIy"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.tomsguide.com/ai/i-replaced-my-to-do-list-with-chatgpt-tasks-and-it-was-the-productivity-boost-i-needed&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw21P4pEDGRFAZI2KazHJBIy",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Here's how Tasks helped me stay on top of <b>AI news</b>, unlock new creative ideas and even have a little fun with the process along the way. Getting ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17923983128295584118"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d40",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466496",
+    "published": 1776431040,
+    "title": "Codex for (almost) everything | OpenAI",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://openai.com/index/codex-for-almost-everything/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2HW9_V5wKZ6r4WiN96U50l"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://openai.com/index/codex-for-almost-everything/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2HW9_V5wKZ6r4WiN96U50l",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "More options. Ask Vimeo <b>AI</b>. Play ... <b>News</b> · Stories · Academy · Livestreams · Podcast · RSS. Terms &amp; Policies. Terms of ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8473460726881668727"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fa9369b1d6c",
+    "crawlTimeMsec": "1776438044466",
+    "timestampUsec": "1776438044466540",
+    "published": 1776434220,
+    "title": "Is Mark Zuckerberg's Meta AI getting too smart? - Fox News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/tech/mark-zuckerbergs-meta-ai-getting-smart&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CJMqt9JaIyC4WFe6XO3VA"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/tech/mark-zuckerbergs-meta-ai-getting-smart&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CJMqt9JaIyC4WFe6XO3VA",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Meta launched Muse Spark, the first <b>AI</b> model from Meta Superintelligence Labs, bringing multimodal image recognition and parallel task processing ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8469847599684026411"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd22",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941922",
+    "published": 1776419220,
+    "title": "The future of AI won't wait and neither does Israel. Teramount, an Israeli startup ... - Instagram",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DXOhqxjAH1X/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CIyeaULASr3xNp9aJmdfM"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DXOhqxjAH1X/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CIyeaULASr3xNp9aJmdfM",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Photo by AI | Future Tech | Latest <b>AI News</b> | Daily AI Drops | AI."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:1201313789377229565"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd23",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941923",
+    "published": 1776419520,
+    "title": "National AI Commission: Ask Me Anything - GOV.UK",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.uk/government/publications/national-ai-commission-ask-me-anything&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0GJ-I02FvDylcIGfXSnZBQ"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.uk/government/publications/national-ai-commission-ask-me-anything&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0GJ-I02FvDylcIGfXSnZBQ",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "The MHRA are hosting a live Ask Me Anything on how <b>artificial intelligence</b> (<b>AI</b>) is being regulated in healthcare ... <b>News</b> · Guidance and regulation ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:8372412905697004484"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd25",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941925",
+    "published": 1776433740,
+    "title": "Movie trailer debuts AI-generated Val Kilmer - Facebook",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/CBSEveningNews/videos/movie-trailer-debuts-ai-generated-val-kilmer/1492773222636789/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0kOBMv8Jgw_sLkff7d5Vb5"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/CBSEveningNews/videos/movie-trailer-debuts-ai-generated-val-kilmer/1492773222636789/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0kOBMv8Jgw_sLkff7d5Vb5",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "The film makers told me he's in the movie for more than an hour and the actors union said after told CBS <b>News</b> that any use of an actor's likeness ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:2290170150734695076"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd41",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941953",
+    "published": 1776437280,
+    "title": "Lebanon-Israel ceasefire, Trump's economy pitch and Allbirds' AI pivot - Reuters",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/podcasts/lebanon-israel-ceasefire-trumps-economy-pitch-allbirds-ai-pivot-2026-04-17/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1LZ2SJSgNVwIuXSZd7MbCZ"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/podcasts/lebanon-israel-ceasefire-trumps-economy-pitch-allbirds-ai-pivot-2026-04-17/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1LZ2SJSgNVwIuXSZd7MbCZ",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Listen on the Reuters app. Cover for Reuters World <b>News</b>. Play. Reuters World <b>News</b>. Lebanon-Israel ceasefire, Trump's economy pitch and Allbirds' <b>AI</b> ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:892059453692132464"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd43",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941955",
+    "published": 1776437400,
+    "title": "NEA explores regulatory use of artificial intelligence",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.oecd-nea.org/jcms/pl_117517/nea-explores-regulatory-use-of-artificial-intelligence&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2qEXiqOSgrYPMgIynFnyEx"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.oecd-nea.org/jcms/pl_117517/nea-explores-regulatory-use-of-artificial-intelligence&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2qEXiqOSgrYPMgIynFnyEx",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "NEA explores regulatory use of artificial intelligence. Published date: 17 April 2026. <b>Artificial Intelligence News</b> brief Nuclear safety regulation ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:9889142193032270968"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd45",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941957",
+    "published": 1776437520,
+    "title": "Can artificial intelligence damage real-world relationships? Gareth Edwards speaks to ... - Facebook",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/eNCAnews/videos/can-artificial-intelligence-damage-real-world-relationships-gareth-edwards-speak/2456646971467769/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1--AkNxsgZNWzINRDiq2lE"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/eNCAnews/videos/can-artificial-intelligence-damage-real-world-relationships-gareth-edwards-speak/2456646971467769/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1--AkNxsgZNWzINRDiq2lE",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "[BREAKING <b>NEWS</b>] Oil prices plunged by more that 10 perc... 27 minutes ... And <b>AI</b> takes that away because <b>AI</b> is always on its best behaviour."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17354921118980982103"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd52",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941970",
+    "published": 1776438120,
+    "title": "Podcast: Why the AI Backlash Is Only Going to Get Worse - Bloomberg News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-17/podcast-why-the-ai-backlash-is-only-going-to-get-worse&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Mzg0-PprIVbIctWVlu9fB"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-17/podcast-why-the-ai-backlash-is-only-going-to-get-worse&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Mzg0-PprIVbIctWVlu9fB",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "More Americans are experiencing firsthand the negative effects of the technology on the labor market, the environment and their wallets."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:605147431217623724"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd60",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941984",
+    "published": 1776439080,
+    "title": "Tech stocks today: AMD and other tech stocks trade at record highs, Anthropic releases its ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-amd-and-other-tech-stocks-trade-at-record-highs-anthropic-releases-its-newest-claude-opus-model-144220487.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3mOgVsxv5f0grtz8XMgbv4"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-amd-and-other-tech-stocks-trade-at-record-highs-anthropic-releases-its-newest-claude-opus-model-144220487.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3mOgVsxv5f0grtz8XMgbv4",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "<b>News</b> on the chipmaking front may be boosting the stock. Tesla stock jumped ... JPMorgan CEO Jamie Dimon says <b>AI</b> will make <b>AI</b> cyber risks 'worse'."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:17686566168445672067"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064faa43bfcd65",
+    "crawlTimeMsec": "1776442559941",
+    "timestampUsec": "1776442559941989",
+    "published": 1776439920,
+    "title": "How AI Is Helping Grocery Shoppers Save Money - YouTube",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dwa55G2K6gcQ&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw23gr_mA8eHrWdOsP9AdumA"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dwa55G2K6gcQ&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw23gr_mA8eHrWdOsP9AdumA",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "... <b>AI</b>? Sign up for CNBC's new online course, Beyond the Basics: How to ... <b>News</b> Online Get the latest <b>news</b>: https://www.cnbc.com/ Follow CNBC on ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:11627254320971214868"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c261e",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656414",
+    "published": 1776435000,
+    "title": "What makes Cochrane's new AI study innovative?",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cochrane.org/about-us/news/what-makes-cochranes-new-ai-study-innovative&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0m0XVveXeMYHz8etM11IqR"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cochrane.org/about-us/news/what-makes-cochranes-new-ai-study-innovative&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0m0XVveXeMYHz8etM11IqR",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Exclude <b>news</b>. Breadcrumb. Home · About us · <b>News</b>. What makes Cochrane's new <b>AI</b> study innovative? Discover how the Cochrane Evaluation of (Semi ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3735297330815740005"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c261f",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656415",
+    "published": 1776436920,
+    "title": "ABB enhances AI capabilities of flagship industrial device digital solutions | News center",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://new.abb.com/news/detail/135066/abb-enhances-ai-capabilities-of-flagship-industrial-device-digital-solutions&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3jsL3J3HBfbwrXbKH0XKnt"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://new.abb.com/news/detail/135066/abb-enhances-ai-capabilities-of-flagship-industrial-device-digital-solutions&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3jsL3J3HBfbwrXbKH0XKnt",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "“By integrating Copilot and agentic <b>AI</b> built on Microsoft Foundry into My Measurement Assistant+ and Genix Datalyzer, ABB is helping maintenance teams ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3811281815681794441"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2642",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656450",
+    "published": 1776440880,
+    "title": "Anthropic's new Mythos model is showing the world just how powerful AI really can be and it ...",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DXNJOP5AMHR/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2D3LqrpG236LK9LreILZQp"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DXNJOP5AMHR/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2D3LqrpG236LK9LreILZQp",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Mythos is Anthropic's latest <b>AI</b> model . after discovering that it could be used . Todd Gillespie Reporter, Bloomberg <b>News</b> every computer system that ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15632783259675490879"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2643",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656451",
+    "published": 1776440880,
+    "title": "Here's who is spending money on AI subscriptions, and how much they cost - CBS News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/generative-ai-subscriptions-consumer-spending/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Tf8PRErmR1X2Z19Cmya50"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/generative-ai-subscriptions-consumer-spending/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Tf8PRErmR1X2Z19Cmya50",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Households are starting to make room in their budgets for spending on generative <b>AI</b> subscriptions, new data shows."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15473926214903126360"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2651",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656465",
+    "published": 1776441720,
+    "title": "Fed chair, health care, and AI shoe repair : The Indicator from Planet Money - NPR",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/04/17/nx-s1-5787854/fed-chair-health-care-and-ai-shoe-repair&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2DrU0ydt0YxrvOX0R8z5WS"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/04/17/nx-s1-5787854/fed-chair-health-care-and-ai-shoe-repair&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2DrU0ydt0YxrvOX0R8z5WS",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "It's Indicators of the Week. Our weekly look at some of the most fascinating economic numbers from the <b>news</b>. On today's episode: the drama behind ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:3986374726756723860"
+},
+{
+    "id": "tag:google.com,2005:reader/item/00064fab4f4c2688",
+    "crawlTimeMsec": "1776447048656",
+    "timestampUsec": "1776447048656520",
+    "published": 1776452160,
+    "title": "GTA suspects used smart glasses, AI tools in retail fraud: TPS - CTV News",
+    "canonical": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/toronto/article/suspects-used-smart-glasses-other-ai-tools-to-commit-organized-retail-fraud-across-gta-toronto-police/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw29piivfq63NfD0j7gWawVO"
+        }
+    ],
+    "alternate": [
+        {
+            "href": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/toronto/article/suspects-used-smart-glasses-other-ai-tools-to-commit-organized-retail-fraud-across-gta-toronto-police/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw29piivfq63NfD0j7gWawVO",
+            "type": "text/html"
+        }
+    ],
+    "categories": [
+        "user/-/state/com.google/reading-list",
+        "user/-/state/com.google/unread"
+    ],
+    "origin": {
+        "streamId": "feed/33",
+        "htmlUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448",
+        "title": "Оповещение Google – Ai news",
+        "feedUrl": "https://www.google.ru/alerts/feeds/03013219760151597796/5728673472518424448"
+    },
+    "content": {
+        "content": "Toronto police say arrests have been made in an 'organized' retail fraud where suspects used '<b>AI</b>-enabled tools,' including smart glasses, ..."
+    },
+    "guid": "tag:google.com,2013:googlealerts/feed:15091861912308274370"
+}
+]}
