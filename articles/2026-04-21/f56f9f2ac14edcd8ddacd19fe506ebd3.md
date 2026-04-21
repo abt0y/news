@@ -6,4 +6,4 @@ link: "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-a
 topics: ['AI']
 ---
 
-Cook will be executive chairman, but will no longer run the company day to day.
+Cook will be executive chairman but will no longer run the company day to day.
