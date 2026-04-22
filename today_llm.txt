@@ -1,183 +1,113 @@
-iPhone Ultra vs. Galaxy Z Fold 8: Should You Buy Samsung in July or Wait for Apple? - https://www.geeky-gadgets.com/iphone-ultra-vs-galaxy-z-fold-8/
-MacBook Neo 2 Leaks: A19 Pro Chip and Doubled SSD Speeds Rumored - https://www.geeky-gadgets.com/macbook-neo-2-release-2027/
-How Non-Programmers Are Building Custom AI Agents in Minutes - https://www.geeky-gadgets.com/ai-agent-tutorial-2026/
-Can the iPhone 17e Survive the Bend Test? The Results Might Surprise You - https://www.geeky-gadgets.com/iphone-17e-durability-test/
-The Death of the Plus: Why the iPhone Air is Exactly What the Market Wanted - https://www.geeky-gadgets.com/iphone-air-popularity/
-Ray-Ban Meta’s 2026 Roadmap Reveals Sci-Fi Features You’ll Actually Use - https://www.geeky-gadgets.com/ray-ban-meta-ai-food-tracking-navigation/
-OpenAI’s Powerful New ChatGPT 6 Model Code Named “Spud” - https://www.geeky-gadgets.com/openai-chatgpt-6-release/
-Why Anthropic is Restricting Its New Mythos AI Model to Tech Giants - https://www.geeky-gadgets.com/anthropic-project-glass-wing-cybersecurity/
-Apple AI Pin Leaks: Why Siri’s New ‘Eyes’ Are Coming to Your Shirt Pocket - https://www.geeky-gadgets.com/apple-ai-pin-leaked-details/
-Claude Design Guide : Prototype Export to Figma and Canva - https://www.geeky-gadgets.com/how-to-use-claude-design-tips/
-Claude Design for Beginners : Quick Start Guide 2026 - https://www.geeky-gadgets.com/claude-design-tutorial-ai/
-The Wait Is Almost Over: Apple’s Smart Glasses Just Hit a Major Production Milestone - https://www.geeky-gadgets.com/apple-glasses-more-details/
-ASUS ROG XREAL R1 : Gaming on a 171-Inch Screen You Can Wear - https://www.geeky-gadgets.com/asus-rog-xreal-r1-ar-glasses/
-The Hidden Excel Shortcuts Missing from Your Standard Cheat Sheet - https://www.geeky-gadgets.com/secret-excel-shortcuts-cheat-sheet/
-Hardware Ready, Siri Isn’t: The Inside Story of the Apple TV 2026 Delay - https://www.geeky-gadgets.com/apple-tv-2026-launch-date/
-iOS 26.5 Beta 3 Released: Here’s What’s New for Your iPhone - https://www.geeky-gadgets.com/ios-26-5-beta-3/
-Why Pairing NotebookLM with Claude Design Changes Everything About AI Research - https://www.geeky-gadgets.com/notebooklm-claude-design-workflow/
-Google Fitbit Air Revealed : Screenless Design Meets Gemini AI Tracking - https://www.geeky-gadgets.com/google-io-2026-fitbit-air/
-Apple’s Huge Shift: Why Your Next iPhone Is Designed to Last Longer - https://www.geeky-gadgets.com/apple-parts-seven-years/
-<b>Neural Network</b> - April 2026 - Lexology - https://www.google.com/url?rct=j&sa=t&url=https://www.lexology.com/library/detail.aspx%3Fg%3D61c1449f-4158-42cc-8ee3-8341b6988d35&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw23I1qUWj5L74e28sq0o3UU
-Graph <b>Neural Networks</b> Improve Credit Default Prediction | Let's Data Science - https://www.google.com/url?rct=j&sa=t&url=https://letsdatascience.com/news/graph-neural-networks-improve-credit-default-prediction-efd85287&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw39J7nSLkNQXUOAaWo3xdmJ
-The Sequence Knowledge #846: Beyond Transformer: A New Series - https://www.google.com/url?rct=j&sa=t&url=https://thesequence.substack.com/p/the-sequence-knowledge-846-beyond&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3M780q-XJ7Gx41ZQ63zFRy
-Your AI can't read an invoice. That should worry you more than whether it can pass a math exam - https://www.google.com/url?rct=j&sa=t&url=https://www.fastcompany.com/91526152/your-ai-cant-read-an-invoice-that-should-worry-you-more-than-whether-it-can-pass-a-math-exam-technology-ai-leadership&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3Wzbr3v1W2Zqe8jJ1s3ZIa
-Oak Ridge panel explores AI's impact on jobs, economy - Oakridger - https://www.google.com/url?rct=j&sa=t&url=https://www.oakridger.com/story/news/local/2026/04/21/oak-ridge-panel-explores-ais-impact-on-jobs-economy/89699093007/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1OWsUHTDne2xMwriBCXRSw
-Learnable attention driven structured compression technique for <b>neural networks</b> - Nature - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-49893-2&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw257xt656xUuTTXLsImZ7Hi
-AI Can't Be Broken: At NRNU MEPhI, a <b>Neural Network</b> Resistant to Data &quot;Poisoning&quot; Has ... - https://www.google.com/url?rct=j&sa=t&url=https://www1.ru/en/news/2026/04/21/ii-ne-slomat-v-niiau-mifi-sozdali-neiroset-ustoichivuiu-k-otravleniiu-dannykh.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2knzljsi2KN4gzDpKYSdRM
-VIDEO INTERVIEW: Solo AI Development Experience or <b>Neural Networks</b> as a Christmas Gift - https://www.google.com/url?rct=j&sa=t&url=https://wnhub.io/news/engines/item-50623&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3RMpYd-XohahzDNIgS36I7
-Artificial <b>neural network</b>-based analysis of Cattaneo-Christov heat flux and Stratified Casson ... - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-46605-8&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3clCwXEXOAZZ6T3kTkRbIa
-Programmable Three-dimensional Photonic <b>Neural Network</b> Chip | Nature Communications - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41467-026-72316-9&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw32hrjAuLZ7onxC3TszQjEQ
-Bioinspired auxetic metastructures enable biomechanically adaptive, machine learning ... - https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1125026&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0HDrB3JE9VY7PkBVSms-Ym
-Moonshot AI releases Kimi-K2.6 model with 1T parameters, attention optimizations - https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-model-1t-parameters-attention-optimizations/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw28-hn86alWIa3WKCokMlU5
-Soulmates.ai Foresight Engine Now Incorporates Social Index EMV Values for Predictive Forecasting - https://www.google.com/url?rct=j&sa=t&url=https://www.kitsapsun.com/press-release/story/736858/soulmates-ai-foresight-engine-now-incorporates-social-index-emv-values-for-predictive-forecasting/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1I3zfyGwf_2u4SlX60fJZj
-Anthropic Introduces Managed Agents to Simplify AI Agent Deployment - https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses - https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash - https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java - https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-Cloudflare Introduces Project Think: A Durable Runtime for AI Agents - https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-Google Research's foundation model for time-series forecasting. - https://opensourceprojects.dev/post/8ddc19f8-a7cf-42a5-9554-dd5e5653ce05
-Moonshot AI releases flagship model as open-source push continues - https://www.scmp.com/tech/big-tech/article/3350887/moonshot-ai-releases-flagship-model-open-source-push-continues?utm_source=rss_feed
-Crypto industry sees AI-driven agent economy as next growth driver - https://www.scmp.com/tech/blockchain/article/3350852/crypto-industry-sees-ai-driven-agent-economy-next-growth-driver?utm_source=rss_feed
-China bets on RISC-V in global AI race - https://www.scmp.com/plus/news/china/science/article/3350802/china-bets-risc-v-global-ai-race?utm_source=rss_feed
-Hong Kong can advance AI beyond the confines of geopolitical rivalry - https://www.scmp.com/opinion/hong-kong-opinion/article/3350129/hong-kong-can-advance-ai-beyond-confines-geopolitical-rivalry?utm_source=rss_feed
-Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit - https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/
-YouTube expands its AI likeness detection technology to celebrities - https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/
-Revolut eyes valuation of up to $200B in eventual IPO - https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/
-What’s the key to better vegan cheese? Microbreweries, one startup says - https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/
-GRAI believes AI can make music more social, not replace artists - https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/
-Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation - https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/
-Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards - https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/
-Who is John Ternus, the incoming Apple CEO? - https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/
-Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return - https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/
-It’s not just one thing — it’s another thing - https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/
-North Korean hackers blamed for $290M crypto theft - https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/
-Using <b>AI</b> tools when contacting DBS - GOV.UK - https://www.google.com/url?rct=j&sa=t&url=https://www.gov.uk/guidance/using-ai-tools-when-contacting-dbs&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3tkrYUtwonVQjZ_7X0bDAQ
-Palantir's 'manifesto' has been described as an '<b>AI</b>-driven threat to humanity's existence ... - Instagram - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DXZJdaWj2Iq/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw22qvA5xScBHnyakQvSVwrM
-The future of <b>AI</b> will be decided by small choices with big stakes | Devex - https://www.google.com/url?rct=j&sa=t&url=https://www.devex.com/news/the-future-of-ai-will-be-decided-by-small-choices-with-big-stakes-112344&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3c8KFBhXaVbcRv4d196i0p
-Too often, western <b>AI</b> overlooks diverse voices and contexts. By building inclusive <b>AI</b> models ... - https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cnn/videos/too-often-western-ai-overlooks-diverse-voices-and-contexts-by-building-inclusive/1274786484225419/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2q3HyvM2Nf4ardo1O619g5
-OpenAI helps Hyatt advance <b>AI</b> among colleagues - https://www.google.com/url?rct=j&sa=t&url=https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1y93S8EQWFtjJKhVd6_FE0
-Apple's new CEO is a product perfectionist taking on the <b>AI</b> age | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/apples-new-ceo-is-product-perfectionist-taking-ai-age-2026-04-21/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3gEna4qXy54PxM9il8fID9
-About 2,000 fines withdrawn since <b>AI</b> road safety cameras introduced in WA - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-04-21/fines-withdrawn-as-ai-road-safety-camera-controversy-continues/106587938&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0dZHcJovCLY6L68ATwNPJS
-After watchdog slams understaffing, <b>AI</b> to vet Pentagon-backed professors' China ties - https://www.google.com/url?rct=j&sa=t&url=https://www.militarytimes.com/news/2026/04/20/after-watchdog-slams-understaffing-ai-to-vet-pentagon-backed-professors-china-ties/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2s9xFbcta4MEBmRuQVtzWs
-Mythos: are fears over new <b>AI</b> model panic or PR? – podcast | Science | The Guardian - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/science/audio/2026/apr/21/mythos-are-fears-over-new-ai-model-panic-or-pr-podcast&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2uqISsez9iWl6hYSwJj-fb
-Popular Rust-Based Database Turns To <b>AI</b> For Up To 1.5x Speedup, Other Improvements - https://www.google.com/url?rct=j&sa=t&url=https://www.phoronix.com/news/Redb-4.1-Released&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2uVPg99uUkAOfaN9yeY8vd
-How <b>AI</b> is helping haulage firm make deliveries - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c248myy0jr1o&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw32LHP1tZt9HttU9aaoThwh
-Pairing geotechnical data with <b>AI</b> helps New Zealand to build better - Source Asia - https://www.google.com/url?rct=j&sa=t&url=https://news.microsoft.com/source/asia/features/pairing-geotechnical-data-with-ai-helps-new-zealand-to-build-better/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw171wd3hIn6-ruFPnUXQKKr
-Microsoft announces boost in NZ <b>AI</b> training | RNZ <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.rnz.co.nz/news/business/592939/microsoft-announces-boost-in-nz-ai-training&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2mElVfT0SNk_8722RXqcqL
-Boehringer Ingelheim launches <b>AI</b> centre for pharma research in London | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/healthcare-pharmaceuticals/boehringer-ingelheim-launches-ai-centre-pharma-research-london-2026-04-20/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0_U9eW9TGwbJCp2iBb8Ex1
-Chinese tech workers are starting to train their <b>AI</b> doubles--and pushing back - https://www.google.com/url?rct=j&sa=t&url=https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0pOWFRRLAQPZxxZi7GSBlb
-New Talent Transformation Platform Designed to Accelerate Clients' Workforce <b>AI</b> Readiness - https://www.google.com/url?rct=j&sa=t&url=https://news.cognizant.com/2026-04-21-Cognizant-Propels-AI-Workforce-Training-with-Cognizant-Skillspring-TM-New-Talent-Transformation-Platform-Designed-to-Accelerate-Clients-Workforce-AI-Readiness&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw232CvoIbumPMG6sB9m1-kt
-Cognizant Propels <b>AI</b> Workforce Training with Cognizant Skillspring™: New Talent ... - https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/cognizant-propels-ai-workforce-training-with-cognizant-skillspring-new-talent-transformation-platform-designed-to-accelerate-clients-workforce-ai-readiness-302747436.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1uKMJnRKKf-QT0ueMWfadT
-Amazon To Invest Up To $25 Billion In <b>AI</b> Startup Anthropic. Why The Stock Is Rising. - https://www.google.com/url?rct=j&sa=t&url=https://www.investors.com/news/technology/amazon-to-invest-25-billion-ai-startup-anthropic-why-amzn-stock-rising/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2LvkQXOpammginoN76kas_
-<b>AI</b>+X Symposium brings interdisciplinary <b>AI</b> research and dialogue to USF Research Park - https://www.google.com/url?rct=j&sa=t&url=https://www.usf.edu/ai-cybersecurity-computing/news/2026/aix-symposium-brings-interdisciplinary-ai-research-and-dialogue-to-usf-research-park.aspx&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Q2SDk7GWRtflfGHuAA6I_
-Start vibe coding in <b>AI</b> Studio with your Google <b>AI</b> subscription. - https://www.google.com/url?rct=j&sa=t&url=https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3suf96eCswW5Xz0Bq14jVM
-Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023 - https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html
-5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time - https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html
-NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs - https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html
-No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks - https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html
-Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution - https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html
-CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines - https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html
-SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files - https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html
-AMD Ryzen 9 9950X3D2 Dual Edition Review: Going A Bit Higher - https://www.servethehome.com/amd-ryzen-9-9950x3d2-dual-edition-review-going-a-bit-higher/
-As Oceans Warm, Great White Sharks Are Overheating - https://e360.yale.edu/digest/great-white-sharks-climate
-Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men - https://www.wired.com/story/ai-generated-maga-girls/
-Fusion Power Plant Simulator - https://www.fusionenergybase.com/fusion-power-plant-simulator
-Your favorite brands got worse on purpose - https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose
-Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM - https://github.com/ENTERPILOT/GOModel/
-Vera C. Rubin Observatory has Discovered 11,000 New Asteroids - https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started
-Tindie store under "scheduled maintenance" for days - https://www.tindie.com/
-Tim Cook's Impeccable Timing - https://stratechery.com/2026/tim-cooks-impeccable-timing/
-Laws of Software Engineering - https://lawsofsoftwareengineering.com
-Apple ignores DMA interoperability requests and contradicts own documentation - https://fsfe.org/news/2026/news-20260420-01.html
-A type-safe, realtime collaborative Graph Database in a CRDT - https://codemix.com/graph
-Less human AI agents, please - https://nial.se/blog/less-human-ai-agents-please/
-Louis Zocchi, games industry pioneer, has died - https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice
-Salmon exposed to cocaine and its main byproduct roam more widely - https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust
-The Beauty of Bonsai Styles - https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles
-A Roblox cheat and one AI tool brought down Vercel's platform - https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform
-Anthropic says OpenClaw-style Claude CLI usage is allowed again - https://docs.openclaw.ai/providers/anthropic
-How to make a fast dynamic language interpreter - https://zef-lang.dev/implementation
-Initial Linux Driver Patches For Smart Data Accelerator Interface "SDXI" - https://www.phoronix.com/news/Initial-Linux-SDXI-Driver
-Linux 7.1 Staging Ushered In More Developers To Make Their First Kernel Contributions - https://www.phoronix.com/news/Linux-7.1-Staging
-AMD's GAIA Makes It Easier To Import/Export Custom AI Agents Across PCs - https://www.phoronix.com/news/AMD-GAIA-Import-Export-Agent
-HarfBuzz Continues Improving Its New GPU-Accelerated Text Shaping Library - https://www.phoronix.com/news/HarfBuzz-14.2-Released
-[$] Using LLMs to find Python C-extension bugs - https://lwn.net/Articles/1067234/
-Security updates for Tuesday - https://lwn.net/Articles/1068830/
-Git 2.54.0 released - https://lwn.net/Articles/1068703/
-Arch Linux now has a reproducible container image - https://lwn.net/Articles/1068699/
-Moonshot AI's new Kimi K2.6 swarms your complex tasks with 1,000 collaborating agents - https://www.zdnet.com/article/moonshot-ai-kimi-k2-6-swarms-complex-tasks-collaborating-agents/
-I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard - https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/
-Does Walmart price match? What to know about online and in-store price matching policies - https://www.zdnet.com/article/does-walmart-price-match-faq/
-Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it - https://www.zdnet.com/article/google-pixel-take-a-message-feature-how-to-use/
-CISA flags new SD-WAN flaw as actively exploited in attacks - https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/
-Actively exploited Apache ActiveMQ flaw impacts 6,400 servers - https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/
-Former ransomware negotiator pleads guilty to BlackCat attacks - https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/
-NGate Android malware uses HandyPay NFC app to steal card data - https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/
-KelpDAO suffers $290 million heist tied to Lazarus hackers - https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/
-China's Apple App Store infiltrated by crypto-stealing wallet apps - https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/
-The Gentlemen ransomware now uses SystemBC for bot-powered attacks - https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/
-Seiko USA website defaced as hacker claims customer data theft - https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/
-Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool - https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool
-Vercel Employee's AI Tool Access Led to Data Breach - https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach
-Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs - https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs
-Azure SRE Agent flaw lets outsiders silently eavesdrop on enterprise cloud operations - https://www.csoonline.com/article/4161389/azure-sre-agent-flaw-let-outsiders-silently-eavesdrop-on-enterprise-cloud-operations.html
-Prompt injection turned Google’s Antigravity file search into RCE - https://www.csoonline.com/article/4161382/prompt-injection-turned-googles-antigravity-file-search-into-rce.html
-Top techniques attackers use to infiltrate your systems today - https://www.csoonline.com/article/4161104/top-techniques-cyberattackers-use-to-infiltrate-your-systems-today.html
-AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars - https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/
-Loneliness in older adults can often lead to memory impairment - https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/
-John Ternus will replace Tim Cook as Apple CEO - https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/
-US opens refund portal to start paying back Trump's illegal tariffs - https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/
-Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent - https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/
-John Ternus’ first big problem is AI - https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri
-Splatoon Raiders hits the Switch 2 in July - https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer
-The SpaceX IPO is a trillion-dollar gamble on the future of space - https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch
-Apple will have a product guy as CEO again - https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook
-Yelp is making its AI chatbot way more useful - https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade
-Microsoft Teams is trying to fix accidental hand-raising - https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix
-Ikea and Samsung promise glitch-free Matter integration - https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration
-Samsung brings SmartThings integration to IKEA's Matter devices - https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss
-Splatoon Raiders lands on Nintendo Switch 2 on July 23 - https://www.engadget.com/gaming/nintendo/splatoon-raiders-lands-on-nintendo-switch-2-on-july-23-140447901.html?src=rss
-Chipolo and Secrid team up for a new trackable wallet - https://www.engadget.com/general/chipolo-and-secrid-team-up-for-a-new-trackable-wallet-130035324.html?src=rss
-Amazon allegedly pressured companies to raise product prices with other retailers - https://www.engadget.com/big-tech/amazon-allegedly-pressured-companies-to-raise-product-prices-with-other-retailers-115302642.html?src=rss
-The Morning After: The next CEO of Apple will be hardware exec John Ternus - https://www.engadget.com/general/the-morning-after-engadget-newsletter-111546149.html?src=rss
-Yelp's AI chatbot can now make your dinner reservation - https://www.engadget.com/apps/yelps-ai-chatbot-can-now-make-your-dinner-reservation-110000661.html?src=rss
-Homeland Security reportedly wants to develop smart glasses for ICE - https://www.engadget.com/wearables/homeland-security-reportedly-wants-to-develop-smart-glasses-for-ice-093449347.html?src=rss
-Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for - https://www.engadget.com/audio/headphones/sennheiser-launches-hd-480-pro-the-closed-back-headphones-fans-have-been-waiting-for-080000727.html?src=rss
-Amazon will invest up to $25 billion in Anthropic in a broad deal - https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss
-Google brings Gemini in Chrome to users in Asia and the Pacific - https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-asia-and-the-pacific-220000698.html?src=rss
-Mastodon was hit by a 'major' DDoS attack that briefly took down parts of the service - https://www.engadget.com/social-media/mastodon-was-hit-by-a-major-ddos-attack-that-briefly-took-down-parts-of-the-service-204823221.html?src=rss
-Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23 - https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss
-LinkedIn's new Crosscheck feature lets premium subscribers test competing AI models for free - https://www.engadget.com/ai/linkedins-crosscheck-feature-lets-premium-subscribers-test-ai-models-for-free-183949210.html?src=rss
-Meta is testing a WhatsApp Plus subscription that mostly focuses on cosmetic upgrades - https://www.engadget.com/apps/meta-is-testing-a-whatsapp-plus-subscription-that-mostly-focuses-on-cosmetic-upgrades-175452371.html?src=rss
-The FAA grounds Blue Origin New Glenn rocket after failure to put payload in orbit - https://www.engadget.com/science/space/the-faa-grounds-blue-origin-new-glenn-rocket-after-failure-to-put-payload-in-orbit-173016117.html?src=rss
-Ball x Pit's next update adds 11 more balls to the fray on April 27 - https://www.engadget.com/gaming/ball-x-pits-next-update-adds-11-more-balls-to-the-fray-on-april-27-170929983.html?src=rss
-The 10 Best Electrolyte Powders (We Tested Nearly 20) - https://www.wired.com/story/best-electrolyte-powders/
-H2O Audio Tri Run Workout Headphones Review: A Little Underwhelming - https://www.wired.com/review/h2o-audio-tri-run-workout-headphones/
-The Internet’s Favorite Lawyer Says We’re Living Through ‘Multiple Watergates per Week’ - https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/
-They Built a Legendary Privacy Tool. Now They’re Sworn Enemies - https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/
-Apple CEO Tim Cook Is Stepping Down - https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/
-A Hot-Air Balloon Landed in a California Backyard. The Owner Says It's a 'Very Rare' Event - https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/
-War Memes Are Turning Conflict Into Content - https://www.wired.com/story/war-memes-turn-conflict-into-content/
-New era as Apple names new boss to replace Tim Cook after 15 years - https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss
-Blue Origin rocket grounded after satellite 'mishap' - https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss
-What Happens When A.I. Runs a Store in San Francisco? - https://www.nytimes.com/2026/04/21/us/san-francisco-store-managed-ai-agent.html
-California Accuses Amazon of Price Fixing in Legal Filing - https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html
-Ofcom to probe Telegram over claims of child sexual abuse material on app - https://www.ft.com/content/877411bf-c810-473c-a4f5-d0468d81bbd1
-Apple chief Tim Cook to hand over to John Ternus in September - https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615
-Revolut aims for $200bn valuation in stock market listing - https://www.ft.com/content/dc9d96ed-07e7-4184-8c26-9d4ee29d81a2
-Europe’s AI endgame? Bet on reliability - https://www.ft.com/content/bc29b61f-4007-4fd4-be53-07eea41f3fa5
-Iran war spurs global demand for defence equipment, says Thales - https://www.ft.com/content/67eeb734-6934-4023-b7c4-855faff5ed02
-Is Ternus the leader Apple needs for the AI era? - https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c
-Smartphones to be banned in schools in England - https://www.ft.com/content/64f88c2b-5013-485a-9009-49a4cfe01e55
-Bezos’s Project Prometheus AI lab nears $38bn valuation in funding deal - https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded
-Anthropic and Amazon agree $100bn AI infrastructure deal - https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923
-What does AI really mean for your work? Submit your questions - https://www.ft.com/content/0a1cd640-abb9-4b6e-9576-307768f80933
-America’s coming revolt is in the ‘wired belt’ - https://www.ft.com/content/08ac1335-6fa5-4f62-ab51-0451d9e155d4
-The Forgotten History of Hershey’s Electric Railway in Cuba - https://spectrum.ieee.org/hershey-electric-railway-cuba
-I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing - https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/
-Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It - https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/
-Scaling Codex to enterprises worldwide - https://openai.com/index/scaling-codex-to-enterprises-worldwide
-Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps - https://www.marktechpost.com/2026/04/20/moonshot-ai-releases-kimi-k2-6-with-long-horizon-coding-agent-swarm-scaling-to-300-sub-agents-and-4000-coordinated-steps/
-A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning - https://www.marktechpost.com/2026/04/20/a-coding-implementation-on-microsofts-phi-4-mini-for-quantized-inference-reasoning-tool-use-rag-and-lora-fine-tuning/
-Snowflake expands its technical and mainstream AI platforms - https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/
-Siemens introduces AI system for automation engineering - https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/
+Browser Gaming Is Heading Toward $3 Billion. Here Is Why It Is Being Taken Seriously - https://www.geeky-gadgets.com/browser-gaming-is-growing-fast/
+Deep <b>neural network</b>-based cyber-attack avoidance system with hybrid optimization - https://www.google.com/url?rct=j&sa=t&url=https://link.springer.com/article/10.1007/s11227-026-08513-6&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0Rvos6HOz9lFgECuFhEtsl
+Alpha synuclein reveals complexity behind Alzheimer's and Parkinson's diagnosis - https://www.google.com/url?rct=j&sa=t&url=https://www.drugdiscoverynews.com/alpha-synuclein-reveals-complexity-behind-alzheimer-s-and-parkinson-s-diagnosis-17131&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1hSuUlp7QhSVOL0M9h3WVj
+SkyBiometry Announces New Services to Design AI-Ready Infrastructure and Deliver ... - https://www.google.com/url?rct=j&sa=t&url=https://firstwordpharma.com/story/7199235&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1w4H_oBinBfbpL7X0EjI2q
+A student's path to publishing - JHU Hub - Johns Hopkins University - https://www.google.com/url?rct=j&sa=t&url=https://hub.jhu.edu/2026/04/21/an-undergrads-path-to-publishing/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw26KdtklGAO-xKV5ElexFGe
+AI at MIT - MIT Technology Review - https://www.google.com/url?rct=j&sa=t&url=https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw16FAvTa5TyYdYTWxeIZKZN
+LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review - https://www.google.com/url?rct=j&sa=t&url=https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2RMK6oniInpDMaLaZgIsgV
+Terrence Sejnowski wins inaugural World Digital Technology Academy Award - EurekAlert! - https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1125150&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2K5WUQHJUX52Gwi1dPjBJW
+Drawing out the soul of AI | Colorado Arts and Sciences Magazine - https://www.google.com/url?rct=j&sa=t&url=https://www.colorado.edu/asmagazine/2026/04/21/drawing-out-soul-ai&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1-fpMXQca-B1NVhxOO9fQg
+Data-Driven Break Size Detection Model for Small Modular Reactors Based ... - ScienceDirect.com - https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0951832026005909&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3zokZcedQcKgn502IqWxkk
+Artificial intelligence comes to particle detectors through NEUROPix - EurekAlert! - https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1125157&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3jhq2FKl2cQgfOIEsVEIAQ
+Towards Artificial Intelligence Hardware With 3D Integrated Ferroelectric Transistors - Seok - https://www.google.com/url?rct=j&sa=t&url=https://onlinelibrary.wiley.com/doi/10.1002/smll.73295%3Faf%3DR&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw28M_jQ2CDl8y5zyJBMzgkr
+Hong Kong IPOs lure mainland China insurers seeking higher returns - https://www.scmp.com/business/banking-finance/article/3350821/hong-kong-ipos-lure-mainland-china-insurers-seeking-higher-returns?utm_source=rss_feed
+US-China AI race must strike a balance between security and openness - https://www.scmp.com/opinion/china-opinion/article/3350871/us-china-ai-race-must-strike-balance-between-security-and-openness?utm_source=rss_feed
+Redwood Materials lays off 10% in restructuring to chase energy storage business - https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/
+Meta will record employees’ keystrokes and use it to train its AI models - https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/
+Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims - https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/
+SpaceX is working with Cursor and has an option to buy the startup for $60B - https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/
+AI research lab NeoCognition lands $40M seed to build agents that learn like humans - https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/
+Apple’s Cal AI crackdown signals it’s still policing the App Store - https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/
+SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people - https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/
+ChatGPT’s new Images 2.0 model is surprisingly good at generating text - https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/
+Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’ - https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/
+Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says - https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/
+Technofacism? Why Palantir's pro-West 'manifesto' has critics alarmed - Al Jazeera - https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/4/21/technofacism-why-palantirs-pro-west-manifesto-has-critics-alarmed&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1XPsgDGdcvyjl7lavSCWeK
+<b>AI</b> Subverts Socialism, Too - WSJ - https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/opinion/ai-subverts-socialism-too-6243f472&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2OlGR_sY3uf-yFeTrd2m8b
+Meta to track workers' clicks and keystrokes to train <b>AI</b> - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cvglyklz49jo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0bc1jFL1EEhTkPG1t9Cum1
+Why Anthropic's new <b>AI</b> is 'too dangerous' to release | Cost of Living - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1qy5uEy2Es0&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3YcTDVw4ARIMevquzZoDny
+GRAI believes <b>AI</b> can make music more social, not replace artists - TechCrunch - https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw17DvVCeIqmvevvCBwpr2m5
+Tech stocks today: Apple stock falls as Wall Street sizes up new CEO John Ternus ... - Yahoo Finance - https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-falls-as-wall-street-sizes-up-new-ceo-john-ternus-anthropic-makes-progress-on-pentagon-deal-144220057.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1IqJq3CIygkRyVtzDscw7T
+<b>AI</b> startup Anthropic commits $100 billion to Amazon's AWS over next 10 years | AP <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://apnews.com/article/amazon-anthropic-ai-artificial-intelligence-aws-claude-cffa2cc19f9928d9ac44e44f2d967d36&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw07SIlpPgKNM3QUSZ7PbHr3
+How <b>AI</b> is changing your weather forecast | CBC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/canada/nova-scotia/weather-forecasting-ai-9.7171795&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw032e5jN8ooYqOTYqcBwDGk
+Pete Buttigieg Roasts Donald Trump Over <b>AI</b> “Jesus” Post: “He Insulted Your Faith” | US <b>NEWS</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrLiZydmxH_g&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1mn7Cwaq6ogaqE4i-BXeHg
+Who decides how <b>AI</b> is used in war? - The Parliament Magazine - https://www.google.com/url?rct=j&sa=t&url=https://www.theparliamentmagazine.eu/news/article/who-decides-how-ai-is-used-in-war&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2C5ZmmRGZTwCg7zlRlfycj
+Bell's <b>AI</b> Data Centre approved by council amidst chaotic protest | Globalnews.ca - https://www.google.com/url?rct=j&sa=t&url=https://globalnews.ca/news/11809987/bells-ai-data-centre-approved-by-council-amidst-chaotic-protest/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1issdlv6tYwkv4Zi6qjmPU
+Lenovo Brings Production-Scale <b>AI</b> to Hannover Messe 2026, Delivering Up to 85% Faster ... - https://www.google.com/url?rct=j&sa=t&url=https://news.lenovo.com/pressroom/press-releases/hannover-messe-2026-manufacturing-ai-solutions/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2435MGyXHznGZFby6Y8TGo
+<b>AI</b> Dungeon maker Latitude unveils Voyage, a platform for creating <b>AI</b>-powered RPGs - https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2LstQkZyqb73UGOaHm3aSB
+Meta is installing new software on its US employees' computers that will track their ... - Instagram - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DXaDyZ3Ccyo/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1zMkVFKsyly5WvYNGpxzWp
+<b>AI</b> is helping these Terps create a biodegradable plastic cling wrap - WTOP <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://wtop.com/maryland/2026/04/ai-is-helping-these-terps-create-a-biodegradable-plastic-cling-wrap/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0ANtseUlwJ_BgM9ZZ50nrr
+World <b>News</b> in Brief: Tackling the <b>AI</b> digital divide, deadly migration journeys, Lucy Hale ... - https://www.google.com/url?rct=j&sa=t&url=https://news.un.org/en/story/2026/04/1167349&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3jD0WcVWKM6cwAZq20dH6j
+<b>AI</b> model 'reads' protein pairs, unlocking new insights into disease and drug discovery - https://www.google.com/url?rct=j&sa=t&url=https://phys.org/news/2026-04-ai-protein-pairs-insights-disease.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1_ZvOMp7d_hPlaM8Jy-bvA
+Freshman engages with <b>AI</b> policy in D.C. | FIU <b>News</b> - Florida International University - https://www.google.com/url?rct=j&sa=t&url=https://news.fiu.edu/2026/how-the-fiu-in-dc-future-of-ai-fly-in-is-shaping-my-future&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3g1z2lo1Ei2nJYWZARs8sK
+Global stocks recouped Iran conflict losses — but the shadow of Mideast war still looms - CNBC - https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/04/21/global-stocks-iran-conflict-ai-rally.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw211R8kdxLDubx1NDR5fMZA
+TVC <b>News AI</b> Hausa Headline <b>News</b> | 21st April, 2026 - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_fwGafyrkYM&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1NGm3dGfFIITdc4rj5t-aW
+SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation - https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html
+Global growth in solar "the largest ever observed for any source" - https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/
+San Diego rents declined more than 19 of 20 top US markets after surge in supply - https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply
+I'm Sick of AI Everything - https://news.ycombinator.com/item?id=47857461
+Drunk Post: Things I've Learned as a Senior Engineer - https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as
+SpaceX says it has agreement to acquire Cursor for $60B - https://twitter.com/spacex/status/2046713419978453374
+Zindex – Diagram Infrastructure for Agents - https://zindex.ai/
+ChatGPT Images 2.0 - https://openai.com/index/introducing-chatgpt-images-2-0/
+Framework Laptop 13 Pro - https://frame.work/laptop13pro
+Cal.diy: open-source community edition of cal.com - https://github.com/calcom/cal.diy
+Meta to start capturing employee mouse movements, keystrokes for AI training - https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/
+Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica - https://britannica11.org/
+The Vercel breach: OAuth attack exposes risk in platform environment variables - https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
+Trellis AI (YC W24) Is hiring engineers to build self-improving agents - https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time
+Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden - https://www.phoronix.com/news/Linux-Old-Network-AI
+Dirk Eddelbuettel: RcppArmadillo 15.2.6-1 on CRAN: Several Updates - http://dirk.eddelbuettel.com/blog/2026/04/21#rcpparmadillo_15.2.6-1
+I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception - https://www.zdnet.com/article/chatgpt-images-2-hands-on-testing/
+I compared Thread, Zigbee, and Matter - here's the best smart home setup for you - https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/
+Scaling agentic AI demands a strong data foundation - 4 steps to take first - https://www.zdnet.com/article/scaling-agentic-ai-requires-strong-data-foundation/
+5 Apple products explain my optimism for John Ternus as the next CEO - https://www.zdnet.com/article/5-apple-products-explain-my-optimism-for-john-ternus-as-the-next-ceo/
+This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works - https://www.zdnet.com/article/motorola-moto-g-deal/
+Verizon will give you Meta Ray-Bans for free with this Fios Internet deal - how to get yours - https://www.zdnet.com/article/meta-ray-bans-smart-glasses-verizon-deal/
+French govt agency confirms breach as hacker offers to sell data - https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/
+New Lotus data wiper used against Venezuelan energy, utility firms - https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/
+Ransomware Negotiator Pleads Guilty to BlackCat Scheme - https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme
+Exploits Turn Windows Defender into Attacker Tool - https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool
+Thousands of Apache ActiveMQ instances still unpatched, weeks after an actively exploited hole discovered - https://www.csoonline.com/article/4161532/thousands-of-apache-activemq-instances-still-unpatched-weeks-after-an-actively-exploited-hole-discovered.html
+Pentagon wants $54B for drones, more than most nations’ military budgets - https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/
+Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150 - https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/
+Florida probes ChatGPT role in mass shooting. OpenAI says bot "not responsible." - https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/
+Report: Meta will train AI agents by tracking employees' mouse, keyboard use - https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/
+Framework Laptop 16 upgrades make it look less like an unfinished prototype - https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/
+Internal emails show how Amazon raises prices across the Internet, lawsuit says - https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/
+Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips - https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/
+SpaceX cuts a deal to maybe buy Cursor for $60 billion - https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition
+AI backlash is coming for elections - https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs
+OpenAI’s updated image generator can now pull information from the web - https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2
+Framework’s Laptop 13 Pro launch event - https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event
+X makes it 1,900 percent more expensive to post links - https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme
+Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’ - https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users
+Framework’s first eGPUs turn its laptop into a desktop PC - https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16
+SpaceX and Cursor strike partnership that might end in a $60 billion acquisition - https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss
+Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos - https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss
+YouTube is muting push notifications from channels you don't watch - https://www.engadget.com/entertainment/youtube/youtube-is-muting-push-notifications-from-channels-you-dont-watch-205119228.html?src=rss
+AI company deletes the 3 million OKCupid photos it used for facial recognition training - https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss
+Meta has misled users about scam ads on Facebook and Instagram, lawsuit says - https://www.engadget.com/social-media/meta-has-misled-users-about-scam-ads-on-facebook-and-instagram-lawsuit-says-193220235.html?src=rss
+New York Attorney General sues two prediction markets on illegal gambling allegations - https://www.engadget.com/big-tech/new-york-attorney-general-sues-two-prediction-markets-on-illegal-gambling-allegations-192012225.html?src=rss
+Florida AG opens criminal investigation into OpenAI and ChatGPT - https://www.engadget.com/ai/florida-ag-opens-criminal-investigation-into-openai-and-chatgpt-190200227.html?src=rss
+ChatGPT Images 2.0 is better at rendering non-Latin text - https://www.engadget.com/ai/chatgpt-images-20-is-better-at-rendering-non-latin-text-190000153.html?src=rss
+Netflix's Devil May Cry animated adaptation returns for a second season on May 12 - https://www.engadget.com/entertainment/tv-movies/netflixs-devil-may-cry-animated-adaptation-returns-for-a-second-season-on-may-12-184003226.html?src=rss
+Framework is building an eGPU kit for its Laptop 16 - https://www.engadget.com/computing/laptops/framework-is-building-an-egpu-kit-for-its-laptop-16-181516238.html?src=rss
+Framework launches the Laptop 13 Pro with Intel's new Panther Lake chips - https://www.engadget.com/computing/laptops/framework-launches-the-laptop-13-pro-with-intels-new-panther-lake-chips-181503934.html?src=rss
+Silo's season 3 trailer takes us back to how it all began - https://www.engadget.com/entertainment/tv-movies/silos-season-3-trailer-takes-us-back-to-how-it-all-began-171033410.html?src=rss
+Oppo announces the Find X9 Ultra with a 50MP 10x optical zoom telephoto camera - https://www.engadget.com/mobile/smartphones/oppo-find-x9-ultra--50mp-10x-optical-zoom-telephoto-release-date-price-170052539.html?src=rss
+Framework Has a Better, More Take-Apartable Laptop - https://www.wired.com/story/framework-laptop-13-pro/
+OpenAI Beefs Up ChatGPT’s Image Generation Model - https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/
+Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox - https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/
+Tim Cook’s Legacy Is Turning Apple Into a Subscription - https://www.wired.com/story/apple-tim-cook-subscription-business/
+UK gaming icon Peter Molyneux on AI, his final creation and a changing industry - https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss
+Meta to track workers' clicks and keystrokes to train AI - https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss
+AI hacking tools like Mythos can be 'net positive' says top cyber official - https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss
+SpaceX Strikes Deal With Cursor for $60 Billion - https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html
+SpaceX obtains right to buy AI start-up Cursor for $60bn - https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860
+‘Why isn’t the energy used by people?’: China’s global AI push hits resistance - https://www.ft.com/content/001dec5b-9e13-4a23-9dc5-dda537a47ae3
+Anthropic investigating unauthorised access of powerful Mythos AI model - https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf
+JetBlue pressed by US lawmakers over suspected surveillance pricing - https://www.ft.com/content/92388557-4223-4891-8724-13518238f352
+Elite law firm Sullivan & Cromwell admits to AI ‘hallucinations’ - https://www.ft.com/content/657d86df-5e0d-4d03-bf0c-cb768a58e758
+DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling - https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/
+Hugging Face Releases ml-intern: An Open-Source AI Agent that Automates the LLM Post-Training Workflow - https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/
