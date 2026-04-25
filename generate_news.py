@@ -79,6 +79,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (NewsAggregatorBot/1.0)"
 }
 
+MAX_DAILY_ARTICLES = 1000
+
 logging.basicConfig(level=logging.INFO)
 
 # ---------------- HELPERS ---------------- #
@@ -169,6 +171,15 @@ def dedupe_articles(articles):
             seen[key] = a
     return list(seen.values())
 
+
+def limit_articles(articles):
+    if len(articles) <= MAX_DAILY_ARTICLES:
+        return articles
+
+    sorted_articles = sorted(articles, key=lambda a: a["date"], reverse=True)
+    logging.info(f"Trimming articles to the latest {MAX_DAILY_ARTICLES} of {len(articles)} collected today")
+    return sorted_articles[:MAX_DAILY_ARTICLES]
+
 # ---------------- OUTPUT ---------------- #
 
 def save_markdown(articles):
@@ -205,7 +216,7 @@ def generate_html(articles):
 
 def main():
     logging.info("Fetching articles...")
-    articles = fetch_all_articles()
+    articles = limit_articles(fetch_all_articles())
 
     logging.info(f"Collected {len(articles)} articles")
 

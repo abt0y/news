@@ -65,7 +65,53 @@
             background: #fff;
             transform: translateY(-1px);
         }
-        .view-toggle active {
+        .view-toggle.active {
+            color: var(--accent);
+        }
+        .theme-toggle {
+            background: var(--accent-soft);
+            color: var(--accent);
+            border: 1px solid transparent;
+            border-radius: 999px;
+            padding: 0.65rem 1rem;
+            cursor: pointer;
+            transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+        }
+        .theme-toggle:hover {
+            background: var(--accent);
+            color: #fff;
+            transform: translateY(-1px);
+        }
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+        .favorite-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text);
+            border-radius: 999px;
+            padding: 0.6rem 0.9rem;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+        }
+        .favorite-button:hover {
+            transform: translateY(-1px);
+            border-color: rgba(59,130,246,0.4);
+        }
+        .favorite-button.active {
+            background: rgba(251,113,133,0.12);
+            border-color: rgba(251,113,133,0.4);
+            color: #be123c;
+        }
+        .theme-toggle {
+            background: var(--accent-soft);
             color: var(--accent);
         }
         .category-tabs {
@@ -184,6 +230,16 @@
             .status-bar { justify-content: center; }
             .category-tabs { justify-content: center; }
         }
+        [data-theme="dark"] {
+            --bg: #020617;
+            --surface: #0e1626;
+            --text: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --accent: #7c3aed;
+            --accent-soft: rgba(124,58,237,0.16);
+            --border: #1e293b;
+            --shadow: 0 24px 60px rgba(0, 0, 0, 0.45);
+        }
         .fade-enter { opacity: 0; transform: translateY(16px); }
         .fade-enter-active { opacity: 1; transform: translateY(0); transition: opacity 0.35s ease, transform 0.35s ease; }
     </style>
@@ -200,8 +256,10 @@
             <div>
                 <span id="feed-count">Loading articles...</span>
                 <span id="feed-category">Category: AI</span>
+                <span id="favorite-count">Favorites: 0</span>
             </div>
             <button id="view-toggle" class="view-toggle" type="button">Switch to List View</button>
+            <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">🌙</button>
         </div>
     </header>
 
@@ -217,33 +275,29 @@
     </footer>
 
     <script>
-        const articleData = [
-            { title: 'AI Copilots Reimagine Creative Workflows', category: 'ai', summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod ex vel lacus maximus, eget luctus metus elementum.', published: 'Apr 25, 2026' },
-            { title: 'Chip Makers Race to 2nm Yields', category: 'chip', summary: 'Quisque sed odio nec arcu cursus interdum. Integer vitae turpis vel nisl semper cursus at et elit.', published: 'Apr 25, 2026' },
-            { title: 'Cyber Defense Adapts to AI-Powered Threats', category: 'cyber', summary: 'Sed pretium, nibh non congue gravida, tellus nisl volutpat risus, id mollis velit quam vitae lorem.', published: 'Apr 24, 2026' },
-            { title: 'Hardware Startups Focus on Energy Efficiency', category: 'hardware', summary: 'Phasellus blandit purus id urna commodo, vitae imperdiet tortor vestibulum. Nulla facilisi.', published: 'Apr 24, 2026' },
-            { title: 'AI-Generated Art Sparks New Debate', category: 'arts', summary: 'Nullam accumsan dolor vel neque efficitur, eget interdum ex placerat. Curabitur euismod lorem ut ante mollis.', published: 'Apr 23, 2026' },
-            { title: 'Science Labs Publish Breakthrough Quantum Results', category: 'science', summary: 'Duis pulvinar nisi ut commodo mattis. Fusce vitae sapien in velit molestie tincidunt.', published: 'Apr 23, 2026' },
-            { title: 'AI Ethics Panels Redefine Responsible Design', category: 'ai', summary: 'Aenean fermentum, orci nec aliquam posuere, augue sapien fermentum orci, a porta urna ipsum sit amet erat.', published: 'Apr 22, 2026' },
-            { title: 'Advanced Node Packaging Improves Chip Density', category: 'chip', summary: 'Curabitur non turpis vitae risus suscipit venenatis. Pellentesque a congue turpis, ac vehicula urna.', published: 'Apr 22, 2026' },
-            { title: 'New Firewall Tools Use Behavioral AI', category: 'cyber', summary: 'Mauris sit amet nisi nec orci feugiat vehicula. Etiam eu leo non lectus pulvinar vestibulum.', published: 'Apr 21, 2026' },
-            { title: 'Modular Hardware Designs Hit the Mainstream', category: 'hardware', summary: 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et leo sem.', published: 'Apr 21, 2026' },
-            { title: 'Interactive Installations Blend Tech and Art', category: 'arts', summary: 'Sed vitae urna ut nulla feugiat eleifend. Proin in convallis augue, pretium euismod nulla.', published: 'Apr 20, 2026' },
-            { title: 'Space Science Missions Chart New Worlds', category: 'science', summary: 'Fusce sed magna quis enim fermentum ultrices. Nulla convallis velit vel massa vehicula, ac iaculis libero ultricies.', published: 'Apr 20, 2026' }
-        ];
+        const articleData = {{ articles | default([]) | tojson | safe }};
+        articleData.forEach(article => {
+            article.category = article.category || (article.topics?.[0]?.toLowerCase() || 'general');
+            article.link = article.link || '#';
+        });
 
-        const categories = ['all', 'ai', 'chip', 'cyber', 'hardware', 'arts', 'science'];
+        const categories = ['all', ...Array.from(new Set(articleData.map(article => article.category)))];
         let currentCategory = 'all';
         let visibleCount = 6;
         const pageSize = 6;
+        const MAX_DAILY_ARTICLES = 1000;
+        const favoritesKey = 'daily-news-favorites';
+        let favorites = loadFavorites();
         let isListView = false;
         const grid = document.getElementById('news-grid');
         const tabsContainer = document.getElementById('category-tabs');
         const feedCount = document.getElementById('feed-count');
         const feedCategory = document.getElementById('feed-category');
+        const favoriteCount = document.getElementById('favorite-count');
         const emptyState = document.getElementById('empty-state');
         const loadMoreButton = document.getElementById('load-more');
         const viewToggle = document.getElementById('view-toggle');
+        const themeToggle = document.getElementById('theme-toggle');
 
         function getFilteredArticles() {
             return currentCategory === 'all'
@@ -251,25 +305,64 @@
                 : articleData.filter(article => article.category === currentCategory);
         }
 
+        function loadFavorites() {
+            try {
+                return new Set(JSON.parse(localStorage.getItem(favoritesKey) || '[]'));
+            } catch {
+                return new Set();
+            }
+        }
+
+        function saveFavorites() {
+            localStorage.setItem(favoritesKey, JSON.stringify([...favorites]));
+        }
+
+        function isFavorite(articleId) {
+            return favorites.has(articleId);
+        }
+
+        function toggleFavorite(articleId) {
+            if (favorites.has(articleId)) {
+                favorites.delete(articleId);
+            } else {
+                favorites.add(articleId);
+            }
+            saveFavorites();
+            renderArticles();
+        }
+
         function updateStatus() {
             const filtered = getFilteredArticles();
-            feedCount.textContent = `${Math.min(visibleCount, filtered.length)} of ${filtered.length} stories`;
+            const totalAvailable = Math.min(filtered.length, MAX_DAILY_ARTICLES);
+            feedCount.textContent = `${Math.min(visibleCount, totalAvailable)} of ${filtered.length} stories${filtered.length > MAX_DAILY_ARTICLES ? ' (showing latest 1000)' : ''}`;
             feedCategory.textContent = `Category: ${currentCategory.toUpperCase()}`;
+            favoriteCount.textContent = `Favorites: ${favorites.size}`;
             emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
-            loadMoreButton.style.display = filtered.length > visibleCount ? 'inline-flex' : 'none';
+            loadMoreButton.style.display = visibleCount < totalAvailable ? 'inline-flex' : 'none';
         }
 
         function createArticleCard(article) {
             const card = document.createElement('article');
             card.className = 'news-card fade-enter';
+            const favoriteActive = isFavorite(article.id) ? 'active' : '';
+            const linkTarget = article.link || '#';
             card.innerHTML = `
                 <div class="card-content">
-                    <span class="tag">${article.category}</span>
+                    <div class="card-header">
+                        <span class="tag">${article.category.toUpperCase()}</span>
+                        <button class="favorite-button ${favoriteActive}" type="button" aria-label="Toggle favorite">
+                            <span class="heart">${favoriteActive ? '❤️' : '🤍'}</span>
+                        </button>
+                    </div>
                     <h2>${article.title}</h2>
                     <p class="summary">${article.summary}</p>
-                    <div class="meta"><span>${article.published}</span><span class="read-more">Read more →</span></div>
+                    <div class="meta">
+                        <span>${article.published}</span>
+                        <a class="read-more" href="${linkTarget}" target="_blank" rel="noopener noreferrer">Read more →</a>
+                    </div>
                 </div>
             `;
+            card.querySelector('.favorite-button').addEventListener('click', () => toggleFavorite(article.id));
             requestAnimationFrame(() => card.classList.add('fade-enter-active'));
             return card;
         }
@@ -282,7 +375,8 @@
                 updateStatus();
                 return;
             }
-            const items = filtered.slice(0, visibleCount);
+            const totalAvailable = Math.min(filtered.length, MAX_DAILY_ARTICLES);
+            const items = filtered.slice(0, Math.min(visibleCount, totalAvailable));
             items.forEach(article => grid.appendChild(createArticleCard(article)));
             updateStatus();
         }
@@ -316,9 +410,10 @@
         }
 
         function loadMore() {
-            const filteredLength = getFilteredArticles().length;
-            if (visibleCount >= filteredLength) return;
-            visibleCount = Math.min(filteredLength, visibleCount + pageSize);
+            const filtered = getFilteredArticles();
+            const totalAvailable = Math.min(filtered.length, MAX_DAILY_ARTICLES);
+            if (visibleCount >= totalAvailable) return;
+            visibleCount = Math.min(totalAvailable, visibleCount + pageSize);
             renderArticles();
         }
 
@@ -327,9 +422,37 @@
             if (nearBottom) loadMore();
         }
 
+        function setTheme(theme) {
+            document.body.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+            themeToggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+        }
+
+        function initTheme() {
+            const saved = localStorage.getItem('theme');
+            if (saved) {
+                setTheme(saved);
+            } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme('dark');
+            } else {
+                setTheme('light');
+            }
+
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+                if (!localStorage.getItem('theme')) {
+                    setTheme(e.matches ? 'dark' : 'light');
+                }
+            });
+        }
+
         loadMoreButton.addEventListener('click', loadMore);
         viewToggle.addEventListener('click', toggleViewMode);
+        themeToggle.addEventListener('click', () => {
+            const current = document.body.getAttribute('data-theme');
+            setTheme(current === 'dark' ? 'light' : 'dark');
+        });
         window.addEventListener('scroll', handleScroll);
+        initTheme();
         setupTabs();
     </script>
 </body>
