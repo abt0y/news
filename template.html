@@ -6,203 +6,331 @@
     <title>Daily AI & Tech News</title>
     <style>
         :root {
-            --bg: #f8f9fa;
+            --bg: #f4f7fb;
             --surface: #ffffff;
-            --text: #1f2937;
-            --text-secondary: #4b5563;
+            --text: #121827;
+            --text-secondary: #52606d;
             --accent: #3b82f6;
-            --border: #e5e7eb;
+            --accent-soft: rgba(59,130,246,0.12);
+            --border: #d9e2ec;
+            --shadow: 0 24px 60px rgba(15, 23, 42, 0.08);
         }
-        [data-theme="dark"] {
-            --bg: #0f172a;
-            --surface: #1e2937;
-            --text: #f1f5f9;
-            --text-secondary: #94a3b8;
-            --accent: #60a5fa;
-            --border: #334155;
-        }
-        * { margin:0; padding:0; box-sizing:border-box; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { min-height: 100%; }
         body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
-            transition: background 0.4s, color 0.4s;
         }
-        .container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; }
-        header {
-            background: var(--surface);
-            border-bottom: 1px solid var(--border);
-            padding: 1.25rem 0;
-            position: sticky; top: 0; z-index: 100;
+        .container { width: min(1280px, 100% - 2rem); margin: 0 auto; }
+        header { padding: 2rem 0 1rem; }
+        .hero {
+            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;
+            align-items: flex-end;
         }
-        .header-content {
-            display: flex; justify-content: space-between; align-items: center;
+        .hero-title {
+            max-width: 720px;
         }
-        h1 { font-size: 1.75rem; color: var(--accent); }
-        .theme-toggle {
-            background: none; border: 2px solid var(--border);
-            width: 50px; height: 50px; border-radius: 50%;
-            font-size: 1.5rem; cursor: pointer; transition: all 0.3s;
+        .hero-title h1 {
+            font-size: clamp(2rem, 3vw, 3.2rem);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.03em;
         }
-        .theme-toggle:hover { background: var(--accent); color: white; }
-
-        main { padding: 2rem 0; }
+        .hero-title p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+        }
+        .status-bar {
+            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem;
+            color: var(--text-secondary);
+            margin: 1.5rem 0 0;
+            font-size: 0.95rem;
+            align-items: center;
+        }
+        .status-bar span,
+        .view-toggle {
+            background: #eef4ff;
+            border: 1px solid rgba(59,130,246,0.16);
+            border-radius: 999px;
+            padding: 0.65rem 1rem;
+        }
+        .view-toggle {
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: background 0.2s ease, transform 0.2s ease;
+        }
+        .view-toggle:hover {
+            background: #fff;
+            transform: translateY(-1px);
+        }
+        .view-toggle active {
+            color: var(--accent);
+        }
+        .category-tabs {
+            display: flex; flex-wrap: wrap; gap: 0.75rem;
+            margin: 1.5rem 0 1rem;
+        }
+        .tab {
+            background: #fff;
+            border: 1px solid transparent;
+            color: var(--text-secondary);
+            padding: 0.85rem 1.2rem;
+            border-radius: 999px;
+            cursor: pointer;
+            transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+            font-weight: 600;
+        }
+        .tab:hover { transform: translateY(-2px); }
+        .tab.active {
+            background: var(--accent);
+            color: #ffffff;
+            border-color: rgba(59,130,246,0.4);
+            box-shadow: 0 10px 24px rgba(59,130,246,0.18);
+        }
         .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-            gap: 1.75rem;
+            column-count: 3;
+            column-gap: 1.75rem;
+        }
+        .news-grid.list-view {
+            column-count: 1;
         }
         .news-card {
+            display: inline-block;
+            width: 100%;
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 16px;
+            border-radius: 22px;
             overflow: hidden;
-            transition: all 0.3s ease;
-            display: flex; flex-direction: column;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: var(--shadow);
+            margin-bottom: 1.75rem;
+            vertical-align: top;
         }
         .news-card:hover {
             transform: translateY(-6px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.12);
+            box-shadow: 0 26px 48px rgba(15,23,42,0.12);
         }
-        .news-card img {
-            width: 100%; height: 210px; object-fit: cover;
-        }
-        .card-content { padding: 1.4rem; flex: 1; display: flex; flex-direction: column; }
-        .news-card h2 {
-            font-size: 1.22rem; line-height: 1.35; margin-bottom: 0.8rem;
-        }
-        .news-card h2 a { color: inherit; text-decoration: none; }
-        .news-card h2 a:hover { color: var(--accent); }
-        .summary {
-            color: var(--text-secondary);
-            margin-bottom: 1rem;
-            flex: 1;
-        }
-        .tags {
-            display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;
+        .card-content {
+            padding: 1.35rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.9rem;
         }
         .tag {
-            font-size: 0.78rem; padding: 2px 10px; border-radius: 9999px;
-            background: rgba(59,130,246,0.1); color: var(--accent);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.55rem 0.95rem;
+            border-radius: 999px;
+            background: var(--accent-soft);
+            color: var(--accent);
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-bottom: 1rem;
+            width: fit-content;
+        }
+        .news-card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 0.9rem;
+            line-height: 1.3;
+        }
+        .summary {
+            color: var(--text-secondary);
+            flex: 1;
+            margin-bottom: 1.15rem;
         }
         .meta {
-            font-size: 0.85rem; color: var(--text-secondary);
-            display: flex; justify-content: space-between; align-items: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
         }
-        .read-more { color: var(--accent); font-weight: 600; }
-
-        /* Skeleton Loading */
-        .skeleton .news-card {
-            animation: pulse 1.5s infinite;
+        .read-more {
+            color: var(--accent);
+            font-weight: 700;
         }
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.6; }
+        .feed-empty {
+            text-align: center;
+            padding: 4rem 1rem;
+            color: var(--text-secondary);
+            font-size: 1rem;
         }
-        .skeleton-placeholder {
-            height: 210px; background: var(--border); margin-bottom: 1rem;
+        .load-more {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin: 2rem auto 0;
+            padding: 0.95rem 1.4rem;
+            border: none;
+            border-radius: 999px;
+            background: var(--accent);
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 14px 30px rgba(59,130,246,0.18);
         }
-        .skeleton-text { height: 1.1rem; background: var(--border); margin: 0.6rem 0; border-radius: 4px; }
-
-        footer {
-            text-align: center; padding: 3rem 0 2rem;
-            color: var(--text-secondary); font-size: 0.9rem;
+        .load-more:hover { transform: translateY(-2px); }
+        @media (max-width: 1024px) {
+            .news-grid { column-count: 2; }
         }
-
-        @media (max-width: 500px) {
-            .news-grid { grid-template-columns: 1fr; gap: 1.25rem; }
-            h1 { font-size: 1.5rem; }
+        @media (max-width: 720px) {
+            .hero { flex-direction: column; align-items: flex-start; }
+            .news-grid { column-count: 1; }
+            .status-bar { justify-content: center; }
+            .category-tabs { justify-content: center; }
         }
+        .fade-enter { opacity: 0; transform: translateY(16px); }
+        .fade-enter-active { opacity: 1; transform: translateY(0); transition: opacity 0.35s ease, transform 0.35s ease; }
     </style>
 </head>
-<body data-theme="light">
-    <header>
-        <div class="container header-content">
-            <h1>📰 Daily AI & Tech News</h1>
-            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">🌙</button>
+<body>
+    <header class="container">
+        <div class="hero">
+            <div class="hero-title">
+                <h1>Daily AI & Tech News</h1>
+                <p>Browse a responsive feed of articles with category tabs and infinite scroll. This demo uses placeholder content for fast prototyping.</p>
+            </div>
+        </div>
+        <div class="status-bar">
+            <div>
+                <span id="feed-count">Loading articles...</span>
+                <span id="feed-category">Category: AI</span>
+            </div>
+            <button id="view-toggle" class="view-toggle" type="button">Switch to List View</button>
         </div>
     </header>
 
-    <main>
-        <div class="container">
-            <!-- Loading Skeleton (shown briefly via JS) -->
-            <div id="skeleton" class="news-grid skeleton" style="display: none;">
-                <!-- 6 skeleton cards -->
-                <div class="news-card"><div class="skeleton-placeholder"></div><div class="card-content"><div class="skeleton-text" style="width:90%"></div><div class="skeleton-text" style="width:70%"></div></div></div>
-                <!-- Repeat 5 more times if you want, but 3-6 is enough for demo -->
-            </div>
-
-            <div id="news-grid" class="news-grid">
-                {% for a in articles %}
-                <article class="news-card">
-                    {% if a.image %}
-                        <img src="{{ a.image }}" alt="{{ a.title }}" loading="lazy" onerror="this.src='https://picsum.photos/id/1015/800/400'; this.onerror=null;">
-                    {% else %}
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    {% endif %}
-                    <div class="card-content">
-                        <div class="tags">
-                            {% if a.source %}<span class="tag">{{ a.source | replace("feed", "") | truncate(25) }}</span>{% endif %}
-                            {% if a.category %}<span class="tag">{{ a.category }}</span>{% endif %}
-                        </div>
-                        <h2><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a></h2>
-                        <p class="summary">{{ a.summary | striptags | truncate(160) }}</p>
-                        <div class="meta">
-                            <span>{{ a.published }}</span>
-                            <a href="{{ a.link }}" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                {% endfor %}
-            </div>
-        </div>
+    <main class="container">
+        <div class="category-tabs" id="category-tabs"></div>
+        <div id="news-grid" class="news-grid"></div>
+        <div id="empty-state" class="feed-empty" style="display:none;">No articles found for this category.</div>
+        <div style="text-align:center;"><button id="load-more" class="load-more">Load more articles</button></div>
     </main>
 
-    <footer>
-        <div class="container">
-            Generated on {{ today or "Today" }} • 
-            Showing {{ articles|length }} latest stories • 
-            <a href="https://github.com/abt0y/news" target="_blank">GitHub</a>
-        </div>
+    <footer class="container" style="padding: 2rem 0; text-align: center; color: var(--text-secondary); font-size: 0.95rem;">
+        Demo feed • Infinite scrolling and category filtering in one page
     </footer>
 
     <script>
-        // Dark / Light Mode
-        const toggle = document.getElementById('theme-toggle');
-        const body = document.documentElement;
+        const articleData = [
+            { title: 'AI Copilots Reimagine Creative Workflows', category: 'ai', summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod ex vel lacus maximus, eget luctus metus elementum.', published: 'Apr 25, 2026' },
+            { title: 'Chip Makers Race to 2nm Yields', category: 'chip', summary: 'Quisque sed odio nec arcu cursus interdum. Integer vitae turpis vel nisl semper cursus at et elit.', published: 'Apr 25, 2026' },
+            { title: 'Cyber Defense Adapts to AI-Powered Threats', category: 'cyber', summary: 'Sed pretium, nibh non congue gravida, tellus nisl volutpat risus, id mollis velit quam vitae lorem.', published: 'Apr 24, 2026' },
+            { title: 'Hardware Startups Focus on Energy Efficiency', category: 'hardware', summary: 'Phasellus blandit purus id urna commodo, vitae imperdiet tortor vestibulum. Nulla facilisi.', published: 'Apr 24, 2026' },
+            { title: 'AI-Generated Art Sparks New Debate', category: 'arts', summary: 'Nullam accumsan dolor vel neque efficitur, eget interdum ex placerat. Curabitur euismod lorem ut ante mollis.', published: 'Apr 23, 2026' },
+            { title: 'Science Labs Publish Breakthrough Quantum Results', category: 'science', summary: 'Duis pulvinar nisi ut commodo mattis. Fusce vitae sapien in velit molestie tincidunt.', published: 'Apr 23, 2026' },
+            { title: 'AI Ethics Panels Redefine Responsible Design', category: 'ai', summary: 'Aenean fermentum, orci nec aliquam posuere, augue sapien fermentum orci, a porta urna ipsum sit amet erat.', published: 'Apr 22, 2026' },
+            { title: 'Advanced Node Packaging Improves Chip Density', category: 'chip', summary: 'Curabitur non turpis vitae risus suscipit venenatis. Pellentesque a congue turpis, ac vehicula urna.', published: 'Apr 22, 2026' },
+            { title: 'New Firewall Tools Use Behavioral AI', category: 'cyber', summary: 'Mauris sit amet nisi nec orci feugiat vehicula. Etiam eu leo non lectus pulvinar vestibulum.', published: 'Apr 21, 2026' },
+            { title: 'Modular Hardware Designs Hit the Mainstream', category: 'hardware', summary: 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et leo sem.', published: 'Apr 21, 2026' },
+            { title: 'Interactive Installations Blend Tech and Art', category: 'arts', summary: 'Sed vitae urna ut nulla feugiat eleifend. Proin in convallis augue, pretium euismod nulla.', published: 'Apr 20, 2026' },
+            { title: 'Space Science Missions Chart New Worlds', category: 'science', summary: 'Fusce sed magna quis enim fermentum ultrices. Nulla convallis velit vel massa vehicula, ac iaculis libero ultricies.', published: 'Apr 20, 2026' }
+        ];
 
-        function setTheme(theme) {
-            body.setAttribute('data-theme', theme);
-            localStorage.setItem('theme', theme);
-            toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
-        }
-
-        function initTheme() {
-            const saved = localStorage.getItem('theme');
-            if (saved) setTheme(saved);
-            else if (window.matchMedia('(prefers-color-scheme: dark)').matches) setTheme('dark');
-            else setTheme('light');
-        }
-
-        toggle.addEventListener('click', () => {
-            const current = body.getAttribute('data-theme');
-            setTheme(current === 'dark' ? 'light' : 'dark');
-        });
-
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-            if (!localStorage.getItem('theme')) setTheme(e.matches ? 'dark' : 'light');
-        });
-
-        initTheme();
-
-        // Simple loading simulation (optional)
-        const skeleton = document.getElementById('skeleton');
+        const categories = ['all', 'ai', 'chip', 'cyber', 'hardware', 'arts', 'science'];
+        let currentCategory = 'all';
+        let visibleCount = 6;
+        const pageSize = 6;
+        let isListView = false;
         const grid = document.getElementById('news-grid');
-        if (grid.children.length === 0) {
-            skeleton.style.display = 'grid';
-            setTimeout(() => { skeleton.style.display = 'none'; }, 800);
+        const tabsContainer = document.getElementById('category-tabs');
+        const feedCount = document.getElementById('feed-count');
+        const feedCategory = document.getElementById('feed-category');
+        const emptyState = document.getElementById('empty-state');
+        const loadMoreButton = document.getElementById('load-more');
+        const viewToggle = document.getElementById('view-toggle');
+
+        function getFilteredArticles() {
+            return currentCategory === 'all'
+                ? articleData
+                : articleData.filter(article => article.category === currentCategory);
         }
+
+        function updateStatus() {
+            const filtered = getFilteredArticles();
+            feedCount.textContent = `${Math.min(visibleCount, filtered.length)} of ${filtered.length} stories`;
+            feedCategory.textContent = `Category: ${currentCategory.toUpperCase()}`;
+            emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
+            loadMoreButton.style.display = filtered.length > visibleCount ? 'inline-flex' : 'none';
+        }
+
+        function createArticleCard(article) {
+            const card = document.createElement('article');
+            card.className = 'news-card fade-enter';
+            card.innerHTML = `
+                <div class="card-content">
+                    <span class="tag">${article.category}</span>
+                    <h2>${article.title}</h2>
+                    <p class="summary">${article.summary}</p>
+                    <div class="meta"><span>${article.published}</span><span class="read-more">Read more →</span></div>
+                </div>
+            `;
+            requestAnimationFrame(() => card.classList.add('fade-enter-active'));
+            return card;
+        }
+
+        function renderArticles() {
+            const filtered = getFilteredArticles();
+            grid.innerHTML = '';
+            grid.classList.toggle('list-view', isListView);
+            if (filtered.length === 0) {
+                updateStatus();
+                return;
+            }
+            const items = filtered.slice(0, visibleCount);
+            items.forEach(article => grid.appendChild(createArticleCard(article)));
+            updateStatus();
+        }
+
+        function setActiveCategory(category) {
+            currentCategory = category;
+            visibleCount = pageSize;
+            Array.from(tabsContainer.children).forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.category === category);
+            });
+            renderArticles();
+        }
+
+        function setupTabs() {
+            categories.forEach(category => {
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = 'tab';
+                button.textContent = category.toUpperCase();
+                button.dataset.category = category;
+                button.addEventListener('click', () => setActiveCategory(category));
+                tabsContainer.appendChild(button);
+            });
+            setActiveCategory(currentCategory);
+        }
+
+        function toggleViewMode() {
+            isListView = !isListView;
+            viewToggle.textContent = isListView ? 'Switch to Grid View' : 'Switch to List View';
+            renderArticles();
+        }
+
+        function loadMore() {
+            const filteredLength = getFilteredArticles().length;
+            if (visibleCount >= filteredLength) return;
+            visibleCount = Math.min(filteredLength, visibleCount + pageSize);
+            renderArticles();
+        }
+
+        function handleScroll() {
+            const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 140;
+            if (nearBottom) loadMore();
+        }
+
+        loadMoreButton.addEventListener('click', loadMore);
+        viewToggle.addEventListener('click', toggleViewMode);
+        window.addEventListener('scroll', handleScroll);
+        setupTabs();
     </script>
 </body>
 </html>
