@@ -6,1749 +6,331 @@
     <title>Daily AI & Tech News</title>
     <style>
         :root {
-            --bg: #f8f9fa;
+            --bg: #f4f7fb;
             --surface: #ffffff;
-            --text: #1f2937;
-            --text-secondary: #4b5563;
+            --text: #121827;
+            --text-secondary: #52606d;
             --accent: #3b82f6;
-            --border: #e5e7eb;
+            --accent-soft: rgba(59,130,246,0.12);
+            --border: #d9e2ec;
+            --shadow: 0 24px 60px rgba(15, 23, 42, 0.08);
         }
-        [data-theme="dark"] {
-            --bg: #0f172a;
-            --surface: #1e2937;
-            --text: #f1f5f9;
-            --text-secondary: #94a3b8;
-            --accent: #60a5fa;
-            --border: #334155;
-        }
-        * { margin:0; padding:0; box-sizing:border-box; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { min-height: 100%; }
         body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
-            transition: background 0.4s, color 0.4s;
         }
-        .container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; }
-        header {
-            background: var(--surface);
-            border-bottom: 1px solid var(--border);
-            padding: 1.25rem 0;
-            position: sticky; top: 0; z-index: 100;
+        .container { width: min(1280px, 100% - 2rem); margin: 0 auto; }
+        header { padding: 2rem 0 1rem; }
+        .hero {
+            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;
+            align-items: flex-end;
         }
-        .header-content {
-            display: flex; justify-content: space-between; align-items: center;
+        .hero-title {
+            max-width: 720px;
         }
-        h1 { font-size: 1.75rem; color: var(--accent); }
-        .theme-toggle {
-            background: none; border: 2px solid var(--border);
-            width: 50px; height: 50px; border-radius: 50%;
-            font-size: 1.5rem; cursor: pointer; transition: all 0.3s;
+        .hero-title h1 {
+            font-size: clamp(2rem, 3vw, 3.2rem);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.03em;
         }
-        .theme-toggle:hover { background: var(--accent); color: white; }
-
-        main { padding: 2rem 0; }
+        .hero-title p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+        }
+        .status-bar {
+            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem;
+            color: var(--text-secondary);
+            margin: 1.5rem 0 0;
+            font-size: 0.95rem;
+            align-items: center;
+        }
+        .status-bar span,
+        .view-toggle {
+            background: #eef4ff;
+            border: 1px solid rgba(59,130,246,0.16);
+            border-radius: 999px;
+            padding: 0.65rem 1rem;
+        }
+        .view-toggle {
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: background 0.2s ease, transform 0.2s ease;
+        }
+        .view-toggle:hover {
+            background: #fff;
+            transform: translateY(-1px);
+        }
+        .view-toggle active {
+            color: var(--accent);
+        }
+        .category-tabs {
+            display: flex; flex-wrap: wrap; gap: 0.75rem;
+            margin: 1.5rem 0 1rem;
+        }
+        .tab {
+            background: #fff;
+            border: 1px solid transparent;
+            color: var(--text-secondary);
+            padding: 0.85rem 1.2rem;
+            border-radius: 999px;
+            cursor: pointer;
+            transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+            font-weight: 600;
+        }
+        .tab:hover { transform: translateY(-2px); }
+        .tab.active {
+            background: var(--accent);
+            color: #ffffff;
+            border-color: rgba(59,130,246,0.4);
+            box-shadow: 0 10px 24px rgba(59,130,246,0.18);
+        }
         .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-            gap: 1.75rem;
+            column-count: 3;
+            column-gap: 1.75rem;
+        }
+        .news-grid.list-view {
+            column-count: 1;
         }
         .news-card {
+            display: inline-block;
+            width: 100%;
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 16px;
+            border-radius: 22px;
             overflow: hidden;
-            transition: all 0.3s ease;
-            display: flex; flex-direction: column;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: var(--shadow);
+            margin-bottom: 1.75rem;
+            vertical-align: top;
         }
         .news-card:hover {
             transform: translateY(-6px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.12);
+            box-shadow: 0 26px 48px rgba(15,23,42,0.12);
         }
-        .news-card img {
-            width: 100%; height: 210px; object-fit: cover;
-        }
-        .card-content { padding: 1.4rem; flex: 1; display: flex; flex-direction: column; }
-        .news-card h2 {
-            font-size: 1.22rem; line-height: 1.35; margin-bottom: 0.8rem;
-        }
-        .news-card h2 a { color: inherit; text-decoration: none; }
-        .news-card h2 a:hover { color: var(--accent); }
-        .summary {
-            color: var(--text-secondary);
-            margin-bottom: 1rem;
-            flex: 1;
-        }
-        .tags {
-            display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;
+        .card-content {
+            padding: 1.35rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.9rem;
         }
         .tag {
-            font-size: 0.78rem; padding: 2px 10px; border-radius: 9999px;
-            background: rgba(59,130,246,0.1); color: var(--accent);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.55rem 0.95rem;
+            border-radius: 999px;
+            background: var(--accent-soft);
+            color: var(--accent);
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-bottom: 1rem;
+            width: fit-content;
+        }
+        .news-card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 0.9rem;
+            line-height: 1.3;
+        }
+        .summary {
+            color: var(--text-secondary);
+            flex: 1;
+            margin-bottom: 1.15rem;
         }
         .meta {
-            font-size: 0.85rem; color: var(--text-secondary);
-            display: flex; justify-content: space-between; align-items: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
         }
-        .read-more { color: var(--accent); font-weight: 600; }
-
-        /* Skeleton Loading */
-        .skeleton .news-card {
-            animation: pulse 1.5s infinite;
+        .read-more {
+            color: var(--accent);
+            font-weight: 700;
         }
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.6; }
+        .feed-empty {
+            text-align: center;
+            padding: 4rem 1rem;
+            color: var(--text-secondary);
+            font-size: 1rem;
         }
-        .skeleton-placeholder {
-            height: 210px; background: var(--border); margin-bottom: 1rem;
+        .load-more {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin: 2rem auto 0;
+            padding: 0.95rem 1.4rem;
+            border: none;
+            border-radius: 999px;
+            background: var(--accent);
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 14px 30px rgba(59,130,246,0.18);
         }
-        .skeleton-text { height: 1.1rem; background: var(--border); margin: 0.6rem 0; border-radius: 4px; }
-
-        footer {
-            text-align: center; padding: 3rem 0 2rem;
-            color: var(--text-secondary); font-size: 0.9rem;
+        .load-more:hover { transform: translateY(-2px); }
+        @media (max-width: 1024px) {
+            .news-grid { column-count: 2; }
         }
-
-        @media (max-width: 500px) {
-            .news-grid { grid-template-columns: 1fr; gap: 1.25rem; }
-            h1 { font-size: 1.5rem; }
+        @media (max-width: 720px) {
+            .hero { flex-direction: column; align-items: flex-start; }
+            .news-grid { column-count: 1; }
+            .status-bar { justify-content: center; }
+            .category-tabs { justify-content: center; }
         }
+        .fade-enter { opacity: 0; transform: translateY(16px); }
+        .fade-enter-active { opacity: 1; transform: translateY(0); transition: opacity 0.35s ease, transform 0.35s ease; }
     </style>
 </head>
-<body data-theme="light">
-    <header>
-        <div class="container header-content">
-            <h1>📰 Daily AI & Tech News</h1>
-            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">🌙</button>
+<body>
+    <header class="container">
+        <div class="hero">
+            <div class="hero-title">
+                <h1>Daily AI & Tech News</h1>
+                <p>Browse a responsive feed of articles with category tabs and infinite scroll. This demo uses placeholder content for fast prototyping.</p>
+            </div>
+        </div>
+        <div class="status-bar">
+            <div>
+                <span id="feed-count">Loading articles...</span>
+                <span id="feed-category">Category: AI</span>
+            </div>
+            <button id="view-toggle" class="view-toggle" type="button">Switch to List View</button>
         </div>
     </header>
 
-    <main>
-        <div class="container">
-            <!-- Loading Skeleton (shown briefly via JS) -->
-            <div id="skeleton" class="news-grid skeleton" style="display: none;">
-                <!-- 6 skeleton cards -->
-                <div class="news-card"><div class="skeleton-placeholder"></div><div class="card-content"><div class="skeleton-text" style="width:90%"></div><div class="skeleton-text" style="width:70%"></div></div></div>
-                <!-- Repeat 5 more times if you want, but 3-6 is enough for demo -->
-            </div>
-
-            <div id="news-grid" class="news-grid">
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.mrweb.com/drno/news39735.htm&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3YoOT0hw2JSm6DjzUl2xXF" target="_blank" rel="noopener">Wiland Adds <b>Neural Net</b> Modelling Solutions - Daily Research News Online - MrWeb</a></h2>
-                        <p class="summary">In Colorado, predictive audience intelligence provider Wiland has enhanced its suite of solutions with the addition of Neural Net modelling, via two ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.mrweb.com/drno/news39735.htm&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3YoOT0hw2JSm6DjzUl2xXF" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.thecrimson.com/article/2026/4/24/seven-people-one-question-artificial-intelligence/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3bk4h4rKJpWaqF5X9hGGPA" target="_blank" rel="noopener">7 Harvard Affiliates on How AI Has Changed the Meaning of Their Work | Magazine</a></h2>
-                        <p class="summary">... neural network learning machine tools for a while, and it can make it useful to see things like genre at scale. As far as I can tell, the fact ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.thecrimson.com/article/2026/4/24/seven-people-one-question-artificial-intelligence/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3bk4h4rKJpWaqF5X9hGGPA" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/04/24/deepseek-open-sources-v4-large-language-model-series/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3eQY8nl0FsOmJ-2FvgtlDz" target="_blank" rel="noopener">DeepSeek open-sources V4 large language model series - SiliconANGLE</a></h2>
-                        <p class="summary">A neural network comprises artificial neuron collections called layers that process data in a specific order. Prompts enter the first layer, which ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/04/24/deepseek-open-sources-v4-large-language-model-series/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3eQY8nl0FsOmJ-2FvgtlDz" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://phys.org/news/2026-04-blue-whale-song-oceans.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3HNEP_PBIU5fAz_yJvgZew" target="_blank" rel="noopener">One blue whale song unlocks oceans of data - Phys.org</a></h2>
-                        <p class="summary">In a new study, lead author UNSW Ph.D. candidate Ben Jancovich showed how a neural network ... "Training large, deep neural networks can consume ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://phys.org/news/2026-04-blue-whale-song-oceans.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3HNEP_PBIU5fAz_yJvgZew" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://neural.it/2026/04/natural-contacts-gardening-malware/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw11j0wS9e-11UhKOq2GAN21" target="_blank" rel="noopener">Natural Contacts, gardening malware - <b>Neural</b></a></h2>
-                        <p class="summary">YesNo by Timo Kahlen feels like “traditional” net art, a well crafted stuck webpage for the user's aural and clickable enjoyment. AppleForAds · 29 Feb ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://neural.it/2026/04/natural-contacts-gardening-malware/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw11j0wS9e-11UhKOq2GAN21" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Google Alert - Neural network</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://en.belsat.eu/92891805/belarusian-crypto-banks-to-be-authorized-for-26-cryptocurrencies-including-bitcoin&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw388zzN8FoLiBVn3GKlQcj2" target="_blank" rel="noopener">Belarusian crypto banks to be authorized for 26 cryptocurrencies, including Bitcoin - Belsat</a></h2>
-                        <p class="summary">img A crypto bank as represented by a neural network. Image generated by artificial intelligence. Image: ChatGPT. Share. Facebook X Telegram. The ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://en.belsat.eu/92891805/belarusian-crypto-banks-to-be-authorized-for-26-cryptocurrencies-including-bitcoin&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw388zzN8FoLiBVn3GKlQcj2" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/" target="_blank" rel="noopener">Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’</a></h2>
-                        <p class="summary">Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/" target="_blank" rel="noopener">Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’</a></h2>
-                        <p class="summary">Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/" target="_blank" rel="noopener">Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage</a></h2>
-                        <p class="summary">Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/" target="_blank" rel="noopener">Meta’s loss is Thinking Machines’ gain</a></h2>
-                        <p class="summary">Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/" target="_blank" rel="noopener">X-energy stock pops 27% on first day of trading following upsized IPO</a></h2>
-                        <p class="summary">Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/" target="_blank" rel="noopener">ComfyUI hits $500M valuation as creators seek more control over AI-generated media</a></h2>
-                        <p class="summary">ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">TechCrunch</span>
-                            
-                        </div>
-                        <h2><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/" target="_blank" rel="noopener">Google to invest up to $40B in Anthropic in cash and compute</a></h2>
-                        <p class="summary">Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful,...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/news/articles/cpqxgxx9nrqo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw27Bc6jlaVyzTxXEdjhNHtp" target="_blank" rel="noopener">White House memo claims mass <b>AI</b> theft by Chinese firms - BBC <b>News</b></a></h2>
-                        <p class="summary">Get the news, your way. Sign in for podcasts ... The White House has said it will work more closely with US artificial intelligence (AI) ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/news/articles/cpqxgxx9nrqo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw27Bc6jlaVyzTxXEdjhNHtp" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0z8Gj0zHanzCmQIF_HECay" target="_blank" rel="noopener">Who's in control of <b>AI</b>? | Technology <b>News</b> - Al Jazeera</a></h2>
-                        <p class="summary">Owner of US tech giant reveals breach of one of world's most powerful AI models.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0z8Gj0zHanzCmQIF_HECay" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-24/stanford-professor-targets-1-billion-valuation-for-ai-for-physiology-startup&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CwXnCn34Lzd6Pa-OR42YM" target="_blank" rel="noopener">Stanford Professor Targets $1 Billion Valuation For <b>AI</b>-for-Physiology Startup - Bloomberg</a></h2>
-                        <p class="summary">The company, called Human Intelligence, will build on Zou's research on physiology and AI. ... News. MarketsEconomicsTechnologyPoliticsGreenCryptoAI.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-24/stanford-professor-targets-1-billion-valuation-for-ai-for-physiology-startup&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CwXnCn34Lzd6Pa-OR42YM" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3psldorB0zNxUOQhypvaDR" target="_blank" rel="noopener"><b>A.I.</b> Start-Ups From Canada and Germany Merge to Take On Silicon Valley - The New York Times</a></h2>
-                        <p class="summary">... artificial intelligence and digital innovation, said at a news conference in Berlin, where he was joined by the chief executives of Cohere and ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3psldorB0zNxUOQhypvaDR" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nzherald.co.nz/hawkes-bay-today/news/facebook-news-creator-shares-ai-generated-image-of-body-bags-at-hastings-triple-homicide-police-and-netsafe-issue-warning-over-fake-crime-scene-content/ELHNV7UKEZE5TKE4YWRHRM7M3Q/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2ms2sYQGV4LV5ss-7XSCdC" target="_blank" rel="noopener">Facebook <b>news</b> creator shares <b>AI</b>-generated image of body bags at Hastings triple-homicide</a></h2>
-                        <p class="summary">Facebook news creator shares AI-generated image of body bags at Hastings triple-homicide - police and Netsafe issue warning over fake crime scene ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nzherald.co.nz/hawkes-bay-today/news/facebook-news-creator-shares-ai-generated-image-of-body-bags-at-hastings-triple-homicide-police-and-netsafe-issue-warning-over-fake-crime-scene-content/ELHNV7UKEZE5TKE4YWRHRM7M3Q/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2ms2sYQGV4LV5ss-7XSCdC" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3R-9C72VMHIY4nkko0jPnm" target="_blank" rel="noopener">After call from Beijing, China's auto industry races to embed <b>AI</b> in just about everything</a></h2>
-                        <p class="summary">Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv ... After call from Beijing, China's auto industry races ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3R-9C72VMHIY4nkko0jPnm" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/east-asia/china-us-ai-technology-theft-accusations-baseless-6078586&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0DQtRvZCFCf1diIJB87Ug0" target="_blank" rel="noopener">China calls US accusations of <b>AI</b> technology theft 'baseless' - CNA</a></h2>
-                        <p class="summary">Asked about the matter at a regular news conference in Beijing on Friday, Chinese foreign ministry spokesman Guo Jiakun said: "The US claims are ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/east-asia/china-us-ai-technology-theft-accusations-baseless-6078586&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0DQtRvZCFCf1diIJB87Ug0" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-24/meta-inks-multibillion-dollar-deal-to-use-amazon-chips-for-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0xzYBl1yLQaMxAuS1QibPN" target="_blank" rel="noopener">Meta Inks Multibillion-Dollar Deal to Use Amazon Chips for <b>AI</b> - Bloomberg News</a></h2>
-                        <p class="summary">... struck a multibillion-dollar deal for the social-media giant to rent hundreds of thousands of Amazon's general-purpose chips for its AI efforts.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-04-24/meta-inks-multibillion-dollar-deal-to-use-amazon-chips-for-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0xzYBl1yLQaMxAuS1QibPN" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DbNdiBwXbLNw&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2LBuuWcpIlRZ8SbUVzW7SQ" target="_blank" rel="noopener">Google Cloud CEO: Anthropic, TPUs, Mythos, NVIDIA and more - YouTube</a></h2>
-                        <p class="summary">Go to channel AI News & Strategy Daily | Nate B Jones. Claude Design Does In 30 Minutes What Your Team Does In A Sprint. AI News & Strategy Daily ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DbNdiBwXbLNw&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2LBuuWcpIlRZ8SbUVzW7SQ" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Mxblj1RE7F5quUAin9h_P" target="_blank" rel="noopener">DeepSeek's Sequel Set to Extend China's Reach in Open-Source <b>A.I.</b> - The New York Times</a></h2>
-                        <p class="summary">... AI, a company that tracks the performance of A.I. technologies. DeepSeek ... Explore Our Coverage of Artificial Intelligence. News and Analysis.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Mxblj1RE7F5quUAin9h_P" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/business/meta-microsoft-layoff-buyouts-9.7175729&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0sjwNaT_U7z6hHXtKnvLYa" target="_blank" rel="noopener">Meta to cut 8,000 jobs, Microsoft to offer voluntary buyouts for thousands | CBC <b>News</b></a></h2>
-                        <p class="summary">AI investments drive up infrastructure costs for tech giants. The Associated Press · Posted: Apr 24, 2026 3:12 ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/business/meta-microsoft-layoff-buyouts-9.7175729&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0sjwNaT_U7z6hHXtKnvLYa" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/china-curb-us-investment-tech-companies-bloomberg-news-reports-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw15IVkCPPMXfJKdTf4Ehxok" target="_blank" rel="noopener">China to curb US investment in tech companies, Bloomberg <b>News</b> reports | Reuters</a></h2>
-                        <p class="summary">China plans to restrict top technology firms, including leading AI startups, from accepting U.S. ​capital without government approval, ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/china-curb-us-investment-tech-companies-bloomberg-news-reports-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw15IVkCPPMXfJKdTf4Ehxok" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw31HJqZwBcsU7HIUxKlDfje" target="_blank" rel="noopener">Intel soars on signs <b>AI</b> boom for CPUs is here - Reuters</a></h2>
-                        <p class="summary">Get a daily digest of breaking business news straight to your inbox with the Reuters Business newsletter. ... AI training. Nvidia (NVDA.O) ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw31HJqZwBcsU7HIUxKlDfje" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://apnews.com/article/deepseek-ai-china-gpt-v4-d2ed33f2521917193616e061674d5f92&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0FyPeibJEMjNvTZ44U_zwe" target="_blank" rel="noopener">China's DeepSeek rolls out a long-anticipated update of its <b>AI</b> model - AP News</a></h2>
-                        <p class="summary">DeepSeek, the Chinese artificial intelligence startup that shook up world markets last year, has launched preview versions of its latest major ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://apnews.com/article/deepseek-ai-china-gpt-v4-d2ed33f2521917193616e061674d5f92&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0FyPeibJEMjNvTZ44U_zwe" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0xc2X4YL874zYYIb37XTzO" target="_blank" rel="noopener">In another wild turn for <b>AI</b> chips, Meta signs deal for millions of Amazon <b>AI</b> CPUs</a></h2>
-                        <p class="summary">Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0xc2X4YL874zYYIb37XTzO" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://x.com/FT/status/2047715653553942997&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3vDIZiYH2ogJDChQtFiPU5" target="_blank" rel="noopener">Breaking <b>news</b>: Despite offering its own rival Gemini <b>AI</b> models, Google has committed to ...</a></h2>
-                        <p class="summary">Financial Times (@FT). 35 replies. Breaking news: Despite offering its own rival Gemini AI models, Google has committed to invest $10bn in ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://x.com/FT/status/2047715653553942997&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3vDIZiYH2ogJDChQtFiPU5" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/google-plans-invest-up-40-billion-anthropic-bloomberg-news-reports-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Fh0Zkw6GH0-4gf5j0tf4r" target="_blank" rel="noopener">Google to invest up to $40 billion in <b>AI</b> rival Anthropic | Reuters</a></h2>
-                        <p class="summary">... artificial intelligence startup that is also its rival ‌in the global AI race ... news provider, reaching billions of people worldwide every day.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/google-plans-invest-up-40-billion-anthropic-bloomberg-news-reports-2026-04-24/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Fh0Zkw6GH0-4gf5j0tf4r" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/technology/from-rogue-ai-blackmailing-humans-condensing-school-days-ai-revolution-already-reshaping-life&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2_5q-K0mZchK6GsF9V1imk" target="_blank" rel="noopener">Blackmail and better grades: How the <b>AI</b> revolution is reshaping American life | Fox Business</a></h2>
-                        <p class="summary">By clicking subscribe, you agree to the Fox News Privacy Policy and Terms of Use, and agree to receive content and promotional communications from Fox ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/technology/from-rogue-ai-blackmailing-humans-condensing-school-days-ai-revolution-already-reshaping-life&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2_5q-K0mZchK6GsF9V1imk" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.cip.uw.edu/2026/04/24/risks-realities-ai-chatbots-event/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2b1wfY3klrNERKI1Jf-cMs" target="_blank" rel="noopener">Key ideas from 'The Risks and Realities of <b>AI</b> Chatbots' event co-hosted by the CIP</a></h2>
-                        <p class="summary">News · CIP News Archives · Research · Research News · Publications · Loki's Loop · Education · Resources · People · Events · Get I</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.cip.uw.edu/2026/04/24/risks-realities-ai-chatbots-event/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2b1wfY3klrNERKI1Jf-cMs" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Оповещение Google – Ai news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.google.com/url?rct=j&sa=t&url=https://www.aboutamazon.com/news/aws/amazon-agentic-ai-cpu-aws-graviton&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3C6bUK8ITo7fomdkgYjvCk" target="_blank" rel="noopener">Why CPUs matter for agentic <b>AI</b> - Amazon News</a></h2>
-                        <p class="summary">Agentic AI systems reason continuously and make real-time decisions—a fundamental shift that requires different infrastructure than traditional AI ...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.google.com/url?rct=j&sa=t&url=https://www.aboutamazon.com/news/aws/amazon-agentic-ai-cpu-aws-graviton&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3C6bUK8ITo7fomdkgYjvCk" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Hacker News</span>
-                            
-                        </div>
-                        <h2><a href="https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html" target="_blank" rel="noopener">FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches</a></h2>
-                        <p class="summary">The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md" target="_blank" rel="noopener">Replace IBM Quantum back end with /dev/urandom</a></h2>
-                        <p class="summary">Article URL: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md Comments URL:...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ncregister.com/commentaries/schnell-repairing-the-ruins" target="_blank" rel="noopener">Education must go beyond the mere production of words</a></h2>
-                        <p class="summary">Article URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins Comments URL: https://news.ycombinator.com/item?id=47897349 Points: 12 # Comments: 0</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ncregister.com/commentaries/schnell-repairing-the-ruins" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://github.com/manankharwar/fusioncore" target="_blank" rel="noopener">FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)</a></h2>
-                        <p class="summary">Article URL: https://github.com/manankharwar/fusioncore Comments URL: https://news.ycombinator.com/item?id=47896670 Points: 13 # Comments: 6</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://github.com/manankharwar/fusioncore" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://lightwhale.asklandd.dk/" target="_blank" rel="noopener">Show HN: I've built a nice home server OS</a></h2>
-                        <p class="summary">ohai!I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers.It's a free, immutable Linux system purpose-built to...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://lightwhale.asklandd.dk/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://leontrolski.github.io/alt.html" target="_blank" rel="noopener">Generalised plusequals</a></h2>
-                        <p class="summary">Article URL: https://leontrolski.github.io/alt.html Comments URL: https://news.ycombinator.com/item?id=47896086 Points: 12 # Comments: 6</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://leontrolski.github.io/alt.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://www.flowmusic.app/" target="_blank" rel="noopener">Google Flow Music</a></h2>
-                        <p class="summary">Article URL: https://www.flowmusic.app/ Comments URL: https://news.ycombinator.com/item?id=47895765 Points: 113 # Comments: 80</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.flowmusic.app/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://hhh.hn/rodecaster-duo-fw/" target="_blank" rel="noopener">My audio interface has SSH enabled by default</a></h2>
-                        <p class="summary">Article URL: https://hhh.hn/rodecaster-duo-fw/ Comments URL: https://news.ycombinator.com/item?id=47894747 Points: 167 # Comments: 43</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://hhh.hn/rodecaster-duo-fw/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://gdm-tipsv2.github.io/" target="_blank" rel="noopener">TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</a></h2>
-                        <p class="summary">Article URL: https://gdm-tipsv2.github.io/ Comments URL: https://news.ycombinator.com/item?id=47894734 Points: 21 # Comments: 1</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://gdm-tipsv2.github.io/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/" target="_blank" rel="noopener">The Classic American Diner</a></h2>
-                        <p class="summary">Article URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/ Comments URL: https://news.ycombinator.com/item?id=47894435 Points: 160 #...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/" target="_blank" rel="noopener">SFO Quiet Airport (2025)</a></h2>
-                        <p class="summary">Article URL: https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/ Comments URL:...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://arxiv.org/abs/2604.21691" target="_blank" rel="noopener">There Will Be a Scientific Theory of Deep Learning</a></h2>
-                        <p class="summary">Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 153 # Comments: 48</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://arxiv.org/abs/2604.21691" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Hacker News: Front Page</span>
-                            
-                        </div>
-                        <h2><a href="https://github.com/delta-hq/cc-canary" target="_blank" rel="noopener">CC-Canary: Detect early signs of regressions in Claude Code</a></h2>
-                        <p class="summary">Article URL: https://github.com/delta-hq/cc-canary Comments URL: https://news.ycombinator.com/item?id=47893620 Points: 41 # Comments: 19</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://github.com/delta-hq/cc-canary" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Phoronix</span>
-                            
-                        </div>
-                        <h2><a href="https://www.phoronix.com/news/GCC-Working-Group-AI-Policy" target="_blank" rel="noopener">GCC Establishes Working Group To Decide On AI/LLM Policy</a></h2>
-                        <p class="summary">The GNU Compiler Collection (GCC) now has a working group established by their steering committee to study the use of AI and large language models (LLMs)...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.phoronix.com/news/GCC-Working-Group-AI-Policy" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Latest news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.zdnet.com/article/how-to-get-a-spotify-premium-student-discount/" target="_blank" rel="noopener">Get Spotify's student discount and Hulu for just $6 a month - here's how</a></h2>
-                        <p class="summary">If you're a college student, Spotify has an exclusive bundle that can save you cash on music and streaming. Here's how to get it.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.zdnet.com/article/how-to-get-a-spotify-premium-student-discount/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Latest news</span>
-                            
-                        </div>
-                        <h2><a href="https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/" target="_blank" rel="noopener">How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free</a></h2>
-                        <p class="summary">Using Claude's interactive connections to third-party services such as TripAdvisor and AllTrails, I mapped a summer hiking trip, including trails, hotels,...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/" target="_blank" rel="noopener">ADT confirms data breach after ShinyHunters leak threat</a></h2>
-                        <p class="summary">Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/" target="_blank" rel="noopener">Firestarter malware survives Cisco firewall updates, security patches</a></h2>
-                        <p class="summary">Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/" target="_blank" rel="noopener">Windows Update gets new controls to reduce forced restarts</a></h2>
-                        <p class="summary">Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/" target="_blank" rel="noopener">New BlackFile extortion group linked to surge of vishing attacks</a></h2>
-                        <p class="summary">A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/" target="_blank" rel="noopener">Microsoft to roll out Entra passkeys on Windows in late April</a></h2>
-                        <p class="summary">Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BleepingComputer</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/" target="_blank" rel="noopener">New ‘Pack2TheRoot’ flaw gives hackers root Linux access</a></h2>
-                        <p class="summary">A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">New US House privacy...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.csoonline.com/article/4163345/new-us-house-privacy-bills-raise-hard-questions-about-enterprise-data-collection.html" target="_blank" rel="noopener">New US House privacy bills raise hard questions about enterprise data collection</a></h2>
-                        <p class="summary">US House Republicans have introduced two major privacy proposals that would reshape how US companies collect, process, and retain consumer data: the SECURE...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.csoonline.com/article/4163345/new-us-house-privacy-bills-raise-hard-questions-about-enterprise-data-collection.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">New US House privacy...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.csoonline.com/article/4163316/cisa-last-in-line-for-access-to-anthropic-mythos-3.html" target="_blank" rel="noopener">CISA last in line for access to Anthropic Mythos</a></h2>
-                        <p class="summary">The US Cybersecurity and Infrastructure Security Agency (CISA) does not yet have access to Anthropic’s bug-hunting AI model, Claude Mythos, even though...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.csoonline.com/article/4163316/cisa-last-in-line-for-access-to-anthropic-mythos-3.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Schneier on Security</span>
-                            
-                        </div>
-                        <h2><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html" target="_blank" rel="noopener">Friday Squid Blogging: How Squid Survived Extinction Events</a></h2>
-                        <p class="summary">Science news: Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Ars Technica - All content</span>
-                            
-                        </div>
-                        <h2><a href="https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/" target="_blank" rel="noopener">Why are top university websites serving porn? It comes down to shoddy housekeeping.</a></h2>
-                        <p class="summary">Hundreds of subdomains from dozens of universities have been hijacked by scammers.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Ars Technica - All content</span>
-                            
-                        </div>
-                        <h2><a href="https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/" target="_blank" rel="noopener">Meet the 19-meter Cretaceous kraken that swam with mosasaurs</a></h2>
-                        <p class="summary">Layer by layer, researchers revealed the jaws of an ancient predator.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days" target="_blank" rel="noopener">Microsoft will let you pause Windows Updates indefinitely, 35 days at a time</a></h2>
-                        <p class="summary">Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker" target="_blank" rel="noopener">Alex Jones has uncovered another massive conspiracy</a></h2>
-                        <p class="summary">Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper....</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus" target="_blank" rel="noopener">The person who allegedly leaked Paramount’s new Avatar movie has been arrested</a></h2>
-                        <p class="summary">Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale" target="_blank" rel="noopener">Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations</a></h2>
-                        <p class="summary">Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/tech/918301/samsung-south-korea-union-protests" target="_blank" rel="noopener">The RAM shortage could get even worse if Samsung labor protests cut production</a></h2>
-                        <p class="summary">The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/tech/918301/samsung-south-korea-union-protests" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">The Verge</span>
-                            
-                        </div>
-                        <h2><a href="https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson" target="_blank" rel="noopener">How Project Maven taught the military to love AI</a></h2>
-                        <p class="summary">In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the "shock and awe" attack on Iraq...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss" target="_blank" rel="noopener">XChat, the standalone app for messaging on X, is available on iOS now</a></h2>
-                        <p class="summary">XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS. X first suggested it would be stripping direct...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss" target="_blank" rel="noopener">Maine governor vetoes bill temporarily banning large data centers in the state</a></h2>
-                        <p class="summary">The governor of Maine, Janet Mills, has vetoed a bill that halts the construction of large data centers in the state until the fall of 2027. While the bill...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss" target="_blank" rel="noopener">The DOJ is backing xAI in its lawsuit against Colorado</a></h2>
-                        <p class="summary">The Department of Justice has announced that it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado. xAI first...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/ai/what-you-need-to-know-as-elon-musks-lawsuit-against-sam-altman-begins-191500726.html?src=rss" target="_blank" rel="noopener">What you need to know as Elon Musk's lawsuit against Sam Altman begins</a></h2>
-                        <p class="summary">In a few short days, jury selection will begin in the long-awaited Musk v. Altman case. At the end of that process, an Oakland federal court will task nine...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/ai/what-you-need-to-know-as-elon-musks-lawsuit-against-sam-altman-begins-191500726.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss" target="_blank" rel="noopener">Google plans to invest even more money into Anthropic</a></h2>
-                        <p class="summary">Google plans to invest up to $40 billion into Anthropic in what could be viewed as a circular deal with the AI startup (and frequent competitor), Bloomberg...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Engadget is a web...</span>
-                            
-                        </div>
-                        <h2><a href="https://www.engadget.com/entertainment/streaming/singapore-police-arrest-alleged-the-legend-of-aang-the-last-airbender-leaker-183954803.html?src=rss" target="_blank" rel="noopener">Singapore police arrest alleged The Legend of Aang: The Last Airbender leaker</a></h2>
-                        <p class="summary">People aren't thrilled with Paramount these days. After all, corporate consolidation and the transformation of CBS News into state media tend to do that....</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.engadget.com/entertainment/streaming/singapore-police-arrest-alleged-the-legend-of-aang-the-last-airbender-leaker-183954803.html?src=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">WIRED</span>
-                            
-                        </div>
-                        <h2><a href="https://www.wired.com/story/ember-mug-2-deal-april-2026/" target="_blank" rel="noopener">Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal</a></h2>
-                        <p class="summary">If an Ember mug is at the top of Mom’s wish list, this sale is worth checking out.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.wired.com/story/ember-mug-2-deal-april-2026/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">WIRED</span>
-                            
-                        </div>
-                        <h2><a href="https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/" target="_blank" rel="noopener">AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials</a></h2>
-                        <p class="summary">Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BBC News</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account</a></h2>
-                        <p class="summary">Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">BBC News</span>
-                            
-                        </div>
-                        <h2><a href="https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">Tech Now</a></h2>
-                        <p class="summary">Alasdair Keane visits the underground insect farm turning food waste into animal feed.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.bbc.co.uk/iplayer/episode/m002vtqb?at_medium=RSS&at_campaign=rss" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">NYT > Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html" target="_blank" rel="noopener">Google Commits to Invest Up to $40 Billion in Anthropic</a></h2>
-                        <p class="summary">The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">NYT > Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html" target="_blank" rel="noopener">New Phishing Scam: Fake Invitations</a></h2>
-                        <p class="summary">Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/e9682adb-f29a-4169-8bf0-19e299e906e2" target="_blank" rel="noopener">Investors push for higher yield on $14bn of Oracle-backed data centre debt</a></h2>
-                        <p class="summary">Huge bond offering comes amid concerns over tech giant’s debt load and recent flood of AI-related issuance</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/e9682adb-f29a-4169-8bf0-19e299e906e2" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73" target="_blank" rel="noopener">Amazon-backed nuclear developer X-energy surges 27% in trading debut</a></h2>
-                        <p class="summary">Company taps rising demand for electricity from data centres to power AI boom</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8" target="_blank" rel="noopener">Google to invest up to $40bn in Anthropic</a></h2>
-                        <p class="summary">Search giant increases its financial support to help the AI lab add computing power to run its models</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/0c8bc0a9-63e5-4739-a91e-f07189b45f20" target="_blank" rel="noopener">AI data centre emissions vastly underestimated, UK admits</a></h2>
-                        <p class="summary">New projections raise forecasts of climate impact by up to 136 times</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/0c8bc0a9-63e5-4739-a91e-f07189b45f20" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/37261470-d1aa-4a3b-8a13-abec38f34523" target="_blank" rel="noopener">Intel shares surge on AI boom to surpass dotcom bubble high</a></h2>
-                        <p class="summary">CEO says US chipmaker has made ‘fundamental’ changes after year-long turnaround</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/37261470-d1aa-4a3b-8a13-abec38f34523" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">Technology</span>
-                            
-                        </div>
-                        <h2><a href="https://www.ft.com/content/2d1805b1-8750-4120-ad50-3fdbe8791836" target="_blank" rel="noopener">The Apple juggernaut and the AI roadblock</a></h2>
-                        <p class="summary">John Ternus will face innovation challenges that Tim Cook never had to</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.ft.com/content/2d1805b1-8750-4120-ad50-3fdbe8791836" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">IEEE Spectrum</span>
-                            
-                        </div>
-                        <h2><a href="https://spectrum.ieee.org/yong-wang-data-visualization" target="_blank" rel="noopener">Yong Wang Turns Information Into Insights</a></h2>
-                        <p class="summary">When Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://spectrum.ieee.org/yong-wang-data-visualization" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">MarkTechPost</span>
-                            
-                        </div>
-                        <h2><a href="https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/" target="_blank" rel="noopener">A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence</a></h2>
-                        <p class="summary">In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="news-card">
-                    
-                        <img src="https://picsum.photos/id/1015/800/400" alt="Tech news" loading="lazy">
-                    
-                    <div class="card-content">
-                        <div class="tags">
-                            <span class="tag">MarkTechPost</span>
-                            
-                        </div>
-                        <h2><a href="https://www.marktechpost.com/2026/04/24/deepseek-ai-releases-deepseek-v4-compressed-sparse-attention-and-heavily-compressed-attention-enable-one-million-token-contexts/" target="_blank" rel="noopener">DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts</a></h2>
-                        <p class="summary">DeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making...</p>
-                        <div class="meta">
-                            <span></span>
-                            <a href="https://www.marktechpost.com/2026/04/24/deepseek-ai-releases-deepseek-v4-compressed-sparse-attention-and-heavily-compressed-attention-enable-one-million-token-contexts/" class="read-more" target="_blank" rel="noopener">Read full →</a>
-                        </div>
-                    </div>
-                </article>
-                
-            </div>
-        </div>
+    <main class="container">
+        <div class="category-tabs" id="category-tabs"></div>
+        <div id="news-grid" class="news-grid"></div>
+        <div id="empty-state" class="feed-empty" style="display:none;">No articles found for this category.</div>
+        <div style="text-align:center;"><button id="load-more" class="load-more">Load more articles</button></div>
     </main>
 
-    <footer>
-        <div class="container">
-            Generated on Today • 
-            Showing 87 latest stories • 
-            <a href="https://github.com/abt0y/news" target="_blank">GitHub</a>
-        </div>
+    <footer class="container" style="padding: 2rem 0; text-align: center; color: var(--text-secondary); font-size: 0.95rem;">
+        Demo feed • Infinite scrolling and category filtering in one page
     </footer>
 
     <script>
-        // Dark / Light Mode
-        const toggle = document.getElementById('theme-toggle');
-        const body = document.documentElement;
+        const articleData = [
+            { title: 'AI Copilots Reimagine Creative Workflows', category: 'ai', summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod ex vel lacus maximus, eget luctus metus elementum.', published: 'Apr 25, 2026' },
+            { title: 'Chip Makers Race to 2nm Yields', category: 'chip', summary: 'Quisque sed odio nec arcu cursus interdum. Integer vitae turpis vel nisl semper cursus at et elit.', published: 'Apr 25, 2026' },
+            { title: 'Cyber Defense Adapts to AI-Powered Threats', category: 'cyber', summary: 'Sed pretium, nibh non congue gravida, tellus nisl volutpat risus, id mollis velit quam vitae lorem.', published: 'Apr 24, 2026' },
+            { title: 'Hardware Startups Focus on Energy Efficiency', category: 'hardware', summary: 'Phasellus blandit purus id urna commodo, vitae imperdiet tortor vestibulum. Nulla facilisi.', published: 'Apr 24, 2026' },
+            { title: 'AI-Generated Art Sparks New Debate', category: 'arts', summary: 'Nullam accumsan dolor vel neque efficitur, eget interdum ex placerat. Curabitur euismod lorem ut ante mollis.', published: 'Apr 23, 2026' },
+            { title: 'Science Labs Publish Breakthrough Quantum Results', category: 'science', summary: 'Duis pulvinar nisi ut commodo mattis. Fusce vitae sapien in velit molestie tincidunt.', published: 'Apr 23, 2026' },
+            { title: 'AI Ethics Panels Redefine Responsible Design', category: 'ai', summary: 'Aenean fermentum, orci nec aliquam posuere, augue sapien fermentum orci, a porta urna ipsum sit amet erat.', published: 'Apr 22, 2026' },
+            { title: 'Advanced Node Packaging Improves Chip Density', category: 'chip', summary: 'Curabitur non turpis vitae risus suscipit venenatis. Pellentesque a congue turpis, ac vehicula urna.', published: 'Apr 22, 2026' },
+            { title: 'New Firewall Tools Use Behavioral AI', category: 'cyber', summary: 'Mauris sit amet nisi nec orci feugiat vehicula. Etiam eu leo non lectus pulvinar vestibulum.', published: 'Apr 21, 2026' },
+            { title: 'Modular Hardware Designs Hit the Mainstream', category: 'hardware', summary: 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et leo sem.', published: 'Apr 21, 2026' },
+            { title: 'Interactive Installations Blend Tech and Art', category: 'arts', summary: 'Sed vitae urna ut nulla feugiat eleifend. Proin in convallis augue, pretium euismod nulla.', published: 'Apr 20, 2026' },
+            { title: 'Space Science Missions Chart New Worlds', category: 'science', summary: 'Fusce sed magna quis enim fermentum ultrices. Nulla convallis velit vel massa vehicula, ac iaculis libero ultricies.', published: 'Apr 20, 2026' }
+        ];
 
-        function setTheme(theme) {
-            body.setAttribute('data-theme', theme);
-            localStorage.setItem('theme', theme);
-            toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
-        }
-
-        function initTheme() {
-            const saved = localStorage.getItem('theme');
-            if (saved) setTheme(saved);
-            else if (window.matchMedia('(prefers-color-scheme: dark)').matches) setTheme('dark');
-            else setTheme('light');
-        }
-
-        toggle.addEventListener('click', () => {
-            const current = body.getAttribute('data-theme');
-            setTheme(current === 'dark' ? 'light' : 'dark');
-        });
-
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-            if (!localStorage.getItem('theme')) setTheme(e.matches ? 'dark' : 'light');
-        });
-
-        initTheme();
-
-        // Simple loading simulation (optional)
-        const skeleton = document.getElementById('skeleton');
+        const categories = ['all', 'ai', 'chip', 'cyber', 'hardware', 'arts', 'science'];
+        let currentCategory = 'all';
+        let visibleCount = 6;
+        const pageSize = 6;
+        let isListView = false;
         const grid = document.getElementById('news-grid');
-        if (grid.children.length === 0) {
-            skeleton.style.display = 'grid';
-            setTimeout(() => { skeleton.style.display = 'none'; }, 800);
+        const tabsContainer = document.getElementById('category-tabs');
+        const feedCount = document.getElementById('feed-count');
+        const feedCategory = document.getElementById('feed-category');
+        const emptyState = document.getElementById('empty-state');
+        const loadMoreButton = document.getElementById('load-more');
+        const viewToggle = document.getElementById('view-toggle');
+
+        function getFilteredArticles() {
+            return currentCategory === 'all'
+                ? articleData
+                : articleData.filter(article => article.category === currentCategory);
         }
+
+        function updateStatus() {
+            const filtered = getFilteredArticles();
+            feedCount.textContent = `${Math.min(visibleCount, filtered.length)} of ${filtered.length} stories`;
+            feedCategory.textContent = `Category: ${currentCategory.toUpperCase()}`;
+            emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
+            loadMoreButton.style.display = filtered.length > visibleCount ? 'inline-flex' : 'none';
+        }
+
+        function createArticleCard(article) {
+            const card = document.createElement('article');
+            card.className = 'news-card fade-enter';
+            card.innerHTML = `
+                <div class="card-content">
+                    <span class="tag">${article.category}</span>
+                    <h2>${article.title}</h2>
+                    <p class="summary">${article.summary}</p>
+                    <div class="meta"><span>${article.published}</span><span class="read-more">Read more →</span></div>
+                </div>
+            `;
+            requestAnimationFrame(() => card.classList.add('fade-enter-active'));
+            return card;
+        }
+
+        function renderArticles() {
+            const filtered = getFilteredArticles();
+            grid.innerHTML = '';
+            grid.classList.toggle('list-view', isListView);
+            if (filtered.length === 0) {
+                updateStatus();
+                return;
+            }
+            const items = filtered.slice(0, visibleCount);
+            items.forEach(article => grid.appendChild(createArticleCard(article)));
+            updateStatus();
+        }
+
+        function setActiveCategory(category) {
+            currentCategory = category;
+            visibleCount = pageSize;
+            Array.from(tabsContainer.children).forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.category === category);
+            });
+            renderArticles();
+        }
+
+        function setupTabs() {
+            categories.forEach(category => {
+                const button = document.createElement('button');
+                button.type = 'button';
+                button.className = 'tab';
+                button.textContent = category.toUpperCase();
+                button.dataset.category = category;
+                button.addEventListener('click', () => setActiveCategory(category));
+                tabsContainer.appendChild(button);
+            });
+            setActiveCategory(currentCategory);
+        }
+
+        function toggleViewMode() {
+            isListView = !isListView;
+            viewToggle.textContent = isListView ? 'Switch to Grid View' : 'Switch to List View';
+            renderArticles();
+        }
+
+        function loadMore() {
+            const filteredLength = getFilteredArticles().length;
+            if (visibleCount >= filteredLength) return;
+            visibleCount = Math.min(filteredLength, visibleCount + pageSize);
+            renderArticles();
+        }
+
+        function handleScroll() {
+            const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 140;
+            if (nearBottom) loadMore();
+        }
+
+        loadMoreButton.addEventListener('click', loadMore);
+        viewToggle.addEventListener('click', toggleViewMode);
+        window.addEventListener('scroll', handleScroll);
+        setupTabs();
     </script>
 </body>
 </html>
