@@ -67,6 +67,8 @@ FEEDS = [
 
 TOPIC_KEYWORDS = {
     "AI": ["ai", "machine learning", "llm", "gpt", "deep learning"],
+    "Robot": ["robot", "robotics", "autonomous", "automation", "humanoid", "drone"],
+    "Chip": ["chip", "chips", "semiconductor", "silicon", "wafer"],
     "Cybersecurity": ["security", "hack", "malware", "vulnerability"],
     "Hardware": ["chip", "semiconductor", "gpu", "nvidia"],
     "Science": ["research", "paper", "discovery"],
