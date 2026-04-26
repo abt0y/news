@@ -6,54 +6,111 @@
     <title>Daily AI & Tech News</title>
     <style>
         :root {
-            --bg: #f4f7fb;
-            --surface: #ffffff;
+            --bg: #eef4ff;
+            --bg-glow-a: rgba(59,130,246,0.22);
+            --bg-glow-b: rgba(124,58,237,0.16);
+            --surface: rgba(255,255,255,0.82);
+            --surface-strong: #ffffff;
             --text: #121827;
             --text-secondary: #52606d;
             --accent: #3b82f6;
+            --accent-strong: #2563eb;
             --accent-soft: rgba(59,130,246,0.12);
-            --border: #d9e2ec;
-            --shadow: 0 24px 60px rgba(15, 23, 42, 0.08);
+            --border: rgba(148,163,184,0.32);
+            --shadow: 0 24px 60px rgba(15, 23, 42, 0.1);
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html, body { min-height: 100%; }
         body {
             font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: var(--bg);
+            background:
+                radial-gradient(circle at top left, var(--bg-glow-a), transparent 32rem),
+                radial-gradient(circle at top right, var(--bg-glow-b), transparent 34rem),
+                var(--bg);
             color: var(--text);
             line-height: 1.6;
         }
         .container { width: min(1280px, 100% - 2rem); margin: 0 auto; }
         header { padding: 2rem 0 1rem; }
         .hero {
-            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;
-            align-items: flex-end;
+            display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1.5rem;
+            align-items: stretch;
+            background: linear-gradient(135deg, rgba(255,255,255,0.9), rgba(255,255,255,0.58));
+            border: 1px solid var(--border);
+            border-radius: 30px;
+            box-shadow: var(--shadow);
+            padding: clamp(1.5rem, 3vw, 2.5rem);
+            overflow: hidden;
+            position: relative;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            width: 18rem;
+            height: 18rem;
+            right: -5rem;
+            top: -6rem;
+            border-radius: 999px;
+            background: linear-gradient(135deg, rgba(59,130,246,0.22), rgba(124,58,237,0.18));
+            pointer-events: none;
         }
         .hero-title {
             max-width: 720px;
+            position: relative;
+            z-index: 1;
         }
         .hero-title h1 {
             font-size: clamp(2rem, 3vw, 3.2rem);
             margin-bottom: 0.75rem;
             letter-spacing: -0.03em;
+            line-height: 1.05;
         }
         .hero-title p {
             color: var(--text-secondary);
             font-size: 1rem;
         }
+        .hero-actions {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: flex-end;
+            gap: 1rem;
+            min-width: 220px;
+            position: relative;
+            z-index: 1;
+        }
+        .hero-stat {
+            background: rgba(255,255,255,0.7);
+            border: 1px solid var(--border);
+            border-radius: 22px;
+            padding: 1rem;
+            text-align: right;
+            backdrop-filter: blur(14px);
+        }
+        .hero-stat strong {
+            display: block;
+            color: var(--text);
+            font-size: 1.7rem;
+            line-height: 1;
+        }
+        .hero-stat span {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
         .status-bar {
             display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.75rem;
             color: var(--text-secondary);
-            margin: 1.5rem 0 0;
+            margin: 1rem 0 0;
             font-size: 0.95rem;
             align-items: center;
         }
         .status-bar span,
         .view-toggle {
-            background: #eef4ff;
-            border: 1px solid rgba(59,130,246,0.16);
+            background: var(--surface);
+            border: 1px solid var(--border);
             border-radius: 999px;
             padding: 0.65rem 1rem;
+            backdrop-filter: blur(10px);
         }
         .view-toggle {
             background: transparent;
@@ -62,7 +119,7 @@
             transition: background 0.2s ease, transform 0.2s ease;
         }
         .view-toggle:hover {
-            background: #fff;
+            background: var(--surface-strong);
             transform: translateY(-1px);
         }
         .view-toggle.active {
@@ -119,18 +176,19 @@
             margin: 1.5rem 0 1rem;
         }
         .tab {
-            background: #fff;
-            border: 1px solid transparent;
+            background: var(--surface);
+            border: 1px solid var(--border);
             color: var(--text-secondary);
             padding: 0.85rem 1.2rem;
             border-radius: 999px;
             cursor: pointer;
             transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
             font-weight: 600;
+            box-shadow: 0 10px 24px rgba(15,23,42,0.05);
         }
         .tab:hover { transform: translateY(-2px); }
         .tab.active {
-            background: var(--accent);
+            background: linear-gradient(135deg, var(--accent), var(--accent-strong));
             color: #ffffff;
             border-color: rgba(59,130,246,0.4);
             box-shadow: 0 10px 24px rgba(59,130,246,0.18);
@@ -149,13 +207,15 @@
             border: 1px solid var(--border);
             border-radius: 22px;
             overflow: hidden;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
             box-shadow: var(--shadow);
+            backdrop-filter: blur(12px);
             margin-bottom: 1.75rem;
             vertical-align: top;
         }
         .news-card:hover {
             transform: translateY(-6px);
+            border-color: rgba(59,130,246,0.35);
             box-shadow: 0 26px 48px rgba(15,23,42,0.12);
         }
         .card-content {
@@ -196,6 +256,12 @@
             color: var(--text-secondary);
             font-size: 0.95rem;
         }
+        .source {
+            display: block;
+            color: var(--text-secondary);
+            font-size: 0.88rem;
+            margin-top: -0.35rem;
+        }
         .read-more {
             color: var(--accent);
             font-weight: 700;
@@ -214,7 +280,7 @@
             padding: 0.95rem 1.4rem;
             border: none;
             border-radius: 999px;
-            background: var(--accent);
+            background: linear-gradient(135deg, var(--accent), var(--accent-strong));
             color: #fff;
             cursor: pointer;
             transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -226,19 +292,31 @@
         }
         @media (max-width: 720px) {
             .hero { flex-direction: column; align-items: flex-start; }
+            .hero-actions { align-items: stretch; width: 100%; }
+            .hero-stat { text-align: left; }
             .news-grid { column-count: 1; }
             .status-bar { justify-content: center; }
             .category-tabs { justify-content: center; }
         }
         [data-theme="dark"] {
             --bg: #020617;
-            --surface: #0e1626;
+            --bg-glow-a: rgba(59,130,246,0.16);
+            --bg-glow-b: rgba(124,58,237,0.18);
+            --surface: rgba(14,22,38,0.82);
+            --surface-strong: #0e1626;
             --text: #e2e8f0;
             --text-secondary: #94a3b8;
-            --accent: #7c3aed;
+            --accent: #8b5cf6;
+            --accent-strong: #6d28d9;
             --accent-soft: rgba(124,58,237,0.16);
-            --border: #1e293b;
+            --border: rgba(71,85,105,0.62);
             --shadow: 0 24px 60px rgba(0, 0, 0, 0.45);
+        }
+        [data-theme="dark"] .hero {
+            background: linear-gradient(135deg, rgba(15,23,42,0.92), rgba(15,23,42,0.58));
+        }
+        [data-theme="dark"] .hero-stat {
+            background: rgba(15,23,42,0.72);
         }
         .fade-enter { opacity: 0; transform: translateY(16px); }
         .fade-enter-active { opacity: 1; transform: translateY(0); transition: opacity 0.35s ease, transform 0.35s ease; }
@@ -249,7 +327,13 @@
         <div class="hero">
             <div class="hero-title">
                 <h1>Daily AI & Tech News</h1>
-                <p>Browse a responsive feed of articles with category tabs and infinite scroll. This demo uses placeholder content for fast prototyping.</p>
+                <p>Track up to 1,000 fresh AI and tech stories each day with fast filters, saved favorites, and a cleaner reading layout.</p>
+            </div>
+            <div class="hero-actions">
+                <div class="hero-stat">
+                    <strong id="daily-limit">1,000</strong>
+                    <span>maximum daily newsfeed</span>
+                </div>
             </div>
         </div>
         <div class="status-bar">
@@ -271,21 +355,45 @@
     </main>
 
     <footer class="container" style="padding: 2rem 0; text-align: center; color: var(--text-secondary); font-size: 0.95rem;">
-        Demo feed • Infinite scrolling and category filtering in one page
+        Daily feed • Up to 1,000 stories with category filtering in one page
     </footer>
 
     <script>
-        const articleData = {{ articles | default([]) | tojson | safe }};
+        const MAX_DAILY_ARTICLES = 1000;
+        const requestedCategories = ['ai', 'cybersecurity', 'hardware', 'robot', 'chip', 'science', 'creative'];
+        const categoryKeywords = {
+            robot: ['robot', 'robotics', 'autonomous', 'automation', 'humanoid', 'drone'],
+            chip: ['chip', 'chips', 'semiconductor', 'silicon', 'gpu', 'nvidia', 'amd', 'intel', 'wafer'],
+        };
+        const categoryLabels = {
+            ai: 'AI',
+        };
+        const articleData = {{ articles | default([]) | tojson | safe }}
+            .sort((a, b) => new Date(b.date || b.published || 0) - new Date(a.date || a.published || 0))
+            .slice(0, MAX_DAILY_ARTICLES);
+
+        function inferCategory(article) {
+            const text = `${article.title || ''} ${article.summary || ''} ${(article.topics || []).join(' ')}`.toLowerCase();
+            const matchedPriority = Object.entries(categoryKeywords).find(([, keywords]) => keywords.some(keyword => text.includes(keyword)));
+            if (matchedPriority) return matchedPriority[0];
+            return (article.category || article.topics?.[0] || 'general').toLowerCase();
+        }
+
+        function categoryLabel(category) {
+            return categoryLabels[category] || category.charAt(0).toUpperCase() + category.slice(1);
+        }
+
         articleData.forEach(article => {
-            article.category = article.category || (article.topics?.[0]?.toLowerCase() || 'general');
+            article.category = inferCategory(article);
             article.link = article.link || '#';
+            article.published = article.published || (article.date ? new Date(article.date).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' }) : 'Today');
         });
 
-        const categories = ['all', ...Array.from(new Set(articleData.map(article => article.category)))];
+        const discoveredCategories = Array.from(new Set(articleData.map(article => article.category)));
+        const categories = ['all', ...requestedCategories, ...discoveredCategories.filter(category => !requestedCategories.includes(category))];
         let currentCategory = 'all';
         let visibleCount = 6;
         const pageSize = 6;
-        const MAX_DAILY_ARTICLES = 1000;
         const favoritesKey = 'daily-news-favorites';
         let favorites = loadFavorites();
         let isListView = false;
@@ -334,8 +442,8 @@
         function updateStatus() {
             const filtered = getFilteredArticles();
             const totalAvailable = Math.min(filtered.length, MAX_DAILY_ARTICLES);
-            feedCount.textContent = `${Math.min(visibleCount, totalAvailable)} of ${filtered.length} stories${filtered.length > MAX_DAILY_ARTICLES ? ' (showing latest 1000)' : ''}`;
-            feedCategory.textContent = `Category: ${currentCategory.toUpperCase()}`;
+            feedCount.textContent = `${Math.min(visibleCount, totalAvailable)} of ${totalAvailable} stories${filtered.length > MAX_DAILY_ARTICLES ? ' (showing latest 1000)' : ''}`;
+            feedCategory.textContent = `Category: ${categoryLabel(currentCategory)}`;
             favoriteCount.textContent = `Favorites: ${favorites.size}`;
             emptyState.style.display = filtered.length === 0 ? 'block' : 'none';
             loadMoreButton.style.display = visibleCount < totalAvailable ? 'inline-flex' : 'none';
@@ -349,12 +457,13 @@
             card.innerHTML = `
                 <div class="card-content">
                     <div class="card-header">
-                        <span class="tag">${article.category.toUpperCase()}</span>
+                        <span class="tag">${categoryLabel(article.category)}</span>
                         <button class="favorite-button ${favoriteActive}" type="button" aria-label="Toggle favorite">
                             <span class="heart">${favoriteActive ? '❤️' : '🤍'}</span>
                         </button>
                     </div>
                     <h2>${article.title}</h2>
+                    <span class="source">${article.source || 'News source'}</span>
                     <p class="summary">${article.summary}</p>
                     <div class="meta">
                         <span>${article.published}</span>
@@ -395,7 +504,7 @@
                 const button = document.createElement('button');
                 button.type = 'button';
                 button.className = 'tab';
-                button.textContent = category.toUpperCase();
+                button.textContent = categoryLabel(category);
                 button.dataset.category = category;
                 button.addEventListener('click', () => setActiveCategory(category));
                 tabsContainer.appendChild(button);
