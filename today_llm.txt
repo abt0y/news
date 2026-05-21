@@ -1,134 +1,127 @@
-Why Anthropic hired OpenAI co-founder and Software 3.0 proponent Karpathy and acquired ... - https://www.google.com/url?rct=j&sa=t&url=https://www.rdworldonline.com/why-anthropic-hired-openai-co-founder-and-software-3-0-proponent-karpathy-and-acquired-the-dev-tools-company-stainless/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3id8f5YdoMpf5z_OL9xWoI
-Unlocking <b>Neural Networks</b>: A Simple Explanation You Need Now! #Shorts - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Di0TVtgvW_Ig&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw10bXia4q9k708lvRC4wjnA
-Hidden Patterns: Kevin Hu Navigates the Mathematics of Disordered Systems - https://www.google.com/url?rct=j&sa=t&url=https://www.simonsfoundation.org/2026/05/19/hidden-patterns-kevin-hu-navigates-the-mathematics-of-disordered-systems/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1d0TaI2YvyB5beZJRv1MYU
-Hybrid projector delivers super-resolution images across extended depth with 16-fold gain - https://www.google.com/url?rct=j&sa=t&url=https://phys.org/news/2026-05-hybrid-projector-super-resolution-images.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3iZufkPUbrorYW_9M_AO3r
-Dual-aspect contrastive hyper fusion transformer for trip recommendation - ScienceDirect - https://www.google.com/url?rct=j&sa=t&url=https://www.sciencedirect.com/science/article/abs/pii/S0925231226014219&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw060x1fZCq3RQfSSYGOo2Sm
-Chip Industry Technical Paper Roundup: May 19 - Semiconductor Engineering - https://www.google.com/url?rct=j&sa=t&url=https://semiengineering.com/chip-industry-technical-paper-roundup-may-19/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2vw4cNOqBO9-8wmDTPodyF
-Google's Gemini Omni turns images, audio, and text into video — and that's just the start - https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw19Ln_ApiDhdIIpmNVnI7T-
-Selective encoding of priors for flexible categorization but not Bayesian inference in the ... - https://www.google.com/url?rct=j&sa=t&url=https://www.jneurosci.org/content/early/2026/05/18/JNEUROSCI.2271-25.2026&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2ZVQhD62-qgsVpmuy1kynt
-Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems - https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-How tiny capacitors became the latest AI-driven investor darling - https://www.scmp.com/tech/article/3354168/how-tiny-capacitors-became-latest-ai-driven-investor-darling?utm_source=rss_feed
-Google just declared itself a contender in AI design at IO 2026 - https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
-You can now talk to your Gmail inbox, as seen at Google IO 2026 - https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/
-How to use Google’s new AI agents to go beyond your standard searches - https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/
-Mach Industries just spent $50M to solve a major defense tech problem - https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/
-From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing - https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/
-Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims - https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/
-Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026 - https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/
-Google’s Genie world model can now simulate real streets with Street View - https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/
-With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots - https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/
-Google Search as you know it is over - https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/
-Google’s AI Studio now lets anyone build Android apps in minutes - https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/
-Google updates its Gemini app to take on ChatGPT and Claude at IO 2026 - https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/
-Agentic app coding gets an upgrade with Google’s release of Android CLI - https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/
-Google’s new Universal Cart wants to follow your entire shopping journey across the internet - https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/
-Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026 - https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/
-Google adds voice-based prompting to Docs and Keep - https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/
-Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026 - https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/
-Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start - https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/
-OpenAI is making it easier to check if an image was made by their models - https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/
-Google to release first smart glasses since Google Glass flop - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cvgz1ynq1nqo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0tOtsDPw52YCsa7tBYuHlU
-Google DeepMind hires staff from Contextual <b>AI</b> in licensing deal, source says | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/legal/litigation/google-deepmind-hires-staff-contextual-ai-licensing-deal-bloomberg-news-reports-2026-05-19/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2bgd2npw2BlHr9IWmgtOYT
-As Meta lays off 10%, 7000 employees will be moved into <b>AI</b> roles, source says - NBC News - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/tech-news/meta-layoffs-ai-rcna345968&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Pqr2K0f_Zn-a0OtbJ4HtU
-'Obvious markers of <b>AI</b>': doubts raised over winner of short story prize - The Guardian - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3fJg7K7fBo6E4vkxM_U5E0
-How Google Is Starting to Win the <b>A.I.</b> Race - The New York Times - https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw03WXLP8IyH2yvFgFKzyMWg
-Why better <b>AI</b> starts with the people it often misses - Microsoft Source - https://www.google.com/url?rct=j&sa=t&url=https://news.microsoft.com/source/features/ai/why-better-ai-starts-with-the-people-it-often-misses/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw05_BBV7ge3aozkbRCak_g-
-Manus <b>AI</b> – Complete Course for Developers - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D2-ZqK1GVQ5U&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1LgA4C-RtlYSz4sVBrrjeM
-Recent commencement speeches show students are souring on <b>AI</b>. How deep is the angst? - https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/ai-backlash-college-commencements-2026/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0flVO3j29i-KtQ1_pvfGvh
-Entry-Level Hiring in the <b>AI</b> Era: What Employers Are Thinking (and Doing) - https://www.google.com/url?rct=j&sa=t&url=https://www.strada.org/news-insights/entry-level-hiring-in-the-ai-era-what-employers-are-thinking-and-doing&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2y57_n6mNnLBMpXYkImpaq
-Trump posts <b>AI</b> alien pic after wild UFO claims made without proof - KidsNews - https://www.google.com/url?rct=j&sa=t&url=https://www.kidsnews.com.au/space/trump-posts-ai-alien-pic-after-wild-ufo-claims-made-without-proof/news-story/160da75933dd474b9389e836a6ab38b4&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3evZuvE3B06igmva1Bf_Rw
-Google announces slew of <b>AI</b> advances, including a personal assistant coming soon - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/tech-news/google-announces-slew-ai-advances-personal-ai-assistant-coming-soon-rcna345971&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1iJ6aZyMkIE-_qhVgZ-xIG
-'The Future of Truth' Contains Quotes Made Up by <b>A.I.</b> - The New York Times - https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1K60ZV9u8qzQxWbpKoTtcG
-35. Luma <b>AI</b> - CNBC - https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/05/19/luma-ai-cnbc-disruptor-50-ranking.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1kK_Jp84BDwdlLpbUPABsy
-China: Beijing and Washington agree to hold dialogue on <b>AI</b> | NHK WORLD-JAPAN <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/en/news/20260520_01/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2DYweQWiwopVpUXS-6VpqK
-Use Grok in OpenClaw - xAI - https://www.google.com/url?rct=j&sa=t&url=https://x.ai/news/grok-openclaw&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1XiiiEuzQbsPcP0_pe3bh6
-Gemini Spark is your 24/7 personal <b>AI</b> agent that helps you navigate your digital life. - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DYh7Tu7ubcw/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2l166QJNKmpBaqBA4_Six0
-Meta is rapidly reorganizing its workers' jobs around <b>AI</b>: 'Transfers aren't optional' - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1h3M0t5VNqoYuAEGe5IsXD
-Google's biggest <b>AI</b> showcase: What to watch - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DNigSnOGtxts&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3KV5Wk2tylzxodGWFnhtvo
-AMD EPYC 8005 is Out with Up to 84 Zen 5 Cores in a 225W TDP Package - https://www.servethehome.com/amd-epyc-8005-is-out-with-up-to-84-zen-5-cores-in-a-225w-tdp/
-A lot of bot posts - https://www.reddit.com/r/selfhosted/comments/1ti2pbu/a_lot_of_bot_posts/
-Self hosted app for vehicle maintenance? - https://www.reddit.com/r/selfhosted/comments/1ti7wje/self_hosted_app_for_vehicle_maintenance/
-Can't install SSL certificate on Wordpress but NPM works - https://www.reddit.com/r/selfhosted/comments/1ti79hg/cant_install_ssl_certificate_on_wordpress_but_npm/
-Advice on books/comics/audiobook hosting? - https://www.reddit.com/r/selfhosted/comments/1ti21e4/advice_on_bookscomicsaudiobook_hosting/
-Is there an easy way to monitor my home server? - https://www.reddit.com/r/selfhosted/comments/1thuw86/is_there_an_easy_way_to_monitor_my_home_server/
-New Lifetime Plex Pass Pricing increase to 748.99 - https://www.reddit.com/r/homelab/comments/1ti1h43/new_lifetime_plex_pass_pricing_increase_to_74899/
-I still have 20GB of memory available in my homelab. What else should I add? - https://www.reddit.com/r/homelab/comments/1thye6l/i_still_have_20gb_of_memory_available_in_my/
-Beginner Homelab - https://www.reddit.com/r/homelab/comments/1thy3d3/beginner_homelab/
-Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive - https://fivethirtyeightindex.com/
-Railway Blocked by Google Cloud - https://status.railway.com/?date=20260519
-GitHub is investigating unauthorized access to their internal repositories - https://twitter.com/github/status/2056884788179726685
-HTML-in-Canvas Demos - https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md
-Remove–AI–Watermarks – CLI and library for removing AI watermarks from images - https://github.com/wiltodelta/remove-ai-watermarks
-OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool - https://openai.com/index/advancing-content-provenance/
-Dumb ways for an open source project to die - https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html
-Mistral AI acquires Emmi AI - https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
-Minnesota becomes first state to ban prediction markets - https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets
-Disney erased FiveThirtyEight - https://www.natesilver.net/p/disney-erased-fivethirtyeight
-The TTY Demystified (2008) - https://www.linusakesson.net/programming/tty/index.php
-Gemini CLI will stop working from June 18, 2026 - https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/
-Gemini 3.5 Flash - https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
-Fedora Retiring Its Deepin Desktop Packages - https://www.phoronix.com/news/Fedora-Removing-Deepin
-Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more - https://www.zdnet.com/article/google-io-05-19-2026-live-blog/
-OpenAI's new image watermarks make it easier to spot AI fakes - here's how - https://www.zdnet.com/article/openai-image-watermarks-help-spot-ai-fakes/
-Google's new AI Search box is here - along with agents and 5 more upgrades - https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/
-Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned) - https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/
-Google overhauls its AI plans - which one should you now choose? - https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/
-Max-severity flaw in ChromaDB for AI apps allows server hijacking - https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/
-Cybercrime service disrupted for abusing Microsoft platform to sign malware - https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/
-What Will Make AI BOMs Real? - https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real
-Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut - https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut
-Windows Zero-Day Barrage Continues After Patch Tuesday - https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday
-CISA Exposes Secrets, Credentials in 'Private' Repo - https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo
-Microsoft disrupts malware code-signing service used by ransomware gangs - https://www.csoonline.com/article/4173417/microsoft-disrupts-malware-code-signing-service-used-by-ransomware-gangs.html
-Contractor’s public GitHub account exposed GovCloud and CISA credentials - https://www.csoonline.com/article/4173305/contractors-public-github-account-exposed-govcloud-and-cisa-credentials.html
-AntV data visualization tool the latest to be hit by ongoing npm supply chain attacks - https://www.csoonline.com/article/4173291/antv-data-visualization-tool-the-latest-to-be-hit-by-ongoing-npm-supply-chain-attacks-2.html
-Spider-Noir final trailer gives us a classic villain - https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor/
-Two AI-based science assistants succeed with drug-retargeting tasks - https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/
-Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/
-In stunning display of stupid, secret CISA credentials found in public GitHub repo - https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/
-RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks - https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/
-Gemini 3.5 Flash might be fast enough for gen AI to make sense - https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/
-Wear OS 7 will keep track of deliveries and sports scores on your wrist - https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026
-Demis Hassabis said this might be the ‘foothills of the singularity.’ What? - https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis
-We react to Google I/O 2026 - https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026
-Nintendo’s $500 Switch 2 bundle includes a game, and it&#8217;s available now - https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal
-Google’s AI future demands trust — and your personal data - https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data
-Here are our favorite Memorial Day deals (so far) - https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026
-Democrats preview how they’d go after the Ticketmaster settlement if they regain power - https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement
-Android XR is finally starting to feel real - https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/
-Firefox AI guardrails arrive for mobile - https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile/
-Google debuts AI-powered tools to optimize scientific research workflows - https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows/
-Google's Gemini Spark is an agentic AI assistant - https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/
-Google's redesigned Gemini comes with a new interface and AI models - https://www.engadget.com/2176568/google-redesigned-gemini-comes-with-a-new-interface-and-ai-models/
-Google's Gemini Omni can generate 'anything from any input,' starting with video - https://www.engadget.com/2176590/googles-gemini-omni-can-generate-anything-from-any-input-starting-with-video/
-I/O 2026 is bringing more AI to Google Play - https://www.engadget.com/2175948/io-2026-is-bringing-more-ai-to-google-play/
-The Google AI Ultra plan now starts at $100 a month - https://www.engadget.com/2176060/the-google-ai-ultra-plan-now-starts-at-100-a-month/
-Google's newest app is an AI-powered image editor - https://www.engadget.com/2176578/googles-newest-app-is-an-ai-powered-image-editor/
-Google's Universal Cart will keep an eye on your shopping - https://www.engadget.com/2176633/google-universal-cart-will-keep-an-eye-on-your-shopping/
-Project Genie adds Google Street View integration and goes live for global AI Ultra users - https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/
-Google's Circle to Search feature can tell you if an image was AI-generated - https://www.engadget.com/2176090/google-expand-synthid-to-chrome-pixel-search/
-Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal - https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/
-Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses - https://www.wired.com/story/everything-google-announced-at-google-io-2026/
-Google Search Goes Agentic—and Doesn’t Need You Anymore - https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/
-Demis Hassabis Thinks AI Job Cuts Are Dumb - https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/
-Google Makes It Easy to Deepfake Yourself - https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/
-Hands-On With All of Google’s New Upcoming Android XR Smart Glasses - https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/
-Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent - https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/
-Google to release first smart glasses since Google Glass flop - https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss
-Tech Life - https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss
-Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation - https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html
-How Google Is Starting to Win the A.I. Race - https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html
-Senate Republicans Introduce Funding Measure to Combat Online Child Abuse - https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html
-Bipartisan Bill Would Impose New Annual Fee on Electric Vehicles - https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html
-Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman - https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html
-Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93 - https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html
-Why ‘Smart’ Products Have Started to Look Like the Dumb Choice - https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html
-The stock market that outpaced Nasdaq’s dotcom-era gains - https://www.ft.com/content/a900f970-b919-46f2-98c2-ea3d0df40fce
-Morgan Stanley issues China-only iPhones to its Hong Kong bankers - https://www.ft.com/content/7674f883-1f58-4601-a291-d94d25ea8b20
-Google to release smart glasses and add AI ‘agents’ to search engine - https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a
-Wall Street prepares for boom in tech IPOs after Cerebras’ success - https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f
-Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service - https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/
-Introducing OpenAI for Singapore - https://openai.com/index/introducing-openai-for-singapore
-Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support - https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/
-Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think. - https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think
-Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx - https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/
+Cadence licenses Tensilica Vision DSP to Aeva for 4D LiDAR systems - Nasi Lemak Tech - https://www.google.com/url?rct=j&sa=t&url=https://nasilemaktech.com/cadence-aeva-tensilica-lidar-dsp/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3WYwmH21Jk_Dl29BqHmour
+“Deep Learning–Based Skin Lesion Classification: A CNN Approach on High‐Frequency ... - https://www.google.com/url?rct=j&sa=t&url=https://onlinelibrary.wiley.com/doi/full/10.1002/jum.70300&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw38g86R2vWSfvlq-MMJZBOh
+Chessiverse Releases Bots 4.0: A Complete Rebuild on Maia2 <b>Neural Networks</b> Delivering ... - https://www.google.com/url?rct=j&sa=t&url=https://www.usatoday.com/press-release/story/32962/chessiverse-releases-bots-4-0-a-complete-rebuild-on-maia2-neural-networks-delivering-the-most-human-like-chess-ai-yet/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0lIo4_qqU2DmOElIxhE1yA
+Lukas et al. S4 Table - https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/ploscompbiol/article/file%3Ftype%3Dsupplementary%26id%3D10.1371/journal.pcbi.1014248.s013&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1ngb42YV5APQCD5gDyX12T
+LSTM-attention-guided graph <b>neural networks</b> for integrated genotype–Environment ... - https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/ploscompbiol/article%3Fid%3D10.1371/journal.pcbi.1013729&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3T-kBxnrz_pYITBveCwcq2
+Multimodal data integration to determine viral and innate immune kinetics in human airway ... - https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/ploscompbiol/article%3Fid%3D10.1371/journal.pcbi.1014248&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2z7Lt6rqtG-3tyEbi3IiKx
+A Handheld, AI-Powered Microscope for Cancer Screening - Optics &amp; Photonics News - https://www.google.com/url?rct=j&sa=t&url=https://www.optica-opn.org/home/newsroom/2026/may/a_handheld_ai-powered_microscope_for_cancer_screening/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0dIqZCSgZIp58wTfOymTlk
+Scientists identify brain circuit that helps us “change gears” | UCR News | UC Riverside - https://www.google.com/url?rct=j&sa=t&url=https://news.ucr.edu/articles/2026/05/20/scientists-identify-brain-circuit-helps-us-change-gears&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0M0yDoPZN8fe-sokJMlrVz
+Are You Right-Handed? Scientists Just Figured Out Why. - Popular Mechanics - https://www.google.com/url?rct=j&sa=t&url=https://www.popularmechanics.com/science/a71348523/right-hand-dominance/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2oO9oA0d84oYVqwJsF1T29
+Scientists Show That Routers Can Be Used To Track Your Movements Through Walls - BGR - https://www.google.com/url?rct=j&sa=t&url=https://www.bgr.com/2173166/routers-can-track-movements-through-walls-according-report/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0VOMmfm7hz2-aCWg4jgrd3
+How to Run Llama and Qwen Offline: A Guide for Windows and Mac - incrypted - https://www.google.com/url?rct=j&sa=t&url=https://incrypted.com/en/local-llama-qwen-offline-windows-mac/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1QZM77lm6x3NQyfJy0b4SD
+Chinese AI smart glasses take off with focus on user needs - https://www.scmp.com/plus/tech/tech-trends/article/3354301/chinese-ai-smart-glasses-take-focus-user-needs?utm_source=rss_feed
+Nvidia’s H200 sales prospects in China remain uncertain despite Huang visit - https://www.scmp.com/tech/article/3354296/nvidias-h200-sales-prospects-china-remain-uncertain-despite-huang-visit?utm_source=rss_feed
+Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia - https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/
+Anthropic says it’s about to have its first profitable quarter - https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/
+The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center - https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/
+Clouted wants to take the guesswork out of making short videos go viral - https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/
+xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over - https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/
+Nvidia posts another record quarter, reveals $43B of holdings in startups - https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/
+Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more - https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/
+Anthropic will pay xAI $1.25B per month for compute - https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/
+Sam Altman makes ‘mic drop’ offer to every Y Combinator startup - https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/
+You don’t need to be an AI startup to raise. Lucra has $20M to prove it. - https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/
+Microsoft’s carbon-removal plans aren’t dead after all - https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/
+OpenAI claims it solved an 80-year-old math problem — for real this time - https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
+IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed - https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/
+Airbnb gets into hotels, expands AI for host onboarding and customer support - https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/
+Global EV market goes K-shaped as the US gets left behind - https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/
+OpenAI barrels toward IPO that may happen in September - https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/
+Jeff Bezos, you were so close to making a good point - https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/
+Meet Ask Advisor, your new <b>AI</b>-powered collaborator - Google Blog - https://www.google.com/url?rct=j&sa=t&url=https://blog.google/products/ads-commerce/ask-advisor/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1uaRceu_W6kdEy9zqHFZSj
+Google | Introducing Gemini Spark a 24/7 personal <b>AI</b> agent that helps you navigate your ... - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DYlP5inTWEq/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0qadyShRKkJZo3dQdSowA5
+<b>AI</b> models at top labs are cheating, deceiving and trying to escape, research finds - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/tech/security/chatgpt-ai-mythos-anthropic-agent-rogue-danger-warning-safety-rcna346078&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1eYt77WWE0QyJq6zwXESsU
+Google announces new <b>AI</b> features for its internet search. Click Watch Live at the link in our ... - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DYijiByjDZc/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1GBgOBhBjaw2m7dnfrn0WE
+<b>AI</b> has been used to alter photos of children to be used as blackmail – a dark cybercrime that ... - https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/CBSNews/videos/ai-has-been-used-to-alter-photos-of-children-to-be-used-as-blackmail-a-dark-cybe/967514986276014/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0AbSGdNsGmP8bFTHVqTrDW
+The <b>AI</b> bots are coming and the young are booing, not applauding | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/world-at-work/ai-bots-are-coming-young-are-booing-not-applauding-2026-05-20/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Rce06mn_ix14JVpabWl9w
+Jeff Bezos: <b>AI</b> productivity gains could lead to labor shortages and deflation - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBxG_ysI3xr4&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Su5ZjyuM1BCOnkDSbyMi8
+Microsoft Open-Sources RAMPART and Clarity to Secure <b>AI</b> Agents During Development - https://www.google.com/url?rct=j&sa=t&url=https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0kHoOvCLSNtsPnUkJ5n_iO
+<b>AI</b> graduation glitch sparks debate over technology and trust - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DPX01VX0SIu0&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1_pvyUzOB_I4p6lqyxGdT4
+Oscar-nominated filmmaker disappointed his <b>AI</b> girlfriend dumped him - Fox News - https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/media/oscar-nominated-filmmaker-disappointed-his-ai-girlfriend-dumped-him&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0azg72-gaKRf9fjHuZ_2w-
+Google announces <b>AI</b>-focused search bar revamp - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DwCkLx0nyG8c&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0SOAT0rW1O_I0QrynmtSJh
+Nvidia's Profit Hits $58.3 Billion as <b>A.I.</b> Boom Gathers More Steam - The New York Times - https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw10uK4vKvDcHCzdaFFFIsiz
+Meta begins to lay off 10% of its workforce as <b>AI</b> investments surge - KOMO <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://komonews.com/news/nation-world/meta-begins-to-lay-off-10-percent-of-its-workforce-as-ai-investments-surge-technology&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0IfGWtwS3elM2R6u_BCw4A
+Standard Chartered CEO walks back comments about replacing 'lower-value human capital' with <b>AI</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.foxbusiness.com/technology/standard-chartered-ceo-walks-back-comments-about-replacing-lower-value-human-capital-ai&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0GWwkkW6t2uQV3wuO8-83S
+Despite concerns, Gen Z students are optimistic about <b>AI</b> - eSchool <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.eschoolnews.com/innovative-teaching/2026/05/20/despite-concerns-gen-z-students-are-optimistic-about-ai/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2ETW7EYjpDr-8wdNmBczOX
+Alibaba is designing <b>AI</b> chips around agents, and that changes what the race is actually about - https://www.google.com/url?rct=j&sa=t&url=https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3bN6pVpN2n4jevxm59kXvZ
+Commencement speakers are getting booed when they mention <b>artificial intelligence</b> in their ... - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DYiPF_uxiM7/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0VM5H-vOAAT9o1jbQ8PXwv
+Arizona college skips over several graduates after an <b>AI</b> malfunction at commencement ceremony - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/news/us-news/arizona-college-skips-several-graduates-ai-malfunction-commencement-ce-rcna346182&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0bUahdIIiYVe7pShoDL0C7
+Will <b>AI</b> kill coding jobs? Claude Code's creator reacts to 3 charts - Sky News - https://www.google.com/url?rct=j&sa=t&url=https://news.sky.com/video/will-ai-kill-coding-jobs-claude-code-s-creator-reacts-to-3-charts-13546240&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1jEMhhY-9u_V21AwdvN8M-
+Can <b>AI</b> Make Good Design? - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DKWXCkg6qYGA&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw33jy5u7sJ94pR2dSL1a3Po
+Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development - https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html
+AMD Details Ryzen AI Halo AI Dev Mini-PC, Pre-Orders In June For $3999 - https://www.servethehome.com/amd-details-ryzen-ai-halo-ai-dev-mini-pc-pre-orders-in-june-for-3999/
+AMD Ups Ante With 192GB Ryzen AI Max PRO 400 Chips for AI Systems - https://www.servethehome.com/amd-reveals-ryzen-ai-max-pro-400-series-192gb-ram-for-ai-systems/
+OpenZiti v2.0 released today! - https://www.reddit.com/r/selfhosted/comments/1tj0p5z/openziti_v20_released_today/
+How do you run your self hosted music setup? - https://www.reddit.com/r/selfhosted/comments/1tit14m/how_do_you_run_your_self_hosted_music_setup/
+Suggestions for Non-VPN external access for non-techie family members? WAY more detail inside. - https://www.reddit.com/r/selfhosted/comments/1tixfkq/suggestions_for_nonvpn_external_access_for/
+Help me understand the risks associated with containerized and or disposable web browsers - https://www.reddit.com/r/selfhosted/comments/1tj2zzx/help_me_understand_the_risks_associated_with/
+ddclient driving me nuts - https://www.reddit.com/r/selfhosted/comments/1tj6hlq/ddclient_driving_me_nuts/
+Komodo - How to add existing container? - https://www.reddit.com/r/selfhosted/comments/1titwzs/komodo_how_to_add_existing_container/
+RSScal, an opinionated RSS reader. - https://www.reddit.com/r/rss/comments/1tj2spz/rsscal_an_opinionated_rss_reader/
+Candace asked me to add the kid’s balance bike to the Amazon cart. I may have gotten distracted. - https://www.reddit.com/r/homelab/comments/1tj2iwx/candace_asked_me_to_add_the_kids_balance_bike_to/
+Down the Rabbit Hole...but no regrets..maybe.. - https://www.reddit.com/r/homelab/comments/1tixg02/down_the_rabbit_holebut_no_regretsmaybe/
+Yet another SFF Build - https://www.reddit.com/r/homelab/comments/1tj2kzc/yet_another_sff_build/
+My Rack - https://www.reddit.com/r/homelab/comments/1tj47rf/my_rack/
+Portabase: open-source tool to backup and restore self-hosted databases - https://www.reddit.com/r/homelab/comments/1tiv12k/portabase_opensource_tool_to_backup_and_restore/
+about to spend some money on my AI homelab - https://www.reddit.com/r/homelab/comments/1tj8qtm/about_to_spend_some_money_on_my_ai_homelab/
+What’s the best mini thermal label printer for organizing - https://www.reddit.com/r/homelab/comments/1tiznit/whats_the_best_mini_thermal_label_printer_for/
+OpenAI to confidentially file for IPO as soon as Friday - https://www.cnbc.com/2026/05/20/openai-ipo-filing.html
+Haskell Foundation 2026 Update - https://discourse.haskell.org/t/haskell-foundation-2026-update/14136
+What is Demand Coop and why tech workers should join one - https://cahootzcoops.com/blog/what-is-a-demand-coop
+Intuit to lay off over 3k employees to refocus on AI - https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/
+The Letter S, by Donald Knuth (1980) [pdf] - https://gwern.net/doc/design/typography/1980-knuth.pdf
+Show HN: I reverse engineered Apple's video wallpapers - https://github.com/kageroumado/phosphene
+DOS Zone - https://dos.zone/
+Google Declaring War on the Web - https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/
+Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos - https://github.com/kouhxp/yapsnap
+PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play - https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play
+SpaceX S-1 - https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects - https://legiscan.com/CO/bill/SB051/2026
+An OpenAI model has disproved a central conjecture in discrete geometry - https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+Flipper One Tech Specs - https://docs.flipper.net/one/general/tech-specs
+Qian Xuesen: The missile genius America lost and China gained (2025) - https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained
+Why is Inkwell stuck in review - https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html
+AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default - https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default
+The Very Exciting Cache Aware Scheduling Looks Like It Will Land For Linux 7.2 - https://www.phoronix.com/news/Linux-7.2-Likely-CAS
+[$] LWN.net Weekly Edition for May 21, 2026 - https://lwn.net/Articles/1072730/
+Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch - https://www.omgubuntu.co.uk/2026/05/ubuntu-core-26-release
+Linus Torvalds admits he has a 'love-hate relationship with AI' - https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/
+How AI can trick you into making fake payments - 5 red flags - https://www.zdnet.com/article/visa-fraud-ai-report-2026/
+Ukraine identifies infostealer operator tied to 28,000 stolen accounts - https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/
+Hackers bypass SonicWall VPN MFA due to incomplete patching - https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/
+Cyber Pros Can't Decide If AI Is a Good or a Bad Thing - https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai
+Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs. - https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud
+Microsoft is working on a patch for ‘YellowKey’ attack on Bitlocker, offers temporary fix - https://www.csoonline.com/article/4175411/microsoft-is-working-on-a-patch-for-yellowkey-attack-on-bitlocker-offers-temporary-fix-2.html
+Drupal admins rushing to patch maximum severity SQL injection vulnerability - https://www.csoonline.com/article/4175329/drupal-admins-rushing-to-patch-maximum-severity-sql-injection-vulnerability.html
+Masters of the Universe final trailer brings the '80s nostalgia - https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/
+"Ryzen 5800X3D 10th Anniversary Edition" may help you avoid paying for a new PC - https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/
+Trump wants $1B to protect White House ballroom from drones and other threats - https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/
+Chickens without eggs? De-extinction company creates artificial egg. - https://arstechnica.com/science/2026/05/chickens-without-eggs-de-extinction-company-creates-artificial-egg/
+Buckle up: Google is set to remake search with agentic AI in 2026 - https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/
+In SpaceX’s IPO, Elon Musk is a risk factor - https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor
+Here are 42 of our favorite deals from REI’s massive Anniversary Sale - https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026
+Anthropic and OpenAI take their beef to the midterm elections - https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores
+AMD prices its Ryzen AI Halo PC at $3,999, unveils Ryzen AI Max 400 chips - https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/
+Airbnb expands into hotel bookings and even grocery deliveries - https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/
+SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing - https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/
+SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers - https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/
+A Bipartisan Amendment Would End Police License Plate Tracking Nationwide - https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/
+SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers - https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/
+I Gave My OpenClaw Agent a Physical Body - https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/
+TikTok and YouTube 'not safe enough' for kids, says Ofcom - https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss
+SpaceX files for IPO that could make Elon Musk a trillionaire - https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss
+OpenAI Prepares to File for an I.P.O. in Coming Weeks - https://www.nytimes.com/2026/05/20/technology/openai-ipo.html
+Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam - https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html
+Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs - https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html
+Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html
+Samsung reaches last-minute deal to avert strike over AI riches - https://www.ft.com/content/84b4ba01-3273-4d84-b794-23affedee710
+Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing - https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb
+Nvidia lifts dividend as investors fret about growth prospects - https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0
+Anthropic on track for first profitable quarter - https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3
+Elon Musk’s SpaceX sets out plans for biggest IPO in history - https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75
+FirstFT: Nvidia reports better than expected revenue and forecasts in Q1 earnings - https://www.ft.com/content/51e089e9-b195-4b4c-ab9e-913513aaa137
+OpenAI readies IPO filing to list as soon as September - https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318
+Can LLMs Replace Survey Respondents? - https://towardsdatascience.com/can-llms-replace-survey-respondents/
+Optimizing AI Agent Planning with Operations Research and Data Science - https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/
+Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google’s TurboQuant Algorithm - https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/
+How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations - https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/
