@@ -1,83 +1,149 @@
-Did Apple Just Reveal the Biggest Feature Coming to iOS 27? - https://www.geeky-gadgets.com/ios-27-siri-redesign-wwdc-2026/
-AI Detects Smuggled Seahorses and Shark Fins | Let's Data Science - https://www.google.com/url?rct=j&sa=t&url=https://letsdatascience.com/news/ai-detects-smuggled-seahorses-and-shark-fins-c38b9703&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2J4xSh_kiUyBSkuqWHLlk_
-Finding Nemo: AI tech could spot smuggled seahorses in suitcases | EurekAlert! - https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1129827&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3aVYe448oaeko6nEzDKe5w
-The strange truth about today's most powerful AI is that even the people who build it cannot ... - https://www.google.com/url?rct=j&sa=t&url=https://spacedaily.com/t-the-strange-truth-about-todays-most-powerful-ai-is-that-even-the-people-who-build-it-cannot-fully-explain-why-it-works-which-means-much-of-modern-technology-now-rests-on-tools-we-can-use-far-better/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3MrFvXbD6pOopPV91ltlzV
-Experimental Investigation and Artificial <b>Neural Network</b> Analysis of Mechanical ... - Springer Nature - https://www.google.com/url?rct=j&sa=t&url=https://link.springer.com/article/10.1007/s11665-026-14231-0&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1emaNeTYnRUyyUjnSg--uk
-10 million vectors in 31 GB? turbovec squeezes that into 4 GB—and searches faster than FAISS. - https://opensourceprojects.dev/post/974e3e9f-a96f-4c7a-a7d8-2fc8d6d128bd
-Long-horizon LLM agents finally get a lifecycle-aware memory primitive - https://opensourceprojects.dev/post/5fa6f1c8-ae97-4b2b-8476-38808d6eb160
-DeepSeek V4 forces rivals to slash prices, rattling China’s cloud providers - https://www.scmp.com/tech/article/3356138/deepseek-v4-forces-rivals-slash-prices-rattling-chinas-cloud-providers?utm_source=rss_feed
-Is this the dawn of the Tokenpocalypse? - https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/
-Notion restores access to Anthropic after service disruption - https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
-Nvidia deepens SK Hynix partnership as <b>AI</b> infrastructure demand accelerates - https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4601241-nvidia-deepens-sk-hynix-partnership-as-ai-infrastructure-demand-accelerates&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1RBA1zSnOFwVMdyBVzU8Ey
-What Happens If the <b>AI</b> Bubble Bursts - Bloomberg - https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/newsletters/2026-06-07/what-happens-if-the-ai-bubble-bursts&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0bS3gMGRlV9VI7HmsgdIgk
-SK Hynix announces multi-year tech deal with Nvidia for <b>AI</b> factories - Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/media-telecom/sk-hynix-announces-multi-year-tech-deal-with-nvidia-ai-factories-2026-06-07/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2e3bVZbM0mB8W7oxD9ZG6o
-<b>AI</b> World Cup predictions: the machines love France | Seeking Alpha - https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4601245-ai-world-cup-predictions-the-machines-love-france&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0ACg2_bHF2k3vSv_WOOAUU
-How <b>AI</b> Will Play Out, Explained - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DFigev-6iaE0&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0JuXAqd4Izxhlt5TRBYzrT
-NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for ... - https://www.google.com/url?rct=j&sa=t&url=https://nvidianews.nvidia.com/news/sk-hynix-ai-factory&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw13b1FW7b5dhZ1Blh6_ZqZb
-NAVER Expands <b>AI</b> Infrastructure With NVIDIA to Serve Surging Global <b>AI</b> Demand - https://www.google.com/url?rct=j&sa=t&url=https://nvidianews.nvidia.com/news/naver-ai-infrastructure&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw14uluDEqj7OeB_pk7sQX3P
-SK Telecom and NVIDIA Build <b>AI</b> Infrastructure to Power Korea's <b>AI</b> Innovation - Stock Titan - https://www.google.com/url?rct=j&sa=t&url=https://www.stocktitan.net/news/NVDA/sk-telecom-and-nvidia-build-ai-infrastructure-to-power-korea-s-ai-bcjypfj212f0.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3ddG4srVRO0lRw6iUWUNE4
-Finding Nemo: <b>AI</b> tech could spot smuggled seahorses in suitcases - Frontiers - https://www.google.com/url?rct=j&sa=t&url=https://www.frontiersin.org/news/2026/06/08/finding-nemo-ai-tech-could-spot-smuggled-seahorses-in-suitcases-frontiers-ocean-sustainability&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2TphmeM1JlS8HYh9t4gj-A
-The <b>AI</b> bubble that isn't quite a bubble yet - Currency <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://currencynews.co.za/the-ai-bubble-that-isnt-quite-a-bubble-yet/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0jYOKXdEW-VrCVXY9tiw7y
-Elder Gong teaches how to hear God's voice amid increased use of <b>artificial intelligence</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.thechurchnews.com/leaders/2026/06/07/gerrit-gong-ai-hear-god-amid-increased-use-of-artificial-intelligence/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0U4h_UH5CyJgzWD5GA41Zf
-Intel was on the brink of downfall. A twist in the <b>AI</b> race could boost its revival - CNN - https://www.google.com/url?rct=j&sa=t&url=https://www.cnn.com/2026/06/07/business/intel-ai-race-ceo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2-N-v_QqCthJEbIK9rRiHg
-The Nerdy Escorts Cashing In On Silicon Valley's <b>AI</b> Boom - Forbes - https://www.google.com/url?rct=j&sa=t&url=https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2xp1_ca_BmqwVSVL8LWtFZ
-Sega Confirms And Responds To Generative <b>AI</b> Content In New Crazy Taxi Game - https://www.google.com/url?rct=j&sa=t&url=https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Ss7u2cKskyf78v9i6EG19
-Comeback Town: Foreign company wants a 79-acre <b>AI</b> factory in our neighborhood. Speak ... - https://www.google.com/url?rct=j&sa=t&url=https://www.al.com/news/birmingham/2026/06/comeback-town-foreign-company-wants-a-79-acre-ai-factory-in-our-neighborhood-speak-up-june-9th.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2bfdyvXQKTmE73syUbw7tI
-What will Ottawa's new <b>AI</b> strategy mean for <b>AI</b> development in Canada? - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DipQ_fOxSff4&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0uX5SolRlOLrT5S2CbKtUG
-<b>AI</b> is evolving faster than the <b>news</b> can tell you what's happening - https://www.google.com/url?rct=j&sa=t&url=https://san.com/cc/ai-is-evolving-faster-than-the-news-can-tell-you-whats-happening/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3rqQVqqPN3keiBNMcC0Ya6
-Anthropic sounds the alarm as the <b>AI</b> bubble takes off - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-06-08/ai-bubble-anthropic-glasswing-mythos-hack-singularity/106765338&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1BSiDLxCrPgB8y3RY2dBuJ
-Enjoyed your vicar's sermon this morning? It might be <b>AI</b> - The Telegraph - https://www.google.com/url?rct=j&sa=t&url=https://www.telegraph.co.uk/news/2026/06/07/vicars-sermon-morning-might-be-ai/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2OeYz-mGw4mb8uL1e_3Da6
-Federal government accused of <b>AI</b> policy retreat as US tech giants plan Australian investments - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-06-08/federal-government-ai-policy-retreat-data-centres-four-corners/106753596&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw03Fy_85tabkIbzrUUU7LFN
-Blue checkmark on emails - https://www.reddit.com/r/selfhosted/comments/1tzlbn3/blue_checkmark_on_emails/
-Portabase 1.18: open-source DB backup/restore tool, now with an MCP server and log traceability directly in the dashboard - https://www.reddit.com/r/selfhosted/comments/1tzips2/portabase_118_opensource_db_backuprestore_tool/
-Isola: Secure Sandboxing for Kubernetes - https://www.reddit.com/r/selfhosted/comments/1tzph7r/isola_secure_sandboxing_for_kubernetes/
-Spent last 3 months having fun creating a beautiful selfhosted lab, then my 3m old mini pc died - https://www.reddit.com/r/selfhosted/comments/1tzoowd/spent_last_3_months_having_fun_creating_a/
-Lets talk emails. How do you do it? - https://www.reddit.com/r/selfhosted/comments/1tzu3oh/lets_talk_emails_how_do_you_do_it/
-How to Stream your Plex Media Contents without plex pass using Nuvio - https://www.reddit.com/r/selfhosted/comments/1tzx7e3/how_to_stream_your_plex_media_contents_without/
-Shared drawing service? - https://www.reddit.com/r/selfhosted/comments/1tzlsbn/shared_drawing_service/
-Email alerts when a site updates but publishes no feed - how I solved this for the pages I cannot subscribe to - https://www.reddit.com/r/rss/comments/1tziyez/email_alerts_when_a_site_updates_but_publishes_no/
-My Homepage - https://www.reddit.com/r/homelab/comments/1tzm25l/my_homepage/
-Showcase your 10” 6U racks here - https://www.reddit.com/r/homelab/comments/1tzudn8/showcase_your_10_6u_racks_here/
-KVM Rail Install help - https://www.reddit.com/r/homelab/comments/1tzj9hk/kvm_rail_install_help/
-Starting out small... - https://www.reddit.com/r/homelab/comments/1tzjbk8/starting_out_small/
-Longest offgrid homelab - https://www.reddit.com/r/homelab/comments/1tzpxvh/longest_offgrid_homelab/
-Need help with Backrest docker install - https://www.reddit.com/r/homelab/comments/1tzrhgo/need_help_with_backrest_docker_install/
-1k Data Breaches Later, the Disclosure Lag Is Worse - https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
-90210 – running the show without property tax - https://github.com/Achint08/90210
-Dopamine Fracking - https://igerman.cc/blog/dopamine-fracking/
-Texas grid flags risks as data centers, crypto sites fail voltage tests - https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/
-Tech sell-off widens as South Korea index plunges - https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c
-Algorithmic Monocultures in Hiring - https://algorithmichiring.github.io/
-New drug 'functionally cures' many hepatitis B virus infections - https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08
-DeepSeek V4 Pro beats GPT-5.5 Pro on precision - https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
-1worldflag: A blue dot on a transparent background - https://1worldflag.com/
-APC–2 – A professional record cutter for producing original playback discs - https://teenage.engineering/products/apc-2
-7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible - https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html
-The Smallest Brain You Can Build: A Perceptron in Python - https://ranpara.net/posts/perceptron-explained-from-scratch/
-A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W - https://github.com/melastmohican/rust-rpico2-embassy-examples
-Firefox Merges Support for Vulkan Video Decoding - https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged
-How's Linear so fast? A technical breakdown - https://performance.dev/how-is-linear-so-fast-a-technical-breakdown
-Building from zero after addiction, prison, and a felony - https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
-My automated doubt development process - https://www.alexself.dev/blog/automated-doubt
-Making peace with your unlived dreams (2023) - https://nik.art/making-peace-with-your-unlived-dreams/
-Powering up a module from the IBM 604: an electronic calculator from 1948 - https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html
-Proliferate (YC S25) is hiring to building open source Codex - https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer
-Kernel prepatch 7.1-rc7 - https://lwn.net/Articles/1076835/
-Proton Drive client is (finally) coming to Linux - https://www.omgubuntu.co.uk/2026/06/proton-drive-linux-client
-HandBrake fixes 2-pass encode crashes, WebM on Linux - https://www.omgubuntu.co.uk/2026/06/handbrake-update-open-webm-linux
-I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business - https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/
-I've used adaptive chargers with my iPhone and Android for a year - but should you? - https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/
-Why I use wireless security cameras at home versus a wired system - after years of testing - https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/
-Apple WWDC live blog: Everything we're expecting, from iOS 27 to Siri to smart glasses - https://www.zdnet.com/article/apple-wwdc-live-blog-06-07-2026/
-Hands on with Intelligent Terminal, an AI-powered Windows Terminal - https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/
-The 7 biggest storylines from Summer Game Fest 2026 - https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories
-Minecraft Dungeons 2 gets a September release date - https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer
-Halo: Campaign Evolved arrives July 28th - https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026
-The Verge Weekend Questionnaire - https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire
-Signet City is a new 'fungalpunk' RPG from the creator of Citizen Sleeper - https://www.engadget.com/2186591/signet-city-is-a-new-fungalpunk-rpg-from-the-creator-of-citizen-sleeper/
-Undead Labs finally shows off State of Decay 3 gameplay in new trailer - https://www.engadget.com/2189069/undead-labs-finally-shows-off-state-of-decay-3-gameplay-in-new-trailer/
-Persona 4 Revival gets an official release date for February 2027 - https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/
-Persona 6 is coming with graveyard visuals and a toxic green color scheme - https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/
-Crazy Taxi World Tour reboots the series in 2027 - https://www.engadget.com/2189054/crazy-taxi-world-tour-reboots-the-series-in-2027/
-Halo: Campaign Evolved hits PS5, Xbox and PC on July 28 - https://www.engadget.com/2189052/halo-campaign-evolved-hits-ps5-xbox-and-pc-on-july-28/
-Chips, ships and guns: South Korea booms on AI race and global conflict - https://www.ft.com/content/208d2ed8-78f3-471f-839a-55d69a3a8a9b
+AI model enables over a million-fold acceleration of diffuse optical tomography for real-time diagnosis - https://www.google.com/url?rct=j&sa=t&url=https://www.eurekalert.org/news-releases/1131377&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3rtLCaKL7_yYczUNy3HGHh
+RoGO partners with AugSense on edge AI analytics for first responders and military - https://www.google.com/url?rct=j&sa=t&url=https://www.gpsworld.com/rogo-partners-with-augsense-on-edge-ai-analytics-for-first-responders-and-military/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2hmOiDOnFk8CowFg799PDO
+Neutron star merger simulations gain new precision with AI-driven r-process heating - https://www.google.com/url?rct=j&sa=t&url=https://phys.org/news/2026-06-neutron-star-merger-simulations-gain.html&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2jYMKZjcmda7vG9_8E2iGc
+Field Demonstration of Trusted-Node QKD over Deployed Single-Mode and Multi-Core ... - https://www.google.com/url?rct=j&sa=t&url=https://quantumcomputingreport.com/field-demonstration-of-trusted-node-qkd-over-deployed-single-mode-and-multi-core-fiber-infrastructure/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0ACOuzNPftghZVgWuBrkkb
+Algebraic Cryptanalytic Extraction on Hard-Label <b>Neural Networks</b> - https://www.google.com/url?rct=j&sa=t&url=https://eprint.iacr.org/2026/1164&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1Nr-8z7o4NGLtBWfN7uyRK
+Inverse Physics-Informed <b>Neural Network</b> for CSFM Stress Field Reconstruction in Concrete ... - https://www.google.com/url?rct=j&sa=t&url=https://engrxiv.org/preprint/view/7284&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0kI2X8d93hfC1i_ivC7ytU
+Next-Gen AI Can Learn Continuously While Consuming a Fraction of the Computing Energy ... - https://www.google.com/url?rct=j&sa=t&url=http://www.umass.edu/news/article/next-gen-ai-can-learn-continuously-while-consuming-fraction-computing-energy-required&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1NtDSQZ9ngXwLpa3hnnPfp
+Google unveils smartphone camera-based heart rate monitoring system | MobiHealthNews - https://www.google.com/url?rct=j&sa=t&url=https://www.mobihealthnews.com/news/google-unveils-smartphone-camera-based-heart-rate-monitoring-system&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0C9B3QRmZApDIjihUfE8V-
+5 Must-Know Python Concepts for AI Engineers - KDnuggets - https://www.google.com/url?rct=j&sa=t&url=https://www.kdnuggets.com/5-must-know-python-concepts-for-ai-engineers&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1jHBhBY2A11-JEGiKwPRgR
+AT&amp;T scales cloud RAN as open RAN swap passes 50% - Mobile World Live - https://www.google.com/url?rct=j&sa=t&url=https://www.mobileworldlive.com/att/att-scales-cloud-ran-as-open-ran-swap-passes-50/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3gICfI2c1vLD5ZXZEFkU3C
+AI and Physics Have More in Common Than You Might Think - https://www.google.com/url?rct=j&sa=t&url=https://news.northeastern.edu/2026/06/08/ai-and-physics-research/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1QtScGsspdWBEp2ksIUm-1
+View of DeepForm: A Graph <b>Neural Network</b> Surrogate for Real-Time Tensile Membrane ... - https://www.google.com/url?rct=j&sa=t&url=https://engrxiv.org/preprint/view/7269/11874&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0Z57t_edTWbKLDJ79eZM4_
+DeepForm: A Graph <b>Neural Network</b> Surrogate for Real-Time Tensile Membrane Form ... - https://www.google.com/url?rct=j&sa=t&url=https://engrxiv.org/preprint/view/7269&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3dOa2le7kaj3MvZMzsKSyW
+Can AI applied on MRI reliably predict shunt response in INPH? A ... - Research journals - PLOS - https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0350335&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0s3OgsxiquCWGONa_qInmh
+TARGA Imager Enables High-Resolution Imaging of Neurodevelopmental Models - https://www.google.com/url?rct=j&sa=t&url=https://www.insideprecisionmedicine.com/sponsored/targa-imager-enables-high-resolution-imaging-of-neurodevelopmental-models/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2BluB4DQiRGacZBjrreLPq
+Reducing normalized mean square error during channel estimation using minimum pilot ... - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-56479-5&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0AS7BLAxrnHdcEjwzkzpJY
+AI Tech Could Spot Smuggled Seahorses in Suitcases - environment coastal &amp; offshore - https://www.google.com/url?rct=j&sa=t&url=https://ecomagazine.com/news/fisheries-aquaculture/ai-tech-could-spot-smuggled-seahorses-in-suitcases/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw02i8ZqUKQLIbAeRqFB-f9B
+AWS Releases Next Generation of Amazon OpenSearch Serverless - https://www.infoq.com/news/2026/06/aws-opensearch-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+WWDC 2026: Apple gives Siri an AI makeover, but China must wait - https://www.scmp.com/tech/article/3356438/wwdc-2026-apple-gives-siri-ai-makeover-china-must-wait?utm_source=rss_feed
+MiniMax once led Zhipu in Hong Kong’s AI stock race. How the tables have turned - https://www.scmp.com/tech/big-tech/article/3356390/minimax-once-led-zhipu-hong-kongs-ai-stock-race-how-tables-have-turned?utm_source=rss_feed
+Why Apple’s slow-and-steady AI bet is starting to look pretty smart - https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/
+As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says - https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
+Apple’s WWDC AI demos looked more real after $250M false ad settlement - https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/
+OpenAI files confidentially for IPO, following Anthropic - https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/
+Apple plays catch-up at WWDC - https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/
+Apple bets cheaper AI will woo small developers - https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/
+Waymo bought Apple’s self-driving car proving ground for $220M - https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/
+Microsoft’s open source tools were hacked to steal passwords of AI developers - https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/
+WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more - https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
+Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military - https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/
+Apple just taught your iPhone to finish your sentences, your photos, and your workflows - https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/
+Apple will let you build workflows using AI in its new Shortcuts app - https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/
+Apple’s Image Playground doesn’t suck anymore - https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/
+Apple’s Photos app is getting new AI editing features - https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/
+Apple is fixing the headache of splitting the bill with its new Siri in Camera feature - https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/
+OpenAI Files to Go Public in Test of Investor Appetite for Top <b>AI</b> Startups - WSJ - https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/tech/ai/openai-kicks-off-ipo-process-in-test-of-investor-appetite-for-top-ai-labs-eb7bebe1&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw07LZlyQlzJDltLaSCA2paJ
+Ministers announce 'new £750m national <b>AI</b> supercomputer' - Research Professional <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.researchprofessionalnews.com/rr-news-uk-innovation-2026-6-ministers-announce-new-750m-national-ai-supercomputer/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0XPpaMmmNbUD1Nrs6VLaqe
+OpenAI Files Confidentially For IPO A Week After <b>AI</b> Rival Anthropic - https://www.google.com/url?rct=j&sa=t&url=https://www.investors.com/news/technology/openai-ipo-ai-startup-files-confidentially-week-after-anthropic/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3CXFPVnHOARzT5VBPpQFtQ
+OpenAI says it filed confidential IPO as it positions itself for <b>AI</b> arms race - CBS <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/openai-files-confidential-initial-public-offering/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3sPKsW0ycPsdajxBYzLgIj
+Palo Alto Networks CEO: &quot;<b>AI</b> Found 5 Years of Bugs in 6 Weeks&quot; - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhObRMv6qCi0&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0mI25F62EADtz6nhPnfM-5
+Career expert tackles job search struggles from experience to <b>AI</b> - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1o7riLuJfDg&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3YvBhJYUV1tFMrfZZKRGTB
+Apple expected to unveil new <b>AI</b> features at last developers conference with CEO Tim Cook - https://www.google.com/url?rct=j&sa=t&url=https://aldailynews.com/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0a5G1ZnDiqSSuqjqvTBok7
+Introducing FrontierCode | Cognition - https://www.google.com/url?rct=j&sa=t&url=https://cognition.ai/blog/frontier-code&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Nbcrt7iLa57G2r-8pCCmc
+Apple unveils new <b>AI</b> features with privacy focus at last developers conference with CEO Tim Cook - https://www.google.com/url?rct=j&sa=t&url=https://spectrumlocalnews.com/us/snplus/business/2026/06/08/apple-expected-to-unveil-new-ai-features-at-last-conference-with-ceo-tim-cook&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3IKnpYt8RFY8j5rfDrDEiO
+How Does <b>AI</b> Drive Growth? Explore Our Integrated Industry-Level Production Stats - https://www.google.com/url?rct=j&sa=t&url=https://www.bea.gov/news/blog/2026-06-08/how-does-ai-drive-growth-explore-our-integrated-industry-level-production&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2ppg0tIRuPXUZlIszCMNTW
+Next-Gen <b>AI</b> Can Learn Continuously While Consuming a Fraction of the Computing Energy ... - https://www.google.com/url?rct=j&sa=t&url=https://www.umass.edu/news/article/next-gen-ai-can-learn-continuously-while-consuming-fraction-computing-energy-required&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1bAtY4LIYEBz7ERsBKe6eE
+Aviva deploys AI to stop £230M in sophisticated insurance fraud - <b>AI News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1naUFuNTF5nQnTxCObXJnF
+Apple debuts revamped 'Siri <b>AI</b>' and new child safety features for iPhones and iPads - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/jun/08/apple-debuts-siri-ai-child-safety-features-wwdc&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1_W4xAzbVAqOREaVqWu2x-
+SEI and Accenture Release <b>AI</b> Adoption Maturity Model to Help Organizations Scale <b>AI</b> with ... - https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/news-releases/sei-and-accenture-release-ai-adoption-maturity-model-to-help-organizations-scale-ai-with-predictable-outcomes-302793088.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0JoTKPEXONWFa855Qa-3es
+Apple revamps Siri as it tries to catch up in the <b>AI</b> race - Los Angeles Times - https://www.google.com/url?rct=j&sa=t&url=https://www.latimes.com/business/story/2026-06-08/apple-revamps-siri-as-it-tries-to-catch-up-in-ai-race&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Vmnlb54denmfhrWy0T9PO
+OpenAI files for IPO as <b>AI</b> investment race intensifies - NBC News - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/business/markets/openai-chatgpt-files-ipo-rcna349101&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3c41HK2wSQA8HpjnHEMADp
+Before <b>AI</b> can deliver, healthcare orgs must fix their data governance problems - https://www.google.com/url?rct=j&sa=t&url=https://www.healthcareitnews.com/news/ai-can-deliver-healthcare-orgs-must-fix-their-data-governance-problems&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw157--TKWirJXEdFwoCZdN1
+OpenAI plans to go public setting up new race with Anthropic - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cd958eqg1n5o&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3qdGJsnYOXQoZBaXbrAtGO
+<b>AI</b> and Physics Have More in Common Than You Might Think - Northeastern Global <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://news.northeastern.edu/2026/06/08/ai-and-physics-research/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1QtScGsspdWBEp2ksIUm-1
+One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public - https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html
+Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order - https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html
+ServeTheHome Turns 17 The Places You Will Go - https://www.servethehome.com/servethehome-turns-17-the-places-you-will-go/
+Degoog is my take on a meta search aggregator - https://www.reddit.com/r/selfhosted/comments/1u0hq7f/degoog_is_my_take_on_a_meta_search_aggregator/
+Anybody else feel like they are doing this self hosted thing wrong? - https://www.reddit.com/r/selfhosted/comments/1u0hv4q/anybody_else_feel_like_they_are_doing_this_self/
+What's the simplest way to bulk upload videos and get direct .mp4 URLs back? - https://www.reddit.com/r/selfhosted/comments/1u0hehx/whats_the_simplest_way_to_bulk_upload_videos_and/
+New dataset of GLAM (Galleries / Libraries / Archives / Museums) RSS feeds available on GitHub - https://www.reddit.com/r/rss/comments/1u0lx0u/new_dataset_of_glam_galleries_libraries_archives/
+Hello again! One year later. - https://www.reddit.com/r/homelab/comments/1u0qm8r/hello_again_one_year_later/
+I love seeing these, so here is mine! - https://www.reddit.com/r/homelab/comments/1u0dwni/i_love_seeing_these_so_here_is_mine/
+Homelabbing: Plugs and wires realisation - https://www.reddit.com/r/homelab/comments/1u0lsr1/homelabbing_plugs_and_wires_realisation/
+Cursed Dell R740 upgrade project... Need some help - https://www.reddit.com/r/homelab/comments/1u0setr/cursed_dell_r740_upgrade_project_need_some_help/
+My First Homelab with ZimaOS – Home Server and Media Center - https://www.reddit.com/r/homelab/comments/1u0kbgh/my_first_homelab_with_zimaos_home_server_and/
+Beginner HomeLab. Not for self hosting at this point. Just to learn skills that will help me pass the comptia a+ and azure ad certs. - https://www.reddit.com/r/homelab/comments/1u0qjyc/beginner_homelab_not_for_self_hosting_at_this/
+Is any part of my 10yo PC worth keeping for a home lab? - https://www.reddit.com/r/homelab/comments/1u0rqx1/is_any_part_of_my_10yo_pc_worth_keeping_for_a/
+We Think the SpaceX IPO Is Overvalued - https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545
+Federal judge blocks H1B visa $100K fee - https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/
+Confidential submission of draft S-1 to the SEC - https://openai.com/index/openai-submits-confidential-s-1/
+FrontierCode - https://cognition.ai/blog/frontier-code
+I'm building a parallel internet, and it's called The Thinnernet - https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html
+Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf] - https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
+Apple reveals new AI architecture built around Google Gemini models - https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+Why are cells small? - https://burrito.bio/essays/what-limits-a-cells-size
+Apple Core AI Framework - https://developer.apple.com/documentation/coreai/
+Ask HN: What are tools you have made for yourself since the advent of AI? - https://news.ycombinator.com/item?id=48449187
+Siri AI - https://www.apple.com/apple-intelligence/
+Ubuntu MATE Is Continuing Despite No Ubuntu MATE 26.04 Release - https://www.phoronix.com/news/Ubuntu-MATE-Without-26.04
+Bambu Lab Keeps Locking Down, The Community Keeps Building Up - https://feed.itsfoss.com/link/24361/17356602/bambuddy-self-hosted-bambu-lab-alternative
+Apple's new Siri AI comes with hidden costs that power users should know of - https://www.zdnet.com/article/the-new-siri-ai-could-cost-you-heres-why/
+The two biggest iOS 27 features at WWDC for me had nothing to do with Siri AI - https://www.zdnet.com/article/ios-27-connectivity-upgrades/
+MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins - https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/
+I've used Linux for 30 years - 4 frustrations remain, including 2 that may push me to MacOS - https://www.zdnet.com/article/after-30-years-using-linux-i-have-few-complaints/
+The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think - https://www.zdnet.com/article/airpods-custom-eq-news/
+How to download the iOS 27 developer beta right now (and which models support it) - https://www.zdnet.com/article/how-to-download-ios-27-developer-beta/
+I quit Safari for Chrome, but these new MacOS 27 features could pull me back - https://www.zdnet.com/article/i-quit-safari-for-chrome-but-these-new-macos-27-features-could-pull-me-back/
+WatchOS 27 has arrived: How to download the developer beta now - https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/
+iOS 27's Shortcuts upgrade makes automations easy to build - and will save me so much time - https://www.zdnet.com/article/ios-27-shortcuts-upgrade-makes-automations-easy/
+NFCShare Android malware spreads via fake banking app updates on GitHub - https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/
+SoFi confirms third-party data breach at Hong Kong subsidiary - https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/
+New Shai-Hulud attack trojanizes 19 science-focused PyPI packages - https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/
+WhatsApp says it disrupted new NSO spyware phishing attacks - https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/
+Check Point VPN Flaw Exploited Since Early May - https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may
+Iran Signed a Ceasefire — Its Hackers Didn't - https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers
+Attackers exploiting unpatched Cisco SD-WAN flaw - https://www.csoonline.com/article/4182571/attackers-exploiting-unpatched-cisco-sd-wan-flaw.html
+Critical Zcash Vulnerability Found and Fixed - https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html
+FCC lifts looming deadline for Amazon Leo satellite broadband constellation - https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/
+Tests suggest Russian satellites can jam GPS on a continental scale - https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/
+macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era - https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/
+Say hi to "Siri AI"—Apple announces new, more "conversational" voice assistant - https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/
+Gemini 3.5 and Antigravity come to Google NotebookLM - https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/
+For the 2nd time in weeks, Microsoft packages laced with credential stealer - https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
+Man jailed for a month despite Flock showing he was 5 miles from crime scene - https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/
+Instagram is finally letting everyone reorganize their profile grid - https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid
+Apple’s Screen Time updates are too little, too late - https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late
+5 things I already love from the iOS 27 beta - https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things
+Apple is using AI to fix Safari’s extension problem - https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions
+Where was tvOS 27 at WWDC? - https://www.theverge.com/tech/946329/tvos-27-absent-wwdc
+OpenAI files for IPO, following Anthropic - https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential
+44 things coming to your Apple devices that you might have missed - https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed
+Apple announces watchOS 27, now with Siri AI - https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026
+Meta quietly removes face-recognition code from its smart glasses app - https://www.engadget.com/2190115/meta-quietly-removes-face-recognition-code-from-its-smart-glasses-app/
+OpenAI files SEC paperwork to go public - https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/
+Google cuts the price of its AI Plus plan and doubles the storage - https://www.engadget.com/2190039/google-cuts-the-price-of-its-ai-plus-plan-and-doubles-the-storage/
+Apple is dropping support for some pretty modern Watch models - https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/
+Reminder: macOS 27 won't work on Intel Macs - https://www.engadget.com/2189939/reminder-macos-27-won-t-work-on-intel-macs/
+The first iOS, iPadOS and macOS 27 developer betas are available now - https://www.engadget.com/2189933/the-first-ios-ipados-and-macos-27-developer-betas-are-available-now/
+Siri AI for iPhones and iPads will be delayed indefinitely in the EU - https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/
+watchOS 27 gets a Siri upgrade and perimenopause features - https://www.engadget.com/2189896/watchos-27-gets-a-siri-upgrade-and-perimenopause-features/
+visionOS 27 brings the new Siri to Apple's headset - https://www.engadget.com/2189857/visionos-27-brings-the-new-siri-to-apples-headset/
+AirPods are getting a customizable EQ in iOS 27 - https://www.engadget.com/2189850/airpods-are-getting-a-customizable-eq-in-ios-27/
+iOS 27 gets new AI photo editing tools - https://www.engadget.com/2189828/ios-27-gets-new-ai-photo-editing-tools/
+Apple Intelligence is coming to the Shortcuts app - https://www.engadget.com/2189795/apple-intelligence-is-coming-to-the-shortcuts-app/
+macOS Golden Gate puts Siri AI into Spotlight - https://www.engadget.com/2189760/macos-golden-gate-puts-siri-ai-into-spotlight/
+Apple reintroduces the AI-powered Siri it announced at WWDC 2024 - https://www.engadget.com/2189744/apple-reintroduces-the-ai-powered-siri-it-announced-at-wwdc-2024/
+OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic - https://www.wired.com/story/openai-confidentially-files-for-ipo/
+Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually - https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/
+Everything Apple Announced at WWDC 2026 - https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/
+Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27 - https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/
+Apple’s New Siri AI Is Ready to Get Personal - https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/
+The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech - https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/
+Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/
+OpenAI plans to go public, intensifying investment race with Anthropic - https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss
+Could humanoid robots be heading for the battlefield? - https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss
+Apple unveils Siri AI makeover as Tim Cook bids farewell - https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss
+Jailed crypto founder Sam Bankman-Fried seeks Trump pardon - https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss
+OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St. - https://www.nytimes.com/2026/06/08/technology/openai-ipo.html
+How Elon Musk’s Friendship With the F.C.C. Smooths the Way for SpaceX’s I.P.O. - https://www.nytimes.com/2026/06/08/technology/elon-musk-brendan-carr-fcc-spacex.html
+Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant - https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html
+Two New Studies Ask: Did the iPhone Cause Birthrates to Decline? - https://www.nytimes.com/2026/06/08/us/iphone-birthrate-decline-studies.html
+Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist - https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17
+Has India lost the AI race? Not entirely - https://www.ft.com/content/1f456605-4d56-40d3-a3f7-16ad75045f27
+Apple unveils ‘Siri AI’ in challenge to rival chatbots - https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff
+Apollo and Blackstone raise $35bn in chip financing deal for Anthropic - https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f
+OpenAI files to go public in blockbuster Wall Street listing - https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6
+Wall Street rebounds as traders race back into chip stocks - https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c
+Increase Recommendation Systems’ Precision with LLMs, Using Python - https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/
