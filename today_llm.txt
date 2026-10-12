@@ -1,38 +1,74 @@
-NVIDIA DLSS 5 could see up to a 60% performance boost when natively integrated into ... - https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/news/igry/nvidia-dlss-5-mozhet-poluchit-prirost-do-60-pri-nativnoj-integratsii-v-igrovye-dvizhki&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1D-6cB0Co-gtkhdjnExTu-
-Anthropic Co-founder Jack Clark Had Left Journalism To Focus on AI In 2016 - OfficeChai - https://www.google.com/url?rct=j&sa=t&url=https://officechai.com/ai/anthropic-co-founder-jack-clark-had-left-journalism-to-focus-on-ai-in-2016-he-is-now-worth-more-than-8-billion/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3T0eDYv4EeH4l-yeKrPCrB
-Steam Deck can now run Nvidia DLSS 3.7 upscaling, thanks to this mod - Club386 - https://www.google.com/url?rct=j&sa=t&url=https://www.club386.com/steam-deck-gains-nvidia-dlss-3-upscaling-mod/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2dKwsGYg3uGVT3INFCUdfW
-Browser-based inpainting and upscaling with WebGPU and WASM - https://www.opensourceprojects.dev/post/aa293a33-e6c2-42d3-98c7-aa8b9acc4bb2
-Connect Telegram, Discord, Slack and more to an LLM in one minute - https://www.opensourceprojects.dev/post/e10020dc-b10e-480d-ae5f-1cc382ac644f
-Open source LLM engineering platform for developing, monitoring, evaluating, and debugging AI apps - https://www.opensourceprojects.dev/post/6d3047c4-717a-46f6-bc95-1606fa2e8628
-Mayhem firmware for HackRF and PortaPack: a fork with extra features and fixes - https://www.opensourceprojects.dev/post/01e436e3-9a4e-4fc2-9a18-7fe9e1ab03a9
-Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom - https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed
-Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ - https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
-Apple discloses deal to hire team and license tech from personalized podcast startup Huxe - https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
-Petra Power looks to modernize energy for data centers and defense vehicles - https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/
-Anyone I've told about this irl wasn't as excited as me, so I figured I'd share it here :) - https://www.reddit.com/r/selfhosted/comments/1x2vrs5/anyone_ive_told_about_this_irl_wasnt_as_excited/
-My homepage dashboard - https://www.reddit.com/r/selfhosted/comments/1x2mhe5/my_homepage_dashboard/
-HortusFox v6.2: Cozytober Patch was recently published - https://www.reddit.com/r/selfhosted/comments/1x2mjsw/hortusfox_v62_cozytober_patch_was_recently/
-Self-hosting options for renters in Netherlands? - https://www.reddit.com/r/selfhosted/comments/1x2uphy/selfhosting_options_for_renters_in_netherlands/
-Help me fully migrate from Plex, Is there a Jellyfin music client that has this? - https://www.reddit.com/r/selfhosted/comments/1x2rhea/help_me_fully_migrate_from_plex_is_there_a/
-Apple iCloud Content Caching on Linux - Is it possible? - https://www.reddit.com/r/selfhosted/comments/1x2krsm/apple_icloud_content_caching_on_linux_is_it/
-Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list - https://github.com/vscarpenter/gsd-task-manager
-Satya Nadella says we should assume all AI models are 'compromised' - https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
-CIA World Facebook Is Dead – Here Is an Attempt at Recreation - https://worldfacts.app
-Terrence Tao does not understand cancer medicine - https://www.drvinayprasad.com/p/terrence-tao-does-not-understand
-500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter - https://momo5502.com/posts/2026-10-09-game-decompilation/
-A plastic once thought harmless may be fueling fatty liver disease - https://www.sciencedaily.com/releases/2026/10/261008102718.htm
-WallHop – 12ft.io is gone, so I built a replacement - https://wallhop.io/
-PSPi 6 – Raspberry Pi in a PSP - https://github.com/othermod/PSPi-Version-6
-Veda: The First Agentic Hobby Operating System - https://github.com/vahmoh25/Veda
-Build your own decision model - https://nishtahir.com/build-your-own-decision-model/
-A city-building game in which the city would prefer you didn't - https://housing.over.pizza/
-Why DuckDB 2.0 is faster - https://motherduck.com/blog/why-duckdb-20-is-faster/
-Steinar H. Gunderson: Decompilation patterns, part 7: if to condition - http://blog.sesse.net/blog/tech/2026-10-10-20-32_decompilation_patterns_part_7_if_to_condition.html
-DistroKid has been quietly taking down songs in response to UMG lawsuit - https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
-How does using your MacBook while charging affect its battery life? - https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/
-Anthropic says its AI agents tried to break into government websites - https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/
-Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage - https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html
-Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html
-Nvidia in talks to acquire US ‘open’ model start-up Reflection AI - https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1
-Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors - https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/
-When the Safety Test Became the Threat: The Machine That Found Its Own Way Out - https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/
+Ukraine Drone Strikes Knock Out Yandex Data Centers, Crippling Russia's AI and Cloud Services - https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/71ea0b19-52da-45c6-8290-f4422c77a01b&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0dSuUuvAxnficUhqDDwMMO
+How AI Models Are Pinpointing the End of Earth's Habitability - Hounslow Herald - https://www.google.com/url?rct=j&sa=t&url=https://hounslowherald.com/how-ai-models-are-pinpointing-the-end-of-earths-habitability-p34407-396.htm&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw21kuQJcbFGmWjUM6jJkDHu
+OpenAI Tried About 4000 Math Problems. How Many Did It Solve? - Medium - https://www.google.com/url?rct=j&sa=t&url=https://medium.com/%40mehmet.ozel2701/openai-tried-about-4-000-math-problems-how-many-did-it-solve-41263095e384&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3stsAiMCJcOLSQkh3vVScU
+Hong Kong workers fear AI-driven disruption to retirement but only 20% feel prepared: survey - https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed
+China’s factories leaping straight into agentic AI and taking it global: Black Lake CEO - https://www.scmp.com/tech/big-tech/article/3370490/chinas-factories-leaping-straight-agentic-ai-and-taking-it-global-black-lake-ceo?utm_source=rss_feed
+China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix - https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed
+The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know - https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/
+Will the HomeView be Apple’s first smart home success? - https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/
+Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start - https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/
+48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next - https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/
+Amazon may acquire Israeli <b>AI</b> startup Descartes for about $7 billion - Ynet <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/business/article/hkiluhfszg&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0-H3Wc2fDRz5stjlFNCvSI
+Amazon in talks to acquire <b>AI</b> startup Decart for $7B: WSJ (AMZN:NASDAQ) | Seeking Alpha - https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2TDj9NBVV8QPqRvBDKGwMK
+Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/china/moonshot-execs-talks-settle-dispute-with-shareholder-ahead-planned-ipo-people-2026-10-11/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2TzTPlqlCFexkcSOxNXGtf
+Anthropic's Claude model made bogus murder tip-off to US police - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0N2_1B908YuGx7t9EEoAt9
+'We don't work for <b>AI</b>': Greens vow to regulate <b>artificial intelligence</b> | RNZ - https://www.google.com/url?rct=j&sa=t&url=https://www.rnz.co.nz/news/politics_election-2026/1858931/we-don-t-work-for-ai-greens-vow-to-regulate-artificial-intelligence&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1riFppGS18xa570E89OGOW
+Bill Gates Responds To Sam Altman's Concerns About <b>AI</b> 'Doomerism' And Overblown ... - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D4xLscI8STcU&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3OG1Fz4zCqPMsZkcA6BP0W
+Academic publishing is a study in fighting <b>AI</b> slop - Financial Times - https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw01HkfqyjWLODJ72I4QVuhG
+UK to strengthen cyber defences as minister calls for <b>AI</b> firms to increase safety efforts - https://www.google.com/url?rct=j&sa=t&url=https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1DsvMAyAXgRf70uUpQG0Pk
+South Korean stocks' struggling <b>AI</b> trade | The Star - https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/business-news/2026/10/12/south-korean-stocks-struggling-ai-trade&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2u5hktIbs_PXSqPxhvjeqK
+US reverses course on Britain's testing of <b>AI</b> models, Telegraph says - CNA - https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw18yY99TYrJydJvcLJYM9RM
+'We don't work for <b>AI</b>': Greens vow to regulate <b>artificial intelligence</b> | RNZ - https://www.google.com/url?rct=j&sa=t&url=https://www.rnz.co.nz/news/politics/1858931/we-don-t-work-for-ai-greens-vow-to-regulate-artificial-intelligence&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2Q-wIWK1MEG1Gw_sWAmwOt
+Japan institute's system assesses generative <b>AI</b> safety | NHK WORLD-JAPAN <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www3.nhk.or.jp/nhkworld/news/20261012de58055/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0Y6nDOPimc3CbHyxe7NYjA
+When Black Writers Are Guilty Until Proved Human - The New York Times - https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2026/10/11/opinion/ai-books-fiction-black-writers-racism.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1qm-slB4CtDkB1-sU5eerx
+<b>AI</b> is less regulated than milk, says Microsoft president - BBC - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/articles/c6rmy7zmvx3lo&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1Gm2LmtybJBdhfpuk6tBum
+Trending stocks this week as investors weigh Fed outlook, <b>AI</b> concerns | Seeking Alpha - https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4651926-trending-stocks-this-week-as-investors-weigh-fed-outlook-ai-concerns&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1lJ7-Bi0wjERmdsIBTeNDR
+Can the <b>AI</b> industry persuade data center opponents by getting rid of NDAs? - TechCrunch - https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0iODmjUeM23oQlxQNUTwPJ
+Amazon Is in Talks to Buy <b>AI</b> Startup Decart, WSJ Reports - Bloomberg.com - https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw35clc9nlFoRVxuogAvK9YD
+A new twist has emerged in the <b>AI</b> hack saga. Read more via the link in our bio ✍️ - Instagram - https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DeXoggjl-_S/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0WuQR1Fnkm_NdWMezbhly7
+Leading Chinese mathematicians unite behind use of <b>AI</b> in research - https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1wxNVjY8F4ZBoh2UPaNng7
+Amazon in talks to buy <b>AI</b> startup Decart for around $7 billion, WSJ reports | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1uYtI9tYMVBoASEO316mwC
+AMD EPYC 8005 SKU List and Value Analysis: Mainstream Sorano’s Big Stride - https://www.servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride/
+Big G is still hosting my email (for now), but I've been on a slow mission to replace the rest of their services with self-hosted ones. Been running Immich instead of G Photos for over a year now, Jellyfin for a few years, and most of the rest the better part of the year, at least. Here's my stack. - https://www.reddit.com/r/selfhosted/comments/1x3nqfz/big_g_is_still_hosting_my_email_for_now_but_ive/
+thoughts on cloud photo storage - https://www.reddit.com/r/selfhosted/comments/1x3psux/thoughts_on_cloud_photo_storage/
+NSFW Sherlock: local image moderation over HTTP/gRPC, with a CPU Docker image - https://www.reddit.com/r/selfhosted/comments/1x3ixl7/nsfw_sherlock_local_image_moderation_over/
+Building an offline-first stack: Replacing Google Photos/Drive for local network continuity? - https://www.reddit.com/r/selfhosted/comments/1x3eq85/building_an_offlinefirst_stack_replacing_google/
+Selfhosted service for saving recipes from social media (w/ local AI) - https://www.reddit.com/r/selfhosted/comments/1x3phxr/selfhosted_service_for_saving_recipes_from_social/
+It's time for me to upgrade from basic_auth, what now? - https://www.reddit.com/r/selfhosted/comments/1x3p9mk/its_time_for_me_to_upgrade_from_basic_auth_what/
+"Natural deploy" A p2p library built to help you build your own self hosted orchestration framework. - https://www.reddit.com/r/selfhosted/comments/1x3e4i8/natural_deploy_a_p2p_library_built_to_help_you/
+Doory – Open-Source Canva - https://github.com/shaongitbd/doory
+Local Indexing to reduce tool calling and token usage - https://tedhaley.ca/pensieve/
+HashiCorp archives the Boundary open source repo - https://github.com/hashicorp/boundary
+Whatever became of holography? (2011) - https://www.americanscientist.org/article/whatever-became-of-holography
+Illustration Beyond Proof - https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/
+ClickHouse C – Talk to ClickHouse using its native binary protocol - https://github.com/ClickHouse/clickhouse-c
+Fingerprints are the new cookies - https://royfish.dev/fingerprints-are-the-new-cookies
+Google is illegaly cutting forest to build data centers - https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+Recursive self-improvement through collective intelligence - https://pub.sakana.ai/mass/
+Shredding JSON columns gave Logfire up to 1000x faster queries - https://pydantic.dev/articles/dynamic-shredding-2026-01-26
+Passkeys are a trap - https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+Tattoos you can turn on and off - https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off
+The gap in shared understanding of LLM capability is widening - https://twitter.com/karpathy/status/2109361546505966046
+Cartographers of North Korea (2019) - https://cartographers-nk.wonyoung.so/
+So, You’d Like To Sell Your Print Issues Of The Onion? - https://theonion.com/archivehunt/
+Chapter 1 of "Ways of Seeing" by John Berger (1972) - https://www.ways-of-seeing.com/ch1
+Total Annihilation, rebuilt for modern computers - https://nanolathe.gg
+NYC's "Click to Cancel" rule is now in effect - https://www.nyc.gov/main/click-to-cancel
+Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - https://www.phoronix.com/news/Linus-Torvalds-Claude-Code
+A college in Illinois tried to cancel its Flock contact and it refused - https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras
+Silicon Valley is falling in line with Trump’s attempt to rename AI - https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai
+OpenAI Dot vs. Meta Muse: How do these AI agents compare? - https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/
+Why Japan said goodbye to traditional flip phones - https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/
+Study finds many new cars share your data with third-party companies - https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/
+SpaceXAI's Grok: What's free in 2026 and what isn't? - https://www.engadget.com/2281213/spacexai-grok-free-features-2026/
+Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games - https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/
+Steam Frame teardown reveals one problem with its future repairs - https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/
+AI is less regulated than milk, says Microsoft president - https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss
+Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried - https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html
+UK ministers explore compulsory AI safety reporting - https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1
+‘Worrying omens’ lurk over global economy despite resilient growth - https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1
+The huge lurking leverage of AI hyperscalers - https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1
+Houthis attack Riyadh airport - https://www.ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1
+TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER - https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/
+What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models - https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/
+SWI Group Secures €800M From Institutions at €6.1B Valuation for Transatlantic AI Buildout - https://www.unite.ai/swi-group-secures-800m-from-institutions-at-6-1b-valuation-for-transatlantic-ai-buildout/
