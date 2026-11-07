@@ -1,0 +1,9 @@
+---
+title: "Bomb threats target media and flights as email warns ‘this is only the beginning’"
+date: "2026-11-07T01:56:20+07:00"
+source: "Technology"
+link: "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1"
+topics: ['AI']
+---
+
+Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin
