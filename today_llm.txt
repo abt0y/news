@@ -1,68 +1,74 @@
-AI Week in Review 26.11.07 - by Patrick McGuinness - AI Changes Everything - https://www.google.com/url?rct=j&sa=t&url=https://patmcguinness.substack.com/p/ai-week-in-review-261107&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw1IZcP9LUkAPRvif_fHuoyk
-Alpha Arena S1.5: Gemini-3-Pro Leads Day One - Briefs Finance - https://www.google.com/url?rct=j&sa=t&url=https://www.briefs.co/news/alpha-arena-season-1-5-kicks-off-with-gemini-3-pro-out-front/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0HDNAXrqAPKCvLai67nhJJ
-Toyota built a chair that walks up stairs. Here's how it works - Interesting Engineering - https://www.google.com/url?rct=j&sa=t&url=https://interestingengineering.com/videos/toyota-built-a-chair-that-walks-up-stairs-heres-how-it-works&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3uLAbNzTS05MnPfxD_oYdX
-New video memory monitoring is available for NVIDIA and AMD video cards and GPU AI-enabled - https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/news/zhelezo/dlya-videokart-nvidia-i-amd-dostupen-novyj-monitoring-videopamyati-i-gpu-s-podderzhkoj-ii&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw0k3rxFFrMtFrTaGOgAD13k
-Machine Learning Model Predicts Secondary Testosterone Deficiency Using - https://www.google.com/url?rct=j&sa=t&url=https://bioengineer.org/machine-learning-model-predicts-secondary-testosterone-deficiency-using-routine-clinical-data/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2S5tnP2iISfw7nrztenUYT
-Open-source SASE built on WireGuard, self-hostable and lightweight - https://www.opensourceprojects.dev/post/pangolin
-Haier appliances in HomeAssistant, plus raw command passthrough - https://www.opensourceprojects.dev/post/haier
-Turn a group of websites into a lightweight macOS app - https://www.opensourceprojects.dev/post/multi
-A Python library for translating scientific PDFs into bilingual comparisons - https://www.opensourceprojects.dev/post/babeldoc
-Discord alternative you host yourself, with no paid tier or telemetry - https://www.opensourceprojects.dev/post/haven
-Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo - https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
-Parents want safer phones for kids. These companies are answering the call. - https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/
-Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack - https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/
-Guest opinion: <b>AI</b> and the economy | <b>News</b>, Sports, Jobs - Standard-Examiner - https://www.google.com/url?rct=j&sa=t&url=https://www.standard.net/opinion/guest-commentary/2026/nov/07/guest-opinion-ai-and-the-economy/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2LDUlNgoA9b3K-jOPH4yuT
-GCC investors favour <b>AI</b>-assisted wealth advice over full automation, Avloq report finds - https://www.google.com/url?rct=j&sa=t&url=https://www.arabnews.com/finance/gcc-investors-favour-ai-assisted-wealth-advice-over-full-automation-avloq-report-finds-3009784&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0tHOJRQ7tGzidJAl68GLgb
-Railways ramps up festive arrangements; 18,000 special trains, 700 <b>AI</b> cameras deployed - https://www.google.com/url?rct=j&sa=t&url=https://newsonair.gov.in/railways-ramps-up-festive-arrangements-18000-special-trains-700-ai-cameras-deployed/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2DMC-kYTl2PJ2jnE_SWVNH
-China's 'potato capital' cultivates new crop of data centres as <b>AI</b> boom takes root - CNA - https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3cJgwi3bvqIL4L5EKfK9Eu
-<b>AI</b> Trade Faces a Post-Election Reality Check - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DtEvbDkihDe4&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2_zi8ofieosY5jNx3BuURa
-Austin man facing 9 felony counts in <b>AI</b> CSAM case - ABC 6 <b>News</b> - kaaltv.com - https://www.google.com/url?rct=j&sa=t&url=https://www.kaaltv.com/news/top-news/austin-man-facing-9-felony-counts-in-ai-csam-case/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3y6Az0zgSUxrYdMrpNAGRy
-Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies ... - https://www.google.com/url?rct=j&sa=t&url=https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3ygRCfaHRANQtKzkiienwO
-LA Council seeks citywide data privacy policy amid <b>AI</b>, ALRP tech - Daily News - https://www.google.com/url?rct=j&sa=t&url=https://www.dailynews.com/2026/11/06/la-council-seeks-citywide-data-privacy-policy-amid-ai-alrp-tech/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3KTcUZ7jcxEbRQQpOcWo7S
-<b>AI</b> is making online scams more convincing. Here's how to protect yourself - CTV News - https://www.google.com/url?rct=j&sa=t&url=https://www.ctvnews.ca/ottawa/article/ai-is-making-online-scams-more-convincing-heres-how-to-protect-yourself/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3VrmM8h4b1so8J2kwpiYQd
-Elvis Estate, Eminem Publisher File Lawsuits Against <b>AI</b> Startup Suno - Variety - https://www.google.com/url?rct=j&sa=t&url=https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw115DWtGtzIF-9WiKkzqM0n
-<b>AI</b> death lawsuit sparks alarming warning from 'Doctor GPT' - NewsNation - https://www.google.com/url?rct=j&sa=t&url=https://www.newsnationnow.com/crime/ai-death-lawsuit-warning-doctor/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0JoK4fO0FRAypQIopVC4Vh
-Should investors shun SpaceX stock and the Anthropic IPO as <b>AI</b> panic strikes? - https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/investors-shun-spacex-stock-anthropic-075000237.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw30HJe4vjTbVgUCmoBHFK5p
-Europeans protest construction of large <b>AI</b> data centres across continent - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1QCXvQ5BFo0&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3RNPDewlb37SJRxvtm1o8i
-<b>AI</b> drone warfare is here. Should Canada buy in? - YouTube - https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dw1bqrnPtYNE&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw38EL0D-BqDb_WziTLduDyB
-Real or <b>AI</b>? Viral Kauai monk seal photos spark backlash, investigations | Hawaii <b>News</b> Now - https://www.google.com/url?rct=j&sa=t&url=https://www.hawaiinewsnow.com/2026/11/07/real-or-ai-viral-kauai-monk-seal-photos-spark-backlash-investigations/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw24Yy0UPRKsktM42d_QdE7B
-Protests across Nova Scotia oppose <b>AI</b> data centres | CBC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw38sYf_tpgTPLgPRlF6QaiG
-Can Labor cash in on <b>AI</b> and data centres without paying the US political price? - ABC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-11-08/data-centres-australia-community-objection/107356606&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0BSJKlBNUddG8fu56qJ9tB
-US: Wall Street stocks rally after heavy <b>AI</b>-related sell-off - The Business Times - https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-wall-street-stocks-rally-after-heavy-ai-related-sell&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw36aQGnCjsDt60p8i_LuH3p
-DOGE leader outlines <b>AI</b>-driven future for federal service delivery - https://www.google.com/url?rct=j&sa=t&url=https://federalnewsnetwork.com/technology-main/2026/11/doge-leader-outlines-ai-driven-future-for-federal-service-delivery/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0rYvEVmBh28WTTt8cc1VCi
-Bipartisan US Senate bill could speed up <b>AI</b> data center buildout: report | Seeking Alpha - https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4668530-bipartisan-us-senate-bill-could-speed-up-ai-data-center-buildout-report&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0MgIHDp0RWGXpFwIEfMTDM
-PSA - Immich defaults to a full file checksum integrity check of all images every night - https://www.reddit.com/r/selfhosted/comments/1xqdi7y/psa_immich_defaults_to_a_full_file_checksum/
-homelab improvements/optimizations/replacements? - https://www.reddit.com/r/selfhosted/comments/1xqex1l/homelab_improvementsoptimizationsreplacements/
-BookOrbit: Removed books and statistics - https://www.reddit.com/r/selfhosted/comments/1xqdgi7/bookorbit_removed_books_and_statistics/
-I built a small self-hosted deploy tool for one machine (Cloudflare Tunnel + systemd, no dependencies) and measured it against Dokploy - https://www.reddit.com/r/selfhosted/comments/1xqod4i/i_built_a_small_selfhosted_deploy_tool_for_one/
-What AI model works the best with no GPU? - https://www.reddit.com/r/selfhosted/comments/1xqe5tv/what_ai_model_works_the_best_with_no_gpu/
-I Use Development-Driven Specs, Not Spec-Driven Development - https://github.com/waywardgeek/ensemble
-Goodbye Claude, Hello Pi - https://caleb.software/posts/claude-to-pi.html
-Consumer brain wave headsets threaten privacy - https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F
-ZapFast: A fast, native WhatsApp client in Rust and egui - https://github.com/crmne/zapfast
-Commodore PET – The Worlds First Personal Computer - https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/
-GitHub New pull request overview page in public preview - https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
-IRA Velinsky – Commodore's Industrial Designer - https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/
-Making any integer with four 2s (2025) - https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
-Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files - https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
-What I run on my $10 USD OpenStick homelab - https://blog.bosscher.ch/posts/openstick/
-The end of Microsoft Research's AI Frontiers group - https://hunch.net/?p=13764006
-GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016) - https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor
-Five memorable books about programming (2008) - https://prog21.dadgum.com/19.html
-MaxxBench – "Nice DeepSWE score. But is it true?" - https://maxxbench.unlap.ai/research/why-maxxbench/
-Apple’s grey list: Words and phrases your iPhone won’t help you spell - https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
-The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance - https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions
-Syncing Apple Music across your devices is easier than you think - https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/
-How do spam callers get your number in the first place? - https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/
-10 useful iPad apps that could make your daily life easier - https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/
-The pros and cons of using an Amazfit smartwatch - https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/
-Claude Personal Finance vs. ChatGPT Finances: What sets them apart? - https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/
-The disadvantages of owning smart refrigerators - https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/
-How often should you restart your Fitbit watch? - https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/
-The built-in iPhone app for creativity you may be ignoring (but shouldn't) - https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/
-Your EV's battery is big enough to run your house — here's what stops most people - https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people/
-Your old iPod could be a sleeper flash drive - https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/
-There is no end in sight for the GPU supply problem - https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/
-How long should a PC processor actually last? - https://www.engadget.com/2309550/how-long-pc-processor-should-last/
-US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy - https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1
-How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide - https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/
+Half-Life 2's opening scene in City 17 was shown with NVIDIA DLSS 5 technology in 4K resolution. - https://www.google.com/url?rct=j&sa=t&url=https://en.gamegpu.com/news/igry/vstupitelnuyu-stsenu-half-life-2-v-siti-17-pokazali-s-tekhnologiej-nvidia-dlss-5-v-razreshenii-4k&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3_Vija_wUhxQnqYROPLn-b
+Self-Supervised Deep Learning Classifies Skeletal Muscle Pathology Without - https://www.google.com/url?rct=j&sa=t&url=https://bioengineer.org/self-supervised-deep-learning-classifies-skeletal-muscle-pathology-without-manual-labels/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw16DXzzQ3eirB7nkcL1Ukuf
+Dual-Domain Deep Learning <b>Network</b> Accurately Detects Diagnostic Epilepsy Artifacts in Brainwaves - https://www.google.com/url?rct=j&sa=t&url=https://bioengineer.org/dual-domain-deep-learning-network-accurately-detects-diagnostic-epilepsy-artifacts-in-brainwaves/&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw397jIwyu-La_-Fskkj2mvY
+What your sleep may reveal about Alzheimer's years before memory problems - Ynet News - https://www.google.com/url?rct=j&sa=t&url=https://www.ynetnews.com/health_science/article/rkpphs6pzg&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw3UFE4k70zwzUvHp1kz9aDz
+Machine Learning-Based Prediction of Hypocalcaemia Following Total Thyroidectomy - https://www.google.com/url?rct=j&sa=t&url=https://www.cureus.com/articles/550980-machine-learning-based-prediction-of-hypocalcaemia-following-total-thyroidectomy-a-systematic-review&ct=ga&cd=CAIyGmQ2MDlhY2E2ZmU0NGVmNzU6Y29tOmVuOlVT&usg=AOvVaw2JxIDI5D9mY7gi6VgcZW3_
+Nvidia CEO Jensen Huang admits to affair; board orders investigation - https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation
+How Dong Mingzhu, China’s manufacturing ‘iron lady’, is maintaining her cool in the AI era - https://www.scmp.com/tech/article/3373325/how-dong-mingzhu-chinas-manufacturing-iron-lady-maintaining-her-cool-ai-era
+Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy - https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery. - https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/
+Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board - https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
+He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. - https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/
+TechCrunch Mobility: The Cybertruck experiment is over - https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/
+Statement from NVIDIA Board of Directors - https://www.google.com/url?rct=j&sa=t&url=https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw26vxYnNxAVtJnyhozpO6K_
+Nvidia launches investigation into Jensen ⁠Huang's affair with 'Chinese spy' | World <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1rzd-UnSXnU2UiZP7Nhyvy
+How sustainable is the <b>AI</b> investment boom after Thursday's selloff? - Investing.com - https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/news/stock-market-news/how-sustainable-is-the-ai-investment-boom-after-thursdays-selloff-5010263&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1XoeQAQApWJhjMR96l6T_-
+RBA's Hunter says <b>AI</b> has yet to deliver productivity boost, trigger job losses - CNA - https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/business/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-6534796&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3KLbbvGV0Y8CPrmGt-9drK
+Nvidia launches investigation into CEO's affair with suspected Chinese spy - BBC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/news/live/cm78p221e313t&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Ke_J7roRtjBP5sCYcKBW7
+US chipmaker Nvidia investigates CEO Jensen Huang over affair | Crime <b>News</b> | Al Jazeera - https://www.google.com/url?rct=j&sa=t&url=https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1RmA5joH_asWWxhFLUrggW
+As <b>AI</b> reshapes how <b>news</b> is gathered, produced and distributed, how should the media ... - Facebook - https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/XinhuaNewsAgency/posts/as-ai-reshapes-how-news-is-gathered-produced-and-distributed-how-should-the-medi/1581047167391145/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2w4g1YJriUnJJ7LFVrwd8r
+Google <b>AI</b> Releases Elephant-Goldfish Model Plugin for Spec-First Coding - MarkTechPost - https://www.google.com/url?rct=j&sa=t&url=https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw01RhydMn8QtWGYpoDOl0DM
+Israel government talks, Poland shooting and <b>AI</b> shopping | Reuters - https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/podcasts/israel-government-talks-poland-shooting-ai-shopping-2026-11-08/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0iGxd6S0sEk6TqY8Ox1Z5S
+Spy probe highlights Nvidia's role to U.S. national security, <b>AI</b> trade - CNBC - https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/video/2026/11/09/spy-probe-nvidias-us-national-security-ai-trade.html&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1BeK_r8eGPc9HZSHAJ8BuL
+<b>AI</b> nearly had US troops attack a Chinese ship. Nobody could check its work. - The Hill - https://www.google.com/url?rct=j&sa=t&url=https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3qnTgV2eBOqHfYaN3Qipvj
+Nvidia launches investigation into CEO's affair with suspected Chinese spy - BBC <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.co.uk/news/articles/c3dxw10rjn9no&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0PTxQQyM7RsezH1Hz18_xO
+Staff at the US center for <b>AI</b> safety are reporting to the White House, raising independence concerns - https://www.google.com/url?rct=j&sa=t&url=https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw1wgDOl2hWnWTcywD-rSjdd
+<b>AI</b> Slump Revives Asia's Forgotten Trades From China to India - Bloomberg - https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw0-7iwGSePoksVLRzRNKKDX
+<b>AI</b> drone warfare is here. Should Canada buy in? | CBC.ca - https://www.google.com/url?rct=j&sa=t&url=https://www.cbc.ca/player/play/video/9.7411231&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw203bJy-QpMtAPC1dJPtV4a
+Classrooms are getting a 'digital detox'. What does this mean for schools and students? - https://www.google.com/url?rct=j&sa=t&url=https://www.abc.net.au/news/2026-11-09/classrooms-are-getting-a-digital-detox/107359784&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3Us3mwOy2ohq10OjUgTFgU
+Can't cook or shower: Indonesians take aim at data centers - The Japan Times - https://www.google.com/url?rct=j&sa=t&url=https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/indonesia-data-centers/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw3ZTD7SVxUAFY6aH_51cgYg
+Dutch parliament calls for national <b>AI</b> strategy for HE - University World <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.universityworldnews.com/post.php%3Fstory%3D20261107121933188&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw10UHyfxDodGjYajkV-t12X
+South Africa emerges as African <b>AI</b> leader after Mauritius - University World <b>News</b> - https://www.google.com/url?rct=j&sa=t&url=https://www.universityworldnews.com/post.php%3Fstory%3D20261107125552976&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw14T4OMvvIaWxYHaPR-8PqC
+16% drop in entry-level hiring for <b>AI</b>-augmented sectors - Trinity News - https://www.google.com/url?rct=j&sa=t&url=https://www.trinitynews.ie/2026/11/16-drop-in-entry-level-hiring-for-ai-augmented-sectors/&ct=ga&cd=CAIyGTVmYWY4ZDE0OTVhZGExNDQ6cnU6ZW46UlU&usg=AOvVaw2qvaOnjJRH1Qftt9tmEhXm
+AIO server NAS OS help - https://www.reddit.com/r/selfhosted/comments/1xrip5h/aio_server_nas_os_help/
+Is there a self-hostable cert install guide? - https://www.reddit.com/r/selfhosted/comments/1xrif5u/is_there_a_selfhostable_cert_install_guide/
+Looking for TestFlight testers who use Jellyfin, sear, Audiobookshelf, and Navidrome - https://www.reddit.com/r/selfhosted/comments/1xrffw0/looking_for_testflight_testers_who_use_jellyfin/
+Tailscale ACLs as code - https://www.reddit.com/r/selfhosted/comments/1xr9jh0/tailscale_acls_as_code/
+A Critique of GPUI - https://blog.zortax.de/posts/a-critique-of-gpui
+The Qlobe: Rotating Quine (2010) - http://mamememo.blogspot.com/2010/09/qlobe.html
+A Bit about Email - https://maurycyz.com/misc/email/
+RIP, Harvest - https://aphyr.com/posts/427-rip-harvest
+Unlocking any car from X brand in most of the world - https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+I'm not convinced the AI bubble exists - https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+When a language's creator and its owners strongly disagree [pdf] - https://isocpp.org/files/papers/P4454R0.pdf
+Chimera Vocal Synth - https://chimera-vocal-synth.vercel.app/
+KetchUp – Open-source SketchUp alternative built with Rust and WebGPU - https://ketchup3d.github.io/app/
+Nvidia CEO Jensen Huang's letter to staff about affair - https://nvidianews.nvidia.com/news/a-message-to-our-company
+The Web Is More Than Enough, by Paul Ford - https://ftrain.com/aboard-the-web-is-more-than-enough
+How I Fight AI Brain Fry - https://sergeykuhne.com/blog/fighting-ai-brain-fry
+Outlook.com Is Quietly Rejecting Email from Domains Without DMARC - https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+Dux: Free, open-source Wayland desktop shell with file manager and theming - https://duxlabs.dev/
+Playing with the STM32MP2 - https://serd.es/2026/11/08/playing-with-stm32mp2.html
+Goldman Sachs is pulling Claude Code from its bankers and traders - https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement - https://www.phoronix.com/news/Linux-7.4-rc2-Released
+Here’s the full text of Jensen Huang’s memo to Nvidia - https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
+Soul Glo’s Diaspora Problems is a hardcore record like no other - https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review
+Epic Games Launcher is coming to SteamOS - https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos
+Nvidia is investigating Jensen Huang’s relationship with a Chinese spy - https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+Apple is racing to make Siri more agentic - https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+Elvis and Eminem rights holders are suing Suno - https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it - https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/
+NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts - https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/
+Don't like Google Health's AI Coach? Here's how to turn it off - https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/
+At what length do DisplayPort cables start giving you trouble? - https://www.engadget.com/2309296/what-length-displayport-cable-start-giving-trouble/
+Don't throw away your old flip phone – do this instead - https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/
+Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy - https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html
+Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html
+What to Know About Nvidia’s Investigation of Its C.E.O. - https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html
+Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy - https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1
+FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy - https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1
+Book Review: The Psychology of AI Adoption at Work: From Resistance to Results by Gleb Tsipursky - https://www.unite.ai/book-review-the-psychology-of-ai-adoption-at-work-gleb-tsipursky/
+Kakao Mobility Signs NVIDIA MOU for Level 4 Autonomous Driving - https://www.unite.ai/kakao-mobility-signs-nvidia-mou-for-level-4-autonomous-driving/
+LG AI Research Opens Free API Access to Its K-EXAONE 2.5 Model - https://www.unite.ai/lg-ai-research-opens-free-api-access-to-its-k-exaone-2-5-model/
+NVIDIA Board Opens Review After Reported Foreign Intelligence Effort - https://www.unite.ai/nvidia-board-opens-review-after-reported-foreign-intelligence-effort/
+White House Request Raises US AI Safety Center Independence Concerns - https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/
