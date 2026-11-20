@@ -1,0 +1,9 @@
+---
+title: "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says"
+date: "2026-11-20T00:38:40+07:00"
+source: "TechCrunch"
+link: "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+topics: ['AI']
+---
+
+In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan
